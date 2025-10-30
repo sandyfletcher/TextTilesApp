@@ -1,0 +1,529 @@
+{
+  "id": "nyt-1977-04-30",
+  "metadata": {
+    "date": "1977-04-30",
+    "title": "NY TIMES, SAT, APR 30, 1977",
+    "author": "Harvey Berg",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    [null, "H", "O", "P", "I", "N", "G", null, "A", "L", "G", "E", "R", null, null],
+    ["M", "A", "R", "I", "N", "E", "R", null, "C", "O", "L", "L", "E", "G", "E"],
+    ["A", "V", "E", "N", "G", "E", "R", null, "T", "R", "O", "U", "T", "E", "R"],
+    ["R", "A", "G", "G", "E", "D", null, "D", "I", "N", "G", "D", "O", "N", "G"],
+    ["S", "N", "A", "P", null, "E", "P", "I", null, null, "G", "E", "T", "T", "O"],
+    ["H", "A", "N", "O", null, "D", "E", "N", "I", "M", null, "S", "A", "L", "T"],
+    ["A", "S", "O", "N", "E", null, "A", "G", "N", "E", "S", null, "L", "E", "S"],
+    [null, null, null, "G", "N", "O", "L", "A", "G", "N", "I", "S", null, null, null],
+    ["T", "R", "S", null, "S", "T", "E", "L", "E", null, "D", "I", "C", "E", "D"],
+    ["H", "E", "I", "M", null, "O", "D", "I", "S", "T", null, "N", "O", "V", "E"],
+    ["E", "L", "G", "A", "S", null, null, "N", "T", "H", null, "G", "L", "E", "N"],
+    ["K", "I", "N", "G", "K", "O", "N", "G", null, "E", "A", "S", "E", "R", "S"],
+    ["I", "N", "A", "N", "A", "M", "E", null, "G", "A", "V", "O", "T", "T", "E"],
+    ["D", "E", "L", "E", "T", "E", "S", null, "P", "R", "I", "N", "T", "E", "R"],
+    [null, null, "S", "T", "E", "N", "T", null, "S", "T", "A", "G", "E", "D", null]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Having expectancies",
+        "row": 0,
+        "col": 1,
+        "answer": "HOPING"
+      },
+      {
+        "number": 7,
+        "clue": "Horatio, the author",
+        "row": 0,
+        "col": 8,
+        "answer": "ALGER"
+      },
+      {
+        "number": 12,
+        "clue": "Mars spacecraft",
+        "row": 1,
+        "col": 0,
+        "answer": "MARINER"
+      },
+      {
+        "number": 13,
+        "clue": "Part of C.C.N.Y.",
+        "row": 1,
+        "col": 8,
+        "answer": "COLLEGE"
+      },
+      {
+        "number": 16,
+        "clue": "Terrible swift sword",
+        "row": 2,
+        "col": 0,
+        "answer": "AVENGER"
+      },
+      {
+        "number": 17,
+        "clue": "He chases rainbows",
+        "row": 2,
+        "col": 8,
+        "answer": "TROUTER"
+      },
+      {
+        "number": 18,
+        "clue": "\"___ Dick,\" novel by 7 Across",
+        "row": 3,
+        "col": 0,
+        "answer": "RAGGED"
+      },
+      {
+        "number": 19,
+        "clue": "Sound from a tower",
+        "row": 3,
+        "col": 7,
+        "answer": "DINGDONG"
+      },
+      {
+        "number": 20,
+        "clue": "Lead-pipe cinch",
+        "row": 4,
+        "col": 0,
+        "answer": "SNAP"
+      },
+      {
+        "number": 21,
+        "clue": "Spire ornament",
+        "row": 4,
+        "col": 5,
+        "answer": "EPI"
+      },
+      {
+        "number": 23,
+        "clue": "Reach or bribe",
+        "row": 4,
+        "col": 10,
+        "answer": "GETTO"
+      },
+      {
+        "number": 24,
+        "clue": "___ Bay, Baltic Sea inlet",
+        "row": 5,
+        "col": 0,
+        "answer": "HANO"
+      },
+      {
+        "number": 25,
+        "clue": "Cotton fabric",
+        "row": 5,
+        "col": 5,
+        "answer": "DENIM"
+      },
+      {
+        "number": 28,
+        "clue": "Portuguese export",
+        "row": 5,
+        "col": 11,
+        "answer": "SALT"
+      },
+      {
+        "number": 29,
+        "clue": "\"Two hearts that beat ___\"",
+        "row": 6,
+        "col": 0,
+        "answer": "ASONE"
+      },
+      {
+        "number": 31,
+        "clue": "Moorehead",
+        "row": 6,
+        "col": 6,
+        "answer": "AGNES"
+      },
+      {
+        "number": 33,
+        "clue": "Bandleader Brown",
+        "row": 6,
+        "col": 12,
+        "answer": "LES"
+      },
+      {
+        "number": 34,
+        "clue": "Follow the bouncing ball backwards",
+        "row": 7,
+        "col": 3,
+        "answer": "GNOLAGNIS"
+      },
+      {
+        "number": 37,
+        "clue": "Corp. officers",
+        "row": 8,
+        "col": 0,
+        "answer": "TRS"
+      },
+      {
+        "number": 40,
+        "clue": "Commemorative stone",
+        "row": 8,
+        "col": 4,
+        "answer": "STELE"
+      },
+      {
+        "number": 41,
+        "clue": "Like some potatoes",
+        "row": 8,
+        "col": 10,
+        "answer": "DICED"
+      },
+      {
+        "number": 45,
+        "clue": "Home, in Hamburg",
+        "row": 9,
+        "col": 0,
+        "answer": "HEIM"
+      },
+      {
+        "number": 47,
+        "clue": "Horace, e.g.",
+        "row": 9,
+        "col": 5,
+        "answer": "ODIST"
+      },
+      {
+        "number": 49,
+        "clue": "Nine, in Napoli",
+        "row": 9,
+        "col": 11,
+        "answer": "NOVE"
+      },
+      {
+        "number": 50,
+        "clue": "Girls' names (anagram for gales)",
+        "row": 10,
+        "col": 0,
+        "answer": "ELGAS"
+      },
+      {
+        "number": 52,
+        "clue": "High degree",
+        "row": 10,
+        "col": 7,
+        "answer": "NTH"
+      },
+      {
+        "number": 53,
+        "clue": "Singer Campbell",
+        "row": 10,
+        "col": 11,
+        "answer": "GLEN"
+      },
+      {
+        "number": 54,
+        "clue": "Two-time movie",
+        "row": 11,
+        "col": 0,
+        "answer": "KINGKONG"
+      },
+      {
+        "number": 57,
+        "clue": "Mitigators",
+        "row": 11,
+        "col": 9,
+        "answer": "EASERS"
+      },
+      {
+        "number": 59,
+        "clue": "\"What's ___?\"",
+        "row": 12,
+        "col": 0,
+        "answer": "INANAME"
+      },
+      {
+        "number": 60,
+        "clue": "Dance from France",
+        "row": 12,
+        "col": 8,
+        "answer": "GAVOTTE"
+      },
+      {
+        "number": 61,
+        "clue": "Eradicates",
+        "row": 13,
+        "col": 0,
+        "answer": "DELETES"
+      },
+      {
+        "number": 62,
+        "clue": "Pressman",
+        "row": 13,
+        "col": 8,
+        "answer": "PRINTER"
+      },
+      {
+        "number": 63,
+        "clue": "Dental compound",
+        "row": 14,
+        "col": 2,
+        "answer": "STENT"
+      },
+      {
+        "number": 64,
+        "clue": "Emulated Joseph Papp",
+        "row": 14,
+        "col": 8,
+        "answer": "STAGED"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Cigars from Cuba",
+        "row": 0,
+        "col": 1,
+        "answer": "HAVANAS"
+      },
+      {
+        "number": 2,
+        "clue": "Spice for pizza",
+        "row": 0,
+        "col": 2,
+        "answer": "OREGANO"
+      },
+      {
+        "number": 3,
+        "clue": "Game in which Chinese excel",
+        "row": 0,
+        "col": 3,
+        "answer": "PINGPONG"
+      },
+      {
+        "number": 4,
+        "clue": "He told Sheba to come back",
+        "row": 0,
+        "col": 4,
+        "answer": "INGE"
+      },
+      {
+        "number": 5,
+        "clue": "Required",
+        "row": 0,
+        "col": 5,
+        "answer": "NEEDED"
+      },
+      {
+        "number": 6,
+        "clue": "Angry dog sound",
+        "row": 0,
+        "col": 6,
+        "answer": "GRR"
+      },
+      {
+        "number": 7,
+        "clue": "Start of a play",
+        "row": 0,
+        "col": 8,
+        "answer": "ACTI"
+      },
+      {
+        "number": 8,
+        "clue": "Forsaken",
+        "row": 0,
+        "col": 9,
+        "answer": "LORN"
+      },
+      {
+        "number": 9,
+        "clue": "Swedish Christmas punch",
+        "row": 0,
+        "col": 10,
+        "answer": "GLOGG"
+      },
+      {
+        "number": 10,
+        "clue": "Foils the posse",
+        "row": 0,
+        "col": 11,
+        "answer": "ELUDES"
+      },
+      {
+        "number": 11,
+        "clue": "Add up again",
+        "row": 0,
+        "col": 12,
+        "answer": "RETOTAL"
+      },
+      {
+        "number": 12,
+        "clue": "Actress Hunt, from Chicago",
+        "row": 1,
+        "col": 0,
+        "answer": "MARSHA"
+      },
+      {
+        "number": 14,
+        "clue": "Harsh? Hardly!",
+        "row": 1,
+        "col": 13,
+        "answer": "GENTLE"
+      },
+      {
+        "number": 15,
+        "clue": "Banes of grains",
+        "row": 1,
+        "col": 14,
+        "answer": "ERGOTS"
+      },
+      {
+        "number": 19,
+        "clue": "Tinkling sound",
+        "row": 3,
+        "col": 7,
+        "answer": "DINGALING"
+      },
+      {
+        "number": 22,
+        "clue": "Made a Big Ben sound",
+        "row": 4,
+        "col": 6,
+        "answer": "PEALED"
+      },
+      {
+        "number": 26,
+        "clue": "Swallow",
+        "row": 5,
+        "col": 8,
+        "answer": "INGEST"
+      },
+      {
+        "number": 27,
+        "clue": "Stag-party participants",
+        "row": 5,
+        "col": 9,
+        "answer": "MEN"
+      },
+      {
+        "number": 30,
+        "clue": "Two make an em",
+        "row": 6,
+        "col": 4,
+        "answer": "ENS"
+      },
+      {
+        "number": 32,
+        "clue": "A modern Caesar",
+        "row": 6,
+        "col": 10,
+        "answer": "SID"
+      },
+      {
+        "number": 35,
+        "clue": "Western Indian",
+        "row": 7,
+        "col": 5,
+        "answer": "OTO"
+      },
+      {
+        "number": 36,
+        "clue": "Monotonous rhythm",
+        "row": 7,
+        "col": 11,
+        "answer": "SINGSONG"
+      },
+      {
+        "number": 37,
+        "clue": "Billy or Coogan",
+        "row": 8,
+        "col": 0,
+        "answer": "THEKID"
+      },
+      {
+        "number": 38,
+        "clue": "Do a brake job",
+        "row": 8,
+        "col": 1,
+        "answer": "RELINE"
+      },
+      {
+        "number": 39,
+        "clue": "High-low plays at bridge",
+        "row": 8,
+        "col": 2,
+        "answer": "SIGNALS"
+      },
+      {
+        "number": 42,
+        "clue": "Gigi's creator",
+        "row": 8,
+        "col": 12,
+        "answer": "COLETTE"
+      },
+      {
+        "number": 43,
+        "clue": "Turned inside out",
+        "row": 8,
+        "col": 13,
+        "answer": "EVERTED"
+      },
+      {
+        "number": 44,
+        "clue": "Not so sparse",
+        "row": 8,
+        "col": 14,
+        "answer": "DENSER"
+      },
+      {
+        "number": 46,
+        "clue": "This is very attractive",
+        "row": 9,
+        "col": 3,
+        "answer": "MAGNET"
+      },
+      {
+        "number": 48,
+        "clue": "\"Nature is ___ of God\": Browne",
+        "row": 9,
+        "col": 9,
+        "answer": "THEART"
+      },
+      {
+        "number": 51,
+        "clue": "Kind of board",
+        "row": 10,
+        "col": 4,
+        "answer": "SKATE"
+      },
+      {
+        "number": 55,
+        "clue": "Foretoken",
+        "row": 11,
+        "col": 5,
+        "answer": "OMEN"
+      },
+      {
+        "number": 56,
+        "clue": "Raven's haven",
+        "row": 11,
+        "col": 6,
+        "answer": "NEST"
+      },
+      {
+        "number": 58,
+        "clue": "Roman's grandmother",
+        "row": 11,
+        "col": 10,
+        "answer": "AVIA"
+      },
+      {
+        "number": 60,
+        "clue": "Some A.M.A. members",
+        "row": 12,
+        "col": 8,
+        "answer": "GPS"
+      }
+    ]
+  }
+}

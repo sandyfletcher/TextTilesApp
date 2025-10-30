@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-07-31",
+  "metadata": {
+    "date": "1976-07-31",
+    "title": "NY TIMES, SAT, JUL 31, 1976",
+    "author": "Raymond F. Eisner",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["P", "A", "W", "S", null, "A", "S", "T", "E", "P", null, "A", "P", "A", "R"],
+    ["A", "M", "A", "H", null, "O", "R", "A", "L", "E", null, "M", "I", "L", "E"],
+    ["T", "A", "X", "I", "D", "R", "I", "V", "E", "R", null, "U", "L", "A", "N"],
+    ["S", "T", "Y", "L", "E", "T", null, "S", "C", "O", "R", "S", "E", "S", "E"],
+    [null, null, null, "L", "E", "A", "F", null, "T", "R", "U", "E", "D", null, null],
+    ["C", "A", "L", "I", "P", "E", "R", "S", null, "A", "N", "D", "R", "E", "W"],
+    ["A", "M", "I", "N", "S", null, "E", "L", "I", "T", "E", null, "I", "C", "I"],
+    ["B", "O", "N", "G", null, "P", "E", "A", "L", "E", null, "E", "V", "O", "E"],
+    ["O", "L", "E", null, "M", "A", "R", "N", "I", null, "S", "N", "E", "L", "L"],
+    ["T", "E", "D", "D", "E", "R", null, "G", "A", "R", "N", "E", "R", "E", "D"],
+    [null, null, "R", "E", "N", "T", "A", null, "D", "O", "E", "R", null, null, null],
+    ["W", "H", "I", "T", "T", "I", "E", "R", null, "B", "E", "V", "I", "E", "S"],
+    ["H", "O", "V", "E", null, "D", "R", "I", "V", "E", "R", "A", "N", "T", "S"],
+    ["A", "P", "E", "R", null, "O", "I", "L", "E", "R", null, "T", "A", "R", "T"],
+    ["M", "E", "S", "S", null, "S", "E", "E", "I", "T", null, "E", "T", "E", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Huge hands",
+        "row": 0,
+        "col": 0,
+        "answer": "PAWS"
+      },
+      {
+        "number": 5,
+        "clue": "Go ___ further",
+        "row": 0,
+        "col": 5,
+        "answer": "ASTEP"
+      },
+      {
+        "number": 10,
+        "clue": "Armadillo",
+        "row": 0,
+        "col": 11,
+        "answer": "APAR"
+      },
+      {
+        "number": 14,
+        "clue": "Nanking nurse",
+        "row": 1,
+        "col": 0,
+        "answer": "AMAH"
+      },
+      {
+        "number": 15,
+        "clue": "Papal vestment",
+        "row": 1,
+        "col": 5,
+        "answer": "ORALE"
+      },
+      {
+        "number": 16,
+        "clue": "\"The Last ___\"",
+        "row": 1,
+        "col": 11,
+        "answer": "MILE"
+      },
+      {
+        "number": 17,
+        "clue": "Film about a psychotic loner",
+        "row": 2,
+        "col": 0,
+        "answer": "TAXIDRIVER"
+      },
+      {
+        "number": 19,
+        "clue": "___ Bator",
+        "row": 2,
+        "col": 11,
+        "answer": "ULAN"
+      },
+      {
+        "number": 20,
+        "clue": "Pointed instrument",
+        "row": 3,
+        "col": 0,
+        "answer": "STYLET"
+      },
+      {
+        "number": 21,
+        "clue": "Director of 17 Across",
+        "row": 3,
+        "col": 7,
+        "answer": "SCORSESE"
+      },
+      {
+        "number": 23,
+        "clue": "Humorist Munro",
+        "row": 4,
+        "col": 3,
+        "answer": "LEAF"
+      },
+      {
+        "number": 25,
+        "clue": "Adjusted",
+        "row": 4,
+        "col": 8,
+        "answer": "TRUED"
+      },
+      {
+        "number": 26,
+        "clue": "Measuring instruments",
+        "row": 5,
+        "col": 0,
+        "answer": "CALIPERS"
+      },
+      {
+        "number": 30,
+        "clue": "Carnegie",
+        "row": 5,
+        "col": 9,
+        "answer": "ANDREW"
+      },
+      {
+        "number": 33,
+        "clue": "Indian agents",
+        "row": 6,
+        "col": 0,
+        "answer": "AMINS"
+      },
+      {
+        "number": 34,
+        "clue": "Typewriter type",
+        "row": 6,
+        "col": 6,
+        "answer": "ELITE"
+      },
+      {
+        "number": 36,
+        "clue": "Here: Fr.",
+        "row": 6,
+        "col": 12,
+        "answer": "ICI"
+      },
+      {
+        "number": 37,
+        "clue": "Gong sound",
+        "row": 7,
+        "col": 0,
+        "answer": "BONG"
+      },
+      {
+        "number": 38,
+        "clue": "Norman Vincent",
+        "row": 7,
+        "col": 5,
+        "answer": "PEALE"
+      },
+      {
+        "number": 39,
+        "clue": "Wild cry",
+        "row": 7,
+        "col": 11,
+        "answer": "EVOE"
+      },
+      {
+        "number": 40,
+        "clue": "Corrida cheer",
+        "row": 8,
+        "col": 0,
+        "answer": "OLE"
+      },
+      {
+        "number": 41,
+        "clue": "Singer Nixon",
+        "row": 8,
+        "col": 4,
+        "answer": "MARNI"
+      },
+      {
+        "number": 42,
+        "clue": "Fishline-leader",
+        "row": 8,
+        "col": 10,
+        "answer": "SNELL"
+      },
+      {
+        "number": 43,
+        "clue": "Hay-spreading machine",
+        "row": 9,
+        "col": 0,
+        "answer": "TEDDER"
+      },
+      {
+        "number": 45,
+        "clue": "Accumulated",
+        "row": 9,
+        "col": 7,
+        "answer": "GARNERED"
+      },
+      {
+        "number": 47,
+        "clue": "Income, in Spain",
+        "row": 10,
+        "col": 2,
+        "answer": "RENTA"
+      },
+      {
+        "number": 49,
+        "clue": "Active one",
+        "row": 10,
+        "col": 8,
+        "answer": "DOER"
+      },
+      {
+        "number": 50,
+        "clue": "City near L.A.",
+        "row": 11,
+        "col": 0,
+        "answer": "WHITTIER"
+      },
+      {
+        "number": 53,
+        "clue": "Flocks of quail",
+        "row": 11,
+        "col": 9,
+        "answer": "BEVIES"
+      },
+      {
+        "number": 57,
+        "clue": "___ to (stopped as a ship)",
+        "row": 12,
+        "col": 0,
+        "answer": "HOVE"
+      },
+      {
+        "number": 58,
+        "clue": "Tropical insects",
+        "row": 12,
+        "col": 5,
+        "answer": "DRIVERANTS"
+      },
+      {
+        "number": 60,
+        "clue": "Mime",
+        "row": 13,
+        "col": 0,
+        "answer": "APER"
+      },
+      {
+        "number": 61,
+        "clue": "Cargo ship",
+        "row": 13,
+        "col": 5,
+        "answer": "OILER"
+      },
+      {
+        "number": 62,
+        "clue": "Sour",
+        "row": 13,
+        "col": 11,
+        "answer": "TART"
+      },
+      {
+        "number": 63,
+        "clue": "Call or hall",
+        "row": 14,
+        "col": 0,
+        "answer": "MESS"
+      },
+      {
+        "number": 64,
+        "clue": "\"Now you ___, now . . . \"",
+        "row": 14,
+        "col": 5,
+        "answer": "SEEIT"
+      },
+      {
+        "number": 65,
+        "clue": "Soissons summers",
+        "row": 14,
+        "col": 11,
+        "answer": "ETES"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Boone and O'Brien",
+        "row": 0,
+        "col": 0,
+        "answer": "PATS"
+      },
+      {
+        "number": 2,
+        "clue": "One of a Latin trio",
+        "row": 0,
+        "col": 1,
+        "answer": "AMAT"
+      },
+      {
+        "number": 3,
+        "clue": "Pliable",
+        "row": 0,
+        "col": 2,
+        "answer": "WAXY"
+      },
+      {
+        "number": 4,
+        "clue": "Twelve pence, in Soho",
+        "row": 0,
+        "col": 3,
+        "answer": "SHILLING"
+      },
+      {
+        "number": 5,
+        "clue": "Main arteries",
+        "row": 0,
+        "col": 5,
+        "answer": "AORTAE"
+      },
+      {
+        "number": 6,
+        "clue": "Hindu title",
+        "row": 0,
+        "col": 6,
+        "answer": "SRI"
+      },
+      {
+        "number": 7,
+        "clue": "Hebrew letters",
+        "row": 0,
+        "col": 7,
+        "answer": "TAVS"
+      },
+      {
+        "number": 8,
+        "clue": "Put in office",
+        "row": 0,
+        "col": 8,
+        "answer": "ELECT"
+      },
+      {
+        "number": 9,
+        "clue": "Harangue",
+        "row": 0,
+        "col": 9,
+        "answer": "PERORATE"
+      },
+      {
+        "number": 10,
+        "clue": "Entertained",
+        "row": 0,
+        "col": 11,
+        "answer": "AMUSED"
+      },
+      {
+        "number": 11,
+        "clue": "Pier-builder's need",
+        "row": 0,
+        "col": 12,
+        "answer": "PILEDRIVER"
+      },
+      {
+        "number": 12,
+        "clue": "Yukon's neighbor: Abbr.",
+        "row": 0,
+        "col": 13,
+        "answer": "ALAS"
+      },
+      {
+        "number": 13,
+        "clue": "Descartes",
+        "row": 0,
+        "col": 14,
+        "answer": "RENE"
+      },
+      {
+        "number": 18,
+        "clue": "Intervals on a sounding line",
+        "row": 2,
+        "col": 4,
+        "answer": "DEEPS"
+      },
+      {
+        "number": 22,
+        "clue": "Germanic letter",
+        "row": 3,
+        "col": 10,
+        "answer": "RUNE"
+      },
+      {
+        "number": 24,
+        "clue": "More open",
+        "row": 4,
+        "col": 6,
+        "answer": "FREER"
+      },
+      {
+        "number": 26,
+        "clue": "Bruce of films",
+        "row": 5,
+        "col": 0,
+        "answer": "CABOT"
+      },
+      {
+        "number": 27,
+        "clue": "Soap substitute",
+        "row": 5,
+        "col": 1,
+        "answer": "AMOLE"
+      },
+      {
+        "number": 28,
+        "clue": "Baseball hits",
+        "row": 5,
+        "col": 2,
+        "answer": "LINEDRIVES"
+      },
+      {
+        "number": 29,
+        "clue": "Ade's \"Fables in ___\"",
+        "row": 5,
+        "col": 7,
+        "answer": "SLANG"
+      },
+      {
+        "number": 31,
+        "clue": "School, in Sedan",
+        "row": 5,
+        "col": 13,
+        "answer": "ECOLE"
+      },
+      {
+        "number": 32,
+        "clue": "Exercise power",
+        "row": 5,
+        "col": 14,
+        "answer": "WIELD"
+      },
+      {
+        "number": 35,
+        "clue": "Greek epic",
+        "row": 6,
+        "col": 8,
+        "answer": "ILIAD"
+      },
+      {
+        "number": 38,
+        "clue": "Groups, in Granada",
+        "row": 7,
+        "col": 5,
+        "answer": "PARTIDOS"
+      },
+      {
+        "number": 39,
+        "clue": "Weaken",
+        "row": 7,
+        "col": 11,
+        "answer": "ENERVATE"
+      },
+      {
+        "number": 41,
+        "clue": "Noun suffix",
+        "row": 8,
+        "col": 4,
+        "answer": "MENT"
+      },
+      {
+        "number": 42,
+        "clue": "Grimace of derision",
+        "row": 8,
+        "col": 10,
+        "answer": "SNEER"
+      },
+      {
+        "number": 44,
+        "clue": "Hinders",
+        "row": 9,
+        "col": 3,
+        "answer": "DETERS"
+      },
+      {
+        "number": 46,
+        "clue": "___ De Niro, star of 17 Across",
+        "row": 9,
+        "col": 9,
+        "answer": "ROBERT"
+      },
+      {
+        "number": 48,
+        "clue": "Penthouse",
+        "row": 10,
+        "col": 6,
+        "answer": "AERIE"
+      },
+      {
+        "number": 50,
+        "clue": "Hard impact",
+        "row": 11,
+        "col": 0,
+        "answer": "WHAM"
+      },
+      {
+        "number": 51,
+        "clue": "Miss Lange",
+        "row": 11,
+        "col": 1,
+        "answer": "HOPE"
+      },
+      {
+        "number": 52,
+        "clue": "Irritate",
+        "row": 11,
+        "col": 7,
+        "answer": "RILE"
+      },
+      {
+        "number": 54,
+        "clue": "___ the finish",
+        "row": 11,
+        "col": 12,
+        "answer": "INAT"
+      },
+      {
+        "number": 55,
+        "clue": "Common French verb",
+        "row": 11,
+        "col": 13,
+        "answer": "ETRE"
+      },
+      {
+        "number": 56,
+        "clue": "Fast jets",
+        "row": 11,
+        "col": 14,
+        "answer": "SSTS"
+      },
+      {
+        "number": 59,
+        "clue": "Liberian native",
+        "row": 12,
+        "col": 8,
+        "answer": "VEI"
+      }
+    ]
+  }
+}

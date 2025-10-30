@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-03-23",
+  "metadata": {
+    "date": "1976-03-23",
+    "title": "NY TIMES, TUE, MAR 23, 1976",
+    "author": "Martin Bryan",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["H", "I", "C", null, "N", "A", "I", "D", "S", null, "A", "M", "E", "E", "R"],
+    ["O", "R", "O", null, "I", "S", "S", "E", "I", null, "J", "U", "L", "I", "A"],
+    ["W", "O", "M", "A", "N", "S", "U", "F", "F", "R", "A", "G", "I", "S", "T"],
+    ["E", "N", "T", "R", "E", "E", null, "A", "T", "A", "R", null, "Z", "E", "E"],
+    [null, "S", "E", "A", "T", null, "I", "N", "S", "T", null, "I", "A", "N", "S"],
+    [null, null, null, "B", "E", "I", "N", "G", null, "I", "A", "M", "B", null, null],
+    ["I", "S", "T", null, "E", "N", "T", null, "R", "O", "M", "P", "E", "R", "S"],
+    ["F", "O", "R", "E", "N", "S", "E", null, "O", "N", "E", "S", "T", "E", "P"],
+    ["S", "T", "A", "N", "T", "O", "N", null, "V", "A", "N", null, "H", "O", "T"],
+    [null, null, "V", "E", "H", "M", null, "M", "E", "L", "D", "S", null, null, null],
+    ["A", "D", "E", "S", null, "N", "C", "O", "S", null, "M", "O", "T", "T", null],
+    ["T", "O", "R", null, "E", "I", "E", "R", null, "P", "E", "R", "I", "O", "D"],
+    ["S", "U", "S", "A", "N", "A", "N", "T", "H", "O", "N", "Y", "D", "A", "Y"],
+    ["E", "M", "E", "N", "D", null, "T", "A", "I", "N", "T", null, "A", "S", "E"],
+    ["A", "S", "S", "T", "S", null, "S", "L", "A", "T", "S", null, "L", "T", "D"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gulpy sound",
+        "row": 0,
+        "col": 0,
+        "answer": "HIC"
+      },
+      {
+        "number": 4,
+        "clue": "Water plants",
+        "row": 0,
+        "col": 4,
+        "answer": "NAIDS"
+      },
+      {
+        "number": 9,
+        "clue": "Moslem prince",
+        "row": 0,
+        "col": 10,
+        "answer": "AMEER"
+      },
+      {
+        "number": 14,
+        "clue": "Gold, in Granada",
+        "row": 1,
+        "col": 0,
+        "answer": "ORO"
+      },
+      {
+        "number": 15,
+        "clue": "Japanese in U.S.",
+        "row": 1,
+        "col": 4,
+        "answer": "ISSEI"
+      },
+      {
+        "number": 16,
+        "clue": "U.S. reformer, with 1 Down",
+        "row": 1,
+        "col": 10,
+        "answer": "JULIA"
+      },
+      {
+        "number": 17,
+        "clue": "Advocate of a reform won in 1920",
+        "row": 2,
+        "col": 0,
+        "answer": "WOMANSUFFRAGIST"
+      },
+      {
+        "number": 20,
+        "clue": "Main course",
+        "row": 3,
+        "col": 0,
+        "answer": "ENTREE"
+      },
+      {
+        "number": 21,
+        "clue": "Perfume: Var.",
+        "row": 3,
+        "col": 7,
+        "answer": "ATAR"
+      },
+      {
+        "number": 22,
+        "clue": "Tappan or Zuider",
+        "row": 3,
+        "col": 12,
+        "answer": "ZEE"
+      },
+      {
+        "number": 23,
+        "clue": "Install in office",
+        "row": 4,
+        "col": 1,
+        "answer": "SEAT"
+      },
+      {
+        "number": 24,
+        "clue": "Part of M.I.T.: Abbr.",
+        "row": 4,
+        "col": 6,
+        "answer": "INST"
+      },
+      {
+        "number": 25,
+        "clue": "Fleming and Hunter",
+        "row": 4,
+        "col": 11,
+        "answer": "IANS"
+      },
+      {
+        "number": 26,
+        "clue": "Existence",
+        "row": 5,
+        "col": 3,
+        "answer": "BEING"
+      },
+      {
+        "number": 28,
+        "clue": "Metrical foot",
+        "row": 5,
+        "col": 9,
+        "answer": "IAMB"
+      },
+      {
+        "number": 30,
+        "clue": "Adherent",
+        "row": 6,
+        "col": 0,
+        "answer": "IST"
+      },
+      {
+        "number": 33,
+        "clue": "Insect study: Abbr.",
+        "row": 6,
+        "col": 4,
+        "answer": "ENT"
+      },
+      {
+        "number": 34,
+        "clue": "Children's wear",
+        "row": 6,
+        "col": 8,
+        "answer": "ROMPERS"
+      },
+      {
+        "number": 37,
+        "clue": "Of a public place: Lat.",
+        "row": 7,
+        "col": 0,
+        "answer": "FORENSE"
+      },
+      {
+        "number": 39,
+        "clue": "Ballroom dance",
+        "row": 7,
+        "col": 8,
+        "answer": "ONESTEP"
+      },
+      {
+        "number": 40,
+        "clue": "See 11 Down",
+        "row": 8,
+        "col": 0,
+        "answer": "STANTON"
+      },
+      {
+        "number": 41,
+        "clue": "Heflin or Johnson",
+        "row": 8,
+        "col": 8,
+        "answer": "VAN"
+      },
+      {
+        "number": 42,
+        "clue": "Tamale or dog",
+        "row": 8,
+        "col": 12,
+        "answer": "HOT"
+      },
+      {
+        "number": 43,
+        "clue": "Old German tribunal",
+        "row": 9,
+        "col": 2,
+        "answer": "VEHM"
+      },
+      {
+        "number": 44,
+        "clue": "Pinochle plays",
+        "row": 9,
+        "col": 7,
+        "answer": "MELDS"
+      },
+      {
+        "number": 46,
+        "clue": "Soft drinks",
+        "row": 10,
+        "col": 0,
+        "answer": "ADES"
+      },
+      {
+        "number": 48,
+        "clue": "Sgts., etc.",
+        "row": 10,
+        "col": 5,
+        "answer": "NCOS"
+      },
+      {
+        "number": 50,
+        "clue": "Reformer Lucretia",
+        "row": 10,
+        "col": 10,
+        "answer": "MOTT"
+      },
+      {
+        "number": 53,
+        "clue": "Rocky peak",
+        "row": 11,
+        "col": 0,
+        "answer": "TOR"
+      },
+      {
+        "number": 54,
+        "clue": "Eggs, in Bonn",
+        "row": 11,
+        "col": 4,
+        "answer": "EIER"
+      },
+      {
+        "number": 55,
+        "clue": "Sentence ender",
+        "row": 11,
+        "col": 9,
+        "answer": "PERIOD"
+      },
+      {
+        "number": 57,
+        "clue": "Feb. 15",
+        "row": 12,
+        "col": 0,
+        "answer": "SUSANANTHONYDAY"
+      },
+      {
+        "number": 60,
+        "clue": "Edit",
+        "row": 13,
+        "col": 0,
+        "answer": "EMEND"
+      },
+      {
+        "number": 61,
+        "clue": "Opposite of 'tis",
+        "row": 13,
+        "col": 6,
+        "answer": "TAINT"
+      },
+      {
+        "number": 62,
+        "clue": "Enzyme: Suffix",
+        "row": 13,
+        "col": 12,
+        "answer": "ASE"
+      },
+      {
+        "number": 63,
+        "clue": "Aides: Abbr.",
+        "row": 14,
+        "col": 0,
+        "answer": "ASSTS"
+      },
+      {
+        "number": 64,
+        "clue": "Louvers",
+        "row": 14,
+        "col": 6,
+        "answer": "SLATS"
+      },
+      {
+        "number": 65,
+        "clue": "Fast train: Abbr.",
+        "row": 14,
+        "col": 12,
+        "answer": "LTD"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "See 16 Across",
+        "row": 0,
+        "col": 0,
+        "answer": "HOWE"
+      },
+      {
+        "number": 2,
+        "clue": "Golf clubs",
+        "row": 0,
+        "col": 1,
+        "answer": "IRONS"
+      },
+      {
+        "number": 3,
+        "clue": "Count, in France",
+        "row": 0,
+        "col": 2,
+        "answer": "COMTE"
+      },
+      {
+        "number": 4,
+        "clue": "Numerical milestone for 17 Across",
+        "row": 0,
+        "col": 4,
+        "answer": "NINETEENTH"
+      },
+      {
+        "number": 5,
+        "clue": "African fox",
+        "row": 0,
+        "col": 5,
+        "answer": "ASSE"
+      },
+      {
+        "number": 6,
+        "clue": "Terre Haute campus",
+        "row": 0,
+        "col": 6,
+        "answer": "ISU"
+      },
+      {
+        "number": 7,
+        "clue": "Neutralize, as a cobra",
+        "row": 0,
+        "col": 7,
+        "answer": "DEFANG"
+      },
+      {
+        "number": 8,
+        "clue": "Prepares flour",
+        "row": 0,
+        "col": 8,
+        "answer": "SIFTS"
+      },
+      {
+        "number": 9,
+        "clue": "Slightly open",
+        "row": 0,
+        "col": 10,
+        "answer": "AJAR"
+      },
+      {
+        "number": 10,
+        "clue": "Heavy cup",
+        "row": 0,
+        "col": 11,
+        "answer": "MUG"
+      },
+      {
+        "number": 11,
+        "clue": "U.S. reformer, with 40 Across",
+        "row": 0,
+        "col": 12,
+        "answer": "ELIZABETH"
+      },
+      {
+        "number": 12,
+        "clue": "Iron, in Essen",
+        "row": 0,
+        "col": 13,
+        "answer": "EISEN"
+      },
+      {
+        "number": 13,
+        "clue": "Rebukes",
+        "row": 0,
+        "col": 14,
+        "answer": "RATES"
+      },
+      {
+        "number": 18,
+        "clue": "Mecca native",
+        "row": 2,
+        "col": 3,
+        "answer": "ARAB"
+      },
+      {
+        "number": 19,
+        "clue": "Sensible",
+        "row": 2,
+        "col": 9,
+        "answer": "RATIONAL"
+      },
+      {
+        "number": 24,
+        "clue": "\"Back ___ minutes\" (shop-door sign)",
+        "row": 4,
+        "col": 6,
+        "answer": "INTEN"
+      },
+      {
+        "number": 25,
+        "clue": "Little monsters",
+        "row": 4,
+        "col": 11,
+        "answer": "IMPS"
+      },
+      {
+        "number": 27,
+        "clue": "Sleeplessness",
+        "row": 5,
+        "col": 5,
+        "answer": "INSOMNIA"
+      },
+      {
+        "number": 29,
+        "clue": "4 Down et al.",
+        "row": 5,
+        "col": 10,
+        "answer": "AMENDMENTS"
+      },
+      {
+        "number": 30,
+        "clue": "\"No ___, ands or . . . \"",
+        "row": 6,
+        "col": 0,
+        "answer": "IFS"
+      },
+      {
+        "number": 31,
+        "clue": "Tippler",
+        "row": 6,
+        "col": 1,
+        "answer": "SOT"
+      },
+      {
+        "number": 32,
+        "clue": "Crosses over",
+        "row": 6,
+        "col": 2,
+        "answer": "TRAVERSES"
+      },
+      {
+        "number": 34,
+        "clue": "Wanders",
+        "row": 6,
+        "col": 8,
+        "answer": "ROVES"
+      },
+      {
+        "number": 35,
+        "clue": "Old auto",
+        "row": 6,
+        "col": 13,
+        "answer": "REO"
+      },
+      {
+        "number": 36,
+        "clue": "N.Y. or Boston: Abbr.",
+        "row": 6,
+        "col": 14,
+        "answer": "SPT"
+      },
+      {
+        "number": 38,
+        "clue": "Chemical endings",
+        "row": 7,
+        "col": 3,
+        "answer": "ENES"
+      },
+      {
+        "number": 44,
+        "clue": "Human being",
+        "row": 9,
+        "col": 7,
+        "answer": "MORTAL"
+      },
+      {
+        "number": 45,
+        "clue": "Black earth",
+        "row": 9,
+        "col": 11,
+        "answer": "SORY"
+      },
+      {
+        "number": 46,
+        "clue": "Confused",
+        "row": 10,
+        "col": 0,
+        "answer": "ATSEA"
+      },
+      {
+        "number": 47,
+        "clue": "African palms",
+        "row": 10,
+        "col": 1,
+        "answer": "DOUMS"
+      },
+      {
+        "number": 49,
+        "clue": "Coins",
+        "row": 10,
+        "col": 6,
+        "answer": "CENTS"
+      },
+      {
+        "number": 51,
+        "clue": "Kind of wave",
+        "row": 10,
+        "col": 12,
+        "answer": "TIDAL"
+      },
+      {
+        "number": 52,
+        "clue": "\"Here's how,\" for one",
+        "row": 10,
+        "col": 13,
+        "answer": "TOAST"
+      },
+      {
+        "number": 54,
+        "clue": "Make ___ meet",
+        "row": 11,
+        "col": 4,
+        "answer": "ENDS"
+      },
+      {
+        "number": 55,
+        "clue": "Seine bridge",
+        "row": 11,
+        "col": 9,
+        "answer": "PONT"
+      },
+      {
+        "number": 56,
+        "clue": "___-in-the-wool",
+        "row": 11,
+        "col": 14,
+        "answer": "DYED"
+      },
+      {
+        "number": 58,
+        "clue": "Insect",
+        "row": 12,
+        "col": 3,
+        "answer": "ANT"
+      },
+      {
+        "number": 59,
+        "clue": "Hawk parrot",
+        "row": 12,
+        "col": 8,
+        "answer": "HIA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-09-21",
+  "metadata": {
+    "date": "1977-09-21",
+    "title": "NY TIMES, WED, SEP 21, 1977",
+    "author": "Ann Jenkins",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["G", "A", "P", "S", null, null, "M", "A", "S", "C", null, "B", "E", "T", "E"],
+    ["A", "L", "I", "A", "S", null, "I", "D", "E", "A", null, "O", "R", "E", "S"],
+    ["B", "A", "T", "T", "E", "N", "D", "O", "W", "N", null, "I", "R", "A", "N"],
+    [null, null, "T", "I", "R", "E", null, null, "E", "N", "C", "L", "O", "S", "E"],
+    ["S", "P", "A", "R", "E", "S", null, "T", "R", "E", "A", "D", "L", "E", "S"],
+    ["T", "U", "N", "E", null, "T", "W", "O", null, "S", "R", "O", null, null, null],
+    ["E", "T", "C", null, "F", "L", "A", "N", "K", null, "T", "W", "E", "A", "K"],
+    ["A", "T", "E", "L", "I", "E", "R", null, "I", "R", "O", "N", "A", "G", "E"],
+    ["M", "Y", "S", "I", "N", null, "P", "E", "C", "A", "N", null, "R", "I", "P"],
+    [null, null, null, "V", "A", "T", null, "O", "K", "S", null, "A", "T", "L", "I"],
+    ["H", "O", "M", "E", "L", "E", "S", "S", null, "C", "A", "C", "H", "E", "S"],
+    ["E", "V", "I", "D", "E", "N", "T", null, null, "A", "R", "A", "B", null, null],
+    ["M", "I", "N", "O", null, "S", "E", "T", "T", "L", "E", "D", "O", "W", "N"],
+    ["A", "N", "E", "W", null, "E", "A", "S", "E", null, "S", "I", "R", "E", "N"],
+    ["N", "E", "O", "N", null, "S", "L", "E", "D", null, null, "A", "N", "T", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Crevices",
+        "row": 0,
+        "col": 0,
+        "answer": "GAPS"
+      },
+      {
+        "number": 5,
+        "clue": "Virile: Abbr.",
+        "row": 0,
+        "col": 6,
+        "answer": "MASC"
+      },
+      {
+        "number": 9,
+        "clue": "___ noire",
+        "row": 0,
+        "col": 11,
+        "answer": "BETE"
+      },
+      {
+        "number": 13,
+        "clue": "Criminal's dodge",
+        "row": 1,
+        "col": 0,
+        "answer": "ALIAS"
+      },
+      {
+        "number": 15,
+        "clue": "Budding plan",
+        "row": 1,
+        "col": 6,
+        "answer": "IDEA"
+      },
+      {
+        "number": 16,
+        "clue": "Unmined minerals",
+        "row": 1,
+        "col": 11,
+        "answer": "ORES"
+      },
+      {
+        "number": 17,
+        "clue": "Secure the hatches",
+        "row": 2,
+        "col": 0,
+        "answer": "BATTENDOWN"
+      },
+      {
+        "number": 19,
+        "clue": "Oil-rich land",
+        "row": 2,
+        "col": 11,
+        "answer": "IRAN"
+      },
+      {
+        "number": 20,
+        "clue": "Lose interest",
+        "row": 3,
+        "col": 2,
+        "answer": "TIRE"
+      },
+      {
+        "number": 21,
+        "clue": "Hem in",
+        "row": 3,
+        "col": 8,
+        "answer": "ENCLOSE"
+      },
+      {
+        "number": 23,
+        "clue": "Shows leniency",
+        "row": 4,
+        "col": 0,
+        "answer": "SPARES"
+      },
+      {
+        "number": 25,
+        "clue": "Foot levers",
+        "row": 4,
+        "col": 7,
+        "answer": "TREADLES"
+      },
+      {
+        "number": 26,
+        "clue": "ASCAP air",
+        "row": 5,
+        "col": 0,
+        "answer": "TUNE"
+      },
+      {
+        "number": 27,
+        "clue": "Number for tangoing or tea",
+        "row": 5,
+        "col": 5,
+        "answer": "TWO"
+      },
+      {
+        "number": 29,
+        "clue": "Sign of a full house",
+        "row": 5,
+        "col": 9,
+        "answer": "SRO"
+      },
+      {
+        "number": 30,
+        "clue": "Latin abbr.",
+        "row": 6,
+        "col": 0,
+        "answer": "ETC"
+      },
+      {
+        "number": 31,
+        "clue": "Be at the side of",
+        "row": 6,
+        "col": 4,
+        "answer": "FLANK"
+      },
+      {
+        "number": 33,
+        "clue": "Sharp pinch",
+        "row": 6,
+        "col": 10,
+        "answer": "TWEAK"
+      },
+      {
+        "number": 37,
+        "clue": "Left Bank studio",
+        "row": 7,
+        "col": 0,
+        "answer": "ATELIER"
+      },
+      {
+        "number": 39,
+        "clue": "Historical period",
+        "row": 7,
+        "col": 8,
+        "answer": "IRONAGE"
+      },
+      {
+        "number": 41,
+        "clue": "\"Cut off even in the blossoms of ___\": Shakespeare",
+        "row": 8,
+        "col": 0,
+        "answer": "MYSIN"
+      },
+      {
+        "number": 42,
+        "clue": "Olive-shaped nut",
+        "row": 8,
+        "col": 6,
+        "answer": "PECAN"
+      },
+      {
+        "number": 44,
+        "clue": "Take apart",
+        "row": 8,
+        "col": 12,
+        "answer": "RIP"
+      },
+      {
+        "number": 45,
+        "clue": "Cask",
+        "row": 9,
+        "col": 3,
+        "answer": "VAT"
+      },
+      {
+        "number": 47,
+        "clue": "Approves",
+        "row": 9,
+        "col": 7,
+        "answer": "OKS"
+      },
+      {
+        "number": 48,
+        "clue": "Legendary king of the Huns",
+        "row": 9,
+        "col": 11,
+        "answer": "ATLI"
+      },
+      {
+        "number": 49,
+        "clue": "Like waifs",
+        "row": 10,
+        "col": 0,
+        "answer": "HOMELESS"
+      },
+      {
+        "number": 53,
+        "clue": "Hoards",
+        "row": 10,
+        "col": 9,
+        "answer": "CACHES"
+      },
+      {
+        "number": 55,
+        "clue": "Apparent",
+        "row": 11,
+        "col": 0,
+        "answer": "EVIDENT"
+      },
+      {
+        "number": 56,
+        "clue": "Man from Mecca",
+        "row": 11,
+        "col": 9,
+        "answer": "ARAB"
+      },
+      {
+        "number": 57,
+        "clue": "River between Spain and Portugal",
+        "row": 12,
+        "col": 0,
+        "answer": "MINO"
+      },
+      {
+        "number": 58,
+        "clue": "Become calm",
+        "row": 12,
+        "col": 5,
+        "answer": "SETTLEDOWN"
+      },
+      {
+        "number": 63,
+        "clue": "Afresh",
+        "row": 13,
+        "col": 0,
+        "answer": "ANEW"
+      },
+      {
+        "number": 64,
+        "clue": "Affluence",
+        "row": 13,
+        "col": 5,
+        "answer": "EASE"
+      },
+      {
+        "number": 65,
+        "clue": "Lorelei, e.g.",
+        "row": 13,
+        "col": 10,
+        "answer": "SIREN"
+      },
+      {
+        "number": 66,
+        "clue": "Gas in some glowing signs",
+        "row": 14,
+        "col": 0,
+        "answer": "NEON"
+      },
+      {
+        "number": 67,
+        "clue": "Aleut's coaster",
+        "row": 14,
+        "col": 5,
+        "answer": "SLED"
+      },
+      {
+        "number": 68,
+        "clue": "___ bellum",
+        "row": 14,
+        "col": 11,
+        "answer": "ANTE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Chin",
+        "row": 0,
+        "col": 0,
+        "answer": "GAB"
+      },
+      {
+        "number": 2,
+        "clue": "According to",
+        "row": 0,
+        "col": 1,
+        "answer": "ALA"
+      },
+      {
+        "number": 3,
+        "clue": "Petty allowances",
+        "row": 0,
+        "col": 2,
+        "answer": "PITTANCES"
+      },
+      {
+        "number": 4,
+        "clue": "Biting wit",
+        "row": 0,
+        "col": 3,
+        "answer": "SATIRE"
+      },
+      {
+        "number": 5,
+        "clue": "U.S.N.A. trainee: Abbr.",
+        "row": 0,
+        "col": 6,
+        "answer": "MID"
+      },
+      {
+        "number": 6,
+        "clue": "Ballyhoo",
+        "row": 0,
+        "col": 7,
+        "answer": "ADO"
+      },
+      {
+        "number": 7,
+        "clue": "Garment worker",
+        "row": 0,
+        "col": 8,
+        "answer": "SEWER"
+      },
+      {
+        "number": 8,
+        "clue": "Site of film festivals",
+        "row": 0,
+        "col": 9,
+        "answer": "CANNES"
+      },
+      {
+        "number": 9,
+        "clue": "Summarize",
+        "row": 0,
+        "col": 11,
+        "answer": "BOILDOWN"
+      },
+      {
+        "number": 10,
+        "clue": "Actor Flynn",
+        "row": 0,
+        "col": 12,
+        "answer": "ERROL"
+      },
+      {
+        "number": 11,
+        "clue": "Josh",
+        "row": 0,
+        "col": 13,
+        "answer": "TEASE"
+      },
+      {
+        "number": 12,
+        "clue": "Serfs of yore",
+        "row": 0,
+        "col": 14,
+        "answer": "ESNES"
+      },
+      {
+        "number": 14,
+        "clue": "Wizened",
+        "row": 1,
+        "col": 4,
+        "answer": "SERE"
+      },
+      {
+        "number": 18,
+        "clue": "Snuggle",
+        "row": 2,
+        "col": 5,
+        "answer": "NESTLE"
+      },
+      {
+        "number": 22,
+        "clue": "Packer's need",
+        "row": 3,
+        "col": 10,
+        "answer": "CARTON"
+      },
+      {
+        "number": 23,
+        "clue": "\"Clermont\" power",
+        "row": 4,
+        "col": 0,
+        "answer": "STEAM"
+      },
+      {
+        "number": 24,
+        "clue": "Caulking agent",
+        "row": 4,
+        "col": 1,
+        "answer": "PUTTY"
+      },
+      {
+        "number": 25,
+        "clue": "Style, in France",
+        "row": 4,
+        "col": 7,
+        "answer": "TON"
+      },
+      {
+        "number": 28,
+        "clue": "Twist out of shape",
+        "row": 5,
+        "col": 6,
+        "answer": "WARP"
+      },
+      {
+        "number": 31,
+        "clue": "Closing scene",
+        "row": 6,
+        "col": 4,
+        "answer": "FINALE"
+      },
+      {
+        "number": 32,
+        "clue": "Grouse",
+        "row": 6,
+        "col": 8,
+        "answer": "KICK"
+      },
+      {
+        "number": 34,
+        "clue": "Like all mortals",
+        "row": 6,
+        "col": 12,
+        "answer": "EARTHBORN"
+      },
+      {
+        "number": 35,
+        "clue": "Nimble",
+        "row": 6,
+        "col": 13,
+        "answer": "AGILE"
+      },
+      {
+        "number": 36,
+        "clue": "French soldiers' caps",
+        "row": 6,
+        "col": 14,
+        "answer": "KEPIS"
+      },
+      {
+        "number": 38,
+        "clue": "Overcome disrepute eventually",
+        "row": 7,
+        "col": 3,
+        "answer": "LIVEDOWN"
+      },
+      {
+        "number": 40,
+        "clue": "Rogue",
+        "row": 7,
+        "col": 9,
+        "answer": "RASCAL"
+      },
+      {
+        "number": 43,
+        "clue": "Goddess of dawn",
+        "row": 8,
+        "col": 7,
+        "answer": "EOS"
+      },
+      {
+        "number": 46,
+        "clue": "Past, perfect, etc.",
+        "row": 9,
+        "col": 5,
+        "answer": "TENSES"
+      },
+      {
+        "number": 48,
+        "clue": "Region including Prince Edward Island",
+        "row": 9,
+        "col": 11,
+        "answer": "ACADIA"
+      },
+      {
+        "number": 49,
+        "clue": "Swashbuckler, perhaps",
+        "row": 10,
+        "col": 0,
+        "answer": "HEMAN"
+      },
+      {
+        "number": 50,
+        "clue": "Like sheep",
+        "row": 10,
+        "col": 1,
+        "answer": "OVINE"
+      },
+      {
+        "number": 51,
+        "clue": "Actor Sal ___: 1939\u201376",
+        "row": 10,
+        "col": 2,
+        "answer": "MINEO"
+      },
+      {
+        "number": 52,
+        "clue": "What the light-fingered do",
+        "row": 10,
+        "col": 6,
+        "answer": "STEAL"
+      },
+      {
+        "number": 54,
+        "clue": "Militant god",
+        "row": 10,
+        "col": 10,
+        "answer": "ARES"
+      },
+      {
+        "number": 59,
+        "clue": "Mao ___-tung",
+        "row": 12,
+        "col": 7,
+        "answer": "TSE"
+      },
+      {
+        "number": 60,
+        "clue": "Sorensen",
+        "row": 12,
+        "col": 8,
+        "answer": "TED"
+      },
+      {
+        "number": 61,
+        "clue": "Rainy",
+        "row": 12,
+        "col": 13,
+        "answer": "WET"
+      },
+      {
+        "number": 62,
+        "clue": "Old salt's course: Abbr.",
+        "row": 12,
+        "col": 14,
+        "answer": "NNE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-08-03",
+  "metadata": {
+    "date": "1976-08-03",
+    "title": "NY TIMES, TUE, AUG 03, 1976",
+    "author": "Jim Plackner",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "M", "A", "Z", "E", null, "M", "O", "B", null, "C", "I", "T", "E", "D"],
+    ["T", "O", "X", "I", "N", null, "E", "D", "O", null, "O", "R", "A", "T", "E"],
+    ["E", "T", "O", "N", "S", null, "N", "I", "T", null, "M", "A", "L", "A", "N"],
+    ["T", "O", "N", "G", "U", "E", "I", "N", "C", "H", "E", "E", "K", null, null],
+    ["E", "R", "E", null, "R", "A", "N", null, "H", "U", "B", null, "I", "R", "E"],
+    [null, null, null, "L", "E", "T", "G", "O", null, "M", "A", "G", "N", "E", "S"],
+    ["A", "L", "M", "A", null, "I", "R", "R", "S", null, "C", "U", "G", "A", "T"],
+    ["T", "H", "U", "M", "B", "N", "A", "I", "L", "S", "K", "E", "T", "C", "H"],
+    ["L", "A", "S", "E", "R", null, "Y", "E", "A", "H", null, "S", "O", "T", "S"],
+    ["A", "S", "K", "S", "O", "F", null, "L", "U", "A", "U", "S", null, null, null],
+    ["S", "A", "M", null, "K", "R", "A", null, "G", "N", "P", null, "B", "O", "O"],
+    [null, null, "E", "Y", "E", "O", "F", "T", "H", "E", "S", "T", "O", "R", "M"],
+    ["A", "S", "L", "A", "P", null, "T", "O", "T", null, "H", "O", "W", "I", "E"],
+    ["M", "O", "O", "L", "A", null, "O", "R", "E", null, "O", "N", "I", "O", "N"],
+    ["O", "W", "N", "E", "R", null, "N", "O", "R", null, "T", "E", "E", "N", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Confound",
+        "row": 0,
+        "col": 0,
+        "answer": "AMAZE"
+      },
+      {
+        "number": 6,
+        "clue": "Kind of action",
+        "row": 0,
+        "col": 6,
+        "answer": "MOB"
+      },
+      {
+        "number": 9,
+        "clue": "Gave chapter and verse",
+        "row": 0,
+        "col": 10,
+        "answer": "CITED"
+      },
+      {
+        "number": 14,
+        "clue": "Poison",
+        "row": 1,
+        "col": 0,
+        "answer": "TOXIN"
+      },
+      {
+        "number": 15,
+        "clue": "Tokyo's old name",
+        "row": 1,
+        "col": 6,
+        "answer": "EDO"
+      },
+      {
+        "number": 16,
+        "clue": "Be grandiloquent",
+        "row": 1,
+        "col": 10,
+        "answer": "ORATE"
+      },
+      {
+        "number": 17,
+        "clue": "Jackets",
+        "row": 2,
+        "col": 0,
+        "answer": "ETONS"
+      },
+      {
+        "number": 18,
+        "clue": "Insect egg",
+        "row": 2,
+        "col": 6,
+        "answer": "NIT"
+      },
+      {
+        "number": 19,
+        "clue": "South African leader",
+        "row": 2,
+        "col": 10,
+        "answer": "MALAN"
+      },
+      {
+        "number": 20,
+        "clue": "Insincere",
+        "row": 3,
+        "col": 0,
+        "answer": "TONGUEINCHEEK"
+      },
+      {
+        "number": 23,
+        "clue": "Before",
+        "row": 4,
+        "col": 0,
+        "answer": "ERE"
+      },
+      {
+        "number": 24,
+        "clue": "Sought election",
+        "row": 4,
+        "col": 4,
+        "answer": "RAN"
+      },
+      {
+        "number": 25,
+        "clue": "The ___ (Boston)",
+        "row": 4,
+        "col": 8,
+        "answer": "HUB"
+      },
+      {
+        "number": 26,
+        "clue": "Dander",
+        "row": 4,
+        "col": 12,
+        "answer": "IRE"
+      },
+      {
+        "number": 29,
+        "clue": "Release",
+        "row": 5,
+        "col": 3,
+        "answer": "LETGO"
+      },
+      {
+        "number": 31,
+        "clue": "Lodestone, to Cicero",
+        "row": 5,
+        "col": 9,
+        "answer": "MAGNES"
+      },
+      {
+        "number": 33,
+        "clue": "Gluck",
+        "row": 6,
+        "col": 0,
+        "answer": "ALMA"
+      },
+      {
+        "number": 36,
+        "clue": "Imperfect goods: Abbr.",
+        "row": 6,
+        "col": 5,
+        "answer": "IRRS"
+      },
+      {
+        "number": 38,
+        "clue": "Bandman Xavier",
+        "row": 6,
+        "col": 10,
+        "answer": "CUGAT"
+      },
+      {
+        "number": 39,
+        "clue": "Skimpy biography",
+        "row": 7,
+        "col": 0,
+        "answer": "THUMBNAILSKETCH"
+      },
+      {
+        "number": 42,
+        "clue": "Light beam",
+        "row": 8,
+        "col": 0,
+        "answer": "LASER"
+      },
+      {
+        "number": 43,
+        "clue": "Affirmative of a sort",
+        "row": 8,
+        "col": 6,
+        "answer": "YEAH"
+      },
+      {
+        "number": 44,
+        "clue": "Drunkards",
+        "row": 8,
+        "col": 11,
+        "answer": "SOTS"
+      },
+      {
+        "number": 45,
+        "clue": "Makes a request",
+        "row": 9,
+        "col": 0,
+        "answer": "ASKSOF"
+      },
+      {
+        "number": 47,
+        "clue": "Pacific feasts",
+        "row": 9,
+        "col": 7,
+        "answer": "LUAUS"
+      },
+      {
+        "number": 49,
+        "clue": "___ Hill",
+        "row": 10,
+        "col": 0,
+        "answer": "SAM"
+      },
+      {
+        "number": 50,
+        "clue": "Long-tailed ape",
+        "row": 10,
+        "col": 4,
+        "answer": "KRA"
+      },
+      {
+        "number": 52,
+        "clue": "Economic indicator: Abbr.",
+        "row": 10,
+        "col": 8,
+        "answer": "GNP"
+      },
+      {
+        "number": 53,
+        "clue": "Hoo's partner",
+        "row": 10,
+        "col": 12,
+        "answer": "BOO"
+      },
+      {
+        "number": 56,
+        "clue": "Weather phenomenon",
+        "row": 11,
+        "col": 2,
+        "answer": "EYEOFTHESTORM"
+      },
+      {
+        "number": 60,
+        "clue": "___ in the face",
+        "row": 12,
+        "col": 0,
+        "answer": "ASLAP"
+      },
+      {
+        "number": 62,
+        "clue": "Add up",
+        "row": 12,
+        "col": 6,
+        "answer": "TOT"
+      },
+      {
+        "number": 63,
+        "clue": "Man's nickname",
+        "row": 12,
+        "col": 10,
+        "answer": "HOWIE"
+      },
+      {
+        "number": 64,
+        "clue": "Spondulix",
+        "row": 13,
+        "col": 0,
+        "answer": "MOOLA"
+      },
+      {
+        "number": 65,
+        "clue": "Western state: Abbr.",
+        "row": 13,
+        "col": 6,
+        "answer": "ORE"
+      },
+      {
+        "number": 66,
+        "clue": "Spanish, for one",
+        "row": 13,
+        "col": 10,
+        "answer": "ONION"
+      },
+      {
+        "number": 67,
+        "clue": "Home ___",
+        "row": 14,
+        "col": 0,
+        "answer": "OWNER"
+      },
+      {
+        "number": 68,
+        "clue": "Scand. country",
+        "row": 14,
+        "col": 6,
+        "answer": "NOR"
+      },
+      {
+        "number": 69,
+        "clue": "Certain ages",
+        "row": 14,
+        "col": 10,
+        "answer": "TEENS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "T\u00eate-___",
+        "row": 0,
+        "col": 0,
+        "answer": "ATETE"
+      },
+      {
+        "number": 2,
+        "clue": "Drive",
+        "row": 0,
+        "col": 1,
+        "answer": "MOTOR"
+      },
+      {
+        "number": 3,
+        "clue": "Nerve-cell process",
+        "row": 0,
+        "col": 2,
+        "answer": "AXONE"
+      },
+      {
+        "number": 4,
+        "clue": "Vitality",
+        "row": 0,
+        "col": 3,
+        "answer": "ZING"
+      },
+      {
+        "number": 5,
+        "clue": "Guarantee",
+        "row": 0,
+        "col": 4,
+        "answer": "ENSURE"
+      },
+      {
+        "number": 6,
+        "clue": "Confederate soldiers",
+        "row": 0,
+        "col": 6,
+        "answer": "MENINGRAY"
+      },
+      {
+        "number": 7,
+        "clue": "Norse god",
+        "row": 0,
+        "col": 7,
+        "answer": "ODIN"
+      },
+      {
+        "number": 8,
+        "clue": "Mess up",
+        "row": 0,
+        "col": 8,
+        "answer": "BOTCH"
+      },
+      {
+        "number": 9,
+        "clue": "Request to Little Sheba",
+        "row": 0,
+        "col": 10,
+        "answer": "COMEBACK"
+      },
+      {
+        "number": 10,
+        "clue": "Dies ___",
+        "row": 0,
+        "col": 11,
+        "answer": "IRAE"
+      },
+      {
+        "number": 11,
+        "clue": "Reprimand",
+        "row": 0,
+        "col": 12,
+        "answer": "TALKINGTO"
+      },
+      {
+        "number": 12,
+        "clue": "Air-board initials",
+        "row": 0,
+        "col": 13,
+        "answer": "ETA"
+      },
+      {
+        "number": 13,
+        "clue": "Room",
+        "row": 0,
+        "col": 14,
+        "answer": "DEN"
+      },
+      {
+        "number": 21,
+        "clue": "Let Mother do the cooking",
+        "row": 3,
+        "col": 5,
+        "answer": "EATIN"
+      },
+      {
+        "number": 22,
+        "clue": "Drone",
+        "row": 3,
+        "col": 9,
+        "answer": "HUM"
+      },
+      {
+        "number": 27,
+        "clue": "Respond",
+        "row": 4,
+        "col": 13,
+        "answer": "REACT"
+      },
+      {
+        "number": 28,
+        "clue": "Northern Europeans",
+        "row": 4,
+        "col": 14,
+        "answer": "ESTHS"
+      },
+      {
+        "number": 29,
+        "clue": "Metallic fabrics",
+        "row": 5,
+        "col": 3,
+        "answer": "LAMES"
+      },
+      {
+        "number": 30,
+        "clue": "Projecting window",
+        "row": 5,
+        "col": 7,
+        "answer": "ORIEL"
+      },
+      {
+        "number": 32,
+        "clue": "Educated ___",
+        "row": 5,
+        "col": 11,
+        "answer": "GUESS"
+      },
+      {
+        "number": 33,
+        "clue": "Strong man of myth",
+        "row": 6,
+        "col": 0,
+        "answer": "ATLAS"
+      },
+      {
+        "number": 34,
+        "clue": "Asian capital",
+        "row": 6,
+        "col": 1,
+        "answer": "LHASA"
+      },
+      {
+        "number": 35,
+        "clue": "Fruit-store purchase",
+        "row": 6,
+        "col": 2,
+        "answer": "MUSKMELON"
+      },
+      {
+        "number": 37,
+        "clue": "Ex-Cardinal star",
+        "row": 6,
+        "col": 8,
+        "answer": "SLAUGHTER"
+      },
+      {
+        "number": 40,
+        "clue": "Did well at golf",
+        "row": 7,
+        "col": 4,
+        "answer": "BROKEPAR"
+      },
+      {
+        "number": 41,
+        "clue": "Famous Western film",
+        "row": 7,
+        "col": 9,
+        "answer": "SHANE"
+      },
+      {
+        "number": 46,
+        "clue": "To's partner",
+        "row": 9,
+        "col": 5,
+        "answer": "FRO"
+      },
+      {
+        "number": 48,
+        "clue": "Result",
+        "row": 9,
+        "col": 10,
+        "answer": "UPSHOT"
+      },
+      {
+        "number": 51,
+        "clue": "River for Burns",
+        "row": 10,
+        "col": 6,
+        "answer": "AFTON"
+      },
+      {
+        "number": 53,
+        "clue": "Heavy knife",
+        "row": 10,
+        "col": 12,
+        "answer": "BOWIE"
+      },
+      {
+        "number": 54,
+        "clue": "Constellation",
+        "row": 10,
+        "col": 13,
+        "answer": "ORION"
+      },
+      {
+        "number": 55,
+        "clue": "Signs",
+        "row": 10,
+        "col": 14,
+        "answer": "OMENS"
+      },
+      {
+        "number": 57,
+        "clue": "Shade of blue",
+        "row": 11,
+        "col": 3,
+        "answer": "YALE"
+      },
+      {
+        "number": 58,
+        "clue": "Arena animal",
+        "row": 11,
+        "col": 7,
+        "answer": "TORO"
+      },
+      {
+        "number": 59,
+        "clue": "Shade",
+        "row": 11,
+        "col": 11,
+        "answer": "TONE"
+      },
+      {
+        "number": 60,
+        "clue": "Latin verb",
+        "row": 12,
+        "col": 0,
+        "answer": "AMO"
+      },
+      {
+        "number": 61,
+        "clue": "Plant",
+        "row": 12,
+        "col": 1,
+        "answer": "SOW"
+      }
+    ]
+  }
+}

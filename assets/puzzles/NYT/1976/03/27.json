@@ -1,0 +1,543 @@
+{
+  "id": "nyt-1976-03-27",
+  "metadata": {
+    "date": "1976-03-27",
+    "title": "NY TIMES, SAT, MAR 27, 1976",
+    "author": "H. Hastings Reddall",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    [null, "M", "I", "L", "L", "E", "R", null, "D", "I", "S", "U", "S", "E", null],
+    ["D", "I", "S", "E", "A", "S", "E", null, "E", "R", "E", "L", "O", "N", "G"],
+    ["I", "S", "O", "G", "R", "A", "M", null, "L", "I", "C", "E", "N", "C", "E"],
+    ["M", "E", "T", null, "D", "U", "A", "L", "I", "S", "T", null, "A", "I", "N"],
+    ["M", "A", "O", null, null, null, "I", "A", "M", null, null, null, "N", "N", "E"],
+    ["E", "S", "P", null, "P", "A", "N", "S", "I", "E", "S", null, "C", "A", "T"],
+    ["D", "E", "E", "P", "E", "N", "S", null, "T", "O", "P", "L", "E", "S", "S"],
+    [null, null, null, "A", "T", "E", null, null, null, "L", "A", "C", null, null, null],
+    ["V", "I", "O", "L", "E", "N", "T", null, "A", "I", "R", "M", "A", "S", "S"],
+    ["A", "S", "S", null, "S", "T", "R", "I", "P", "E", "S", null, "W", "A", "T"],
+    ["C", "O", "S", null, null, null, "E", "R", "R", null, null, null, "E", "L", "A"],
+    ["A", "B", "E", null, "G", "A", "S", "E", "O", "U", "S", null, "S", "U", "M"],
+    ["N", "A", "T", "I", "O", "N", "S", null, "P", "R", "O", "M", "O", "T", "E"],
+    ["T", "R", "I", "T", "O", "N", "E", null, "O", "A", "R", "S", "M", "E", "N"],
+    [null, "S", "C", "E", "N", "E", "S", null, "S", "L", "I", "C", "E", "R", null]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Arthur or Alice Duer",
+        "row": 0,
+        "col": 1,
+        "answer": "MILLER"
+      },
+      {
+        "number": 7,
+        "clue": "Cessation of practice",
+        "row": 0,
+        "col": 8,
+        "answer": "DISUSE"
+      },
+      {
+        "number": 13,
+        "clue": "Mumps or flu",
+        "row": 1,
+        "col": 0,
+        "answer": "DISEASE"
+      },
+      {
+        "number": 14,
+        "clue": "Soon",
+        "row": 1,
+        "col": 8,
+        "answer": "ERELONG"
+      },
+      {
+        "number": 16,
+        "clue": "Line on a chart",
+        "row": 2,
+        "col": 0,
+        "answer": "ISOGRAM"
+      },
+      {
+        "number": 17,
+        "clue": "Auto plate, to English",
+        "row": 2,
+        "col": 8,
+        "answer": "LICENCE"
+      },
+      {
+        "number": 18,
+        "clue": "Shea player",
+        "row": 3,
+        "col": 0,
+        "answer": "MET"
+      },
+      {
+        "number": 19,
+        "clue": "Advocate of a twofold doctrine",
+        "row": 3,
+        "col": 4,
+        "answer": "DUALIST"
+      },
+      {
+        "number": 21,
+        "clue": "Scottish one",
+        "row": 3,
+        "col": 12,
+        "answer": "AIN"
+      },
+      {
+        "number": 22,
+        "clue": "Chinese leader",
+        "row": 4,
+        "col": 0,
+        "answer": "MAO"
+      },
+      {
+        "number": 23,
+        "clue": "\"I think, therefore ___\"",
+        "row": 4,
+        "col": 6,
+        "answer": "IAM"
+      },
+      {
+        "number": 24,
+        "clue": "Compass reading",
+        "row": 4,
+        "col": 12,
+        "answer": "NNE"
+      },
+      {
+        "number": 25,
+        "clue": "Notably: Abbr.",
+        "row": 5,
+        "col": 0,
+        "answer": "ESP"
+      },
+      {
+        "number": 26,
+        "clue": "Garden flowers",
+        "row": 5,
+        "col": 4,
+        "answer": "PANSIES"
+      },
+      {
+        "number": 30,
+        "clue": "Mouser",
+        "row": 5,
+        "col": 12,
+        "answer": "CAT"
+      },
+      {
+        "number": 31,
+        "clue": "Becomes profound",
+        "row": 6,
+        "col": 0,
+        "answer": "DEEPENS"
+      },
+      {
+        "number": 33,
+        "clue": "Like some waitresses",
+        "row": 6,
+        "col": 8,
+        "answer": "TOPLESS"
+      },
+      {
+        "number": 35,
+        "clue": "Goddess of infatuation",
+        "row": 7,
+        "col": 3,
+        "answer": "ATE"
+      },
+      {
+        "number": 36,
+        "clue": "Resinous substance",
+        "row": 7,
+        "col": 9,
+        "answer": "LAC"
+      },
+      {
+        "number": 37,
+        "clue": "Very intense",
+        "row": 8,
+        "col": 0,
+        "answer": "VIOLENT"
+      },
+      {
+        "number": 41,
+        "clue": "Weather-forecaster's concern",
+        "row": 8,
+        "col": 8,
+        "answer": "AIRMASS"
+      },
+      {
+        "number": 45,
+        "clue": "Donkey",
+        "row": 9,
+        "col": 0,
+        "answer": "ASS"
+      },
+      {
+        "number": 46,
+        "clue": "Candy-cane features",
+        "row": 9,
+        "col": 4,
+        "answer": "STRIPES"
+      },
+      {
+        "number": 48,
+        "clue": "Cambodia's Angkor ___",
+        "row": 9,
+        "col": 12,
+        "answer": "WAT"
+      },
+      {
+        "number": 49,
+        "clue": "Romaine",
+        "row": 10,
+        "col": 0,
+        "answer": "COS"
+      },
+      {
+        "number": 50,
+        "clue": "Make a boot",
+        "row": 10,
+        "col": 6,
+        "answer": "ERR"
+      },
+      {
+        "number": 51,
+        "clue": "High note",
+        "row": 10,
+        "col": 12,
+        "answer": "ELA"
+      },
+      {
+        "number": 52,
+        "clue": "Honest name",
+        "row": 11,
+        "col": 0,
+        "answer": "ABE"
+      },
+      {
+        "number": 53,
+        "clue": "Tenuous",
+        "row": 11,
+        "col": 4,
+        "answer": "GASEOUS"
+      },
+      {
+        "number": 57,
+        "clue": "___ up (recap)",
+        "row": 11,
+        "col": 12,
+        "answer": "SUM"
+      },
+      {
+        "number": 58,
+        "clue": "Iroquoians' five",
+        "row": 12,
+        "col": 0,
+        "answer": "NATIONS"
+      },
+      {
+        "number": 60,
+        "clue": "Further",
+        "row": 12,
+        "col": 8,
+        "answer": "PROMOTE"
+      },
+      {
+        "number": 62,
+        "clue": "Musical interval",
+        "row": 13,
+        "col": 0,
+        "answer": "TRITONE"
+      },
+      {
+        "number": 63,
+        "clue": "Shell occupants",
+        "row": 13,
+        "col": 8,
+        "answer": "OARSMEN"
+      },
+      {
+        "number": 64,
+        "clue": "Behind the ___",
+        "row": 14,
+        "col": 1,
+        "answer": "SCENES"
+      },
+      {
+        "number": 65,
+        "clue": "Golf duffer, often",
+        "row": 14,
+        "col": 8,
+        "answer": "SLICER"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Discomfort",
+        "row": 0,
+        "col": 1,
+        "answer": "MISEASE"
+      },
+      {
+        "number": 2,
+        "clue": "Atomic form",
+        "row": 0,
+        "col": 2,
+        "answer": "ISOTOPE"
+      },
+      {
+        "number": 3,
+        "clue": "Chair part",
+        "row": 0,
+        "col": 3,
+        "answer": "LEG"
+      },
+      {
+        "number": 4,
+        "clue": "Cooking aid",
+        "row": 0,
+        "col": 4,
+        "answer": "LARD"
+      },
+      {
+        "number": 5,
+        "clue": "Genesis brother",
+        "row": 0,
+        "col": 5,
+        "answer": "ESAU"
+      },
+      {
+        "number": 6,
+        "clue": "Stays",
+        "row": 0,
+        "col": 6,
+        "answer": "REMAINS"
+      },
+      {
+        "number": 7,
+        "clue": "Establish bounds",
+        "row": 0,
+        "col": 8,
+        "answer": "DELIMIT"
+      },
+      {
+        "number": 8,
+        "clue": "Rainbow",
+        "row": 0,
+        "col": 9,
+        "answer": "IRIS"
+      },
+      {
+        "number": 9,
+        "clue": "Religious group",
+        "row": 0,
+        "col": 10,
+        "answer": "SECT"
+      },
+      {
+        "number": 10,
+        "clue": "Diminutive suffix",
+        "row": 0,
+        "col": 11,
+        "answer": "ULE"
+      },
+      {
+        "number": 11,
+        "clue": "Voice quality",
+        "row": 0,
+        "col": 12,
+        "answer": "SONANCE"
+      },
+      {
+        "number": 12,
+        "clue": "Live oaks",
+        "row": 0,
+        "col": 13,
+        "answer": "ENCINAS"
+      },
+      {
+        "number": 13,
+        "clue": "Switched to low beam",
+        "row": 1,
+        "col": 0,
+        "answer": "DIMMED"
+      },
+      {
+        "number": 15,
+        "clue": "Civets' relatives",
+        "row": 1,
+        "col": 14,
+        "answer": "GENETS"
+      },
+      {
+        "number": 20,
+        "clue": "___ Vegas",
+        "row": 3,
+        "col": 7,
+        "answer": "LAS"
+      },
+      {
+        "number": 26,
+        "clue": "\"For ___ sake!\"",
+        "row": 5,
+        "col": 4,
+        "answer": "PETES"
+      },
+      {
+        "number": 27,
+        "clue": "Concerning",
+        "row": 5,
+        "col": 5,
+        "answer": "ANENT"
+      },
+      {
+        "number": 28,
+        "clue": "Islands off Sicily, to Italians",
+        "row": 5,
+        "col": 9,
+        "answer": "EOLIE"
+      },
+      {
+        "number": 29,
+        "clue": "Booms",
+        "row": 5,
+        "col": 10,
+        "answer": "SPARS"
+      },
+      {
+        "number": 32,
+        "clue": "Chum",
+        "row": 6,
+        "col": 3,
+        "answer": "PAL"
+      },
+      {
+        "number": 34,
+        "clue": "Math initials",
+        "row": 6,
+        "col": 11,
+        "answer": "LCM"
+      },
+      {
+        "number": 37,
+        "clue": "Unoccupied",
+        "row": 8,
+        "col": 0,
+        "answer": "VACANT"
+      },
+      {
+        "number": 38,
+        "clue": "Weather-map lines",
+        "row": 8,
+        "col": 1,
+        "answer": "ISOBARS"
+      },
+      {
+        "number": 39,
+        "clue": "Of a Caucasus people",
+        "row": 8,
+        "col": 2,
+        "answer": "OSSETIC"
+      },
+      {
+        "number": 40,
+        "clue": "Locks",
+        "row": 8,
+        "col": 6,
+        "answer": "TRESSES"
+      },
+      {
+        "number": 41,
+        "clue": "Relevant",
+        "row": 8,
+        "col": 8,
+        "answer": "APROPOS"
+      },
+      {
+        "number": 42,
+        "clue": "Dreadful",
+        "row": 8,
+        "col": 12,
+        "answer": "AWESOME"
+      },
+      {
+        "number": 43,
+        "clue": "Soldier, at times",
+        "row": 8,
+        "col": 13,
+        "answer": "SALUTER"
+      },
+      {
+        "number": 44,
+        "clue": "Flower part",
+        "row": 8,
+        "col": 14,
+        "answer": "STAMEN"
+      },
+      {
+        "number": 47,
+        "clue": "Anger",
+        "row": 9,
+        "col": 7,
+        "answer": "IRE"
+      },
+      {
+        "number": 53,
+        "clue": "Hired thug",
+        "row": 11,
+        "col": 4,
+        "answer": "GOON"
+      },
+      {
+        "number": 54,
+        "clue": "Hathaway",
+        "row": 11,
+        "col": 5,
+        "answer": "ANNE"
+      },
+      {
+        "number": 55,
+        "clue": "Soviet river",
+        "row": 11,
+        "col": 9,
+        "answer": "URAL"
+      },
+      {
+        "number": 56,
+        "clue": "Fern clusters",
+        "row": 11,
+        "col": 10,
+        "answer": "SORI"
+      },
+      {
+        "number": 59,
+        "clue": "Native: Suffix",
+        "row": 12,
+        "col": 3,
+        "answer": "ITE"
+      },
+      {
+        "number": 61,
+        "clue": "Graduate degree",
+        "row": 12,
+        "col": 11,
+        "answer": "MSC"
+      }
+    ]
+  }
+}

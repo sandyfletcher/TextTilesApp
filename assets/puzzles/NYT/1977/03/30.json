@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1977-03-30",
+  "metadata": {
+    "date": "1977-03-30",
+    "title": "NY TIMES, WED, MAR 30, 1977",
+    "author": "Evelyn B. Rosenthal",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["T", "A", "R", "S", null, "S", "I", "D", "E", "R", null, "A", "C", "T", "S"],
+    ["E", "P", "I", "C", null, "E", "R", "A", "S", "E", null, "S", "H", "O", "T"],
+    ["N", "E", "M", "O", null, "N", "E", "W", "T", "S", null, "H", "U", "G", "O"],
+    [null, null, null, "R", "O", "T", null, "N", "O", "T", "S", null, "C", "A", "R"],
+    ["F", "R", "A", "N", "C", "I", "S", "S", "C", "O", "T", "T", "K", "E", "Y"],
+    ["L", "E", "M", null, "T", "E", "T", "E", null, "N", "A", "E", null, null, null],
+    ["O", "P", "U", "S", null, "N", "O", "A", "H", null, "G", "A", "M", "I", "N"],
+    ["R", "O", "C", "K", "E", "T", "S", "R", "E", "D", "G", "L", "A", "R", "E"],
+    ["A", "S", "K", "I", "P", null, "S", "L", "A", "Y", null, "S", "L", "A", "P"],
+    [null, null, null, "E", "S", "Q", null, "Y", "V", "E", "S", null, "T", "N", "A"],
+    ["S", "O", "P", "R", "O", "U", "D", "L", "Y", "W", "E", "H", "A", "I", "L"],
+    ["O", "R", "A", null, "M", "E", "R", "I", null, "E", "T", "A", null, null, null],
+    ["R", "A", "T", "S", null, "B", "U", "G", "L", "E", null, "I", "R", "A", "Q"],
+    ["U", "T", "E", "S", null, "E", "P", "H", "O", "D", null, "R", "O", "L", "E"],
+    ["S", "E", "R", "E", null, "C", "E", "T", "U", "S", null, "S", "E", "E", "D"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Salts",
+        "row": 0,
+        "col": 0,
+        "answer": "TARS"
+      },
+      {
+        "number": 5,
+        "clue": "Partisan",
+        "row": 0,
+        "col": 5,
+        "answer": "SIDER"
+      },
+      {
+        "number": 10,
+        "clue": "Book of the Bible",
+        "row": 0,
+        "col": 11,
+        "answer": "ACTS"
+      },
+      {
+        "number": 14,
+        "clue": "Iliad, e.g.",
+        "row": 1,
+        "col": 0,
+        "answer": "EPIC"
+      },
+      {
+        "number": 15,
+        "clue": "Obliterate",
+        "row": 1,
+        "col": 5,
+        "answer": "ERASE"
+      },
+      {
+        "number": 16,
+        "clue": "Marksman",
+        "row": 1,
+        "col": 11,
+        "answer": "SHOT"
+      },
+      {
+        "number": 17,
+        "clue": "Verne character",
+        "row": 2,
+        "col": 0,
+        "answer": "NEMO"
+      },
+      {
+        "number": 18,
+        "clue": "Salamanders",
+        "row": 2,
+        "col": 5,
+        "answer": "NEWTS"
+      },
+      {
+        "number": 19,
+        "clue": "French author (1802\u20131885)",
+        "row": 2,
+        "col": 11,
+        "answer": "HUGO"
+      },
+      {
+        "number": 20,
+        "clue": "Decay",
+        "row": 3,
+        "col": 3,
+        "answer": "ROT"
+      },
+      {
+        "number": 22,
+        "clue": "Negations",
+        "row": 3,
+        "col": 7,
+        "answer": "NOTS"
+      },
+      {
+        "number": 24,
+        "clue": "Durant or Essex",
+        "row": 3,
+        "col": 12,
+        "answer": "CAR"
+      },
+      {
+        "number": 25,
+        "clue": "Anthem author",
+        "row": 4,
+        "col": 0,
+        "answer": "FRANCISSCOTTKEY"
+      },
+      {
+        "number": 30,
+        "clue": "Vehicle used on the moon",
+        "row": 5,
+        "col": 0,
+        "answer": "LEM"
+      },
+      {
+        "number": 31,
+        "clue": "Head, in Le Havre",
+        "row": 5,
+        "col": 4,
+        "answer": "TETE"
+      },
+      {
+        "number": 32,
+        "clue": "Sandy's denial",
+        "row": 5,
+        "col": 9,
+        "answer": "NAE"
+      },
+      {
+        "number": 33,
+        "clue": "Magnum ___",
+        "row": 6,
+        "col": 0,
+        "answer": "OPUS"
+      },
+      {
+        "number": 35,
+        "clue": "Ham's father",
+        "row": 6,
+        "col": 5,
+        "answer": "NOAH"
+      },
+      {
+        "number": 37,
+        "clue": "Pert lad",
+        "row": 6,
+        "col": 10,
+        "answer": "GAMIN"
+      },
+      {
+        "number": 41,
+        "clue": "Anthem words",
+        "row": 7,
+        "col": 0,
+        "answer": "ROCKETSREDGLARE"
+      },
+      {
+        "number": 44,
+        "clue": "Gamboling",
+        "row": 8,
+        "col": 0,
+        "answer": "ASKIP"
+      },
+      {
+        "number": 45,
+        "clue": "Do in",
+        "row": 8,
+        "col": 6,
+        "answer": "SLAY"
+      },
+      {
+        "number": 46,
+        "clue": "Rebuff",
+        "row": 8,
+        "col": 11,
+        "answer": "SLAP"
+      },
+      {
+        "number": 47,
+        "clue": "Title of respect: Abbr.",
+        "row": 9,
+        "col": 3,
+        "answer": "ESQ"
+      },
+      {
+        "number": 49,
+        "clue": "Saint Laurent",
+        "row": 9,
+        "col": 7,
+        "answer": "YVES"
+      },
+      {
+        "number": 51,
+        "clue": "Relative of TNT",
+        "row": 9,
+        "col": 12,
+        "answer": "TNA"
+      },
+      {
+        "number": 52,
+        "clue": "1943 war movie",
+        "row": 10,
+        "col": 0,
+        "answer": "SOPROUDLYWEHAIL"
+      },
+      {
+        "number": 57,
+        "clue": "___ pro nobis",
+        "row": 11,
+        "col": 0,
+        "answer": "ORA"
+      },
+      {
+        "number": 58,
+        "clue": "Part: Prefix",
+        "row": 11,
+        "col": 4,
+        "answer": "MERI"
+      },
+      {
+        "number": 59,
+        "clue": "Greek vowel",
+        "row": 11,
+        "col": 9,
+        "answer": "ETA"
+      },
+      {
+        "number": 60,
+        "clue": "\"Gosh darn it!\"",
+        "row": 12,
+        "col": 0,
+        "answer": "RATS"
+      },
+      {
+        "number": 62,
+        "clue": "G.I.'s alarm clock",
+        "row": 12,
+        "col": 5,
+        "answer": "BUGLE"
+      },
+      {
+        "number": 64,
+        "clue": "Modern Mesopotamia",
+        "row": 12,
+        "col": 11,
+        "answer": "IRAQ"
+      },
+      {
+        "number": 68,
+        "clue": "Western Indians",
+        "row": 13,
+        "col": 0,
+        "answer": "UTES"
+      },
+      {
+        "number": 69,
+        "clue": "High priest's vestment",
+        "row": 13,
+        "col": 5,
+        "answer": "EPHOD"
+      },
+      {
+        "number": 70,
+        "clue": "Lead or bit",
+        "row": 13,
+        "col": 11,
+        "answer": "ROLE"
+      },
+      {
+        "number": 71,
+        "clue": "Dry",
+        "row": 14,
+        "col": 0,
+        "answer": "SERE"
+      },
+      {
+        "number": 72,
+        "clue": "Constellation (the Whale)",
+        "row": 14,
+        "col": 5,
+        "answer": "CETUS"
+      },
+      {
+        "number": 73,
+        "clue": "Gardener's purchase",
+        "row": 14,
+        "col": 11,
+        "answer": "SEED"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Base of decimal system",
+        "row": 0,
+        "col": 0,
+        "answer": "TEN"
+      },
+      {
+        "number": 2,
+        "clue": "Zoo attraction",
+        "row": 0,
+        "col": 1,
+        "answer": "APE"
+      },
+      {
+        "number": 3,
+        "clue": "Edge",
+        "row": 0,
+        "col": 2,
+        "answer": "RIM"
+      },
+      {
+        "number": 4,
+        "clue": "Contempt",
+        "row": 0,
+        "col": 3,
+        "answer": "SCORN"
+      },
+      {
+        "number": 5,
+        "clue": "Having feeling",
+        "row": 0,
+        "col": 5,
+        "answer": "SENTIENT"
+      },
+      {
+        "number": 6,
+        "clue": "Wrath",
+        "row": 0,
+        "col": 6,
+        "answer": "IRE"
+      },
+      {
+        "number": 7,
+        "clue": "Anthem words",
+        "row": 0,
+        "col": 7,
+        "answer": "DAWNSEARLYLIGHT"
+      },
+      {
+        "number": 8,
+        "clue": "Old sword",
+        "row": 0,
+        "col": 8,
+        "answer": "ESTOC"
+      },
+      {
+        "number": 9,
+        "clue": "Noted columnist",
+        "row": 0,
+        "col": 9,
+        "answer": "RESTON"
+      },
+      {
+        "number": 10,
+        "clue": "Light gray",
+        "row": 0,
+        "col": 11,
+        "answer": "ASH"
+      },
+      {
+        "number": 11,
+        "clue": "Meat for hamburgers",
+        "row": 0,
+        "col": 12,
+        "answer": "CHUCK"
+      },
+      {
+        "number": 12,
+        "clue": "Caesar's robes",
+        "row": 0,
+        "col": 13,
+        "answer": "TOGAE"
+      },
+      {
+        "number": 13,
+        "clue": "O. Henry product",
+        "row": 0,
+        "col": 14,
+        "answer": "STORY"
+      },
+      {
+        "number": 21,
+        "clue": "Month: Abbr.",
+        "row": 3,
+        "col": 4,
+        "answer": "OCT"
+      },
+      {
+        "number": 23,
+        "clue": "Grand old man of football",
+        "row": 3,
+        "col": 10,
+        "answer": "STAGG"
+      },
+      {
+        "number": 25,
+        "clue": "Fauna's partner",
+        "row": 4,
+        "col": 0,
+        "answer": "FLORA"
+      },
+      {
+        "number": 26,
+        "clue": "Rest, in Rennes",
+        "row": 4,
+        "col": 1,
+        "answer": "REPOS"
+      },
+      {
+        "number": 27,
+        "clue": "Run ___ (go wild)",
+        "row": 4,
+        "col": 2,
+        "answer": "AMUCK"
+      },
+      {
+        "number": 28,
+        "clue": "Facing a glacier",
+        "row": 4,
+        "col": 6,
+        "answer": "STOSS"
+      },
+      {
+        "number": 29,
+        "clue": "Ducks",
+        "row": 4,
+        "col": 11,
+        "answer": "TEALS"
+      },
+      {
+        "number": 34,
+        "clue": "Kanone",
+        "row": 6,
+        "col": 3,
+        "answer": "SKIER"
+      },
+      {
+        "number": 36,
+        "clue": "Ponderous",
+        "row": 6,
+        "col": 8,
+        "answer": "HEAVY"
+      },
+      {
+        "number": 38,
+        "clue": "Gozo's neighbor",
+        "row": 6,
+        "col": 12,
+        "answer": "MALTA"
+      },
+      {
+        "number": 39,
+        "clue": "Modern Persian",
+        "row": 6,
+        "col": 13,
+        "answer": "IRANI"
+      },
+      {
+        "number": 40,
+        "clue": "One of Sikkim's neighbors",
+        "row": 6,
+        "col": 14,
+        "answer": "NEPAL"
+      },
+      {
+        "number": 42,
+        "clue": "Salts or Downs",
+        "row": 7,
+        "col": 4,
+        "answer": "EPSOM"
+      },
+      {
+        "number": 43,
+        "clue": "Shrubs with yellow flowers",
+        "row": 7,
+        "col": 9,
+        "answer": "DYEWEEDS"
+      },
+      {
+        "number": 48,
+        "clue": "Where Montgomery died: 1775",
+        "row": 9,
+        "col": 5,
+        "answer": "QUEBEC"
+      },
+      {
+        "number": 50,
+        "clue": "Fixed",
+        "row": 9,
+        "col": 10,
+        "answer": "SET"
+      },
+      {
+        "number": 52,
+        "clue": "Spore cluster of a fern",
+        "row": 10,
+        "col": 0,
+        "answer": "SORUS"
+      },
+      {
+        "number": 53,
+        "clue": "Make a speech",
+        "row": 10,
+        "col": 1,
+        "answer": "ORATE"
+      },
+      {
+        "number": 54,
+        "clue": "Eton boy's father",
+        "row": 10,
+        "col": 2,
+        "answer": "PATER"
+      },
+      {
+        "number": 55,
+        "clue": "Peach or plum, e.g.",
+        "row": 10,
+        "col": 6,
+        "answer": "DRUPE"
+      },
+      {
+        "number": 56,
+        "clue": "Split ___",
+        "row": 10,
+        "col": 11,
+        "answer": "HAIRS"
+      },
+      {
+        "number": 61,
+        "clue": "Compass direction",
+        "row": 12,
+        "col": 3,
+        "answer": "SSE"
+      },
+      {
+        "number": 63,
+        "clue": "McGrew's gal",
+        "row": 12,
+        "col": 8,
+        "answer": "LOU"
+      },
+      {
+        "number": 65,
+        "clue": "Fish eggs",
+        "row": 12,
+        "col": 12,
+        "answer": "ROE"
+      },
+      {
+        "number": 66,
+        "clue": "Wassail drink",
+        "row": 12,
+        "col": 13,
+        "answer": "ALE"
+      },
+      {
+        "number": 67,
+        "clue": "Math proof",
+        "row": 12,
+        "col": 14,
+        "answer": "QED"
+      }
+    ]
+  }
+}

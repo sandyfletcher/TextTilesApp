@@ -1,0 +1,599 @@
+{
+  "id": "nyt-1976-01-28",
+  "metadata": {
+    "date": "1976-01-28",
+    "title": "NY TIMES, WED, JAN 28, 1976",
+    "author": "Steele",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["N", "O", "T", "U", "P", null, "M", "O", "T", "O", null, "S", "C", "A", "N"],
+    ["E", "V", "O", "K", "E", null, "I", "D", "O", "L", null, "N", "I", "P", "A"],
+    ["R", "I", "M", "E", "R", null, "L", "O", "R", "D", "P", "E", "T", "E", "R"],
+    ["O", "D", "E", null, "S", "A", "A", "R", null, "E", "L", "L", "E", "R", "Y"],
+    [null, null, null, "M", "I", "N", "N", null, "A", "R", "I", "L", null, null, null],
+    ["D", "A", "Y", "I", "S", "G", "O", "N", "E", null, "E", "S", "S", "E", "S"],
+    ["O", "P", "E", "N", "T", "O", null, "G", "O", "L", "D", null, "I", "N", "N"],
+    ["L", "A", "M", "E", null, "L", "I", "A", "N", "A", null, "O", "N", "C", "E"],
+    ["E", "R", "E", null, "R", "A", "N", "I", null, "R", "E", "V", "E", "R", "E"],
+    ["D", "A", "N", "C", "E", null, "T", "O", "P", "D", "R", "A", "W", "E", "R"],
+    [null, null, null, "O", "L", "A", "S", null, "O", "E", "I", "L", null, null, null],
+    ["B", "A", "R", "R", "E", "L", null, "G", "I", "R", "T", null, "P", "O", "E"],
+    ["I", "N", "S", "P", "E", "C", "T", "O", "R", null, "R", "E", "A", "M", "S"],
+    ["S", "I", "T", "U", null, "A", "E", "R", "O", null, "E", "L", "L", "E", "N"],
+    ["E", "M", "U", "S", null, "N", "Y", "E", "T", null, "A", "L", "O", "N", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Still abed",
+        "row": 0,
+        "col": 0,
+        "answer": "NOTUP"
+      },
+      {
+        "number": 6,
+        "clue": "Marquand's sleuth",
+        "row": 0,
+        "col": 6,
+        "answer": "MOTO"
+      },
+      {
+        "number": 10,
+        "clue": "Look over",
+        "row": 0,
+        "col": 11,
+        "answer": "SCAN"
+      },
+      {
+        "number": 14,
+        "clue": "Call forth",
+        "row": 1,
+        "col": 0,
+        "answer": "EVOKE"
+      },
+      {
+        "number": 15,
+        "clue": "Admired one",
+        "row": 1,
+        "col": 6,
+        "answer": "IDOL"
+      },
+      {
+        "number": 16,
+        "clue": "Palm",
+        "row": 1,
+        "col": 11,
+        "answer": "NIPA"
+      },
+      {
+        "number": 17,
+        "clue": "Versifier: Var.",
+        "row": 2,
+        "col": 0,
+        "answer": "RIMER"
+      },
+      {
+        "number": 18,
+        "clue": "Dorothy's noble sleuth",
+        "row": 2,
+        "col": 6,
+        "answer": "LORDPETER"
+      },
+      {
+        "number": 20,
+        "clue": "Verse form",
+        "row": 3,
+        "col": 0,
+        "answer": "ODE"
+      },
+      {
+        "number": 21,
+        "clue": "German area",
+        "row": 3,
+        "col": 4,
+        "answer": "SAAR"
+      },
+      {
+        "number": 23,
+        "clue": "Queen",
+        "row": 3,
+        "col": 9,
+        "answer": "ELLERY"
+      },
+      {
+        "number": 24,
+        "clue": "State: Abbr.",
+        "row": 4,
+        "col": 3,
+        "answer": "MINN"
+      },
+      {
+        "number": 25,
+        "clue": "Seed cover",
+        "row": 4,
+        "col": 8,
+        "answer": "ARIL"
+      },
+      {
+        "number": 26,
+        "clue": "\"The ___ and all its sweets . . . \"",
+        "row": 5,
+        "col": 0,
+        "answer": "DAYISGONE"
+      },
+      {
+        "number": 30,
+        "clue": "Curves",
+        "row": 5,
+        "col": 10,
+        "answer": "ESSES"
+      },
+      {
+        "number": 34,
+        "clue": "___ the public",
+        "row": 6,
+        "col": 0,
+        "answer": "OPENTO"
+      },
+      {
+        "number": 35,
+        "clue": "As good as ___",
+        "row": 6,
+        "col": 7,
+        "answer": "GOLD"
+      },
+      {
+        "number": 37,
+        "clue": "Resting spot",
+        "row": 6,
+        "col": 12,
+        "answer": "INN"
+      },
+      {
+        "number": 38,
+        "clue": "Like many excuses",
+        "row": 7,
+        "col": 0,
+        "answer": "LAME"
+      },
+      {
+        "number": 39,
+        "clue": "Vine",
+        "row": 7,
+        "col": 5,
+        "answer": "LIANA"
+      },
+      {
+        "number": 41,
+        "clue": "___-over lightly",
+        "row": 7,
+        "col": 11,
+        "answer": "ONCE"
+      },
+      {
+        "number": 42,
+        "clue": "Prior to",
+        "row": 8,
+        "col": 0,
+        "answer": "ERE"
+      },
+      {
+        "number": 43,
+        "clue": "Eastern queen",
+        "row": 8,
+        "col": 4,
+        "answer": "RANI"
+      },
+      {
+        "number": 44,
+        "clue": "Night rider",
+        "row": 8,
+        "col": 9,
+        "answer": "REVERE"
+      },
+      {
+        "number": 46,
+        "clue": "Snake or dinner",
+        "row": 9,
+        "col": 0,
+        "answer": "DANCE"
+      },
+      {
+        "number": 48,
+        "clue": "First-class",
+        "row": 9,
+        "col": 6,
+        "answer": "TOPDRAWER"
+      },
+      {
+        "number": 50,
+        "clue": "Waves, in Spain",
+        "row": 10,
+        "col": 3,
+        "answer": "OLAS"
+      },
+      {
+        "number": 52,
+        "clue": "___-de-boeuf",
+        "row": 10,
+        "col": 8,
+        "answer": "OEIL"
+      },
+      {
+        "number": 53,
+        "clue": "Container for a beer polka",
+        "row": 11,
+        "col": 0,
+        "answer": "BARREL"
+      },
+      {
+        "number": 56,
+        "clue": "Surrounded by",
+        "row": 11,
+        "col": 7,
+        "answer": "GIRT"
+      },
+      {
+        "number": 57,
+        "clue": "Dupin's creator",
+        "row": 11,
+        "col": 12,
+        "answer": "POE"
+      },
+      {
+        "number": 60,
+        "clue": "Scotland Yard V.I.P.",
+        "row": 12,
+        "col": 0,
+        "answer": "INSPECTOR"
+      },
+      {
+        "number": 62,
+        "clue": "Scads",
+        "row": 12,
+        "col": 10,
+        "answer": "REAMS"
+      },
+      {
+        "number": 64,
+        "clue": "In ___ (in place)",
+        "row": 13,
+        "col": 0,
+        "answer": "SITU"
+      },
+      {
+        "number": 65,
+        "clue": "Flying prefix",
+        "row": 13,
+        "col": 5,
+        "answer": "AERO"
+      },
+      {
+        "number": 66,
+        "clue": "Miss Terry",
+        "row": 13,
+        "col": 10,
+        "answer": "ELLEN"
+      },
+      {
+        "number": 67,
+        "clue": "Big birds",
+        "row": 14,
+        "col": 0,
+        "answer": "EMUS"
+      },
+      {
+        "number": 68,
+        "clue": "Moscow refusal",
+        "row": 14,
+        "col": 5,
+        "answer": "NYET"
+      },
+      {
+        "number": 69,
+        "clue": "\"One ___\"",
+        "row": 14,
+        "col": 10,
+        "answer": "ALONE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Stout sleuth",
+        "row": 0,
+        "col": 0,
+        "answer": "NERO"
+      },
+      {
+        "number": 2,
+        "clue": "Roman poet",
+        "row": 0,
+        "col": 1,
+        "answer": "OVID"
+      },
+      {
+        "number": 3,
+        "clue": "Volume",
+        "row": 0,
+        "col": 2,
+        "answer": "TOME"
+      },
+      {
+        "number": 4,
+        "clue": "Music maker",
+        "row": 0,
+        "col": 3,
+        "answer": "UKE"
+      },
+      {
+        "number": 5,
+        "clue": "Stick with it",
+        "row": 0,
+        "col": 4,
+        "answer": "PERSIST"
+      },
+      {
+        "number": 6,
+        "clue": "Home of La Scala",
+        "row": 0,
+        "col": 6,
+        "answer": "MILANO"
+      },
+      {
+        "number": 7,
+        "clue": "Redolence",
+        "row": 0,
+        "col": 7,
+        "answer": "ODOR"
+      },
+      {
+        "number": 8,
+        "clue": "Crag",
+        "row": 0,
+        "col": 8,
+        "answer": "TOR"
+      },
+      {
+        "number": 9,
+        "clue": "More timeworn",
+        "row": 0,
+        "col": 9,
+        "answer": "OLDER"
+      },
+      {
+        "number": 10,
+        "clue": "Fishline parts",
+        "row": 0,
+        "col": 11,
+        "answer": "SNELLS"
+      },
+      {
+        "number": 11,
+        "clue": "Refer to",
+        "row": 0,
+        "col": 12,
+        "answer": "CITE"
+      },
+      {
+        "number": 12,
+        "clue": "Mime",
+        "row": 0,
+        "col": 13,
+        "answer": "APER"
+      },
+      {
+        "number": 13,
+        "clue": "Not a bit",
+        "row": 0,
+        "col": 14,
+        "answer": "NARY"
+      },
+      {
+        "number": 19,
+        "clue": "Carried on",
+        "row": 2,
+        "col": 10,
+        "answer": "PLIED"
+      },
+      {
+        "number": 22,
+        "clue": "Luanda's country",
+        "row": 3,
+        "col": 5,
+        "answer": "ANGOLA"
+      },
+      {
+        "number": 24,
+        "clue": "Underwater weapon",
+        "row": 4,
+        "col": 3,
+        "answer": "MINE"
+      },
+      {
+        "number": 25,
+        "clue": "Long period",
+        "row": 4,
+        "col": 8,
+        "answer": "AEON"
+      },
+      {
+        "number": 26,
+        "clue": "Parceled out",
+        "row": 5,
+        "col": 0,
+        "answer": "DOLED"
+      },
+      {
+        "number": 27,
+        "clue": "Armadillo",
+        "row": 5,
+        "col": 1,
+        "answer": "APARA"
+      },
+      {
+        "number": 28,
+        "clue": "Arabian area",
+        "row": 5,
+        "col": 2,
+        "answer": "YEMEN"
+      },
+      {
+        "number": 29,
+        "clue": "Marsh of whodunits",
+        "row": 5,
+        "col": 7,
+        "answer": "NGAIO"
+      },
+      {
+        "number": 31,
+        "clue": "Tendon",
+        "row": 5,
+        "col": 12,
+        "answer": "SINEW"
+      },
+      {
+        "number": 32,
+        "clue": "French penman's need",
+        "row": 5,
+        "col": 13,
+        "answer": "ENCRE"
+      },
+      {
+        "number": 33,
+        "clue": "Insulting look",
+        "row": 5,
+        "col": 14,
+        "answer": "SNEER"
+      },
+      {
+        "number": 36,
+        "clue": "Pantry",
+        "row": 6,
+        "col": 9,
+        "answer": "LARDER"
+      },
+      {
+        "number": 40,
+        "clue": "Savings-book entries: Abbr.",
+        "row": 7,
+        "col": 6,
+        "answer": "INTS"
+      },
+      {
+        "number": 41,
+        "clue": "Like an egg",
+        "row": 7,
+        "col": 11,
+        "answer": "OVAL"
+      },
+      {
+        "number": 43,
+        "clue": "Confederate signature",
+        "row": 8,
+        "col": 4,
+        "answer": "RELEE"
+      },
+      {
+        "number": 45,
+        "clue": "Part of Ethiopia",
+        "row": 8,
+        "col": 10,
+        "answer": "ERITREA"
+      },
+      {
+        "number": 47,
+        "clue": "Whodunit's delicti",
+        "row": 9,
+        "col": 3,
+        "answer": "CORPUS"
+      },
+      {
+        "number": 49,
+        "clue": "Christie's late steuth",
+        "row": 9,
+        "col": 8,
+        "answer": "POIROT"
+      },
+      {
+        "number": 51,
+        "clue": "Highway to north",
+        "row": 10,
+        "col": 5,
+        "answer": "ALCAN"
+      },
+      {
+        "number": 53,
+        "clue": "Alpine wind",
+        "row": 11,
+        "col": 0,
+        "answer": "BISE"
+      },
+      {
+        "number": 54,
+        "clue": "Lively, in music: Abbr.",
+        "row": 11,
+        "col": 1,
+        "answer": "ANIM"
+      },
+      {
+        "number": 55,
+        "clue": "Between Q and V",
+        "row": 11,
+        "col": 2,
+        "answer": "RSTU"
+      },
+      {
+        "number": 56,
+        "clue": "Whodunit fluid",
+        "row": 11,
+        "col": 7,
+        "answer": "GORE"
+      },
+      {
+        "number": 57,
+        "clue": "___ Alto",
+        "row": 11,
+        "col": 12,
+        "answer": "PALO"
+      },
+      {
+        "number": 58,
+        "clue": "Portent",
+        "row": 11,
+        "col": 13,
+        "answer": "OMEN"
+      },
+      {
+        "number": 59,
+        "clue": "Early serf",
+        "row": 11,
+        "col": 14,
+        "answer": "ESNE"
+      },
+      {
+        "number": 61,
+        "clue": "Writer Josephine",
+        "row": 12,
+        "col": 6,
+        "answer": "TEY"
+      },
+      {
+        "number": 63,
+        "clue": "Wing",
+        "row": 12,
+        "col": 11,
+        "answer": "ELL"
+      }
+    ]
+  }
+}

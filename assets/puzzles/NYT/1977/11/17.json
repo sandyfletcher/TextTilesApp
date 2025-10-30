@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1977-11-17",
+  "metadata": {
+    "date": "1977-11-17",
+    "title": "NY TIMES, THU, NOV 11, 1977",
+    "author": "Arnold Moss",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["H", "E", "L", "M", null, "P", "E", "S", "T", "S", null, "B", "L", "I", "P"],
+    ["O", "G", "L", "E", null, "E", "L", "I", "O", "T", null, "A", "I", "D", "E"],
+    ["U", "R", "A", "L", null, "D", "I", "A", "N", "E", null, "S", "V", "E", "N"],
+    ["R", "E", "M", null, "D", "I", "A", "M", "O", "N", "D", "H", "E", "A", "D"],
+    ["I", "T", "A", "L", "I", "C", "S", null, null, "C", "O", "E", "D", "S", null],
+    [null, null, null, "I", "N", "A", null, "A", "L", "I", "A", "S", null, null, null],
+    ["O", "V", "E", "R", "A", "B", "E", "R", "Y", "L", null, null, "H", "U", "M"],
+    ["N", "E", "V", "E", "R", null, "M", "A", "L", null, "E", "R", "A", "S", "E"],
+    ["A", "X", "E", null, null, "R", "U", "B", "Y", "K", "E", "E", "L", "E", "R"],
+    [null, null, null, "W", "O", "O", "L", "Y", null, "I", "R", "A", null, null, null],
+    [null, "S", "H", "A", "L", "L", null, null, "A", "L", "I", "M", "O", "N", "Y"],
+    ["E", "M", "E", "R", "A", "L", "D", "I", "S", "L", "E", null, "Z", "O", "O"],
+    ["Y", "E", "A", "R", null, "T", "E", "N", "S", "E", null, "F", "O", "R", "D"],
+    ["E", "A", "V", "E", null, "O", "A", "T", "E", "R", null, "I", "N", "G", "E"],
+    ["D", "R", "E", "D", null, "P", "L", "O", "T", "S", null, "R", "E", "E", "L"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tiller",
+        "row": 0,
+        "col": 0,
+        "answer": "HELM"
+      },
+      {
+        "number": 5,
+        "clue": "Irksome imps",
+        "row": 0,
+        "col": 5,
+        "answer": "PESTS"
+      },
+      {
+        "number": 10,
+        "clue": "Mark on a radar screen",
+        "row": 0,
+        "col": 11,
+        "answer": "BLIP"
+      },
+      {
+        "number": 14,
+        "clue": "Give the glad eye to",
+        "row": 1,
+        "col": 0,
+        "answer": "OGLE"
+      },
+      {
+        "number": 15,
+        "clue": "\"Prufrock\" author",
+        "row": 1,
+        "col": 5,
+        "answer": "ELIOT"
+      },
+      {
+        "number": 16,
+        "clue": "Nurse's ___",
+        "row": 1,
+        "col": 11,
+        "answer": "AIDE"
+      },
+      {
+        "number": 17,
+        "clue": "Soviet river",
+        "row": 2,
+        "col": 0,
+        "answer": "URAL"
+      },
+      {
+        "number": 18,
+        "clue": "Actress Keaton",
+        "row": 2,
+        "col": 5,
+        "answer": "DIANE"
+      },
+      {
+        "number": 19,
+        "clue": "___ Hedin, Gobi explorer",
+        "row": 2,
+        "col": 11,
+        "answer": "SVEN"
+      },
+      {
+        "number": 20,
+        "clue": "Ad ___ (relevant)",
+        "row": 3,
+        "col": 0,
+        "answer": "REM"
+      },
+      {
+        "number": 21,
+        "clue": "Oahu landmark",
+        "row": 3,
+        "col": 4,
+        "answer": "DIAMONDHEAD"
+      },
+      {
+        "number": 23,
+        "clue": "Emphatic print type",
+        "row": 4,
+        "col": 0,
+        "answer": "ITALICS"
+      },
+      {
+        "number": 25,
+        "clue": "Campus group",
+        "row": 4,
+        "col": 9,
+        "answer": "COEDS"
+      },
+      {
+        "number": 26,
+        "clue": "\"___ Vale,\" Frost poem",
+        "row": 5,
+        "col": 3,
+        "answer": "INA"
+      },
+      {
+        "number": 27,
+        "clue": "Pseudonym",
+        "row": 5,
+        "col": 7,
+        "answer": "ALIAS"
+      },
+      {
+        "number": 29,
+        "clue": "Precariously situated, as a jeweler?",
+        "row": 6,
+        "col": 0,
+        "answer": "OVERABERYL"
+      },
+      {
+        "number": 33,
+        "clue": "Buzz",
+        "row": 6,
+        "col": 12,
+        "answer": "HUM"
+      },
+      {
+        "number": 36,
+        "clue": "At no time",
+        "row": 7,
+        "col": 0,
+        "answer": "NEVER"
+      },
+      {
+        "number": 37,
+        "clue": "Baudelaire's \"Les Fleurs du ___\"",
+        "row": 7,
+        "col": 6,
+        "answer": "MAL"
+      },
+      {
+        "number": 38,
+        "clue": "Rub out",
+        "row": 7,
+        "col": 10,
+        "answer": "ERASE"
+      },
+      {
+        "number": 40,
+        "clue": "What employees sometimes get",
+        "row": 8,
+        "col": 0,
+        "answer": "AXE"
+      },
+      {
+        "number": 41,
+        "clue": "Star of \"No, No, Nanette\" revival",
+        "row": 8,
+        "col": 5,
+        "answer": "RUBYKEELER"
+      },
+      {
+        "number": 43,
+        "clue": "Lanate: Var.",
+        "row": 9,
+        "col": 3,
+        "answer": "WOOLY"
+      },
+      {
+        "number": 45,
+        "clue": "Gershwin, the lyricist",
+        "row": 9,
+        "col": 9,
+        "answer": "IRA"
+      },
+      {
+        "number": 46,
+        "clue": "Sherwood's \"There ___ Be No Night\"",
+        "row": 10,
+        "col": 1,
+        "answer": "SHALL"
+      },
+      {
+        "number": 48,
+        "clue": "Divorc\u00e9's penance",
+        "row": 10,
+        "col": 8,
+        "answer": "ALIMONY"
+      },
+      {
+        "number": 52,
+        "clue": "Land of \"Mother Machree\"",
+        "row": 11,
+        "col": 0,
+        "answer": "EMERALDISLE"
+      },
+      {
+        "number": 55,
+        "clue": "Albee's \"___ Story\"",
+        "row": 11,
+        "col": 12,
+        "answer": "ZOO"
+      },
+      {
+        "number": 56,
+        "clue": "1492, e.g.",
+        "row": 12,
+        "col": 0,
+        "answer": "YEAR"
+      },
+      {
+        "number": 57,
+        "clue": "Up-tight",
+        "row": 12,
+        "col": 5,
+        "answer": "TENSE"
+      },
+      {
+        "number": 58,
+        "clue": "President who was never elected",
+        "row": 12,
+        "col": 11,
+        "answer": "FORD"
+      },
+      {
+        "number": 59,
+        "clue": "Roof part",
+        "row": 13,
+        "col": 0,
+        "answer": "EAVE"
+      },
+      {
+        "number": 60,
+        "clue": "Horse opera",
+        "row": 13,
+        "col": 5,
+        "answer": "OATER"
+      },
+      {
+        "number": 61,
+        "clue": "\"Bus Stop\" author",
+        "row": 13,
+        "col": 11,
+        "answer": "INGE"
+      },
+      {
+        "number": 62,
+        "clue": "Scott of 1850's",
+        "row": 14,
+        "col": 0,
+        "answer": "DRED"
+      },
+      {
+        "number": 63,
+        "clue": "Scenarios",
+        "row": 14,
+        "col": 5,
+        "answer": "PLOTS"
+      },
+      {
+        "number": 64,
+        "clue": "Irish dance",
+        "row": 14,
+        "col": 11,
+        "answer": "REEL"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Beautiful young woman",
+        "row": 0,
+        "col": 0,
+        "answer": "HOURI"
+      },
+      {
+        "number": 2,
+        "clue": "White heron",
+        "row": 0,
+        "col": 1,
+        "answer": "EGRET"
+      },
+      {
+        "number": 3,
+        "clue": "Andean pack beast",
+        "row": 0,
+        "col": 2,
+        "answer": "LLAMA"
+      },
+      {
+        "number": 4,
+        "clue": "Brooks of filmdom",
+        "row": 0,
+        "col": 3,
+        "answer": "MEL"
+      },
+      {
+        "number": 5,
+        "clue": "Rickshaw's relative",
+        "row": 0,
+        "col": 5,
+        "answer": "PEDICAB"
+      },
+      {
+        "number": 6,
+        "clue": "Inventor Howe",
+        "row": 0,
+        "col": 6,
+        "answer": "ELIAS"
+      },
+      {
+        "number": 7,
+        "clue": "Where Mrs. Leonowens taught",
+        "row": 0,
+        "col": 7,
+        "answer": "SIAM"
+      },
+      {
+        "number": 8,
+        "clue": "___ avail (useless)",
+        "row": 0,
+        "col": 8,
+        "answer": "TONO"
+      },
+      {
+        "number": 9,
+        "clue": "Printing duplicator",
+        "row": 0,
+        "col": 9,
+        "answer": "STENCIL"
+      },
+      {
+        "number": 10,
+        "clue": "British shindigs",
+        "row": 0,
+        "col": 11,
+        "answer": "BASHES"
+      },
+      {
+        "number": 11,
+        "clue": "Breathed",
+        "row": 0,
+        "col": 12,
+        "answer": "LIVED"
+      },
+      {
+        "number": 12,
+        "clue": "Author's notebook items",
+        "row": 0,
+        "col": 13,
+        "answer": "IDEAS"
+      },
+      {
+        "number": 13,
+        "clue": "Be unsettled",
+        "row": 0,
+        "col": 14,
+        "answer": "PEND"
+      },
+      {
+        "number": 21,
+        "clue": "Tunisian currency",
+        "row": 3,
+        "col": 4,
+        "answer": "DINAR"
+      },
+      {
+        "number": 22,
+        "clue": "Fateful letters on a police blotter",
+        "row": 3,
+        "col": 10,
+        "answer": "DOA"
+      },
+      {
+        "number": 24,
+        "clue": "Lucre, in Lucca",
+        "row": 4,
+        "col": 3,
+        "answer": "LIRE"
+      },
+      {
+        "number": 27,
+        "clue": "\"The Sheik of ___\"",
+        "row": 5,
+        "col": 7,
+        "answer": "ARABY"
+      },
+      {
+        "number": 28,
+        "clue": "Author of \"Euphues\"",
+        "row": 5,
+        "col": 8,
+        "answer": "LYLY"
+      },
+      {
+        "number": 29,
+        "clue": "\"High ___ Windy Hill\"",
+        "row": 6,
+        "col": 0,
+        "answer": "ONA"
+      },
+      {
+        "number": 30,
+        "clue": "Irritate",
+        "row": 6,
+        "col": 1,
+        "answer": "VEX"
+      },
+      {
+        "number": 31,
+        "clue": "Seth's mother",
+        "row": 6,
+        "col": 2,
+        "answer": "EVE"
+      },
+      {
+        "number": 32,
+        "clue": "Milky liquid: Abbr.",
+        "row": 6,
+        "col": 6,
+        "answer": "EMUL"
+      },
+      {
+        "number": 33,
+        "clue": "Computer in \"2001\"",
+        "row": 6,
+        "col": 12,
+        "answer": "HAL"
+      },
+      {
+        "number": 34,
+        "clue": "Employment",
+        "row": 6,
+        "col": 13,
+        "answer": "USE"
+      },
+      {
+        "number": 35,
+        "clue": "Debussy's \"La ___\"",
+        "row": 6,
+        "col": 14,
+        "answer": "MER"
+      },
+      {
+        "number": 38,
+        "clue": "Spooky",
+        "row": 7,
+        "col": 10,
+        "answer": "EERIE"
+      },
+      {
+        "number": 39,
+        "clue": "500 sheets of newsprint",
+        "row": 7,
+        "col": 11,
+        "answer": "REAM"
+      },
+      {
+        "number": 41,
+        "clue": "Kind of desk",
+        "row": 8,
+        "col": 5,
+        "answer": "ROLLTOP"
+      },
+      {
+        "number": 42,
+        "clue": "Hemingway title, with \"The\"",
+        "row": 8,
+        "col": 9,
+        "answer": "KILLERS"
+      },
+      {
+        "number": 43,
+        "clue": "Contended",
+        "row": 9,
+        "col": 3,
+        "answer": "WARRED"
+      },
+      {
+        "number": 44,
+        "clue": "Wave: Sp.",
+        "row": 9,
+        "col": 4,
+        "answer": "OLA"
+      },
+      {
+        "number": 46,
+        "clue": "Medical-lab technique",
+        "row": 10,
+        "col": 1,
+        "answer": "SMEAR"
+      },
+      {
+        "number": 47,
+        "clue": "Lift with exertion",
+        "row": 10,
+        "col": 2,
+        "answer": "HEAVE"
+      },
+      {
+        "number": 48,
+        "clue": "Plus quantity",
+        "row": 10,
+        "col": 8,
+        "answer": "ASSET"
+      },
+      {
+        "number": 49,
+        "clue": "O3",
+        "row": 10,
+        "col": 12,
+        "answer": "OZONE"
+      },
+      {
+        "number": 50,
+        "clue": "Norway, to Norwegians",
+        "row": 10,
+        "col": 13,
+        "answer": "NORGE"
+      },
+      {
+        "number": 51,
+        "clue": "Alpine singing",
+        "row": 10,
+        "col": 14,
+        "answer": "YODEL"
+      },
+      {
+        "number": 52,
+        "clue": "Wall or cross follower",
+        "row": 11,
+        "col": 0,
+        "answer": "EYED"
+      },
+      {
+        "number": 53,
+        "clue": "Raw or New",
+        "row": 11,
+        "col": 6,
+        "answer": "DEAL"
+      },
+      {
+        "number": 54,
+        "clue": "\"___ the valley of Death . . . \"",
+        "row": 11,
+        "col": 7,
+        "answer": "INTO"
+      },
+      {
+        "number": 58,
+        "clue": "Symbol of Oregon",
+        "row": 12,
+        "col": 11,
+        "answer": "FIR"
+      }
+    ]
+  }
+}

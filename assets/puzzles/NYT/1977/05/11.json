@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-05-11",
+  "metadata": {
+    "date": "1977-05-11",
+    "title": "NY TIMES, WED, MAY 11, 1977",
+    "author": "Herb L. Risteen",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "A", "U", "L", null, "A", "M", "O", "S", null, null, "D", "I", "O", "S"],
+    ["E", "X", "P", "E", "D", "I", "E", "N", "C", "E", null, "E", "N", "V", "Y"],
+    ["C", "L", "O", "V", "E", "R", "L", "E", "A", "F", null, "S", "T", "E", "N"],
+    ["T", "E", "N", "E", "T", null, null, "R", "U", "L", "E", null, "E", "R", "E"],
+    [null, null, null, "R", "O", "A", "D", null, "P", "A", "T", "E", "R", "S", null],
+    ["C", "O", "N", "S", "U", "M", "E", "S", null, "T", "O", "A", "S", "T", null],
+    ["O", "P", "A", null, "R", "E", "B", "E", "L", null, null, "S", "T", "A", "G"],
+    ["P", "E", "T", "S", null, "N", "A", "V", "A", "L", null, "T", "I", "T", "O"],
+    ["T", "R", "U", "E", null, null, "R", "E", "M", "U", "S", null, "C", "E", "E"],
+    [null, "A", "R", "E", "A", "R", null, "R", "A", "G", "W", "E", "E", "D", "S"],
+    [null, "H", "A", "S", "H", "E", "S", null, "R", "O", "A", "R", null, null, null],
+    ["S", "O", "L", null, "S", "A", "C", "O", null, null, "L", "A", "I", "R", "D"],
+    ["H", "U", "L", "A", null, "C", "O", "M", "P", "R", "E", "S", "S", "O", "R"],
+    ["A", "S", "A", "N", null, "H", "O", "R", "S", "E", "S", "E", "N", "S", "E"],
+    ["D", "E", "W", "Y", null, null, "P", "I", "T", "Y", null, "S", "T", "E", "W"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Nobelist Bellow",
+        "row": 0,
+        "col": 0,
+        "answer": "SAUL"
+      },
+      {
+        "number": 5,
+        "clue": "Biblical book",
+        "row": 0,
+        "col": 5,
+        "answer": "AMOS"
+      },
+      {
+        "number": 9,
+        "clue": "\"Vaya Con ___\"",
+        "row": 0,
+        "col": 11,
+        "answer": "DIOS"
+      },
+      {
+        "number": 13,
+        "clue": "Self-interest",
+        "row": 1,
+        "col": 0,
+        "answer": "EXPEDIENCE"
+      },
+      {
+        "number": 16,
+        "clue": "Deadly sin",
+        "row": 1,
+        "col": 11,
+        "answer": "ENVY"
+      },
+      {
+        "number": 17,
+        "clue": "Highway intersection",
+        "row": 2,
+        "col": 0,
+        "answer": "CLOVERLEAF"
+      },
+      {
+        "number": 18,
+        "clue": "Sheppard-Turpin gun",
+        "row": 2,
+        "col": 11,
+        "answer": "STEN"
+      },
+      {
+        "number": 19,
+        "clue": "Belief",
+        "row": 3,
+        "col": 0,
+        "answer": "TENET"
+      },
+      {
+        "number": 20,
+        "clue": "___ out (exclude)",
+        "row": 3,
+        "col": 7,
+        "answer": "RULE"
+      },
+      {
+        "number": 22,
+        "clue": "Sooner than",
+        "row": 3,
+        "col": 12,
+        "answer": "ERE"
+      },
+      {
+        "number": 23,
+        "clue": "Word with show or map",
+        "row": 4,
+        "col": 3,
+        "answer": "ROAD"
+      },
+      {
+        "number": 26,
+        "clue": "Dads, in Devonshire",
+        "row": 4,
+        "col": 8,
+        "answer": "PATERS"
+      },
+      {
+        "number": 28,
+        "clue": "Expends by use",
+        "row": 5,
+        "col": 0,
+        "answer": "CONSUMES"
+      },
+      {
+        "number": 32,
+        "clue": "Breakfast fare",
+        "row": 5,
+        "col": 9,
+        "answer": "TOAST"
+      },
+      {
+        "number": 33,
+        "clue": "Former Federal agcy.",
+        "row": 6,
+        "col": 0,
+        "answer": "OPA"
+      },
+      {
+        "number": 34,
+        "clue": "Nonconformist",
+        "row": 6,
+        "col": 4,
+        "answer": "REBEL"
+      },
+      {
+        "number": 36,
+        "clue": "Game animal",
+        "row": 6,
+        "col": 11,
+        "answer": "STAG"
+      },
+      {
+        "number": 38,
+        "clue": "Favored ones",
+        "row": 7,
+        "col": 0,
+        "answer": "PETS"
+      },
+      {
+        "number": 40,
+        "clue": "Kind of engagement",
+        "row": 7,
+        "col": 5,
+        "answer": "NAVAL"
+      },
+      {
+        "number": 42,
+        "clue": "European leader",
+        "row": 7,
+        "col": 11,
+        "answer": "TITO"
+      },
+      {
+        "number": 43,
+        "clue": "\"___ Grit\"",
+        "row": 8,
+        "col": 0,
+        "answer": "TRUE"
+      },
+      {
+        "number": 44,
+        "clue": "Brother of Romulus",
+        "row": 8,
+        "col": 6,
+        "answer": "REMUS"
+      },
+      {
+        "number": 46,
+        "clue": "Bee follower",
+        "row": 8,
+        "col": 12,
+        "answer": "CEE"
+      },
+      {
+        "number": 47,
+        "clue": "In the back",
+        "row": 9,
+        "col": 1,
+        "answer": "AREAR"
+      },
+      {
+        "number": 50,
+        "clue": "Plants hated by hay-fever sufferers",
+        "row": 9,
+        "col": 7,
+        "answer": "RAGWEEDS"
+      },
+      {
+        "number": 52,
+        "clue": "___ over (discusses)",
+        "row": 10,
+        "col": 1,
+        "answer": "HASHES"
+      },
+      {
+        "number": 54,
+        "clue": "Plea to Columbia's lion",
+        "row": 10,
+        "col": 8,
+        "answer": "ROAR"
+      },
+      {
+        "number": 55,
+        "clue": "Callao coin",
+        "row": 11,
+        "col": 0,
+        "answer": "SOL"
+      },
+      {
+        "number": 56,
+        "clue": "City in Maine",
+        "row": 11,
+        "col": 4,
+        "answer": "SACO"
+      },
+      {
+        "number": 58,
+        "clue": "Secretary of Defense: 1969\u201372",
+        "row": 11,
+        "col": 10,
+        "answer": "LAIRD"
+      },
+      {
+        "number": 62,
+        "clue": "Hilo Hattie's specialty",
+        "row": 12,
+        "col": 0,
+        "answer": "HULA"
+      },
+      {
+        "number": 64,
+        "clue": "Impeller on a jet engine",
+        "row": 12,
+        "col": 5,
+        "answer": "COMPRESSOR"
+      },
+      {
+        "number": 67,
+        "clue": "Straight ___ arrow",
+        "row": 13,
+        "col": 0,
+        "answer": "ASAN"
+      },
+      {
+        "number": 68,
+        "clue": "Practical judgment",
+        "row": 13,
+        "col": 5,
+        "answer": "HORSESENSE"
+      },
+      {
+        "number": 69,
+        "clue": "Moist",
+        "row": 14,
+        "col": 0,
+        "answer": "DEWY"
+      },
+      {
+        "number": 70,
+        "clue": "Compassion",
+        "row": 14,
+        "col": 6,
+        "answer": "PITY"
+      },
+      {
+        "number": 71,
+        "clue": "Worry",
+        "row": 14,
+        "col": 11,
+        "answer": "STEW"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Denomination",
+        "row": 0,
+        "col": 0,
+        "answer": "SECT"
+      },
+      {
+        "number": 2,
+        "clue": "Spindle on a cart",
+        "row": 0,
+        "col": 1,
+        "answer": "AXLE"
+      },
+      {
+        "number": 3,
+        "clue": "Second word of a fairy tale",
+        "row": 0,
+        "col": 2,
+        "answer": "UPON"
+      },
+      {
+        "number": 4,
+        "clue": "Crowbars",
+        "row": 0,
+        "col": 3,
+        "answer": "LEVERS"
+      },
+      {
+        "number": 5,
+        "clue": "Melody",
+        "row": 0,
+        "col": 5,
+        "answer": "AIR"
+      },
+      {
+        "number": 6,
+        "clue": "Ferrer or Torme",
+        "row": 0,
+        "col": 6,
+        "answer": "MEL"
+      },
+      {
+        "number": 7,
+        "clue": "Unique thing",
+        "row": 0,
+        "col": 7,
+        "answer": "ONER"
+      },
+      {
+        "number": 8,
+        "clue": "Duck that dives",
+        "row": 0,
+        "col": 8,
+        "answer": "SCAUP"
+      },
+      {
+        "number": 9,
+        "clue": "___ Moines",
+        "row": 0,
+        "col": 11,
+        "answer": "DES"
+      },
+      {
+        "number": 10,
+        "clue": "Chink",
+        "row": 0,
+        "col": 12,
+        "answer": "INTERSTICE"
+      },
+      {
+        "number": 11,
+        "clue": "Exaggerated",
+        "row": 0,
+        "col": 13,
+        "answer": "OVERSTATED"
+      },
+      {
+        "number": 12,
+        "clue": "Word in a New Year's song",
+        "row": 0,
+        "col": 14,
+        "answer": "SYNE"
+      },
+      {
+        "number": 14,
+        "clue": "Road sign we could do without",
+        "row": 1,
+        "col": 4,
+        "answer": "DETOUR"
+      },
+      {
+        "number": 15,
+        "clue": "Musical keynote",
+        "row": 1,
+        "col": 9,
+        "answer": "EFLAT"
+      },
+      {
+        "number": 21,
+        "clue": "D.D.E. post",
+        "row": 3,
+        "col": 10,
+        "answer": "ETO"
+      },
+      {
+        "number": 24,
+        "clue": "Preacher's sign-off",
+        "row": 4,
+        "col": 5,
+        "answer": "AMEN"
+      },
+      {
+        "number": 25,
+        "clue": "Exclude",
+        "row": 4,
+        "col": 6,
+        "answer": "DEBAR"
+      },
+      {
+        "number": 27,
+        "clue": "\"___ of Eden\"",
+        "row": 4,
+        "col": 11,
+        "answer": "EAST"
+      },
+      {
+        "number": 28,
+        "clue": "Egyptian Christian",
+        "row": 5,
+        "col": 0,
+        "answer": "COPT"
+      },
+      {
+        "number": 29,
+        "clue": "La Scala is one",
+        "row": 5,
+        "col": 1,
+        "answer": "OPERAHOUSE"
+      },
+      {
+        "number": 30,
+        "clue": "Set of principles we must all live by",
+        "row": 5,
+        "col": 2,
+        "answer": "NATURALLAW"
+      },
+      {
+        "number": 31,
+        "clue": "Disjoin",
+        "row": 5,
+        "col": 7,
+        "answer": "SEVER"
+      },
+      {
+        "number": 35,
+        "clue": "Truman's birthplace",
+        "row": 6,
+        "col": 8,
+        "answer": "LAMAR"
+      },
+      {
+        "number": 37,
+        "clue": "\"Who ___ there?\"",
+        "row": 6,
+        "col": 14,
+        "answer": "GOES"
+      },
+      {
+        "number": 39,
+        "clue": "Bishoprics",
+        "row": 7,
+        "col": 3,
+        "answer": "SEES"
+      },
+      {
+        "number": 41,
+        "clue": "City in NW Spain",
+        "row": 7,
+        "col": 9,
+        "answer": "LUGO"
+      },
+      {
+        "number": 45,
+        "clue": "Kin of swamps",
+        "row": 8,
+        "col": 10,
+        "answer": "SWALES"
+      },
+      {
+        "number": 48,
+        "clue": "Exclamations",
+        "row": 9,
+        "col": 4,
+        "answer": "AHS"
+      },
+      {
+        "number": 49,
+        "clue": "Command in a horse opera",
+        "row": 9,
+        "col": 5,
+        "answer": "REACH"
+      },
+      {
+        "number": 51,
+        "clue": "Wipes out",
+        "row": 9,
+        "col": 11,
+        "answer": "ERASES"
+      },
+      {
+        "number": 53,
+        "clue": "Reporter's coup",
+        "row": 10,
+        "col": 6,
+        "answer": "SCOOP"
+      },
+      {
+        "number": 55,
+        "clue": "Hudson River fish",
+        "row": 11,
+        "col": 0,
+        "answer": "SHAD"
+      },
+      {
+        "number": 57,
+        "clue": "Father of Ahab",
+        "row": 11,
+        "col": 7,
+        "answer": "OMRI"
+      },
+      {
+        "number": 59,
+        "clue": "\"Money ___ everything\"",
+        "row": 11,
+        "col": 12,
+        "answer": "ISNT"
+      },
+      {
+        "number": 60,
+        "clue": "Dorothy Perkins, e.g.",
+        "row": 11,
+        "col": 13,
+        "answer": "ROSE"
+      },
+      {
+        "number": 61,
+        "clue": "Depicted",
+        "row": 11,
+        "col": 14,
+        "answer": "DREW"
+      },
+      {
+        "number": 63,
+        "clue": "\"___ number can play\"",
+        "row": 12,
+        "col": 3,
+        "answer": "ANY"
+      },
+      {
+        "number": 65,
+        "clue": "Sibilant signal",
+        "row": 12,
+        "col": 8,
+        "answer": "PST"
+      },
+      {
+        "number": 66,
+        "clue": "Bandleader Alvino",
+        "row": 12,
+        "col": 9,
+        "answer": "REY"
+      }
+    ]
+  }
+}

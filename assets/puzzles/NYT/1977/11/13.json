@@ -1,0 +1,1025 @@
+{
+  "id": "nyt-1977-11-13",
+  "metadata": {
+    "date": "1977-11-13",
+    "title": "COURT STARS",
+    "author": "Herb L. Risteen",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 21,
+    "rows": 21
+  },
+  "grid": [
+    ["B", "R", "A", "D", null, "O", "T", "T", "O", null, null, "M", "A", "B", "E", "L", null, "T", "H", "U", "D"],
+    ["A", "A", "R", "E", null, "R", "E", "I", "N", "S", null, "A", "L", "A", "M", "O", null, "R", "O", "T", "O"],
+    ["T", "H", "E", "P", "R", "I", "N", "C", "E", "A", "N", "D", "T", "H", "E", "P", "A", "U", "P", "E", "R"],
+    [null, "S", "A", "L", "O", "O", "N", "S", null, "R", "O", "D", "E", null, null, null, "D", "A", "I", "S", "Y"],
+    [null, null, null, "E", "L", "L", null, null, null, "D", "O", "O", "R", null, "S", "H", "A", "N", null, null, null],
+    ["B", "A", "T", "T", "L", "E", "O", "F", "K", "I", "N", "G", "S", "M", "O", "U", "N", "T", "A", "I", "N"],
+    ["A", "L", "O", "E", "S", null, "L", "O", "E", "S", "S", null, null, "O", "L", "E", "O", null, "I", "R", "E"],
+    ["K", "I", "T", "S", null, "G", "E", "A", "L", null, null, "T", "O", "D", "A", "Y", null, "S", "M", "E", "W"],
+    ["E", "V", "E", null, "T", "R", "A", "M", "P", null, "M", "I", "T", "E", "R", null, "P", "E", "E", "N", "E"],
+    ["D", "E", "M", "E", "R", "I", "T", null, null, "M", "A", "T", "I", "N", null, "S", "E", "E", "D", "E", "R"],
+    [null, null, null, "J", "A", "M", "E", "S", "E", "A", "R", "L", "C", "A", "R", "T", "E", "R", null, null, null],
+    ["F", "L", "E", "E", "C", "Y", null, "A", "L", "I", "N", "E", null, null, "A", "I", "R", "S", "A", "C", "S"],
+    ["L", "A", "N", "C", "E", null, "C", "L", "O", "N", "E", null, "F", "I", "N", "N", "S", null, "V", "O", "E"],
+    ["E", "R", "A", "T", null, "S", "A", "T", "I", "E", null, null, "L", "O", "T", "T", null, "S", "A", "A", "R"],
+    ["E", "C", "T", null, "F", "U", "M", "E", null, null, "S", "T", "O", "N", "E", null, "C", "E", "S", "T", "A"],
+    ["T", "H", "E", "Q", "U", "E", "E", "N", "O", "F", "T", "H", "E", "A", "D", "R", "I", "A", "T", "I", "C"],
+    [null, null, null, "U", "N", "D", "O", null, "T", "A", "R", "E", null, null, null, "A", "D", "S", null, null, null],
+    ["S", "C", "R", "A", "G", null, null, null, "I", "R", "O", "N", null, "E", "S", "S", "E", "N", "C", "E", null],
+    ["T", "H", "E", "C", "O", "U", "N", "T", "O", "F", "M", "O", "N", "T", "E", "C", "R", "I", "S", "T", "O"],
+    ["L", "A", "N", "K", null, "S", "O", "U", "S", "A", null, "N", "O", "R", "M", "A", null, "P", "O", "O", "R"],
+    ["O", "D", "D", "S", null, "A", "M", "B", "E", "R", null, null, "N", "E", "I", "L", null, "E", "S", "N", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Thin nail",
+        "row": 0,
+        "col": 0,
+        "answer": "BRAD"
+      },
+      {
+        "number": 5,
+        "clue": "Bismarck",
+        "row": 0,
+        "col": 5,
+        "answer": "OTTO"
+      },
+      {
+        "number": 9,
+        "clue": "Normand of silents",
+        "row": 0,
+        "col": 11,
+        "answer": "MABEL"
+      },
+      {
+        "number": 14,
+        "clue": "Dull sound",
+        "row": 0,
+        "col": 17,
+        "answer": "THUD"
+      },
+      {
+        "number": 18,
+        "clue": "Swiss river",
+        "row": 1,
+        "col": 0,
+        "answer": "AARE"
+      },
+      {
+        "number": 19,
+        "clue": "Saddlers' products",
+        "row": 1,
+        "col": 5,
+        "answer": "REINS"
+      },
+      {
+        "number": 21,
+        "clue": "Name to remember",
+        "row": 1,
+        "col": 11,
+        "answer": "ALAMO"
+      },
+      {
+        "number": 22,
+        "clue": "Pictorial presswork",
+        "row": 1,
+        "col": 17,
+        "answer": "ROTO"
+      },
+      {
+        "number": 23,
+        "clue": "Popular novel of 1881",
+        "row": 2,
+        "col": 0,
+        "answer": "THEPRINCEANDTHEPAUPER"
+      },
+      {
+        "number": 27,
+        "clue": "Dining halls on liners",
+        "row": 3,
+        "col": 1,
+        "answer": "SALOONS"
+      },
+      {
+        "number": 28,
+        "clue": "Did ranch work",
+        "row": 3,
+        "col": 9,
+        "answer": "RODE"
+      },
+      {
+        "number": 29,
+        "clue": "\"___ Miller\"",
+        "row": 3,
+        "col": 16,
+        "answer": "DAISY"
+      },
+      {
+        "number": 30,
+        "clue": "Building extension",
+        "row": 4,
+        "col": 3,
+        "answer": "ELL"
+      },
+      {
+        "number": 31,
+        "clue": "Means of access",
+        "row": 4,
+        "col": 9,
+        "answer": "DOOR"
+      },
+      {
+        "number": 32,
+        "clue": "Indo-Chinese group",
+        "row": 4,
+        "col": 14,
+        "answer": "SHAN"
+      },
+      {
+        "number": 34,
+        "clue": "Event in 1780",
+        "row": 5,
+        "col": 0,
+        "answer": "BATTLEOFKINGSMOUNTAIN"
+      },
+      {
+        "number": 44,
+        "clue": "Shade of green",
+        "row": 6,
+        "col": 0,
+        "answer": "ALOES"
+      },
+      {
+        "number": 45,
+        "clue": "Loam deposit",
+        "row": 6,
+        "col": 6,
+        "answer": "LOESS"
+      },
+      {
+        "number": 46,
+        "clue": "Bread spread",
+        "row": 6,
+        "col": 13,
+        "answer": "OLEO"
+      },
+      {
+        "number": 47,
+        "clue": "Choler",
+        "row": 6,
+        "col": 18,
+        "answer": "IRE"
+      },
+      {
+        "number": 48,
+        "clue": "Little foxes",
+        "row": 7,
+        "col": 0,
+        "answer": "KITS"
+      },
+      {
+        "number": 49,
+        "clue": "Of the earth",
+        "row": 7,
+        "col": 5,
+        "answer": "GEAL"
+      },
+      {
+        "number": 50,
+        "clue": "Yesterday's eternal chaser",
+        "row": 7,
+        "col": 11,
+        "answer": "TODAY"
+      },
+      {
+        "number": 52,
+        "clue": "Merganser",
+        "row": 7,
+        "col": 17,
+        "answer": "SMEW"
+      },
+      {
+        "number": 53,
+        "clue": "Poet Merriam",
+        "row": 8,
+        "col": 0,
+        "answer": "EVE"
+      },
+      {
+        "number": 54,
+        "clue": "\"Hobohemian\"",
+        "row": 8,
+        "col": 4,
+        "answer": "TRAMP"
+      },
+      {
+        "number": 55,
+        "clue": "Tall cap",
+        "row": 8,
+        "col": 10,
+        "answer": "MITER"
+      },
+      {
+        "number": 56,
+        "clue": "Baltic Sea feeder",
+        "row": 8,
+        "col": 16,
+        "answer": "PEENE"
+      },
+      {
+        "number": 57,
+        "clue": "Mark for poor work",
+        "row": 9,
+        "col": 0,
+        "answer": "DEMERIT"
+      },
+      {
+        "number": 59,
+        "clue": "Morning song",
+        "row": 9,
+        "col": 9,
+        "answer": "MATIN"
+      },
+      {
+        "number": 60,
+        "clue": "Farm implement",
+        "row": 9,
+        "col": 15,
+        "answer": "SEEDER"
+      },
+      {
+        "number": 61,
+        "clue": "Author of \"Why Not the Best?\"",
+        "row": 10,
+        "col": 3,
+        "answer": "JAMESEARLCARTER"
+      },
+      {
+        "number": 65,
+        "clue": "Like Jason's quest",
+        "row": 11,
+        "col": 0,
+        "answer": "FLEECY"
+      },
+      {
+        "number": 68,
+        "clue": "Stage designer Bernstein",
+        "row": 11,
+        "col": 7,
+        "answer": "ALINE"
+      },
+      {
+        "number": 69,
+        "clue": "Pulmonary cavities",
+        "row": 11,
+        "col": 14,
+        "answer": "AIRSACS"
+      },
+      {
+        "number": 73,
+        "clue": "Uhlan's weapon",
+        "row": 12,
+        "col": 0,
+        "answer": "LANCE"
+      },
+      {
+        "number": 74,
+        "clue": "Genetic offshoot",
+        "row": 12,
+        "col": 6,
+        "answer": "CLONE"
+      },
+      {
+        "number": 75,
+        "clue": "Natives of Tampere",
+        "row": 12,
+        "col": 12,
+        "answer": "FINNS"
+      },
+      {
+        "number": 77,
+        "clue": "Inlet in the Orkneys",
+        "row": 12,
+        "col": 18,
+        "answer": "VOE"
+      },
+      {
+        "number": 78,
+        "clue": "He was: Lat.",
+        "row": 13,
+        "col": 0,
+        "answer": "ERAT"
+      },
+      {
+        "number": 79,
+        "clue": "\"Gymnopedies\" composer",
+        "row": 13,
+        "col": 5,
+        "answer": "SATIE"
+      },
+      {
+        "number": 80,
+        "clue": "Tennis star of the 1930's",
+        "row": 13,
+        "col": 12,
+        "answer": "LOTT"
+      },
+      {
+        "number": 81,
+        "clue": "Moselle tributary",
+        "row": 13,
+        "col": 17,
+        "answer": "SAAR"
+      },
+      {
+        "number": 82,
+        "clue": "Outside: Prefix",
+        "row": 14,
+        "col": 0,
+        "answer": "ECT"
+      },
+      {
+        "number": 83,
+        "clue": "Be furious",
+        "row": 14,
+        "col": 4,
+        "answer": "FUME"
+      },
+      {
+        "number": 84,
+        "clue": "Building material",
+        "row": 14,
+        "col": 10,
+        "answer": "STONE"
+      },
+      {
+        "number": 86,
+        "clue": "Jai alai basket",
+        "row": 14,
+        "col": 16,
+        "answer": "CESTA"
+      },
+      {
+        "number": 87,
+        "clue": "Venice",
+        "row": 15,
+        "col": 0,
+        "answer": "THEQUEENOFTHEADRIATIC"
+      },
+      {
+        "number": 92,
+        "clue": "Bring to ruin",
+        "row": 16,
+        "col": 3,
+        "answer": "UNDO"
+      },
+      {
+        "number": 93,
+        "clue": "Weight allowance",
+        "row": 16,
+        "col": 8,
+        "answer": "TARE"
+      },
+      {
+        "number": 94,
+        "clue": "Commercials",
+        "row": 16,
+        "col": 15,
+        "answer": "ADS"
+      },
+      {
+        "number": 95,
+        "clue": "Rawboned person",
+        "row": 17,
+        "col": 0,
+        "answer": "SCRAG"
+      },
+      {
+        "number": 98,
+        "clue": "Inflexible",
+        "row": 17,
+        "col": 8,
+        "answer": "IRON"
+      },
+      {
+        "number": 99,
+        "clue": "Perfume",
+        "row": 17,
+        "col": 13,
+        "answer": "ESSENCE"
+      },
+      {
+        "number": 103,
+        "clue": "Romantic novel of 1844",
+        "row": 18,
+        "col": 0,
+        "answer": "THECOUNTOFMONTECRISTO"
+      },
+      {
+        "number": 109,
+        "clue": "Gaunt",
+        "row": 19,
+        "col": 0,
+        "answer": "LANK"
+      },
+      {
+        "number": 110,
+        "clue": "\"March King\"",
+        "row": 19,
+        "col": 5,
+        "answer": "SOUSA"
+      },
+      {
+        "number": 111,
+        "clue": "Bellini opera",
+        "row": 19,
+        "col": 11,
+        "answer": "NORMA"
+      },
+      {
+        "number": 112,
+        "clue": "Adjective for Yorick",
+        "row": 19,
+        "col": 17,
+        "answer": "POOR"
+      },
+      {
+        "number": 113,
+        "clue": "Track figures",
+        "row": 20,
+        "col": 0,
+        "answer": "ODDS"
+      },
+      {
+        "number": 114,
+        "clue": "\"Forever ___\"",
+        "row": 20,
+        "col": 5,
+        "answer": "AMBER"
+      },
+      {
+        "number": 115,
+        "clue": "Playwright Simon",
+        "row": 20,
+        "col": 12,
+        "answer": "NEIL"
+      },
+      {
+        "number": 116,
+        "clue": "Feudal underling",
+        "row": 20,
+        "col": 17,
+        "answer": "ESNE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Rod Carew's weapon",
+        "row": 0,
+        "col": 0,
+        "answer": "BAT"
+      },
+      {
+        "number": 2,
+        "clue": "Stadium sounds",
+        "row": 0,
+        "col": 1,
+        "answer": "RAHS"
+      },
+      {
+        "number": 3,
+        "clue": "___ code",
+        "row": 0,
+        "col": 2,
+        "answer": "AREA"
+      },
+      {
+        "number": 4,
+        "clue": "Exhausts, as resources",
+        "row": 0,
+        "col": 3,
+        "answer": "DEPLETES"
+      },
+      {
+        "number": 5,
+        "clue": "Bobolink's relative",
+        "row": 0,
+        "col": 5,
+        "answer": "ORIOLE"
+      },
+      {
+        "number": 6,
+        "clue": "One of fifty: Abbr.",
+        "row": 0,
+        "col": 6,
+        "answer": "TENN"
+      },
+      {
+        "number": 7,
+        "clue": "Nervous ailments",
+        "row": 0,
+        "col": 7,
+        "answer": "TICS"
+      },
+      {
+        "number": 8,
+        "clue": "Singleton",
+        "row": 0,
+        "col": 8,
+        "answer": "ONE"
+      },
+      {
+        "number": 9,
+        "clue": "One in the \"noonday sun\"",
+        "row": 0,
+        "col": 11,
+        "answer": "MADDOG"
+      },
+      {
+        "number": 10,
+        "clue": "Modifies",
+        "row": 0,
+        "col": 12,
+        "answer": "ALTERS"
+      },
+      {
+        "number": 11,
+        "clue": "Cry of disgust",
+        "row": 0,
+        "col": 13,
+        "answer": "BAH"
+      },
+      {
+        "number": 12,
+        "clue": "Dutch uncle",
+        "row": 0,
+        "col": 14,
+        "answer": "EME"
+      },
+      {
+        "number": 13,
+        "clue": "Cut off",
+        "row": 0,
+        "col": 15,
+        "answer": "LOP"
+      },
+      {
+        "number": 14,
+        "clue": "Shirking responsibility",
+        "row": 0,
+        "col": 17,
+        "answer": "TRUANT"
+      },
+      {
+        "number": 15,
+        "clue": "Southwest Indian",
+        "row": 0,
+        "col": 18,
+        "answer": "HOPI"
+      },
+      {
+        "number": 16,
+        "clue": "Salt Lake City team",
+        "row": 0,
+        "col": 19,
+        "answer": "UTES"
+      },
+      {
+        "number": 17,
+        "clue": "Small rowboat",
+        "row": 0,
+        "col": 20,
+        "answer": "DORY"
+      },
+      {
+        "number": 20,
+        "clue": "Lydia's capital",
+        "row": 1,
+        "col": 9,
+        "answer": "SARDIS"
+      },
+      {
+        "number": 24,
+        "clue": "Kipfels",
+        "row": 2,
+        "col": 4,
+        "answer": "ROLLS"
+      },
+      {
+        "number": 25,
+        "clue": "Times of day",
+        "row": 2,
+        "col": 10,
+        "answer": "NOONS"
+      },
+      {
+        "number": 26,
+        "clue": "Where Joppolo commanded",
+        "row": 2,
+        "col": 16,
+        "answer": "ADANO"
+      },
+      {
+        "number": 32,
+        "clue": "Kind of eclipse",
+        "row": 4,
+        "col": 14,
+        "answer": "SOLAR"
+      },
+      {
+        "number": 33,
+        "clue": "Long of La.",
+        "row": 4,
+        "col": 15,
+        "answer": "HUEY"
+      },
+      {
+        "number": 34,
+        "clue": "___ Alaska",
+        "row": 5,
+        "col": 0,
+        "answer": "BAKED"
+      },
+      {
+        "number": 35,
+        "clue": "Read novel",
+        "row": 5,
+        "col": 1,
+        "answer": "ALIVE"
+      },
+      {
+        "number": 36,
+        "clue": "Tribal emblem",
+        "row": 5,
+        "col": 2,
+        "answer": "TOTEM"
+      },
+      {
+        "number": 37,
+        "clue": "Acid salt",
+        "row": 5,
+        "col": 6,
+        "answer": "OLEATE"
+      },
+      {
+        "number": 38,
+        "clue": "Lager head",
+        "row": 5,
+        "col": 7,
+        "answer": "FOAM"
+      },
+      {
+        "number": 39,
+        "clue": "Hornplant",
+        "row": 5,
+        "col": 8,
+        "answer": "KELP"
+      },
+      {
+        "number": 40,
+        "clue": "City NW of Bologna",
+        "row": 5,
+        "col": 13,
+        "answer": "MODENA"
+      },
+      {
+        "number": 41,
+        "clue": "Drew a bead on",
+        "row": 5,
+        "col": 18,
+        "answer": "AIMED"
+      },
+      {
+        "number": 42,
+        "clue": "One of the Horae",
+        "row": 5,
+        "col": 19,
+        "answer": "IRENE"
+      },
+      {
+        "number": 43,
+        "clue": "Less trite",
+        "row": 5,
+        "col": 20,
+        "answer": "NEWER"
+      },
+      {
+        "number": 49,
+        "clue": "Mean and unpleasant",
+        "row": 7,
+        "col": 5,
+        "answer": "GRIMY"
+      },
+      {
+        "number": 50,
+        "clue": "Duke, for one",
+        "row": 7,
+        "col": 11,
+        "answer": "TITLE"
+      },
+      {
+        "number": 51,
+        "clue": "Of hearing",
+        "row": 7,
+        "col": 12,
+        "answer": "OTIC"
+      },
+      {
+        "number": 52,
+        "clue": "Haruspices",
+        "row": 7,
+        "col": 17,
+        "answer": "SEERS"
+      },
+      {
+        "number": 54,
+        "clue": "Footprint",
+        "row": 8,
+        "col": 4,
+        "answer": "TRACE"
+      },
+      {
+        "number": 55,
+        "clue": "Battle scene: 1914, 1918",
+        "row": 8,
+        "col": 10,
+        "answer": "MARNE"
+      },
+      {
+        "number": 56,
+        "clue": "Noblemen",
+        "row": 8,
+        "col": 16,
+        "answer": "PEERS"
+      },
+      {
+        "number": 58,
+        "clue": "Force out",
+        "row": 9,
+        "col": 3,
+        "answer": "EJECT"
+      },
+      {
+        "number": 59,
+        "clue": "Name to remember",
+        "row": 9,
+        "col": 9,
+        "answer": "MAINE"
+      },
+      {
+        "number": 60,
+        "clue": "Task",
+        "row": 9,
+        "col": 15,
+        "answer": "STINT"
+      },
+      {
+        "number": 62,
+        "clue": "He wrote \"Bambi\"",
+        "row": 10,
+        "col": 7,
+        "answer": "SALTEN"
+      },
+      {
+        "number": 63,
+        "clue": "French saint: Dec. 1",
+        "row": 10,
+        "col": 8,
+        "answer": "ELOI"
+      },
+      {
+        "number": 64,
+        "clue": "Yammered",
+        "row": 10,
+        "col": 14,
+        "answer": "RANTED"
+      },
+      {
+        "number": 65,
+        "clue": "Argosy",
+        "row": 11,
+        "col": 0,
+        "answer": "FLEET"
+      },
+      {
+        "number": 66,
+        "clue": "Hackmatack",
+        "row": 11,
+        "col": 1,
+        "answer": "LARCH"
+      },
+      {
+        "number": 67,
+        "clue": "Growing out",
+        "row": 11,
+        "col": 2,
+        "answer": "ENATE"
+      },
+      {
+        "number": 70,
+        "clue": "Cousin of \"Belay!\"",
+        "row": 11,
+        "col": 18,
+        "answer": "AVAST"
+      },
+      {
+        "number": 71,
+        "clue": "Ring-tailed animal",
+        "row": 11,
+        "col": 19,
+        "answer": "COATI"
+      },
+      {
+        "number": 72,
+        "clue": "Ice pinnacle",
+        "row": 11,
+        "col": 20,
+        "answer": "SERAC"
+      },
+      {
+        "number": 74,
+        "clue": "Small featured role",
+        "row": 12,
+        "col": 6,
+        "answer": "CAMEO"
+      },
+      {
+        "number": 75,
+        "clue": "Navigation hazard",
+        "row": 12,
+        "col": 12,
+        "answer": "FLOE"
+      },
+      {
+        "number": 76,
+        "clue": "Hebrides island",
+        "row": 12,
+        "col": 13,
+        "answer": "IONA"
+      },
+      {
+        "number": 79,
+        "clue": "Brought to court",
+        "row": 13,
+        "col": 5,
+        "answer": "SUED"
+      },
+      {
+        "number": 81,
+        "clue": "Phalarope",
+        "row": 13,
+        "col": 17,
+        "answer": "SEASNIPE"
+      },
+      {
+        "number": 83,
+        "clue": "Fly hit by a coach",
+        "row": 14,
+        "col": 4,
+        "answer": "FUNGO"
+      },
+      {
+        "number": 84,
+        "clue": "Sen. Thurmond",
+        "row": 14,
+        "col": 10,
+        "answer": "STROM"
+      },
+      {
+        "number": 85,
+        "clue": "From ___ (afterwards)",
+        "row": 14,
+        "col": 11,
+        "answer": "THENON"
+      },
+      {
+        "number": 86,
+        "clue": "Fall drink",
+        "row": 14,
+        "col": 16,
+        "answer": "CIDER"
+      },
+      {
+        "number": 88,
+        "clue": "Charlatans",
+        "row": 15,
+        "col": 3,
+        "answer": "QUACKS"
+      },
+      {
+        "number": 89,
+        "clue": "Lazy",
+        "row": 15,
+        "col": 8,
+        "answer": "OTIOSE"
+      },
+      {
+        "number": 90,
+        "clue": "Carton's \"___ better thing\"",
+        "row": 15,
+        "col": 9,
+        "answer": "FARFAR"
+      },
+      {
+        "number": 91,
+        "clue": "Sterling North book: 1963",
+        "row": 15,
+        "col": 15,
+        "answer": "RASCAL"
+      },
+      {
+        "number": 95,
+        "clue": "Town on the Vire",
+        "row": 17,
+        "col": 0,
+        "answer": "STLO"
+      },
+      {
+        "number": 96,
+        "clue": "Neighbor of Libya",
+        "row": 17,
+        "col": 1,
+        "answer": "CHAD"
+      },
+      {
+        "number": 97,
+        "clue": "Disrupt",
+        "row": 17,
+        "col": 2,
+        "answer": "REND"
+      },
+      {
+        "number": 99,
+        "clue": "Raison d'___",
+        "row": 17,
+        "col": 13,
+        "answer": "ETRE"
+      },
+      {
+        "number": 100,
+        "clue": "Large truck",
+        "row": 17,
+        "col": 14,
+        "answer": "SEMI"
+      },
+      {
+        "number": 101,
+        "clue": "Army V.I.P.'s",
+        "row": 17,
+        "col": 18,
+        "answer": "CSOS"
+      },
+      {
+        "number": 102,
+        "clue": "School founded by Henry VI",
+        "row": 17,
+        "col": 19,
+        "answer": "ETON"
+      },
+      {
+        "number": 104,
+        "clue": "Dos Passos book",
+        "row": 18,
+        "col": 5,
+        "answer": "USA"
+      },
+      {
+        "number": 105,
+        "clue": "___ de plume",
+        "row": 18,
+        "col": 6,
+        "answer": "NOM"
+      },
+      {
+        "number": 106,
+        "clue": "Bulky boat",
+        "row": 18,
+        "col": 7,
+        "answer": "TUB"
+      },
+      {
+        "number": 107,
+        "clue": "Negative prefix",
+        "row": 18,
+        "col": 12,
+        "answer": "NON"
+      },
+      {
+        "number": 108,
+        "clue": "Pittsburgh intake",
+        "row": 18,
+        "col": 20,
+        "answer": "ORE"
+      }
+    ]
+  }
+}

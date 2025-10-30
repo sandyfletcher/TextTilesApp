@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-01-27",
+  "metadata": {
+    "date": "1976-01-27",
+    "title": "NY TIMES, TUE, JAN 27, 1976",
+    "author": "Dorothea E. Shipp",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["P", "A", "R", "C", null, "D", "E", "E", "M", null, "S", "I", "M", "L", "A"],
+    ["I", "N", "E", "E", null, "E", "L", "L", "A", null, "A", "M", "I", "E", "S"],
+    ["G", "N", "A", "R", null, "B", "E", "E", "R", null, "N", "A", "R", "E", "S"],
+    ["S", "I", "R", "F", "R", "A", "N", "C", "I", "S", "D", "R", "A", "K", "E"],
+    [null, null, null, null, "A", "S", "A", null, "A", "C", "R", "E", null, null, null],
+    ["F", "A", "C", "A", "D", "E", null, null, null, "R", "A", "T", "T", "A", "T"],
+    ["E", "L", "E", "M", "I", null, "A", "B", "O", "U", null, null, "A", "N", "A"],
+    ["M", "A", "R", "T", "I", "N", "F", "R", "O", "B", "I", "S", "H", "E", "R"],
+    ["U", "T", "E", null, null, "O", "R", "A", "N", null, "B", "O", "O", "S", "T"],
+    ["R", "E", "S", "T", "E", "D", null, null, null, "M", "O", "T", "E", "T", "S"],
+    [null, null, null, "O", "L", "A", "S", null, "C", "O", "T", null, null, null, null],
+    ["S", "I", "R", "W", "A", "L", "T", "E", "R", "R", "A", "L", "E", "G", "H"],
+    ["C", "R", "E", "E", "P", null, "O", "M", "A", "R", null, "E", "C", "R", "U"],
+    ["O", "M", "E", "R", "S", null, "W", "I", "N", "O", null, "W", "H", "I", "M"],
+    ["T", "A", "S", "S", "E", null, "S", "L", "E", "W", null, "D", "O", "M", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Place for a banc",
+        "row": 0,
+        "col": 0,
+        "answer": "PARC"
+      },
+      {
+        "number": 5,
+        "clue": "Consider",
+        "row": 0,
+        "col": 5,
+        "answer": "DEEM"
+      },
+      {
+        "number": 9,
+        "clue": "Resort in India",
+        "row": 0,
+        "col": 10,
+        "answer": "SIMLA"
+      },
+      {
+        "number": 14,
+        "clue": "Arrow poison",
+        "row": 1,
+        "col": 0,
+        "answer": "INEE"
+      },
+      {
+        "number": 15,
+        "clue": "Miss Cinders",
+        "row": 1,
+        "col": 5,
+        "answer": "ELLA"
+      },
+      {
+        "number": 16,
+        "clue": "French friends",
+        "row": 1,
+        "col": 10,
+        "answer": "AMIES"
+      },
+      {
+        "number": 17,
+        "clue": "Growl",
+        "row": 2,
+        "col": 0,
+        "answer": "GNAR"
+      },
+      {
+        "number": 18,
+        "clue": "Beverage",
+        "row": 2,
+        "col": 5,
+        "answer": "BEER"
+      },
+      {
+        "number": 19,
+        "clue": "Nostrils",
+        "row": 2,
+        "col": 10,
+        "answer": "NARES"
+      },
+      {
+        "number": 20,
+        "clue": "First English globe-girdler",
+        "row": 3,
+        "col": 0,
+        "answer": "SIRFRANCISDRAKE"
+      },
+      {
+        "number": 23,
+        "clue": "Blind ___ bat",
+        "row": 4,
+        "col": 4,
+        "answer": "ASA"
+      },
+      {
+        "number": 24,
+        "clue": "Israeli port",
+        "row": 4,
+        "col": 8,
+        "answer": "ACRE"
+      },
+      {
+        "number": 25,
+        "clue": "False appearance",
+        "row": 5,
+        "col": 0,
+        "answer": "FACADE"
+      },
+      {
+        "number": 29,
+        "clue": "Drumming sound",
+        "row": 5,
+        "col": 9,
+        "answer": "RATTAT"
+      },
+      {
+        "number": 33,
+        "clue": "Perfume resin",
+        "row": 6,
+        "col": 0,
+        "answer": "ELEMI"
+      },
+      {
+        "number": 34,
+        "clue": "Arab name part",
+        "row": 6,
+        "col": 6,
+        "answer": "ABOU"
+      },
+      {
+        "number": 37,
+        "clue": "Prefix for gram",
+        "row": 6,
+        "col": 12,
+        "answer": "ANA"
+      },
+      {
+        "number": 38,
+        "clue": "English explorer of Canada",
+        "row": 7,
+        "col": 0,
+        "answer": "MARTINFROBISHER"
+      },
+      {
+        "number": 42,
+        "clue": "Western Indian",
+        "row": 8,
+        "col": 0,
+        "answer": "UTE"
+      },
+      {
+        "number": 43,
+        "clue": "Algerian port",
+        "row": 8,
+        "col": 5,
+        "answer": "ORAN"
+      },
+      {
+        "number": 44,
+        "clue": "Help onto a horse",
+        "row": 8,
+        "col": 10,
+        "answer": "BOOST"
+      },
+      {
+        "number": 45,
+        "clue": "Took a breather",
+        "row": 9,
+        "col": 0,
+        "answer": "RESTED"
+      },
+      {
+        "number": 48,
+        "clue": "Choral pieces",
+        "row": 9,
+        "col": 9,
+        "answer": "MOTETS"
+      },
+      {
+        "number": 49,
+        "clue": "Spanish waves",
+        "row": 10,
+        "col": 3,
+        "answer": "OLAS"
+      },
+      {
+        "number": 51,
+        "clue": "Tent fixture",
+        "row": 10,
+        "col": 8,
+        "answer": "COT"
+      },
+      {
+        "number": 52,
+        "clue": "English explorer, as he spelled his name",
+        "row": 11,
+        "col": 0,
+        "answer": "SIRWALTERRALEGH"
+      },
+      {
+        "number": 60,
+        "clue": "Unpopular one",
+        "row": 12,
+        "col": 0,
+        "answer": "CREEP"
+      },
+      {
+        "number": 61,
+        "clue": "Sharif",
+        "row": 12,
+        "col": 6,
+        "answer": "OMAR"
+      },
+      {
+        "number": 62,
+        "clue": "Light color",
+        "row": 12,
+        "col": 11,
+        "answer": "ECRU"
+      },
+      {
+        "number": 63,
+        "clue": "Hebrew measures",
+        "row": 13,
+        "col": 0,
+        "answer": "OMERS"
+      },
+      {
+        "number": 64,
+        "clue": "Skid-row figure",
+        "row": 13,
+        "col": 6,
+        "answer": "WINO"
+      },
+      {
+        "number": 65,
+        "clue": "Fancy",
+        "row": 13,
+        "col": 11,
+        "answer": "WHIM"
+      },
+      {
+        "number": 66,
+        "clue": "French cup",
+        "row": 14,
+        "col": 0,
+        "answer": "TASSE"
+      },
+      {
+        "number": 67,
+        "clue": "Did in",
+        "row": 14,
+        "col": 6,
+        "answer": "SLEW"
+      },
+      {
+        "number": 68,
+        "clue": "DeLuise et al.",
+        "row": 14,
+        "col": 11,
+        "answer": "DOMS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Swill eaters",
+        "row": 0,
+        "col": 0,
+        "answer": "PIGS"
+      },
+      {
+        "number": 2,
+        "clue": "Caesar's years",
+        "row": 0,
+        "col": 1,
+        "answer": "ANNI"
+      },
+      {
+        "number": 3,
+        "clue": "Admiral or guard",
+        "row": 0,
+        "col": 2,
+        "answer": "REAR"
+      },
+      {
+        "number": 4,
+        "clue": "Publisher Bennett",
+        "row": 0,
+        "col": 3,
+        "answer": "CERF"
+      },
+      {
+        "number": 5,
+        "clue": "Corrupt",
+        "row": 0,
+        "col": 5,
+        "answer": "DEBASE"
+      },
+      {
+        "number": 6,
+        "clue": "Form of Helen",
+        "row": 0,
+        "col": 6,
+        "answer": "ELENA"
+      },
+      {
+        "number": 7,
+        "clue": "Power source: Abbr.",
+        "row": 0,
+        "col": 7,
+        "answer": "ELEC"
+      },
+      {
+        "number": 8,
+        "clue": "Miss Ouspenskaya",
+        "row": 0,
+        "col": 8,
+        "answer": "MARIA"
+      },
+      {
+        "number": 9,
+        "clue": "Miss Dee",
+        "row": 0,
+        "col": 10,
+        "answer": "SANDRA"
+      },
+      {
+        "number": 10,
+        "clue": "Turkish inn",
+        "row": 0,
+        "col": 11,
+        "answer": "IMARET"
+      },
+      {
+        "number": 11,
+        "clue": "Star in Cetus",
+        "row": 0,
+        "col": 12,
+        "answer": "MIRA"
+      },
+      {
+        "number": 12,
+        "clue": "Onion's relative",
+        "row": 0,
+        "col": 13,
+        "answer": "LEEK"
+      },
+      {
+        "number": 13,
+        "clue": "African fox",
+        "row": 0,
+        "col": 14,
+        "answer": "ASSE"
+      },
+      {
+        "number": 21,
+        "clue": "Circle parts",
+        "row": 3,
+        "col": 4,
+        "answer": "RADII"
+      },
+      {
+        "number": 22,
+        "clue": "Cancel, as a blastoff",
+        "row": 3,
+        "col": 9,
+        "answer": "SCRUB"
+      },
+      {
+        "number": 25,
+        "clue": "Thighbone",
+        "row": 5,
+        "col": 0,
+        "answer": "FEMUR"
+      },
+      {
+        "number": 26,
+        "clue": "Winged",
+        "row": 5,
+        "col": 1,
+        "answer": "ALATE"
+      },
+      {
+        "number": 27,
+        "clue": "Goddess of crops",
+        "row": 5,
+        "col": 2,
+        "answer": "CERES"
+      },
+      {
+        "number": 28,
+        "clue": "Sum: Abbr.",
+        "row": 5,
+        "col": 3,
+        "answer": "AMT"
+      },
+      {
+        "number": 30,
+        "clue": "Western lake",
+        "row": 5,
+        "col": 12,
+        "answer": "TAHOE"
+      },
+      {
+        "number": 31,
+        "clue": "\"___ of robins . . . \"",
+        "row": 5,
+        "col": 13,
+        "answer": "ANEST"
+      },
+      {
+        "number": 32,
+        "clue": "Certain Queen's bakings",
+        "row": 5,
+        "col": 14,
+        "answer": "TARTS"
+      },
+      {
+        "number": 34,
+        "clue": "Continent: Abbr.",
+        "row": 6,
+        "col": 6,
+        "answer": "AFR"
+      },
+      {
+        "number": 35,
+        "clue": "Swimsuit part",
+        "row": 6,
+        "col": 7,
+        "answer": "BRA"
+      },
+      {
+        "number": 36,
+        "clue": "Suffix for cart or drag",
+        "row": 6,
+        "col": 8,
+        "answer": "OON"
+      },
+      {
+        "number": 39,
+        "clue": "Of a stem joint",
+        "row": 7,
+        "col": 5,
+        "answer": "NODAL"
+      },
+      {
+        "number": 40,
+        "clue": "Privet of Japan",
+        "row": 7,
+        "col": 10,
+        "answer": "IBOTA"
+      },
+      {
+        "number": 41,
+        "clue": "Relative of 64 Across",
+        "row": 7,
+        "col": 11,
+        "answer": "SOT"
+      },
+      {
+        "number": 46,
+        "clue": "Minarets",
+        "row": 9,
+        "col": 3,
+        "answer": "TOWERS"
+      },
+      {
+        "number": 47,
+        "clue": "Pass",
+        "row": 9,
+        "col": 4,
+        "answer": "ELAPSE"
+      },
+      {
+        "number": 48,
+        "clue": "Anne ___ Lindbergh",
+        "row": 9,
+        "col": 9,
+        "answer": "MORROW"
+      },
+      {
+        "number": 50,
+        "clue": "Stashes away",
+        "row": 10,
+        "col": 6,
+        "answer": "STOWS"
+      },
+      {
+        "number": 51,
+        "clue": "Everglades bird",
+        "row": 10,
+        "col": 8,
+        "answer": "CRANE"
+      },
+      {
+        "number": 52,
+        "clue": "Burns, for one",
+        "row": 11,
+        "col": 0,
+        "answer": "SCOT"
+      },
+      {
+        "number": 53,
+        "clue": "___ La Douce",
+        "row": 11,
+        "col": 1,
+        "answer": "IRMA"
+      },
+      {
+        "number": 54,
+        "clue": "Caddoan Indians",
+        "row": 11,
+        "col": 2,
+        "answer": "REES"
+      },
+      {
+        "number": 55,
+        "clue": "Ludwig",
+        "row": 11,
+        "col": 7,
+        "answer": "EMIL"
+      },
+      {
+        "number": 56,
+        "clue": "Obscene",
+        "row": 11,
+        "col": 11,
+        "answer": "LEWD"
+      },
+      {
+        "number": 57,
+        "clue": "Nymph",
+        "row": 11,
+        "col": 12,
+        "answer": "ECHO"
+      },
+      {
+        "number": 58,
+        "clue": "Forbidding",
+        "row": 11,
+        "col": 13,
+        "answer": "GRIM"
+      },
+      {
+        "number": 59,
+        "clue": "Insect noises",
+        "row": 11,
+        "col": 14,
+        "answer": "HUMS"
+      }
+    ]
+  }
+}

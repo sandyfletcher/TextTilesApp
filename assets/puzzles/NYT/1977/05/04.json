@@ -1,0 +1,543 @@
+{
+  "id": "nyt-1977-05-04",
+  "metadata": {
+    "date": "1977-05-04",
+    "title": "NY TIMES, WED, MAY 04, 1977",
+    "author": "Henry Hook",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    [null, null, "D", "A", "V", "I", "S", null, "D", "A", "G", "G", "E", "R", null],
+    ["S", "P", "A", "N", "I", "S", "H", null, "A", "G", "O", "U", "T", "I", null],
+    ["M", "A", "R", "G", "A", "R", "E", "T", "T", "R", "U", "M", "A", "N", null],
+    ["A", "N", "N", "U", "L", null, null, "R", "E", "E", "L", "S", null, null, null],
+    ["L", "I", "E", "S", null, "P", "A", "I", "R", "E", "D", null, "S", "M", "U"],
+    ["L", "C", "D", null, "D", "U", "M", "P", "S", null, null, "G", "O", "U", "P"],
+    [null, null, null, "P", "A", "N", "E", "L", null, "Y", "I", "E", "L", "D", "S"],
+    ["C", "A", "R", "O", "L", "I", "N", "E", "K", "E", "N", "N", "E", "D", "Y"],
+    ["E", "R", "O", "T", "I", "C", null, "C", "E", "A", "S", "E", null, null, null],
+    ["L", "A", "S", "S", null, null, "B", "R", "E", "T", "T", null, "B", "A", "S"],
+    ["A", "M", "Y", null, "A", "P", "R", "O", "N", "S", null, "J", "O", "L", "T"],
+    [null, null, null, "S", "T", "R", "E", "W", null, null, "B", "A", "B", "A", "R"],
+    [null, "J", "U", "L", "I", "E", "A", "N", "D", "T", "R", "I", "C", "I", "A"],
+    [null, "A", "N", "O", "D", "E", "S", null, "I", "R", "E", "L", "A", "N", "D"],
+    [null, "R", "E", "G", "E", "N", "T", null, "M", "I", "D", "S", "T", null, null]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Miles or Sammy, Jr.",
+        "row": 0,
+        "col": 2,
+        "answer": "DAVIS"
+      },
+      {
+        "number": 6,
+        "clue": "Weapon in Macbeth's belt",
+        "row": 0,
+        "col": 8,
+        "answer": "DAGGER"
+      },
+      {
+        "number": 12,
+        "clue": "Kind of \"Eyes\" in a song",
+        "row": 1,
+        "col": 0,
+        "answer": "SPANISH"
+      },
+      {
+        "number": 14,
+        "clue": "Guinea pig's cousin",
+        "row": 1,
+        "col": 8,
+        "answer": "AGOUTI"
+      },
+      {
+        "number": 15,
+        "clue": "White house daughter",
+        "row": 2,
+        "col": 0,
+        "answer": "MARGARETTRUMAN"
+      },
+      {
+        "number": 17,
+        "clue": "Void",
+        "row": 3,
+        "col": 0,
+        "answer": "ANNUL"
+      },
+      {
+        "number": 18,
+        "clue": "Projectionists' concerns",
+        "row": 3,
+        "col": 7,
+        "answer": "REELS"
+      },
+      {
+        "number": 19,
+        "clue": "Fiction of a sort",
+        "row": 4,
+        "col": 0,
+        "answer": "LIES"
+      },
+      {
+        "number": 20,
+        "clue": "___ off (went in twos)",
+        "row": 4,
+        "col": 5,
+        "answer": "PAIRED"
+      },
+      {
+        "number": 22,
+        "clue": "Dallas campus: Abbr.",
+        "row": 4,
+        "col": 12,
+        "answer": "SMU"
+      },
+      {
+        "number": 25,
+        "clue": "Arithmetician's concern: Abbr.",
+        "row": 5,
+        "col": 0,
+        "answer": "LCD"
+      },
+      {
+        "number": 26,
+        "clue": "Jettisons",
+        "row": 5,
+        "col": 4,
+        "answer": "DUMPS"
+      },
+      {
+        "number": 27,
+        "clue": "Rise",
+        "row": 5,
+        "col": 11,
+        "answer": "GOUP"
+      },
+      {
+        "number": 28,
+        "clue": "Group for a jury",
+        "row": 6,
+        "col": 3,
+        "answer": "PANEL"
+      },
+      {
+        "number": 29,
+        "clue": "Obeys a road sign",
+        "row": 6,
+        "col": 9,
+        "answer": "YIELDS"
+      },
+      {
+        "number": 31,
+        "clue": "White House daughter",
+        "row": 7,
+        "col": 0,
+        "answer": "CAROLINEKENNEDY"
+      },
+      {
+        "number": 35,
+        "clue": "Amatory",
+        "row": 8,
+        "col": 0,
+        "answer": "EROTIC"
+      },
+      {
+        "number": 36,
+        "clue": "Do no more",
+        "row": 8,
+        "col": 7,
+        "answer": "CEASE"
+      },
+      {
+        "number": 37,
+        "clue": "Colleen",
+        "row": 9,
+        "col": 0,
+        "answer": "LASS"
+      },
+      {
+        "number": 38,
+        "clue": "Francis ___ Harte",
+        "row": 9,
+        "col": 6,
+        "answer": "BRETT"
+      },
+      {
+        "number": 39,
+        "clue": "___ Mitzvah (ceremony for girls)",
+        "row": 9,
+        "col": 12,
+        "answer": "BAS"
+      },
+      {
+        "number": 42,
+        "clue": "White House daughter",
+        "row": 10,
+        "col": 0,
+        "answer": "AMY"
+      },
+      {
+        "number": 43,
+        "clue": "BBQ-ers' garb",
+        "row": 10,
+        "col": 4,
+        "answer": "APRONS"
+      },
+      {
+        "number": 45,
+        "clue": "Shake",
+        "row": 10,
+        "col": 11,
+        "answer": "JOLT"
+      },
+      {
+        "number": 46,
+        "clue": "Scatter",
+        "row": 11,
+        "col": 3,
+        "answer": "STREW"
+      },
+      {
+        "number": 47,
+        "clue": "Fictional elephant",
+        "row": 11,
+        "col": 10,
+        "answer": "BABAR"
+      },
+      {
+        "number": 48,
+        "clue": "White House daughters",
+        "row": 12,
+        "col": 1,
+        "answer": "JULIEANDTRICIA"
+      },
+      {
+        "number": 52,
+        "clue": "Positive charges",
+        "row": 13,
+        "col": 1,
+        "answer": "ANODES"
+      },
+      {
+        "number": 53,
+        "clue": "Innisfail",
+        "row": 13,
+        "col": 8,
+        "answer": "IRELAND"
+      },
+      {
+        "number": 54,
+        "clue": "Ruler, pro tem",
+        "row": 14,
+        "col": 1,
+        "answer": "REGENT"
+      },
+      {
+        "number": 55,
+        "clue": "In the ___ of  (among)",
+        "row": 14,
+        "col": 8,
+        "answer": "MIDST"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"I'll be ___!\"",
+        "row": 0,
+        "col": 2,
+        "answer": "DARNED"
+      },
+      {
+        "number": 2,
+        "clue": "Cattle breed",
+        "row": 0,
+        "col": 3,
+        "answer": "ANGUS"
+      },
+      {
+        "number": 3,
+        "clue": "Test tube",
+        "row": 0,
+        "col": 4,
+        "answer": "VIAL"
+      },
+      {
+        "number": 4,
+        "clue": "Kibbutz land: Abbr.",
+        "row": 0,
+        "col": 5,
+        "answer": "ISR"
+      },
+      {
+        "number": 5,
+        "clue": "Pronoun for a daughter",
+        "row": 0,
+        "col": 6,
+        "answer": "SHE"
+      },
+      {
+        "number": 6,
+        "clue": "Librarians' devices",
+        "row": 0,
+        "col": 8,
+        "answer": "DATERS"
+      },
+      {
+        "number": 7,
+        "clue": "Coincide",
+        "row": 0,
+        "col": 9,
+        "answer": "AGREE"
+      },
+      {
+        "number": 8,
+        "clue": "Elliot from Brooklyn",
+        "row": 0,
+        "col": 10,
+        "answer": "GOULD"
+      },
+      {
+        "number": 9,
+        "clue": "Settings for molars",
+        "row": 0,
+        "col": 11,
+        "answer": "GUMS"
+      },
+      {
+        "number": 10,
+        "clue": "Zeta follower",
+        "row": 0,
+        "col": 12,
+        "answer": "ETA"
+      },
+      {
+        "number": 11,
+        "clue": "\"Oysters ___ season\"",
+        "row": 0,
+        "col": 13,
+        "answer": "RIN"
+      },
+      {
+        "number": 12,
+        "clue": "Lower-case",
+        "row": 1,
+        "col": 0,
+        "answer": "SMALL"
+      },
+      {
+        "number": 13,
+        "clue": "Kind of button",
+        "row": 1,
+        "col": 1,
+        "answer": "PANIC"
+      },
+      {
+        "number": 16,
+        "clue": "Secretariat's coup",
+        "row": 2,
+        "col": 7,
+        "answer": "TRIPLECROWN"
+      },
+      {
+        "number": 20,
+        "clue": "Carthaginian",
+        "row": 4,
+        "col": 5,
+        "answer": "PUNIC"
+      },
+      {
+        "number": 21,
+        "clue": "Prayer word",
+        "row": 4,
+        "col": 6,
+        "answer": "AMEN"
+      },
+      {
+        "number": 22,
+        "clue": "Food fish",
+        "row": 4,
+        "col": 12,
+        "answer": "SOLE"
+      },
+      {
+        "number": 23,
+        "clue": "TV newsman Roger",
+        "row": 4,
+        "col": 13,
+        "answer": "MUDD"
+      },
+      {
+        "number": 24,
+        "clue": "\"___ daisy!\"",
+        "row": 4,
+        "col": 14,
+        "answer": "UPSY"
+      },
+      {
+        "number": 26,
+        "clue": "Painter of limp watches",
+        "row": 5,
+        "col": 4,
+        "answer": "DALI"
+      },
+      {
+        "number": 27,
+        "clue": "Tierney or Tunney",
+        "row": 5,
+        "col": 11,
+        "answer": "GENE"
+      },
+      {
+        "number": 28,
+        "clue": "Kitchenware",
+        "row": 6,
+        "col": 3,
+        "answer": "POTS"
+      },
+      {
+        "number": 29,
+        "clue": "Nobelist for literature: 1923",
+        "row": 6,
+        "col": 9,
+        "answer": "YEATS"
+      },
+      {
+        "number": 30,
+        "clue": "Smithsonian is one: Abbr.",
+        "row": 6,
+        "col": 10,
+        "answer": "INST"
+      },
+      {
+        "number": 31,
+        "clue": "That, in Tours",
+        "row": 7,
+        "col": 0,
+        "answer": "CELA"
+      },
+      {
+        "number": 32,
+        "clue": "Saroyan hero",
+        "row": 7,
+        "col": 1,
+        "answer": "ARAM"
+      },
+      {
+        "number": 33,
+        "clue": "Apple-cheeked",
+        "row": 7,
+        "col": 2,
+        "answer": "ROSY"
+      },
+      {
+        "number": 34,
+        "clue": "Acute",
+        "row": 7,
+        "col": 8,
+        "answer": "KEEN"
+      },
+      {
+        "number": 38,
+        "clue": "Kind of plate",
+        "row": 9,
+        "col": 6,
+        "answer": "BREAST"
+      },
+      {
+        "number": 39,
+        "clue": "Bay lynx",
+        "row": 9,
+        "col": 12,
+        "answer": "BOBCAT"
+      },
+      {
+        "number": 40,
+        "clue": "Actor Delon",
+        "row": 9,
+        "col": 13,
+        "answer": "ALAIN"
+      },
+      {
+        "number": 41,
+        "clue": "Violin, for short",
+        "row": 9,
+        "col": 14,
+        "answer": "STRAD"
+      },
+      {
+        "number": 43,
+        "clue": "\" . . . ___ in the affairs of men\"",
+        "row": 10,
+        "col": 4,
+        "answer": "ATIDE"
+      },
+      {
+        "number": 44,
+        "clue": "Dress fastidiously",
+        "row": 10,
+        "col": 5,
+        "answer": "PREEN"
+      },
+      {
+        "number": 45,
+        "clue": "Imprisons",
+        "row": 10,
+        "col": 11,
+        "answer": "JAILS"
+      },
+      {
+        "number": 46,
+        "clue": "Plod through the mud",
+        "row": 11,
+        "col": 3,
+        "answer": "SLOG"
+      },
+      {
+        "number": 47,
+        "clue": "Raised",
+        "row": 11,
+        "col": 10,
+        "answer": "BRED"
+      },
+      {
+        "number": 48,
+        "clue": "Clash",
+        "row": 12,
+        "col": 1,
+        "answer": "JAR"
+      },
+      {
+        "number": 49,
+        "clue": "Half of deux",
+        "row": 12,
+        "col": 2,
+        "answer": "UNE"
+      },
+      {
+        "number": 50,
+        "clue": "Ill-lit",
+        "row": 12,
+        "col": 8,
+        "answer": "DIM"
+      },
+      {
+        "number": 51,
+        "clue": "Numerical prefix",
+        "row": 12,
+        "col": 9,
+        "answer": "TRI"
+      }
+    ]
+  }
+}

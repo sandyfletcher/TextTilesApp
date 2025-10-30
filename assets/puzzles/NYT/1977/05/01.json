@@ -1,0 +1,1011 @@
+{
+  "id": "nyt-1977-05-01",
+  "metadata": {
+    "date": "1977-05-01",
+    "title": "COMPLETION TEST",
+    "author": "Elaine D. Schorr",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 21,
+    "rows": 21
+  },
+  "grid": [
+    [null, "H", "A", "R", "T", "E", null, null, "S", "P", "L", "A", "S", "H", null, null, "S", "L", "A", "Y", null],
+    ["B", "E", "M", "O", "A", "N", "S", null, "E", "R", "A", "S", "T", "U", "S", null, "P", "O", "L", "I", "S"],
+    ["A", "L", "O", "N", "G", "S", "T", "O", "R", "Y", "S", "H", "O", "R", "T", null, "A", "N", "I", "T", "A"],
+    ["S", "L", "E", "D", "S", null, "A", "N", "G", "E", "S", null, "O", "D", "E", "T", "S", null, "G", "I", "N"],
+    ["K", "I", "B", "O", null, "A", "N", "S", "E", "R", null, "A", "L", "L", "T", "O", null, "S", "H", "A", "D"],
+    ["E", "S", "A", null, "A", "L", "T", "E", null, null, "A", "B", "I", "E", null, "G", "R", "I", "T", "T", "Y"],
+    ["T", "H", "E", "L", "I", "G", "H", "T", null, "F", "R", "E", "E", "R", null, null, "E", "R", "N", "E", "S"],
+    [null, null, null, "I", "D", "E", "E", null, "K", "E", "E", "L", null, "S", "C", "E", "N", "E", "I", null, null],
+    ["M", "A", "H", "L", "E", "R", null, "C", "O", "N", "F", "E", "R", null, "A", "T", "T", "E", "N", "D", "S"],
+    ["O", "R", "A", "L", "S", null, "T", "O", "S", "C", "A", null, "A", "L", "I", "A", "S", null, "G", "E", "T"],
+    ["R", "I", "D", "E", null, "W", "A", "S", "H", "E", "L", "L", "B", "E", "N", "T", null, "T", "B", "A", "R"],
+    ["A", "S", "A", null, "A", "E", "R", "I", "E", null, "L", "A", "I", "N", "E", null, "M", "A", "U", "N", "A"],
+    ["L", "E", "H", "A", "V", "R", "E", null, "R", "A", "G", "G", "E", "D", null, "S", "I", "N", "G", "E", "D"],
+    [null, null, "I", "C", "I", "E", "S", "T", null, "D", "U", "O", "S", null, "S", "U", "L", "K", null, null, null],
+    ["M", "A", "T", "I", "N", null, null, "S", "W", "A", "Y", "S", null, "U", "P", "I", "N", "A", "R", "M", "S"],
+    ["A", "G", "R", "E", "E", "S", null, "A", "I", "R", "S", null, null, "N", "O", "T", "E", null, "O", "A", "T"],
+    ["N", "E", "E", "R", null, "H", "O", "R", "N", "E", null, "A", "L", "I", "N", "E", null, "M", "A", "L", "I"],
+    ["I", "N", "C", null, "M", "E", "D", "I", "C", null, "A", "R", "I", "A", "S", null, "C", "A", "N", "O", "N"],
+    ["A", "D", "O", "R", "E", null, "A", "S", "H", "O", "R", "T", "S", "T", "O", "R", "Y", "L", "O", "N", "G"],
+    ["C", "A", "R", "N", "E", null, "S", "T", "E", "P", "O", "U", "T", null, "R", "E", "M", "A", "K", "E", "S"],
+    [null, "S", "D", "A", "K", null, null, "S", "S", "T", "A", "R", "S", null, null, "D", "A", "R", "E", "S", null]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Ah Sin's creator",
+        "row": 0,
+        "col": 1,
+        "answer": "HARTE"
+      },
+      {
+        "number": 6,
+        "clue": "Dive aftermath",
+        "row": 0,
+        "col": 8,
+        "answer": "SPLASH"
+      },
+      {
+        "number": 12,
+        "clue": "Serb or Sorb",
+        "row": 0,
+        "col": 16,
+        "answer": "SLAY"
+      },
+      {
+        "number": 16,
+        "clue": "Laments",
+        "row": 1,
+        "col": 0,
+        "answer": "BEMOANS"
+      },
+      {
+        "number": 18,
+        "clue": "Theologian of the 16th century",
+        "row": 1,
+        "col": 8,
+        "answer": "ERASTUS"
+      },
+      {
+        "number": 20,
+        "clue": "Greek city-state",
+        "row": 1,
+        "col": 16,
+        "answer": "POLIS"
+      },
+      {
+        "number": 22,
+        "clue": "O. Henry made ___",
+        "row": 2,
+        "col": 0,
+        "answer": "ALONGSTORYSHORT"
+      },
+      {
+        "number": 24,
+        "clue": "Singer Bryant",
+        "row": 2,
+        "col": 16,
+        "answer": "ANITA"
+      },
+      {
+        "number": 25,
+        "clue": "Cutters",
+        "row": 3,
+        "col": 0,
+        "answer": "SLEDS"
+      },
+      {
+        "number": 26,
+        "clue": "French heavenly beings",
+        "row": 3,
+        "col": 6,
+        "answer": "ANGES"
+      },
+      {
+        "number": 27,
+        "clue": "\"Awake and Sing\" playwright",
+        "row": 3,
+        "col": 12,
+        "answer": "ODETS"
+      },
+      {
+        "number": 29,
+        "clue": "Martini base",
+        "row": 3,
+        "col": 18,
+        "answer": "GIN"
+      },
+      {
+        "number": 30,
+        "clue": "Africa's highest point",
+        "row": 4,
+        "col": 0,
+        "answer": "KIBO"
+      },
+      {
+        "number": 31,
+        "clue": "Goose genus",
+        "row": 4,
+        "col": 5,
+        "answer": "ANSER"
+      },
+      {
+        "number": 32,
+        "clue": "___ the good",
+        "row": 4,
+        "col": 11,
+        "answer": "ALLTO"
+      },
+      {
+        "number": 33,
+        "clue": "Roe source",
+        "row": 4,
+        "col": 17,
+        "answer": "SHAD"
+      },
+      {
+        "number": 34,
+        "clue": "That: Sp.",
+        "row": 5,
+        "col": 0,
+        "answer": "ESA"
+      },
+      {
+        "number": 35,
+        "clue": "\"Der ___\" (Adenauer)",
+        "row": 5,
+        "col": 4,
+        "answer": "ALTE"
+      },
+      {
+        "number": 36,
+        "clue": "Rose's swain",
+        "row": 5,
+        "col": 10,
+        "answer": "ABIE"
+      },
+      {
+        "number": 37,
+        "clue": "Resolute",
+        "row": 5,
+        "col": 15,
+        "answer": "GRITTY"
+      },
+      {
+        "number": 39,
+        "clue": "Edison saw ___",
+        "row": 6,
+        "col": 0,
+        "answer": "THELIGHT"
+      },
+      {
+        "number": 41,
+        "clue": "Noted art gallery",
+        "row": 6,
+        "col": 9,
+        "answer": "FREER"
+      },
+      {
+        "number": 42,
+        "clue": "Petrels' kin",
+        "row": 6,
+        "col": 16,
+        "answer": "ERNES"
+      },
+      {
+        "number": 43,
+        "clue": "Nantes notion",
+        "row": 7,
+        "col": 3,
+        "answer": "IDEE"
+      },
+      {
+        "number": 44,
+        "clue": "Singer Howard",
+        "row": 7,
+        "col": 8,
+        "answer": "KEEL"
+      },
+      {
+        "number": 45,
+        "clue": "Playbill listing",
+        "row": 7,
+        "col": 13,
+        "answer": "SCENEI"
+      },
+      {
+        "number": 48,
+        "clue": "Composer Gustav",
+        "row": 8,
+        "col": 0,
+        "answer": "MAHLER"
+      },
+      {
+        "number": 51,
+        "clue": "Have a powwow",
+        "row": 8,
+        "col": 7,
+        "answer": "CONFER"
+      },
+      {
+        "number": 53,
+        "clue": "Ministers to",
+        "row": 8,
+        "col": 14,
+        "answer": "ATTENDS"
+      },
+      {
+        "number": 56,
+        "clue": "Ph.D. ordeal",
+        "row": 9,
+        "col": 0,
+        "answer": "ORALS"
+      },
+      {
+        "number": 57,
+        "clue": "She stabs Scarpia",
+        "row": 9,
+        "col": 6,
+        "answer": "TOSCA"
+      },
+      {
+        "number": 58,
+        "clue": "A.k.a.",
+        "row": 9,
+        "col": 12,
+        "answer": "ALIAS"
+      },
+      {
+        "number": 60,
+        "clue": "See the point",
+        "row": 9,
+        "col": 18,
+        "answer": "GET"
+      },
+      {
+        "number": 61,
+        "clue": "Ferris wheel, e.g.",
+        "row": 10,
+        "col": 0,
+        "answer": "RIDE"
+      },
+      {
+        "number": 62,
+        "clue": "Dr. Faustus ___",
+        "row": 10,
+        "col": 5,
+        "answer": "WASHELLBENT"
+      },
+      {
+        "number": 64,
+        "clue": "Ski lift",
+        "row": 10,
+        "col": 17,
+        "answer": "TBAR"
+      },
+      {
+        "number": 65,
+        "clue": "___ rule",
+        "row": 11,
+        "col": 0,
+        "answer": "ASA"
+      },
+      {
+        "number": 66,
+        "clue": "Home on high",
+        "row": 11,
+        "col": 4,
+        "answer": "AERIE"
+      },
+      {
+        "number": 67,
+        "clue": "Frankie from Chicago",
+        "row": 11,
+        "col": 10,
+        "answer": "LAINE"
+      },
+      {
+        "number": 68,
+        "clue": "___ Loa",
+        "row": 11,
+        "col": 16,
+        "answer": "MAUNA"
+      },
+      {
+        "number": 69,
+        "clue": "English Channel city",
+        "row": 12,
+        "col": 0,
+        "answer": "LEHAVRE"
+      },
+      {
+        "number": 71,
+        "clue": "Out at the elbows",
+        "row": 12,
+        "col": 8,
+        "answer": "RAGGED"
+      },
+      {
+        "number": 73,
+        "clue": "Burned lightly",
+        "row": 12,
+        "col": 15,
+        "answer": "SINGED"
+      },
+      {
+        "number": 74,
+        "clue": "Most gelid",
+        "row": 13,
+        "col": 2,
+        "answer": "ICIEST"
+      },
+      {
+        "number": 76,
+        "clue": "Twosomes",
+        "row": 13,
+        "col": 9,
+        "answer": "DUOS"
+      },
+      {
+        "number": 77,
+        "clue": "Have the grumps",
+        "row": 13,
+        "col": 14,
+        "answer": "SULK"
+      },
+      {
+        "number": 78,
+        "clue": "Morning prayer",
+        "row": 14,
+        "col": 0,
+        "answer": "MATIN"
+      },
+      {
+        "number": 80,
+        "clue": "Persuades",
+        "row": 14,
+        "col": 7,
+        "answer": "SWAYS"
+      },
+      {
+        "number": 82,
+        "clue": "Babies are sometimes ___",
+        "row": 14,
+        "col": 13,
+        "answer": "UPINARMS"
+      },
+      {
+        "number": 86,
+        "clue": "Corresponds",
+        "row": 15,
+        "col": 0,
+        "answer": "AGREES"
+      },
+      {
+        "number": 88,
+        "clue": "D.J.'s put on ___",
+        "row": 15,
+        "col": 7,
+        "answer": "AIRS"
+      },
+      {
+        "number": 89,
+        "clue": "Renown",
+        "row": 15,
+        "col": 13,
+        "answer": "NOTE"
+      },
+      {
+        "number": 90,
+        "clue": "Grain kernel",
+        "row": 15,
+        "col": 18,
+        "answer": "OAT"
+      },
+      {
+        "number": 91,
+        "clue": "___-do-well",
+        "row": 16,
+        "col": 0,
+        "answer": "NEER"
+      },
+      {
+        "number": 92,
+        "clue": "Marilyn of the Met",
+        "row": 16,
+        "col": 5,
+        "answer": "HORNE"
+      },
+      {
+        "number": 94,
+        "clue": "Izaak Walton dropped ___",
+        "row": 16,
+        "col": 11,
+        "answer": "ALINE"
+      },
+      {
+        "number": 96,
+        "clue": "Republic in Africa",
+        "row": 16,
+        "col": 17,
+        "answer": "MALI"
+      },
+      {
+        "number": 97,
+        "clue": "Business abbr.",
+        "row": 17,
+        "col": 0,
+        "answer": "INC"
+      },
+      {
+        "number": 98,
+        "clue": "\"M*A*S*H\" man",
+        "row": 17,
+        "col": 4,
+        "answer": "MEDIC"
+      },
+      {
+        "number": 99,
+        "clue": "Scotto's forte",
+        "row": 17,
+        "col": 10,
+        "answer": "ARIAS"
+      },
+      {
+        "number": 100,
+        "clue": "Code of law",
+        "row": 17,
+        "col": 16,
+        "answer": "CANON"
+      },
+      {
+        "number": 101,
+        "clue": "Honor as divine",
+        "row": 18,
+        "col": 0,
+        "answer": "ADORE"
+      },
+      {
+        "number": 103,
+        "clue": "Scheherazade made ___",
+        "row": 18,
+        "col": 6,
+        "answer": "ASHORTSTORYLONG"
+      },
+      {
+        "number": 106,
+        "clue": "Chili con ___",
+        "row": 19,
+        "col": 0,
+        "answer": "CARNE"
+      },
+      {
+        "number": 107,
+        "clue": "See life",
+        "row": 19,
+        "col": 6,
+        "answer": "STEPOUT"
+      },
+      {
+        "number": 108,
+        "clue": "Transforms",
+        "row": 19,
+        "col": 14,
+        "answer": "REMAKES"
+      },
+      {
+        "number": 109,
+        "clue": "Mt. Rushmore's state: Abbr.",
+        "row": 20,
+        "col": 1,
+        "answer": "SDAK"
+      },
+      {
+        "number": 110,
+        "clue": "Some astral types",
+        "row": 20,
+        "col": 7,
+        "answer": "SSTARS"
+      },
+      {
+        "number": 111,
+        "clue": "Bells the cat",
+        "row": 20,
+        "col": 15,
+        "answer": "DARES"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Infernal",
+        "row": 0,
+        "col": 1,
+        "answer": "HELLISH"
+      },
+      {
+        "number": 2,
+        "clue": "Protozoans",
+        "row": 0,
+        "col": 2,
+        "answer": "AMOEBAE"
+      },
+      {
+        "number": 3,
+        "clue": "Sonata movement",
+        "row": 0,
+        "col": 3,
+        "answer": "RONDO"
+      },
+      {
+        "number": 4,
+        "clue": "Aglets",
+        "row": 0,
+        "col": 4,
+        "answer": "TAGS"
+      },
+      {
+        "number": 5,
+        "clue": "Annapolis grad.",
+        "row": 0,
+        "col": 5,
+        "answer": "ENS"
+      },
+      {
+        "number": 6,
+        "clue": "Suit suiting",
+        "row": 0,
+        "col": 8,
+        "answer": "SERGE"
+      },
+      {
+        "number": 7,
+        "clue": "Snoop",
+        "row": 0,
+        "col": 9,
+        "answer": "PRYER"
+      },
+      {
+        "number": 8,
+        "clue": "Lad's love",
+        "row": 0,
+        "col": 10,
+        "answer": "LASS"
+      },
+      {
+        "number": 9,
+        "clue": "Durable wood",
+        "row": 0,
+        "col": 11,
+        "answer": "ASH"
+      },
+      {
+        "number": 10,
+        "clue": "\"Rat\"",
+        "row": 0,
+        "col": 12,
+        "answer": "STOOLIE"
+      },
+      {
+        "number": 11,
+        "clue": "Olympics group",
+        "row": 0,
+        "col": 13,
+        "answer": "HURDLERS"
+      },
+      {
+        "number": 12,
+        "clue": "Health clubs",
+        "row": 0,
+        "col": 16,
+        "answer": "SPAS"
+      },
+      {
+        "number": 13,
+        "clue": "Chaney",
+        "row": 0,
+        "col": 17,
+        "answer": "LON"
+      },
+      {
+        "number": 14,
+        "clue": "Benjamin Franklin was ___",
+        "row": 0,
+        "col": 18,
+        "answer": "ALIGHTNINGBUG"
+      },
+      {
+        "number": 15,
+        "clue": "Spoil; mar",
+        "row": 0,
+        "col": 19,
+        "answer": "YITIATE"
+      },
+      {
+        "number": 16,
+        "clue": "Court target",
+        "row": 1,
+        "col": 0,
+        "answer": "BASKET"
+      },
+      {
+        "number": 17,
+        "clue": "\"___ Man\"",
+        "row": 1,
+        "col": 6,
+        "answer": "STANTHE"
+      },
+      {
+        "number": 19,
+        "clue": "Typesetter's cue",
+        "row": 1,
+        "col": 14,
+        "answer": "STET"
+      },
+      {
+        "number": 21,
+        "clue": "Dennis and Duncan",
+        "row": 1,
+        "col": 20,
+        "answer": "SANDYS"
+      },
+      {
+        "number": 23,
+        "clue": "Assault",
+        "row": 2,
+        "col": 7,
+        "answer": "ONSET"
+      },
+      {
+        "number": 28,
+        "clue": "Dress (up)",
+        "row": 3,
+        "col": 15,
+        "answer": "TOG"
+      },
+      {
+        "number": 31,
+        "clue": "\"Luck and Pluck\" author",
+        "row": 4,
+        "col": 5,
+        "answer": "ALGER"
+      },
+      {
+        "number": 32,
+        "clue": "White poplar",
+        "row": 4,
+        "col": 11,
+        "answer": "ABELE"
+      },
+      {
+        "number": 33,
+        "clue": "\"Yes, ___!\"",
+        "row": 4,
+        "col": 17,
+        "answer": "SIREE"
+      },
+      {
+        "number": 35,
+        "clue": "\"Brass\" entourage",
+        "row": 5,
+        "col": 4,
+        "answer": "AIDES"
+      },
+      {
+        "number": 36,
+        "clue": "Stunt men ___",
+        "row": 5,
+        "col": 10,
+        "answer": "AREFALLGUYS"
+      },
+      {
+        "number": 38,
+        "clue": "Schisms",
+        "row": 5,
+        "col": 16,
+        "answer": "RENTS"
+      },
+      {
+        "number": 40,
+        "clue": "City in N France",
+        "row": 6,
+        "col": 3,
+        "answer": "LILLE"
+      },
+      {
+        "number": 41,
+        "clue": "Thrust and parry",
+        "row": 6,
+        "col": 9,
+        "answer": "FENCE"
+      },
+      {
+        "number": 44,
+        "clue": "Legit",
+        "row": 7,
+        "col": 8,
+        "answer": "KOSHER"
+      },
+      {
+        "number": 46,
+        "clue": "Wouk ship",
+        "row": 7,
+        "col": 14,
+        "answer": "CAINE"
+      },
+      {
+        "number": 47,
+        "clue": "Budget, in Berlin",
+        "row": 7,
+        "col": 15,
+        "answer": "ETAT"
+      },
+      {
+        "number": 48,
+        "clue": "Fable dividend",
+        "row": 8,
+        "col": 0,
+        "answer": "MORAL"
+      },
+      {
+        "number": 49,
+        "clue": "Originate",
+        "row": 8,
+        "col": 1,
+        "answer": "ARISE"
+      },
+      {
+        "number": 50,
+        "clue": "Ty Cobb ___",
+        "row": 8,
+        "col": 2,
+        "answer": "HADAHITRECORD"
+      },
+      {
+        "number": 51,
+        "clue": "\"___ fan tutte\"",
+        "row": 8,
+        "col": 7,
+        "answer": "COSI"
+      },
+      {
+        "number": 52,
+        "clue": "Hydrophobia",
+        "row": 8,
+        "col": 12,
+        "answer": "RABIES"
+      },
+      {
+        "number": 54,
+        "clue": "Revolutionary patriot",
+        "row": 8,
+        "col": 19,
+        "answer": "DEANE"
+      },
+      {
+        "number": 55,
+        "clue": "Musical heirloom",
+        "row": 8,
+        "col": 20,
+        "answer": "STRAD"
+      },
+      {
+        "number": 57,
+        "clue": "Weedy plants",
+        "row": 9,
+        "col": 6,
+        "answer": "TARES"
+      },
+      {
+        "number": 59,
+        "clue": "Advance",
+        "row": 9,
+        "col": 13,
+        "answer": "LEND"
+      },
+      {
+        "number": 62,
+        "clue": "\"The Way We ___\"",
+        "row": 10,
+        "col": 5,
+        "answer": "WERE"
+      },
+      {
+        "number": 63,
+        "clue": "Nigerian capital",
+        "row": 10,
+        "col": 11,
+        "answer": "LAGOS"
+      },
+      {
+        "number": 64,
+        "clue": "Tibetan religious painting",
+        "row": 10,
+        "col": 17,
+        "answer": "TANKA"
+      },
+      {
+        "number": 66,
+        "clue": "Birdlike",
+        "row": 11,
+        "col": 4,
+        "answer": "AVINE"
+      },
+      {
+        "number": 68,
+        "clue": "Christopher Robin's father",
+        "row": 11,
+        "col": 16,
+        "answer": "MILNE"
+      },
+      {
+        "number": 70,
+        "clue": "Quaker gray",
+        "row": 12,
+        "col": 3,
+        "answer": "ACIER"
+      },
+      {
+        "number": 72,
+        "clue": "Antarctic cape",
+        "row": 12,
+        "col": 9,
+        "answer": "ADARE"
+      },
+      {
+        "number": 73,
+        "clue": "Musical form",
+        "row": 12,
+        "col": 15,
+        "answer": "SUITE"
+      },
+      {
+        "number": 75,
+        "clue": "Bolsheviks' foes",
+        "row": 13,
+        "col": 7,
+        "answer": "TSARISTS"
+      },
+      {
+        "number": 77,
+        "clue": "Patron of the arts",
+        "row": 13,
+        "col": 14,
+        "answer": "SPONSOR"
+      },
+      {
+        "number": 78,
+        "clue": "Lunatic",
+        "row": 14,
+        "col": 0,
+        "answer": "MANIAC"
+      },
+      {
+        "number": 79,
+        "clue": "Plans; programs",
+        "row": 14,
+        "col": 1,
+        "answer": "AGENDAS"
+      },
+      {
+        "number": 81,
+        "clue": "Cranking devices",
+        "row": 14,
+        "col": 8,
+        "answer": "WINCHES"
+      },
+      {
+        "number": 82,
+        "clue": "Eastern Christian",
+        "row": 14,
+        "col": 13,
+        "answer": "UNIAT"
+      },
+      {
+        "number": 83,
+        "clue": "City once called Big Lick",
+        "row": 14,
+        "col": 18,
+        "answer": "ROANOKE"
+      },
+      {
+        "number": 84,
+        "clue": "\"Molly\" of song et al.",
+        "row": 14,
+        "col": 19,
+        "answer": "MALONES"
+      },
+      {
+        "number": 85,
+        "clue": "Overcharges",
+        "row": 14,
+        "col": 20,
+        "answer": "STINGS"
+      },
+      {
+        "number": 87,
+        "clue": "\"___ walks in beauty . . . \"",
+        "row": 15,
+        "col": 5,
+        "answer": "SHE"
+      },
+      {
+        "number": 93,
+        "clue": "Sequestered rooms",
+        "row": 16,
+        "col": 6,
+        "answer": "ODAS"
+      },
+      {
+        "number": 94,
+        "clue": "Rubinstein",
+        "row": 16,
+        "col": 11,
+        "answer": "ARTUR"
+      },
+      {
+        "number": 95,
+        "clue": "Site of knight-fights",
+        "row": 16,
+        "col": 12,
+        "answer": "LISTS"
+      },
+      {
+        "number": 96,
+        "clue": "Of the cheek",
+        "row": 16,
+        "col": 17,
+        "answer": "MALAR"
+      },
+      {
+        "number": 98,
+        "clue": "Like Milquetoast",
+        "row": 17,
+        "col": 4,
+        "answer": "MEEK"
+      },
+      {
+        "number": 99,
+        "clue": "Venezuelan mining town",
+        "row": 17,
+        "col": 10,
+        "answer": "AROA"
+      },
+      {
+        "number": 100,
+        "clue": "Cornice molding",
+        "row": 17,
+        "col": 16,
+        "answer": "CYMA"
+      },
+      {
+        "number": 102,
+        "clue": "Acid initials",
+        "row": 18,
+        "col": 3,
+        "answer": "RNA"
+      },
+      {
+        "number": 104,
+        "clue": "Take one's pick",
+        "row": 18,
+        "col": 9,
+        "answer": "OPT"
+      },
+      {
+        "number": 105,
+        "clue": "Rubicund",
+        "row": 18,
+        "col": 15,
+        "answer": "RED"
+      }
+    ]
+  }
+}

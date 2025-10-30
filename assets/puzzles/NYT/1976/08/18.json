@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-08-18",
+  "metadata": {
+    "date": "1976-08-18",
+    "title": "NY TIMES, WED, AUG 18, 1976",
+    "author": "Martha J. DeWitt",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "C", "T", "S", null, "R", "A", "B", "B", "I", null, "M", "A", "G", "I"],
+    ["L", "U", "M", "P", null, "O", "C", "E", "A", "N", null, "A", "G", "E", "R"],
+    ["B", "R", "E", "A", "K", "B", "R", "E", "A", "K", "B", "R", "E", "A", "K"],
+    [null, "E", "N", "T", "R", "E", "E", "S", null, "W", "A", "T", "E", "R", "S"],
+    [null, null, null, "T", "O", "R", "S", null, "P", "E", "R", "I", null, null, null],
+    ["T", "A", "L", "E", "N", "T", null, "S", "I", "L", "E", "N", "C", "E", "R"],
+    ["A", "W", "A", "R", "E", null, "M", "O", "L", "L", "S", null, "O", "L", "E"],
+    ["M", "A", "N", "S", null, "A", "I", "D", "E", "S", null, "D", "A", "M", "E"],
+    ["P", "I", "A", null, "S", "T", "R", "A", "D", null, "B", "E", "T", "A", "S"],
+    ["S", "T", "I", "T", "C", "H", "E", "S", null, "E", "R", "M", "I", "N", "E"],
+    [null, null, null, "H", "A", "L", "S", null, "O", "L", "E", "O", null, null, null],
+    ["S", "C", "H", "E", "M", "E", null, "P", "R", "A", "N", "C", "E", "S", null],
+    ["T", "R", "A", "M", "P", "T", "R", "A", "M", "P", "T", "R", "A", "M", "P"],
+    ["O", "O", "Z", "E", null, "E", "A", "V", "E", "S", null, "A", "S", "E", "A"],
+    ["A", "W", "E", "S", null, "S", "T", "E", "R", "E", null, "T", "E", "E", "M"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Vaudeville turns",
+        "row": 0,
+        "col": 0,
+        "answer": "ACTS"
+      },
+      {
+        "number": 5,
+        "clue": "Hebrew teacher",
+        "row": 0,
+        "col": 5,
+        "answer": "RABBI"
+      },
+      {
+        "number": 10,
+        "clue": "Biblical gift-bearers",
+        "row": 0,
+        "col": 11,
+        "answer": "MAGI"
+      },
+      {
+        "number": 14,
+        "clue": "Result of a head-knocking",
+        "row": 1,
+        "col": 0,
+        "answer": "LUMP"
+      },
+      {
+        "number": 15,
+        "clue": "50th-state separator",
+        "row": 1,
+        "col": 5,
+        "answer": "OCEAN"
+      },
+      {
+        "number": 16,
+        "clue": "Radio-tube worker",
+        "row": 1,
+        "col": 11,
+        "answer": "AGER"
+      },
+      {
+        "number": 17,
+        "clue": "Tennyson in a rut",
+        "row": 2,
+        "col": 0,
+        "answer": "BREAKBREAKBREAK"
+      },
+      {
+        "number": 20,
+        "clue": "Menu offerings",
+        "row": 3,
+        "col": 1,
+        "answer": "ENTREES"
+      },
+      {
+        "number": 21,
+        "clue": "Singer Ethel",
+        "row": 3,
+        "col": 9,
+        "answer": "WATERS"
+      },
+      {
+        "number": 22,
+        "clue": "Crags",
+        "row": 4,
+        "col": 3,
+        "answer": "TORS"
+      },
+      {
+        "number": 23,
+        "clue": "Persian fairy",
+        "row": 4,
+        "col": 8,
+        "answer": "PERI"
+      },
+      {
+        "number": 24,
+        "clue": "Kind of scout",
+        "row": 5,
+        "col": 0,
+        "answer": "TALENT"
+      },
+      {
+        "number": 27,
+        "clue": "Maxim's bequest to gangsters",
+        "row": 5,
+        "col": 7,
+        "answer": "SILENCER"
+      },
+      {
+        "number": 31,
+        "clue": "Onto",
+        "row": 6,
+        "col": 0,
+        "answer": "AWARE"
+      },
+      {
+        "number": 32,
+        "clue": "Gun gals",
+        "row": 6,
+        "col": 6,
+        "answer": "MOLLS"
+      },
+      {
+        "number": 33,
+        "clue": "Comic Olsen",
+        "row": 6,
+        "col": 12,
+        "answer": "OLE"
+      },
+      {
+        "number": 34,
+        "clue": "France's Le ___",
+        "row": 7,
+        "col": 0,
+        "answer": "MANS"
+      },
+      {
+        "number": 35,
+        "clue": "Staff people",
+        "row": 7,
+        "col": 5,
+        "answer": "AIDES"
+      },
+      {
+        "number": 36,
+        "clue": "English title",
+        "row": 7,
+        "col": 11,
+        "answer": "DAME"
+      },
+      {
+        "number": 37,
+        "clue": "Ingrid Bergman's daughter",
+        "row": 8,
+        "col": 0,
+        "answer": "PIA"
+      },
+      {
+        "number": 38,
+        "clue": "Violin",
+        "row": 8,
+        "col": 4,
+        "answer": "STRAD"
+      },
+      {
+        "number": 39,
+        "clue": "Second-brightest stars",
+        "row": 8,
+        "col": 10,
+        "answer": "BETAS"
+      },
+      {
+        "number": 40,
+        "clue": "Sharp side pains",
+        "row": 9,
+        "col": 0,
+        "answer": "STITCHES"
+      },
+      {
+        "number": 42,
+        "clue": "Regal fur",
+        "row": 9,
+        "col": 9,
+        "answer": "ERMINE"
+      },
+      {
+        "number": 43,
+        "clue": "Dutch painter",
+        "row": 10,
+        "col": 3,
+        "answer": "HALS"
+      },
+      {
+        "number": 44,
+        "clue": "Margarine's start",
+        "row": 10,
+        "col": 8,
+        "answer": "OLEO"
+      },
+      {
+        "number": 45,
+        "clue": "Plot",
+        "row": 11,
+        "col": 0,
+        "answer": "SCHEME"
+      },
+      {
+        "number": 48,
+        "clue": "Shows spirit",
+        "row": 11,
+        "col": 7,
+        "answer": "PRANCES"
+      },
+      {
+        "number": 51,
+        "clue": "George F. Root in a rut",
+        "row": 12,
+        "col": 0,
+        "answer": "TRAMPTRAMPTRAMP"
+      },
+      {
+        "number": 54,
+        "clue": "Seep",
+        "row": 13,
+        "col": 0,
+        "answer": "OOZE"
+      },
+      {
+        "number": 55,
+        "clue": "Downspout connections",
+        "row": 13,
+        "col": 5,
+        "answer": "EAVES"
+      },
+      {
+        "number": 56,
+        "clue": "Lost",
+        "row": 13,
+        "col": 11,
+        "answer": "ASEA"
+      },
+      {
+        "number": 57,
+        "clue": "Cows",
+        "row": 14,
+        "col": 0,
+        "answer": "AWES"
+      },
+      {
+        "number": 58,
+        "clue": "Cubic meter",
+        "row": 14,
+        "col": 5,
+        "answer": "STERE"
+      },
+      {
+        "number": 59,
+        "clue": "Be alive with",
+        "row": 14,
+        "col": 11,
+        "answer": "TEEM"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Priest's robe",
+        "row": 0,
+        "col": 0,
+        "answer": "ALB"
+      },
+      {
+        "number": 2,
+        "clue": "\"___ the disease and kill the patient\"",
+        "row": 0,
+        "col": 1,
+        "answer": "CURE"
+      },
+      {
+        "number": 3,
+        "clue": "Secret Service sleuths",
+        "row": 0,
+        "col": 2,
+        "answer": "TMEN"
+      },
+      {
+        "number": 4,
+        "clue": "Splashes",
+        "row": 0,
+        "col": 3,
+        "answer": "SPATTERS"
+      },
+      {
+        "number": 5,
+        "clue": "Stack",
+        "row": 0,
+        "col": 5,
+        "answer": "ROBERT"
+      },
+      {
+        "number": 6,
+        "clue": "Farm measures",
+        "row": 0,
+        "col": 6,
+        "answer": "ACRES"
+      },
+      {
+        "number": 7,
+        "clue": "Buzzers",
+        "row": 0,
+        "col": 7,
+        "answer": "BEES"
+      },
+      {
+        "number": 8,
+        "clue": "Bleat",
+        "row": 0,
+        "col": 8,
+        "answer": "BAA"
+      },
+      {
+        "number": 9,
+        "clue": "Old-time desk features",
+        "row": 0,
+        "col": 9,
+        "answer": "INKWELLS"
+      },
+      {
+        "number": 10,
+        "clue": "Agronsky of TV",
+        "row": 0,
+        "col": 11,
+        "answer": "MARTIN"
+      },
+      {
+        "number": 11,
+        "clue": "Askew",
+        "row": 0,
+        "col": 12,
+        "answer": "AGEE"
+      },
+      {
+        "number": 12,
+        "clue": "Equipment",
+        "row": 0,
+        "col": 13,
+        "answer": "GEAR"
+      },
+      {
+        "number": 13,
+        "clue": "Bugs",
+        "row": 0,
+        "col": 14,
+        "answer": "IRKS"
+      },
+      {
+        "number": 18,
+        "clue": "Danish money",
+        "row": 2,
+        "col": 4,
+        "answer": "KRONE"
+      },
+      {
+        "number": 19,
+        "clue": "Denudes",
+        "row": 2,
+        "col": 10,
+        "answer": "BARES"
+      },
+      {
+        "number": 23,
+        "clue": "Like a soft carpet",
+        "row": 4,
+        "col": 8,
+        "answer": "PILED"
+      },
+      {
+        "number": 24,
+        "clue": "Pounds down",
+        "row": 5,
+        "col": 0,
+        "answer": "TAMPS"
+      },
+      {
+        "number": 25,
+        "clue": "Impend",
+        "row": 5,
+        "col": 1,
+        "answer": "AWAIT"
+      },
+      {
+        "number": 26,
+        "clue": "Hawaiian island",
+        "row": 5,
+        "col": 2,
+        "answer": "LANAI"
+      },
+      {
+        "number": 27,
+        "clue": "Washing and baking items",
+        "row": 5,
+        "col": 7,
+        "answer": "SODAS"
+      },
+      {
+        "number": 28,
+        "clue": "Raccoon's cousin",
+        "row": 5,
+        "col": 12,
+        "answer": "COATI"
+      },
+      {
+        "number": 29,
+        "clue": "Violinist Mischa",
+        "row": 5,
+        "col": 13,
+        "answer": "ELMAN"
+      },
+      {
+        "number": 30,
+        "clue": "Della or Peewee",
+        "row": 5,
+        "col": 14,
+        "answer": "REESE"
+      },
+      {
+        "number": 32,
+        "clue": "Bogs",
+        "row": 6,
+        "col": 6,
+        "answer": "MIRES"
+      },
+      {
+        "number": 35,
+        "clue": "Muscle users",
+        "row": 7,
+        "col": 5,
+        "answer": "ATHLETES"
+      },
+      {
+        "number": 36,
+        "clue": "Jimmy Carter, for one",
+        "row": 7,
+        "col": 11,
+        "answer": "DEMOCRAT"
+      },
+      {
+        "number": 38,
+        "clue": "Rogue",
+        "row": 8,
+        "col": 4,
+        "answer": "SCAMP"
+      },
+      {
+        "number": 39,
+        "clue": "Actor George",
+        "row": 8,
+        "col": 10,
+        "answer": "BRENT"
+      },
+      {
+        "number": 41,
+        "clue": "School chores",
+        "row": 9,
+        "col": 3,
+        "answer": "THEMES"
+      },
+      {
+        "number": 42,
+        "clue": "Pass",
+        "row": 9,
+        "col": 9,
+        "answer": "ELAPSE"
+      },
+      {
+        "number": 44,
+        "clue": "Abalone",
+        "row": 10,
+        "col": 8,
+        "answer": "ORMER"
+      },
+      {
+        "number": 45,
+        "clue": "Promenade",
+        "row": 11,
+        "col": 0,
+        "answer": "STOA"
+      },
+      {
+        "number": 46,
+        "clue": "Loser's eating",
+        "row": 11,
+        "col": 1,
+        "answer": "CROW"
+      },
+      {
+        "number": 47,
+        "clue": "Smog component",
+        "row": 11,
+        "col": 2,
+        "answer": "HAZE"
+      },
+      {
+        "number": 48,
+        "clue": "Facilitate",
+        "row": 11,
+        "col": 7,
+        "answer": "PAVE"
+      },
+      {
+        "number": 49,
+        "clue": "Relaxation",
+        "row": 11,
+        "col": 12,
+        "answer": "EASE"
+      },
+      {
+        "number": 50,
+        "clue": "River duck",
+        "row": 11,
+        "col": 13,
+        "answer": "SMEE"
+      },
+      {
+        "number": 52,
+        "clue": "Kind of trap",
+        "row": 12,
+        "col": 6,
+        "answer": "RAT"
+      },
+      {
+        "number": 53,
+        "clue": "Jack of clubs, in loo",
+        "row": 12,
+        "col": 14,
+        "answer": "PAM"
+      }
+    ]
+  }
+}

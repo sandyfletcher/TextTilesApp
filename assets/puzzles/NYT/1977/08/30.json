@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-08-30",
+  "metadata": {
+    "date": "1977-08-30",
+    "title": "NY TIMES, TUE, AUG 30, 1977",
+    "author": "McDermott",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["M", "O", "L", "A", "R", null, "S", "P", "C", "A", null, "N", "O", "M", "E"],
+    ["T", "R", "I", "T", "E", null, "C", "O", "A", "X", null, "O", "V", "A", "L"],
+    ["S", "I", "G", "N", "S", null, "A", "R", "T", "L", "O", "V", "E", "R", "S"],
+    [null, "S", "H", "O", "T", "I", "N", "T", "H", "E", "D", "A", "R", "K", null],
+    ["P", "O", "T", null, "E", "F", "T", null, null, null, "E", "S", "S", "E", "N"],
+    ["S", "N", "E", "A", "D", "S", null, "B", "I", "D", "S", null, "E", "R", "E"],
+    ["I", "S", "N", "T", null, null, "M", "A", "R", "E", "S", "N", "E", "S", "T"],
+    [null, null, null, "T", "H", "R", "O", "W", "A", "W", "A", "Y", null, null, null],
+    ["C", "A", "N", "N", "O", "N", "A", "D", "E", null, null, "E", "T", "T", "E"],
+    ["I", "R", "E", null, "R", "A", "T", "S", null, "R", "E", "T", "I", "R", "E"],
+    ["O", "M", "E", "G", "A", null, null, null, "E", "E", "L", null, "P", "U", "N"],
+    [null, "E", "D", "U", "C", "A", "T", "E", "D", "G", "U", "E", "S", "S", null],
+    ["U", "N", "F", "E", "E", "L", "I", "N", "G", null, "D", "I", "T", "T", "O"],
+    ["P", "I", "U", "S", null, "A", "R", "C", "A", null, "E", "M", "E", "E", "R"],
+    ["S", "A", "L", "T", null, "D", "E", "E", "R", null, "S", "I", "R", "E", "D"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "First permanent tooth",
+        "row": 0,
+        "col": 0,
+        "answer": "MOLAR"
+      },
+      {
+        "number": 6,
+        "clue": "Humane org.",
+        "row": 0,
+        "col": 6,
+        "answer": "SPCA"
+      },
+      {
+        "number": 10,
+        "clue": "Alaskan seaport",
+        "row": 0,
+        "col": 11,
+        "answer": "NOME"
+      },
+      {
+        "number": 14,
+        "clue": "Often heard before",
+        "row": 1,
+        "col": 0,
+        "answer": "TRITE"
+      },
+      {
+        "number": 15,
+        "clue": "Wheedle",
+        "row": 1,
+        "col": 6,
+        "answer": "COAX"
+      },
+      {
+        "number": 16,
+        "clue": "Raceway shape",
+        "row": 1,
+        "col": 11,
+        "answer": "OVAL"
+      },
+      {
+        "number": 17,
+        "clue": "Plus and minus",
+        "row": 2,
+        "col": 0,
+        "answer": "SIGNS"
+      },
+      {
+        "number": 18,
+        "clue": "Esthetes",
+        "row": 2,
+        "col": 6,
+        "answer": "ARTLOVERS"
+      },
+      {
+        "number": 20,
+        "clue": "Wild stab",
+        "row": 3,
+        "col": 1,
+        "answer": "SHOTINTHEDARK"
+      },
+      {
+        "number": 22,
+        "clue": "Poker \"kitty\"",
+        "row": 4,
+        "col": 0,
+        "answer": "POT"
+      },
+      {
+        "number": 23,
+        "clue": "Newt",
+        "row": 4,
+        "col": 4,
+        "answer": "EFT"
+      },
+      {
+        "number": 24,
+        "clue": "Ruhr center",
+        "row": 4,
+        "col": 10,
+        "answer": "ESSEN"
+      },
+      {
+        "number": 26,
+        "clue": "Golfers Sam and J.C.",
+        "row": 5,
+        "col": 0,
+        "answer": "SNEADS"
+      },
+      {
+        "number": 28,
+        "clue": "Invites",
+        "row": 5,
+        "col": 7,
+        "answer": "BIDS"
+      },
+      {
+        "number": 31,
+        "clue": "Before",
+        "row": 5,
+        "col": 12,
+        "answer": "ERE"
+      },
+      {
+        "number": 32,
+        "clue": "\"Money ___ everything\"",
+        "row": 6,
+        "col": 0,
+        "answer": "ISNT"
+      },
+      {
+        "number": 33,
+        "clue": "Hoax",
+        "row": 6,
+        "col": 6,
+        "answer": "MARESNEST"
+      },
+      {
+        "number": 35,
+        "clue": "Free handbill",
+        "row": 7,
+        "col": 3,
+        "answer": "THROWAWAY"
+      },
+      {
+        "number": 38,
+        "clue": "Noisy bombardment",
+        "row": 8,
+        "col": 0,
+        "answer": "CANNONADE"
+      },
+      {
+        "number": 41,
+        "clue": "Diminutive suffix",
+        "row": 8,
+        "col": 11,
+        "answer": "ETTE"
+      },
+      {
+        "number": 45,
+        "clue": "Dander",
+        "row": 9,
+        "col": 0,
+        "answer": "IRE"
+      },
+      {
+        "number": 46,
+        "clue": "Cry of disgust",
+        "row": 9,
+        "col": 4,
+        "answer": "RATS"
+      },
+      {
+        "number": 47,
+        "clue": "Call it a day",
+        "row": 9,
+        "col": 9,
+        "answer": "RETIRE"
+      },
+      {
+        "number": 49,
+        "clue": "Achilles' last letter",
+        "row": 10,
+        "col": 0,
+        "answer": "OMEGA"
+      },
+      {
+        "number": 51,
+        "clue": "Moray",
+        "row": 10,
+        "col": 8,
+        "answer": "EEL"
+      },
+      {
+        "number": 52,
+        "clue": "\"Canoe row a boat?\" is one",
+        "row": 10,
+        "col": 12,
+        "answer": "PUN"
+      },
+      {
+        "number": 53,
+        "clue": "Approximation after ratiocination",
+        "row": 11,
+        "col": 1,
+        "answer": "EDUCATEDGUESS"
+      },
+      {
+        "number": 58,
+        "clue": "Callous",
+        "row": 12,
+        "col": 0,
+        "answer": "UNFEELING"
+      },
+      {
+        "number": 59,
+        "clue": "The same",
+        "row": 12,
+        "col": 10,
+        "answer": "DITTO"
+      },
+      {
+        "number": 61,
+        "clue": "Name of 12 Popes",
+        "row": 13,
+        "col": 0,
+        "answer": "PIUS"
+      },
+      {
+        "number": 62,
+        "clue": "Ancient strongbox",
+        "row": 13,
+        "col": 5,
+        "answer": "ARCA"
+      },
+      {
+        "number": 63,
+        "clue": "Desert prince",
+        "row": 13,
+        "col": 10,
+        "answer": "EMEER"
+      },
+      {
+        "number": 64,
+        "clue": "Tar",
+        "row": 14,
+        "col": 0,
+        "answer": "SALT"
+      },
+      {
+        "number": 65,
+        "clue": "Source of venison",
+        "row": 14,
+        "col": 5,
+        "answer": "DEER"
+      },
+      {
+        "number": 66,
+        "clue": "Fathered",
+        "row": 14,
+        "col": 10,
+        "answer": "SIRED"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Washington and McKinley: Abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "MTS"
+      },
+      {
+        "number": 2,
+        "clue": "Prayers",
+        "row": 0,
+        "col": 1,
+        "answer": "ORISONS"
+      },
+      {
+        "number": 3,
+        "clue": "Take a load off",
+        "row": 0,
+        "col": 2,
+        "answer": "LIGHTEN"
+      },
+      {
+        "number": 4,
+        "clue": "___ time (never)",
+        "row": 0,
+        "col": 3,
+        "answer": "ATNO"
+      },
+      {
+        "number": 5,
+        "clue": "Took five",
+        "row": 0,
+        "col": 4,
+        "answer": "RESTED"
+      },
+      {
+        "number": 6,
+        "clue": "Meager",
+        "row": 0,
+        "col": 6,
+        "answer": "SCANT"
+      },
+      {
+        "number": 7,
+        "clue": "Storm refuge",
+        "row": 0,
+        "col": 7,
+        "answer": "PORT"
+      },
+      {
+        "number": 8,
+        "clue": "Notre Dame is one: Abbr.",
+        "row": 0,
+        "col": 8,
+        "answer": "CATH"
+      },
+      {
+        "number": 9,
+        "clue": "Shaft",
+        "row": 0,
+        "col": 9,
+        "answer": "AXLE"
+      },
+      {
+        "number": 10,
+        "clue": "Stars that lose their sudden shine",
+        "row": 0,
+        "col": 11,
+        "answer": "NOVAS"
+      },
+      {
+        "number": 11,
+        "clue": "Supervise",
+        "row": 0,
+        "col": 12,
+        "answer": "OVERSEE"
+      },
+      {
+        "number": 12,
+        "clue": "Las Vegas i.o.u.'s",
+        "row": 0,
+        "col": 13,
+        "answer": "MARKERS"
+      },
+      {
+        "number": 13,
+        "clue": "Some city trains",
+        "row": 0,
+        "col": 14,
+        "answer": "ELS"
+      },
+      {
+        "number": 19,
+        "clue": "Black Sea port",
+        "row": 2,
+        "col": 10,
+        "answer": "ODESSA"
+      },
+      {
+        "number": 21,
+        "clue": "Conditions",
+        "row": 3,
+        "col": 5,
+        "answer": "IFS"
+      },
+      {
+        "number": 22,
+        "clue": "\"___ Love You\" (old song)",
+        "row": 4,
+        "col": 0,
+        "answer": "PSI"
+      },
+      {
+        "number": 25,
+        "clue": "Catch a butterfly",
+        "row": 4,
+        "col": 14,
+        "answer": "NET"
+      },
+      {
+        "number": 27,
+        "clue": "Memo abbr.",
+        "row": 5,
+        "col": 3,
+        "answer": "ATTN"
+      },
+      {
+        "number": 28,
+        "clue": "Strumpets",
+        "row": 5,
+        "col": 7,
+        "answer": "BAWDS"
+      },
+      {
+        "number": 29,
+        "clue": "Of anger: Lat.",
+        "row": 5,
+        "col": 8,
+        "answer": "IRAE"
+      },
+      {
+        "number": 30,
+        "clue": "Morning dampness",
+        "row": 5,
+        "col": 9,
+        "answer": "DEW"
+      },
+      {
+        "number": 33,
+        "clue": "Castle ditch",
+        "row": 6,
+        "col": 6,
+        "answer": "MOAT"
+      },
+      {
+        "number": 34,
+        "clue": "Moscow turndown",
+        "row": 6,
+        "col": 11,
+        "answer": "NYET"
+      },
+      {
+        "number": 36,
+        "clue": "Roman satirist",
+        "row": 7,
+        "col": 4,
+        "answer": "HORACE"
+      },
+      {
+        "number": 37,
+        "clue": "Genetic agent",
+        "row": 7,
+        "col": 5,
+        "answer": "RNA"
+      },
+      {
+        "number": 38,
+        "clue": "Labor org.",
+        "row": 8,
+        "col": 0,
+        "answer": "CIO"
+      },
+      {
+        "number": 39,
+        "clue": "Russian republic",
+        "row": 8,
+        "col": 1,
+        "answer": "ARMENIA"
+      },
+      {
+        "number": 40,
+        "clue": "Requisite",
+        "row": 8,
+        "col": 2,
+        "answer": "NEEDFUL"
+      },
+      {
+        "number": 42,
+        "clue": "\"Sure thing\" seller",
+        "row": 8,
+        "col": 12,
+        "answer": "TIPSTER"
+      },
+      {
+        "number": 43,
+        "clue": "Board member",
+        "row": 8,
+        "col": 13,
+        "answer": "TRUSTEE"
+      },
+      {
+        "number": 44,
+        "clue": "Suffix with velvet",
+        "row": 8,
+        "col": 14,
+        "answer": "EEN"
+      },
+      {
+        "number": 47,
+        "clue": "Col.'s command",
+        "row": 9,
+        "col": 9,
+        "answer": "REG"
+      },
+      {
+        "number": 48,
+        "clue": "Foils a posse",
+        "row": 9,
+        "col": 10,
+        "answer": "ELUDES"
+      },
+      {
+        "number": 50,
+        "clue": "Visitor",
+        "row": 10,
+        "col": 3,
+        "answer": "GUEST"
+      },
+      {
+        "number": 51,
+        "clue": "Mystery writer's award",
+        "row": 10,
+        "col": 8,
+        "answer": "EDGAR"
+      },
+      {
+        "number": 54,
+        "clue": "\"When I was ___ . . . \"",
+        "row": 11,
+        "col": 5,
+        "answer": "ALAD"
+      },
+      {
+        "number": 55,
+        "clue": "Fatigue",
+        "row": 11,
+        "col": 6,
+        "answer": "TIRE"
+      },
+      {
+        "number": 56,
+        "clue": "Suffix with differ and prefer",
+        "row": 11,
+        "col": 7,
+        "answer": "ENCE"
+      },
+      {
+        "number": 57,
+        "clue": "Book by e.e. cummings",
+        "row": 11,
+        "col": 11,
+        "answer": "EIMI"
+      },
+      {
+        "number": 58,
+        "clue": "Boosts",
+        "row": 12,
+        "col": 0,
+        "answer": "UPS"
+      },
+      {
+        "number": 60,
+        "clue": "Civil War general",
+        "row": 12,
+        "col": 14,
+        "answer": "ORD"
+      }
+    ]
+  }
+}

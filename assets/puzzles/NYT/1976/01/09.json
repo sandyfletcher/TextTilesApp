@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-01-09",
+  "metadata": {
+    "date": "1976-01-09",
+    "title": "NY TIMES, FRI, JAN 09, 1976",
+    "author": "Brian G. Tyler",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["P", "R", "O", "S", null, null, "A", "R", "C", null, null, null, "F", "B", "I"],
+    ["P", "O", "L", "E", "S", null, "P", "U", "L", "P", null, "I", "R", "O", "N"],
+    ["S", "T", "E", "R", "E", null, "S", "E", "A", "L", null, "D", "E", "S", "K"],
+    [null, "C", "O", "V", "E", "R", "E", "D", "W", "A", "G", "O", "N", "S", null],
+    [null, null, null, "I", "D", "E", "S", null, null, "T", "A", "L", "C", null, null],
+    ["A", "N", "G", "L", "E", "S", null, "F", "E", "T", "I", "S", "H", "E", "S"],
+    ["D", "A", "R", "E", "D", null, "C", "U", "P", "E", "L", null, "C", "A", "T"],
+    ["A", "C", "E", null, null, "B", "O", "N", "E", "R", null, null, "U", "S", "O"],
+    ["P", "R", "Y", null, "C", "R", "A", "N", "E", null, "S", "A", "F", "E", "R"],
+    ["T", "E", "M", "E", "R", "I", "T", "Y", null, "B", "A", "R", "F", "L", "Y"],
+    [null, null, "A", "M", "O", "S", null, null, "S", "A", "L", "E", null, null, null],
+    [null, "S", "T", "O", "C", "K", "E", "X", "C", "H", "A", "N", "G", "E", null],
+    ["W", "A", "T", "T", null, "E", "V", "E", "R", null, "M", "O", "U", "T", "H"],
+    ["O", "G", "E", "E", null, "T", "I", "N", "E", null, "I", "S", "L", "E", "S"],
+    ["E", "A", "R", null, null, null, "L", "O", "W", null, null, "E", "L", "S", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Golf-tour players",
+        "row": 0,
+        "col": 0,
+        "answer": "PROS"
+      },
+      {
+        "number": 5,
+        "clue": "Curve part",
+        "row": 0,
+        "col": 6,
+        "answer": "ARC"
+      },
+      {
+        "number": 8,
+        "clue": "Govt. agency",
+        "row": 0,
+        "col": 12,
+        "answer": "FBI"
+      },
+      {
+        "number": 11,
+        "clue": "North and South",
+        "row": 1,
+        "col": 0,
+        "answer": "POLES"
+      },
+      {
+        "number": 13,
+        "clue": "Juice-glass residue",
+        "row": 1,
+        "col": 6,
+        "answer": "PULP"
+      },
+      {
+        "number": 15,
+        "clue": "Pressing necessity",
+        "row": 1,
+        "col": 11,
+        "answer": "IRON"
+      },
+      {
+        "number": 16,
+        "clue": "Metric measure",
+        "row": 2,
+        "col": 0,
+        "answer": "STERE"
+      },
+      {
+        "number": 17,
+        "clue": "Fasten",
+        "row": 2,
+        "col": 6,
+        "answer": "SEAL"
+      },
+      {
+        "number": 18,
+        "clue": "Secretary",
+        "row": 2,
+        "col": 11,
+        "answer": "DESK"
+      },
+      {
+        "number": 19,
+        "clue": "Insured vehicles",
+        "row": 3,
+        "col": 1,
+        "answer": "COVEREDWAGONS"
+      },
+      {
+        "number": 22,
+        "clue": "March 15",
+        "row": 4,
+        "col": 3,
+        "answer": "IDES"
+      },
+      {
+        "number": 23,
+        "clue": "Powdery mineral",
+        "row": 4,
+        "col": 9,
+        "answer": "TALC"
+      },
+      {
+        "number": 24,
+        "clue": "Right and obtuse",
+        "row": 5,
+        "col": 0,
+        "answer": "ANGLES"
+      },
+      {
+        "number": 27,
+        "clue": "Fixations",
+        "row": 5,
+        "col": 7,
+        "answer": "FETISHES"
+      },
+      {
+        "number": 31,
+        "clue": "Provoked",
+        "row": 6,
+        "col": 0,
+        "answer": "DARED"
+      },
+      {
+        "number": 32,
+        "clue": "Assayer's vessel",
+        "row": 6,
+        "col": 6,
+        "answer": "CUPEL"
+      },
+      {
+        "number": 33,
+        "clue": "Persian or alley",
+        "row": 6,
+        "col": 12,
+        "answer": "CAT"
+      },
+      {
+        "number": 34,
+        "clue": "Good hole card",
+        "row": 7,
+        "col": 0,
+        "answer": "ACE"
+      },
+      {
+        "number": 35,
+        "clue": "Blunder",
+        "row": 7,
+        "col": 5,
+        "answer": "BONER"
+      },
+      {
+        "number": 36,
+        "clue": "G.I. org.",
+        "row": 7,
+        "col": 12,
+        "answer": "USO"
+      },
+      {
+        "number": 37,
+        "clue": "Meddle",
+        "row": 8,
+        "col": 0,
+        "answer": "PRY"
+      },
+      {
+        "number": 38,
+        "clue": "Construction-site sight",
+        "row": 8,
+        "col": 4,
+        "answer": "CRANE"
+      },
+      {
+        "number": 39,
+        "clue": "Less dangerous",
+        "row": 8,
+        "col": 10,
+        "answer": "SAFER"
+      },
+      {
+        "number": 41,
+        "clue": "Rashness",
+        "row": 9,
+        "col": 0,
+        "answer": "TEMERITY"
+      },
+      {
+        "number": 43,
+        "clue": "Alcoholic insect, perhaps",
+        "row": 9,
+        "col": 9,
+        "answer": "BARFLY"
+      },
+      {
+        "number": 44,
+        "clue": "Andy's partner",
+        "row": 10,
+        "col": 2,
+        "answer": "AMOS"
+      },
+      {
+        "number": 45,
+        "clue": "Fire or garage event",
+        "row": 10,
+        "col": 8,
+        "answer": "SALE"
+      },
+      {
+        "number": 46,
+        "clue": "Cattle trade",
+        "row": 11,
+        "col": 1,
+        "answer": "STOCKEXCHANGE"
+      },
+      {
+        "number": 51,
+        "clue": "Inventor James",
+        "row": 12,
+        "col": 0,
+        "answer": "WATT"
+      },
+      {
+        "number": 52,
+        "clue": "Constantly",
+        "row": 12,
+        "col": 5,
+        "answer": "EVER"
+      },
+      {
+        "number": 53,
+        "clue": "Utter pompously",
+        "row": 12,
+        "col": 10,
+        "answer": "MOUTH"
+      },
+      {
+        "number": 55,
+        "clue": "Molding",
+        "row": 13,
+        "col": 0,
+        "answer": "OGEE"
+      },
+      {
+        "number": 56,
+        "clue": "Fork part",
+        "row": 13,
+        "col": 5,
+        "answer": "TINE"
+      },
+      {
+        "number": 57,
+        "clue": "British and others",
+        "row": 13,
+        "col": 10,
+        "answer": "ISLES"
+      },
+      {
+        "number": 58,
+        "clue": "Head part",
+        "row": 14,
+        "col": 0,
+        "answer": "EAR"
+      },
+      {
+        "number": 59,
+        "clue": "Cattle sound",
+        "row": 14,
+        "col": 6,
+        "answer": "LOW"
+      },
+      {
+        "number": 60,
+        "clue": "Or ___",
+        "row": 14,
+        "col": 11,
+        "answer": "ELSE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Letter adjunct: Abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "PPS"
+      },
+      {
+        "number": 2,
+        "clue": "Campus org.",
+        "row": 0,
+        "col": 1,
+        "answer": "ROTC"
+      },
+      {
+        "number": 3,
+        "clue": "Spread",
+        "row": 0,
+        "col": 2,
+        "answer": "OLEO"
+      },
+      {
+        "number": 4,
+        "clue": "Obsequious",
+        "row": 0,
+        "col": 3,
+        "answer": "SERVILE"
+      },
+      {
+        "number": 5,
+        "clue": "Church parts",
+        "row": 0,
+        "col": 6,
+        "answer": "APSES"
+      },
+      {
+        "number": 6,
+        "clue": "Regretted",
+        "row": 0,
+        "col": 7,
+        "answer": "RUED"
+      },
+      {
+        "number": 7,
+        "clue": "Talon",
+        "row": 0,
+        "col": 8,
+        "answer": "CLAW"
+      },
+      {
+        "number": 8,
+        "clue": "Slap, in Paris",
+        "row": 0,
+        "col": 12,
+        "answer": "FRENCHCUFF"
+      },
+      {
+        "number": 9,
+        "clue": "Domineer",
+        "row": 0,
+        "col": 13,
+        "answer": "BOSS"
+      },
+      {
+        "number": 10,
+        "clue": "India, for one",
+        "row": 0,
+        "col": 14,
+        "answer": "INK"
+      },
+      {
+        "number": 12,
+        "clue": "Did a lawn job",
+        "row": 1,
+        "col": 4,
+        "answer": "SEEDED"
+      },
+      {
+        "number": 14,
+        "clue": "Silver item",
+        "row": 1,
+        "col": 9,
+        "answer": "PLATTER"
+      },
+      {
+        "number": 15,
+        "clue": "Star athletes, to children",
+        "row": 1,
+        "col": 11,
+        "answer": "IDOLS"
+      },
+      {
+        "number": 20,
+        "clue": "In medias ___",
+        "row": 3,
+        "col": 5,
+        "answer": "RES"
+      },
+      {
+        "number": 21,
+        "clue": "Appropriate name for a hurricane",
+        "row": 3,
+        "col": 10,
+        "answer": "GAIL"
+      },
+      {
+        "number": 24,
+        "clue": "Adjust",
+        "row": 5,
+        "col": 0,
+        "answer": "ADAPT"
+      },
+      {
+        "number": 25,
+        "clue": "Mother-of-pearl",
+        "row": 5,
+        "col": 1,
+        "answer": "NACRE"
+      },
+      {
+        "number": 26,
+        "clue": "Thing involving Zane or Lady Jane",
+        "row": 5,
+        "col": 2,
+        "answer": "GREYMATTER"
+      },
+      {
+        "number": 27,
+        "clue": "Girl or bone",
+        "row": 5,
+        "col": 7,
+        "answer": "FUNNY"
+      },
+      {
+        "number": 28,
+        "clue": "Sword",
+        "row": 5,
+        "col": 8,
+        "answer": "EPEE"
+      },
+      {
+        "number": 29,
+        "clue": "Canvas support",
+        "row": 5,
+        "col": 13,
+        "answer": "EASEL"
+      },
+      {
+        "number": 30,
+        "clue": "Tall or short",
+        "row": 5,
+        "col": 14,
+        "answer": "STORY"
+      },
+      {
+        "number": 32,
+        "clue": "Paint layer",
+        "row": 6,
+        "col": 6,
+        "answer": "COAT"
+      },
+      {
+        "number": 35,
+        "clue": "Meat cut",
+        "row": 7,
+        "col": 5,
+        "answer": "BRISKET"
+      },
+      {
+        "number": 38,
+        "clue": "Nile swimmer, for short",
+        "row": 8,
+        "col": 4,
+        "answer": "CROC"
+      },
+      {
+        "number": 39,
+        "clue": "Deli offering",
+        "row": 8,
+        "col": 10,
+        "answer": "SALAMI"
+      },
+      {
+        "number": 40,
+        "clue": "Sandy",
+        "row": 8,
+        "col": 11,
+        "answer": "ARENOSE"
+      },
+      {
+        "number": 42,
+        "clue": "Act the ham",
+        "row": 9,
+        "col": 3,
+        "answer": "EMOTE"
+      },
+      {
+        "number": 43,
+        "clue": "Scrooge word",
+        "row": 9,
+        "col": 9,
+        "answer": "BAH"
+      },
+      {
+        "number": 45,
+        "clue": "Something often loose",
+        "row": 10,
+        "col": 8,
+        "answer": "SCREW"
+      },
+      {
+        "number": 46,
+        "clue": "Forsyte, for one",
+        "row": 11,
+        "col": 1,
+        "answer": "SAGA"
+      },
+      {
+        "number": 47,
+        "clue": "Vile",
+        "row": 11,
+        "col": 6,
+        "answer": "EVIL"
+      },
+      {
+        "number": 48,
+        "clue": "Strange: Prefix",
+        "row": 11,
+        "col": 7,
+        "answer": "XENO"
+      },
+      {
+        "number": 49,
+        "clue": "Hoodwink",
+        "row": 11,
+        "col": 12,
+        "answer": "GULL"
+      },
+      {
+        "number": 50,
+        "clue": "French seasons",
+        "row": 11,
+        "col": 13,
+        "answer": "ETES"
+      },
+      {
+        "number": 51,
+        "clue": "Grief",
+        "row": 12,
+        "col": 0,
+        "answer": "WOE"
+      },
+      {
+        "number": 54,
+        "clue": "Congress unit: Abbr.",
+        "row": 12,
+        "col": 14,
+        "answer": "HSE"
+      }
+    ]
+  }
+}

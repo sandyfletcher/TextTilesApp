@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-10-22",
+  "metadata": {
+    "date": "1977-10-22",
+    "title": "NY TIMES, SAT, OCT 22, 1977",
+    "author": "Adelyn Lewis",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["D", "A", "W", "S", null, "I", "S", "T", "E", null, "J", "A", "W", "S", null],
+    ["A", "L", "I", "M", "E", "N", "T", "A", "L", null, "A", "N", "I", "L", "E"],
+    ["C", "A", "T", "S", "C", "L", "A", "W", "S", null, "P", "O", "L", "E", "S"],
+    ["E", "D", "H", null, "T", "A", "R", "N", null, "P", "A", "L", "L", "E", "T"],
+    [null, null, "D", "R", "A", "Y", null, "I", "N", "U", "N", "D", "A", "T", "E"],
+    ["C", "O", "R", "A", "L", null, "B", "E", "O", "N", "E", null, null, null, null],
+    ["A", "R", "A", "M", null, "S", "E", "R", "I", "N", "S", null, "H", "A", "E"],
+    ["P", "A", "W", "P", "A", "W", "S", null, "S", "E", "E", "S", "A", "W", "S"],
+    ["A", "N", "S", null, "D", "A", "S", "H", "E", "D", null, "T", "W", "A", "S"],
+    [null, null, null, null, "O", "G", "E", "E", "S", null, "T", "O", "K", "Y", "O"],
+    ["H", "O", "T", "S", "P", "E", "L", "L", null, "C", "H", "A", "S", null, null],
+    ["A", "R", "R", "E", "T", "S", null, "I", "R", "A", "E", null, "H", "O", "E"],
+    ["F", "R", "E", "R", "E", null, "S", "C", "O", "F", "F", "L", "A", "W", "S"],
+    ["T", "I", "M", "O", "R", null, "H", "O", "M", "E", "T", "O", "W", "N", "S"],
+    [null, "S", "A", "W", "S", null, "Y", "N", "E", "S", null, "A", "S", "S", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Birds that ape human speech",
+        "row": 0,
+        "col": 0,
+        "answer": "DAWS"
+      },
+      {
+        "number": 5,
+        "clue": "Cicero's pronoun for Catiline",
+        "row": 0,
+        "col": 5,
+        "answer": "ISTE"
+      },
+      {
+        "number": 9,
+        "clue": "Benchley book",
+        "row": 0,
+        "col": 10,
+        "answer": "JAWS"
+      },
+      {
+        "number": 13,
+        "clue": "Nourishing",
+        "row": 1,
+        "col": 0,
+        "answer": "ALIMENTAL"
+      },
+      {
+        "number": 15,
+        "clue": "Like a weak old woman",
+        "row": 1,
+        "col": 10,
+        "answer": "ANILE"
+      },
+      {
+        "number": 17,
+        "clue": "Climbing shrubs with hooked tendrils",
+        "row": 2,
+        "col": 0,
+        "answer": "CATSCLAWS"
+      },
+      {
+        "number": 18,
+        "clue": "Natives of Gdynia",
+        "row": 2,
+        "col": 10,
+        "answer": "POLES"
+      },
+      {
+        "number": 19,
+        "clue": "Icelandic letter",
+        "row": 3,
+        "col": 0,
+        "answer": "EDH"
+      },
+      {
+        "number": 20,
+        "clue": "Mountain lake",
+        "row": 3,
+        "col": 4,
+        "answer": "TARN"
+      },
+      {
+        "number": 21,
+        "clue": "Straw mattress",
+        "row": 3,
+        "col": 9,
+        "answer": "PALLET"
+      },
+      {
+        "number": 22,
+        "clue": "Hauling cart",
+        "row": 4,
+        "col": 2,
+        "answer": "DRAY"
+      },
+      {
+        "number": 24,
+        "clue": "Deluge",
+        "row": 4,
+        "col": 7,
+        "answer": "INUNDATE"
+      },
+      {
+        "number": 26,
+        "clue": "Atoll makeup",
+        "row": 5,
+        "col": 0,
+        "answer": "CORAL"
+      },
+      {
+        "number": 28,
+        "clue": "\"I'd rather see than ___\": G. Burgess",
+        "row": 5,
+        "col": 6,
+        "answer": "BEONE"
+      },
+      {
+        "number": 29,
+        "clue": "Saroyan hero",
+        "row": 6,
+        "col": 0,
+        "answer": "ARAM"
+      },
+      {
+        "number": 30,
+        "clue": "Canaries' cousins",
+        "row": 6,
+        "col": 5,
+        "answer": "SERINS"
+      },
+      {
+        "number": 31,
+        "clue": "\"Scots Wha ___\": Burns",
+        "row": 6,
+        "col": 12,
+        "answer": "HAE"
+      },
+      {
+        "number": 34,
+        "clue": "Yellowish sweet fruits",
+        "row": 7,
+        "col": 0,
+        "answer": "PAWPAWS"
+      },
+      {
+        "number": 36,
+        "clue": "Playground equipment",
+        "row": 7,
+        "col": 8,
+        "answer": "SEESAWS"
+      },
+      {
+        "number": 38,
+        "clue": "What a ques. expects",
+        "row": 8,
+        "col": 0,
+        "answer": "ANS"
+      },
+      {
+        "number": 39,
+        "clue": "Destroyed",
+        "row": 8,
+        "col": 4,
+        "answer": "DASHED"
+      },
+      {
+        "number": 41,
+        "clue": "Start of Clement Moore's famous poem",
+        "row": 8,
+        "col": 11,
+        "answer": "TWAS"
+      },
+      {
+        "number": 42,
+        "clue": "Moldings",
+        "row": 9,
+        "col": 4,
+        "answer": "OGEES"
+      },
+      {
+        "number": 43,
+        "clue": "Where the Ginza is",
+        "row": 9,
+        "col": 10,
+        "answer": "TOKYO"
+      },
+      {
+        "number": 44,
+        "clue": "Heat wave",
+        "row": 10,
+        "col": 0,
+        "answer": "HOTSPELL"
+      },
+      {
+        "number": 48,
+        "clue": "Cartoonist Addams",
+        "row": 10,
+        "col": 9,
+        "answer": "CHAS"
+      },
+      {
+        "number": 49,
+        "clue": "Court decisions",
+        "row": 11,
+        "col": 0,
+        "answer": "ARRETS"
+      },
+      {
+        "number": 50,
+        "clue": "Dies ___",
+        "row": 11,
+        "col": 7,
+        "answer": "IRAE"
+      },
+      {
+        "number": 52,
+        "clue": "Tool in a Markham poem",
+        "row": 11,
+        "col": 12,
+        "answer": "HOE"
+      },
+      {
+        "number": 55,
+        "clue": "\"___ Jacques\"",
+        "row": 12,
+        "col": 0,
+        "answer": "FRERE"
+      },
+      {
+        "number": 56,
+        "clue": "Ticket ignorers",
+        "row": 12,
+        "col": 6,
+        "answer": "SCOFFLAWS"
+      },
+      {
+        "number": 58,
+        "clue": "Island in the Malay Archipelago",
+        "row": 13,
+        "col": 0,
+        "answer": "TIMOR"
+      },
+      {
+        "number": 59,
+        "clue": "Reunion sites, at times",
+        "row": 13,
+        "col": 6,
+        "answer": "HOMETOWNS"
+      },
+      {
+        "number": 60,
+        "clue": "Maxims",
+        "row": 14,
+        "col": 1,
+        "answer": "SAWS"
+      },
+      {
+        "number": 61,
+        "clue": "Chemical suffixes",
+        "row": 14,
+        "col": 6,
+        "answer": "YNES"
+      },
+      {
+        "number": 62,
+        "clue": "African fox",
+        "row": 14,
+        "col": 11,
+        "answer": "ASSE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Redfin",
+        "row": 0,
+        "col": 0,
+        "answer": "DACE"
+      },
+      {
+        "number": 2,
+        "clue": "\"When I was ___ . . . \": Gilbert",
+        "row": 0,
+        "col": 1,
+        "answer": "ALAD"
+      },
+      {
+        "number": 3,
+        "clue": "Retreats",
+        "row": 0,
+        "col": 2,
+        "answer": "WITHDRAWS"
+      },
+      {
+        "number": 4,
+        "clue": "N.C.O.'s",
+        "row": 0,
+        "col": 3,
+        "answer": "SMS"
+      },
+      {
+        "number": 5,
+        "clue": "Tooth filling",
+        "row": 0,
+        "col": 5,
+        "answer": "INLAY"
+      },
+      {
+        "number": 6,
+        "clue": "Kind of sapphire",
+        "row": 0,
+        "col": 6,
+        "answer": "STAR"
+      },
+      {
+        "number": 7,
+        "clue": "More brownish-yellow",
+        "row": 0,
+        "col": 7,
+        "answer": "TAWNIER"
+      },
+      {
+        "number": 8,
+        "clue": "Some railroads",
+        "row": 0,
+        "col": 8,
+        "answer": "ELS"
+      },
+      {
+        "number": 9,
+        "clue": "\"The ___ Sandman,\" 1920 song",
+        "row": 0,
+        "col": 10,
+        "answer": "JAPANESE"
+      },
+      {
+        "number": 10,
+        "clue": "\"There was ___ woman . . . \"",
+        "row": 0,
+        "col": 11,
+        "answer": "ANOLD"
+      },
+      {
+        "number": 11,
+        "clue": "Author Cather",
+        "row": 0,
+        "col": 12,
+        "answer": "WILLA"
+      },
+      {
+        "number": 12,
+        "clue": "Freezing rain",
+        "row": 0,
+        "col": 13,
+        "answer": "SLEET"
+      },
+      {
+        "number": 14,
+        "clue": "Outer",
+        "row": 1,
+        "col": 4,
+        "answer": "ECTAL"
+      },
+      {
+        "number": 16,
+        "clue": "Italian princely family",
+        "row": 1,
+        "col": 14,
+        "answer": "ESTE"
+      },
+      {
+        "number": 21,
+        "clue": "Played on words",
+        "row": 3,
+        "col": 9,
+        "answer": "PUNNED"
+      },
+      {
+        "number": 23,
+        "clue": "Sloping passage",
+        "row": 4,
+        "col": 3,
+        "answer": "RAMP"
+      },
+      {
+        "number": 25,
+        "clue": "Causes of ear pollution",
+        "row": 4,
+        "col": 8,
+        "answer": "NOISES"
+      },
+      {
+        "number": 26,
+        "clue": "Toreador's cloak",
+        "row": 5,
+        "col": 0,
+        "answer": "CAPA"
+      },
+      {
+        "number": 27,
+        "clue": "Scene of a naval battle: July 1940",
+        "row": 5,
+        "col": 1,
+        "answer": "ORAN"
+      },
+      {
+        "number": 28,
+        "clue": "Lunar crater named for an astronomer",
+        "row": 5,
+        "col": 6,
+        "answer": "BESSEL"
+      },
+      {
+        "number": 30,
+        "clue": "Metal-working tools",
+        "row": 6,
+        "col": 5,
+        "answer": "SWAGES"
+      },
+      {
+        "number": 31,
+        "clue": "Detectives",
+        "row": 6,
+        "col": 12,
+        "answer": "HAWKSHAWS"
+      },
+      {
+        "number": 32,
+        "clue": "Farthest from the pin",
+        "row": 6,
+        "col": 13,
+        "answer": "AWAY"
+      },
+      {
+        "number": 33,
+        "clue": "It, in Italy",
+        "row": 6,
+        "col": 14,
+        "answer": "ESSO"
+      },
+      {
+        "number": 35,
+        "clue": "Some parents",
+        "row": 7,
+        "col": 4,
+        "answer": "ADOPTERS"
+      },
+      {
+        "number": 37,
+        "clue": "___ of Eumenes, at foot of Acropolis",
+        "row": 7,
+        "col": 11,
+        "answer": "STOA"
+      },
+      {
+        "number": 40,
+        "clue": "Circular tuba",
+        "row": 8,
+        "col": 7,
+        "answer": "HELICON"
+      },
+      {
+        "number": 43,
+        "clue": "Second-story man's crime",
+        "row": 9,
+        "col": 10,
+        "answer": "THEFT"
+      },
+      {
+        "number": 44,
+        "clue": "Sickle handle",
+        "row": 10,
+        "col": 0,
+        "answer": "HAFT"
+      },
+      {
+        "number": 45,
+        "clue": "Lace used for upholstery",
+        "row": 10,
+        "col": 1,
+        "answer": "ORRIS"
+      },
+      {
+        "number": 46,
+        "clue": "Tropical tree genus",
+        "row": 10,
+        "col": 2,
+        "answer": "TREMA"
+      },
+      {
+        "number": 47,
+        "clue": "Himalayan goat-antelope",
+        "row": 10,
+        "col": 3,
+        "answer": "SEROW"
+      },
+      {
+        "number": 48,
+        "clue": "Nightclubs",
+        "row": 10,
+        "col": 9,
+        "answer": "CAFES"
+      },
+      {
+        "number": 51,
+        "clue": "City in N.Y. or Ga.",
+        "row": 11,
+        "col": 8,
+        "answer": "ROME"
+      },
+      {
+        "number": 53,
+        "clue": "Acknowledges",
+        "row": 11,
+        "col": 13,
+        "answer": "OWNS"
+      },
+      {
+        "number": 54,
+        "clue": "Existence",
+        "row": 11,
+        "col": 14,
+        "answer": "ESSE"
+      },
+      {
+        "number": 56,
+        "clue": "Owing the pot",
+        "row": 12,
+        "col": 6,
+        "answer": "SHY"
+      },
+      {
+        "number": 57,
+        "clue": "Mauna ___",
+        "row": 12,
+        "col": 11,
+        "answer": "LOA"
+      }
+    ]
+  }
+}

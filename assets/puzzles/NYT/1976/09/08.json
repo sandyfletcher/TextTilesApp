@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-09-08",
+  "metadata": {
+    "date": "1976-09-08",
+    "title": "NY TIMES, WED, SEP 08, 1976",
+    "author": "Henry Hook",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["Y", "E", "L", "P", "S", null, "A", "J", "A", "R", null, "S", "H", "A", "M"],
+    ["O", "L", "E", "A", "N", null, "S", "O", "L", "O", null, "L", "O", "D", "E"],
+    ["K", "O", "A", "L", "A", null, "N", "U", "I", "T", null, "E", "V", "E", "S"],
+    ["U", "P", "P", "E", "R", "B", "E", "R", "T", "H", null, "E", "E", "L", "S"],
+    ["M", "E", "T", null, "E", "A", "R", "N", null, null, "S", "P", "R", "A", "Y"],
+    [null, null, null, "F", "D", "A", null, "A", "R", "R", "O", "W", null, null, null],
+    ["A", "U", "T", "O", null, null, "C", "L", "E", "A", "R", "A", "N", "C", "E"],
+    ["M", "A", "U", "R", "I", "C", "E", null, "S", "E", "A", "L", "I", "O", "N"],
+    ["P", "R", "E", "T", "T", "I", "E", "S", "T", null, null, "K", "L", "E", "E"],
+    [null, null, null, "Y", "E", "A", "S", "T", null, "S", "S", "S", null, null, null],
+    ["S", "H", "O", "W", "S", null, null, "A", "B", "U", "T", null, "A", "C", "T"],
+    ["H", "O", "P", "I", null, "F", "O", "U", "R", "P", "O", "S", "T", "E", "R"],
+    ["A", "M", "E", "N", null, "A", "N", "N", "A", null, "R", "H", "O", "D", "A"],
+    ["P", "E", "R", "K", null, "L", "U", "C", "K", null, "M", "O", "N", "E", "Y"],
+    ["E", "R", "A", "S", null, "A", "S", "H", "E", null, "S", "E", "E", "D", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Shrill cries",
+        "row": 0,
+        "col": 0,
+        "answer": "YELPS"
+      },
+      {
+        "number": 6,
+        "clue": "Unharmonious",
+        "row": 0,
+        "col": 6,
+        "answer": "AJAR"
+      },
+      {
+        "number": 10,
+        "clue": "Forgery",
+        "row": 0,
+        "col": 11,
+        "answer": "SHAM"
+      },
+      {
+        "number": 14,
+        "clue": "N.Y. city",
+        "row": 1,
+        "col": 0,
+        "answer": "OLEAN"
+      },
+      {
+        "number": 15,
+        "clue": "Unaccompanied",
+        "row": 1,
+        "col": 6,
+        "answer": "SOLO"
+      },
+      {
+        "number": 16,
+        "clue": "Ore deposit",
+        "row": 1,
+        "col": 11,
+        "answer": "LODE"
+      },
+      {
+        "number": 17,
+        "clue": "Bear of down under",
+        "row": 2,
+        "col": 0,
+        "answer": "KOALA"
+      },
+      {
+        "number": 18,
+        "clue": "Follower of jour",
+        "row": 2,
+        "col": 6,
+        "answer": "NUIT"
+      },
+      {
+        "number": 19,
+        "clue": "Arden et al.",
+        "row": 2,
+        "col": 11,
+        "answer": "EVES"
+      },
+      {
+        "number": 20,
+        "clue": "Pullman section",
+        "row": 3,
+        "col": 0,
+        "answer": "UPPERBERTH"
+      },
+      {
+        "number": 22,
+        "clue": "Morays",
+        "row": 3,
+        "col": 11,
+        "answer": "EELS"
+      },
+      {
+        "number": 23,
+        "clue": "Shea player",
+        "row": 4,
+        "col": 0,
+        "answer": "MET"
+      },
+      {
+        "number": 24,
+        "clue": "Deserve",
+        "row": 4,
+        "col": 4,
+        "answer": "EARN"
+      },
+      {
+        "number": 25,
+        "clue": "Skunk's protection",
+        "row": 4,
+        "col": 10,
+        "answer": "SPRAY"
+      },
+      {
+        "number": 26,
+        "clue": "Govt. agency",
+        "row": 5,
+        "col": 3,
+        "answer": "FDA"
+      },
+      {
+        "number": 27,
+        "clue": "\"One-way\" sign",
+        "row": 5,
+        "col": 7,
+        "answer": "ARROW"
+      },
+      {
+        "number": 30,
+        "clue": "Prefix for suggestion",
+        "row": 6,
+        "col": 0,
+        "answer": "AUTO"
+      },
+      {
+        "number": 33,
+        "clue": "Year-end sale",
+        "row": 6,
+        "col": 6,
+        "answer": "CLEARANCE"
+      },
+      {
+        "number": 37,
+        "clue": "Actor Evans",
+        "row": 7,
+        "col": 0,
+        "answer": "MAURICE"
+      },
+      {
+        "number": 40,
+        "clue": "Aquatic mammal",
+        "row": 7,
+        "col": 8,
+        "answer": "SEALION"
+      },
+      {
+        "number": 41,
+        "clue": "Least homely",
+        "row": 8,
+        "col": 0,
+        "answer": "PRETTIEST"
+      },
+      {
+        "number": 43,
+        "clue": "Swiss artist",
+        "row": 8,
+        "col": 11,
+        "answer": "KLEE"
+      },
+      {
+        "number": 44,
+        "clue": "Baker's need",
+        "row": 9,
+        "col": 3,
+        "answer": "YEAST"
+      },
+      {
+        "number": 45,
+        "clue": "Draft agency: Abbr.",
+        "row": 9,
+        "col": 9,
+        "answer": "SSS"
+      },
+      {
+        "number": 47,
+        "clue": "Presents",
+        "row": 10,
+        "col": 0,
+        "answer": "SHOWS"
+      },
+      {
+        "number": 50,
+        "clue": "Be contiguous",
+        "row": 10,
+        "col": 7,
+        "answer": "ABUT"
+      },
+      {
+        "number": 52,
+        "clue": "Hart's \"___ One\"",
+        "row": 10,
+        "col": 12,
+        "answer": "ACT"
+      },
+      {
+        "number": 55,
+        "clue": "Indian of Arizona",
+        "row": 11,
+        "col": 0,
+        "answer": "HOPI"
+      },
+      {
+        "number": 56,
+        "clue": "Canopy bed",
+        "row": 11,
+        "col": 5,
+        "answer": "FOURPOSTER"
+      },
+      {
+        "number": 59,
+        "clue": "Sobeit",
+        "row": 12,
+        "col": 0,
+        "answer": "AMEN"
+      },
+      {
+        "number": 60,
+        "clue": "King of Siam's friend",
+        "row": 12,
+        "col": 5,
+        "answer": "ANNA"
+      },
+      {
+        "number": 61,
+        "clue": "Valerie Harper role",
+        "row": 12,
+        "col": 10,
+        "answer": "RHODA"
+      },
+      {
+        "number": 62,
+        "clue": "Brew, as coffee",
+        "row": 13,
+        "col": 0,
+        "answer": "PERK"
+      },
+      {
+        "number": 63,
+        "clue": "Vegas \"lady\"",
+        "row": 13,
+        "col": 5,
+        "answer": "LUCK"
+      },
+      {
+        "number": 64,
+        "clue": "It makes the mare go",
+        "row": 13,
+        "col": 10,
+        "answer": "MONEY"
+      },
+      {
+        "number": 65,
+        "clue": "Important times",
+        "row": 14,
+        "col": 0,
+        "answer": "ERAS"
+      },
+      {
+        "number": 66,
+        "clue": "Wimbledon V.I.P.",
+        "row": 14,
+        "col": 5,
+        "answer": "ASHE"
+      },
+      {
+        "number": 67,
+        "clue": "Gardener's purchase",
+        "row": 14,
+        "col": 10,
+        "answer": "SEEDS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Li'l Abner",
+        "row": 0,
+        "col": 0,
+        "answer": "YOKUM"
+      },
+      {
+        "number": 2,
+        "clue": "Run away",
+        "row": 0,
+        "col": 1,
+        "answer": "ELOPE"
+      },
+      {
+        "number": 3,
+        "clue": "Vaulted",
+        "row": 0,
+        "col": 2,
+        "answer": "LEAPT"
+      },
+      {
+        "number": 4,
+        "clue": "Fence picket",
+        "row": 0,
+        "col": 3,
+        "answer": "PALE"
+      },
+      {
+        "number": 5,
+        "clue": "Caught",
+        "row": 0,
+        "col": 4,
+        "answer": "SNARED"
+      },
+      {
+        "number": 6,
+        "clue": "TV actor Ed",
+        "row": 0,
+        "col": 6,
+        "answer": "ASNER"
+      },
+      {
+        "number": 7,
+        "clue": "Periodical",
+        "row": 0,
+        "col": 7,
+        "answer": "JOURNAL"
+      },
+      {
+        "number": 8,
+        "clue": "Got off",
+        "row": 0,
+        "col": 8,
+        "answer": "ALIT"
+      },
+      {
+        "number": 9,
+        "clue": "Portnoy's creator",
+        "row": 0,
+        "col": 9,
+        "answer": "ROTH"
+      },
+      {
+        "number": 10,
+        "clue": "Emulates Lady Macbeth",
+        "row": 0,
+        "col": 11,
+        "answer": "SLEEPWALKS"
+      },
+      {
+        "number": 11,
+        "clue": "Be doubtful",
+        "row": 0,
+        "col": 12,
+        "answer": "HOVER"
+      },
+      {
+        "number": 12,
+        "clue": "Miss St. Johns",
+        "row": 0,
+        "col": 13,
+        "answer": "ADELA"
+      },
+      {
+        "number": 13,
+        "clue": "Unkempt",
+        "row": 0,
+        "col": 14,
+        "answer": "MESSY"
+      },
+      {
+        "number": 21,
+        "clue": "Sheepish cry",
+        "row": 3,
+        "col": 5,
+        "answer": "BAA"
+      },
+      {
+        "number": 25,
+        "clue": "Rail bird",
+        "row": 4,
+        "col": 10,
+        "answer": "SORA"
+      },
+      {
+        "number": 26,
+        "clue": "Nap",
+        "row": 5,
+        "col": 3,
+        "answer": "FORTYWINKS"
+      },
+      {
+        "number": 28,
+        "clue": "Leftovers",
+        "row": 5,
+        "col": 8,
+        "answer": "REST"
+      },
+      {
+        "number": 29,
+        "clue": "Sheila Mac___",
+        "row": 5,
+        "col": 9,
+        "answer": "RAE"
+      },
+      {
+        "number": 30,
+        "clue": "Elec. unit",
+        "row": 6,
+        "col": 0,
+        "answer": "AMP"
+      },
+      {
+        "number": 31,
+        "clue": "Mideast abbr.",
+        "row": 6,
+        "col": 1,
+        "answer": "UAR"
+      },
+      {
+        "number": 32,
+        "clue": "Calendar abbr.",
+        "row": 6,
+        "col": 2,
+        "answer": "TUE"
+      },
+      {
+        "number": 33,
+        "clue": "$100 bills",
+        "row": 6,
+        "col": 6,
+        "answer": "CEES"
+      },
+      {
+        "number": 34,
+        "clue": "Zero",
+        "row": 6,
+        "col": 12,
+        "answer": "NIL"
+      },
+      {
+        "number": 35,
+        "clue": "Iowa college",
+        "row": 6,
+        "col": 13,
+        "answer": "COE"
+      },
+      {
+        "number": 36,
+        "clue": "Compass point",
+        "row": 6,
+        "col": 14,
+        "answer": "ENE"
+      },
+      {
+        "number": 38,
+        "clue": "Residents: Suffix",
+        "row": 7,
+        "col": 4,
+        "answer": "ITES"
+      },
+      {
+        "number": 39,
+        "clue": "Undercover group: Abbr.",
+        "row": 7,
+        "col": 5,
+        "answer": "CIA"
+      },
+      {
+        "number": 42,
+        "clue": "Loyal",
+        "row": 8,
+        "col": 7,
+        "answer": "STAUNCH"
+      },
+      {
+        "number": 45,
+        "clue": "Dine",
+        "row": 9,
+        "col": 9,
+        "answer": "SUP"
+      },
+      {
+        "number": 46,
+        "clue": "Rages",
+        "row": 9,
+        "col": 10,
+        "answer": "STORMS"
+      },
+      {
+        "number": 47,
+        "clue": "Form",
+        "row": 10,
+        "col": 0,
+        "answer": "SHAPE"
+      },
+      {
+        "number": 48,
+        "clue": "Hank Aaron's poet",
+        "row": 10,
+        "col": 1,
+        "answer": "HOMER"
+      },
+      {
+        "number": 49,
+        "clue": "Verdi work",
+        "row": 10,
+        "col": 2,
+        "answer": "OPERA"
+      },
+      {
+        "number": 51,
+        "clue": "Bus stopper",
+        "row": 10,
+        "col": 8,
+        "answer": "BRAKE"
+      },
+      {
+        "number": 52,
+        "clue": "Redeem oneself",
+        "row": 10,
+        "col": 12,
+        "answer": "ATONE"
+      },
+      {
+        "number": 53,
+        "clue": "Gave up",
+        "row": 10,
+        "col": 13,
+        "answer": "CEDED"
+      },
+      {
+        "number": 54,
+        "clue": "Salvers",
+        "row": 10,
+        "col": 14,
+        "answer": "TRAYS"
+      },
+      {
+        "number": 56,
+        "clue": "F.D.R. pet",
+        "row": 11,
+        "col": 5,
+        "answer": "FALA"
+      },
+      {
+        "number": 57,
+        "clue": "Burden",
+        "row": 11,
+        "col": 6,
+        "answer": "ONUS"
+      },
+      {
+        "number": 58,
+        "clue": "Moccasin",
+        "row": 11,
+        "col": 11,
+        "answer": "SHOE"
+      }
+    ]
+  }
+}

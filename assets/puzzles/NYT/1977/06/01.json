@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-06-01",
+  "metadata": {
+    "date": "1977-06-01",
+    "title": "NY TIMES, WED, JUN 01, 1977",
+    "author": "Allan Blackman",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["V", "I", "S", "T", "A", null, "L", "O", "S", "S", null, "M", "O", "A", "T"],
+    ["A", "L", "I", "A", "S", null, "A", "M", "I", "E", null, "E", "N", "D", "O"],
+    ["T", "I", "N", "T", "S", null, "T", "O", "G", "A", null, "N", "E", "A", "P"],
+    ["S", "E", "N", "S", "A", "T", "I", "O", "N", "S", null, "N", "A", "M", "E"],
+    [null, null, null, null, "U", "R", "N", null, null, "C", "O", "O", "L", "E", "R"],
+    ["B", "A", "B", "B", "L", "Y", null, "L", "E", "A", "R", "N", null, null, null],
+    ["A", "L", "E", "R", "T", null, "M", "U", "M", "P", "S", "I", "M", "U", "S"],
+    ["S", "I", "L", "O", null, "B", "O", "G", "I", "E", null, "T", "A", "R", "A"],
+    ["K", "I", "L", "O", "M", "E", "T", "E", "R", null, "B", "E", "G", "A", "N"],
+    [null, null, null, "M", "I", "S", "E", "R", null, "R", "E", "S", "I", "L", "E"],
+    ["B", "L", "A", "S", "T", "S", null, null, "B", "U", "S", null, null, null, null],
+    ["R", "A", "N", "T", null, "E", "S", "S", "E", "N", "T", "I", "A", "L", "S"],
+    ["A", "N", "T", "I", null, "M", "O", "A", "N", null, "M", "A", "M", "I", "E"],
+    ["S", "A", "I", "C", null, "E", "R", "I", "N", null, "A", "G", "A", "V", "E"],
+    ["H", "I", "C", "K", null, "R", "E", "L", "Y", null, "N", "O", "T", "E", "D"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Far-reaching view",
+        "row": 0,
+        "col": 0,
+        "answer": "VISTA"
+      },
+      {
+        "number": 6,
+        "clue": "Red-ink entry",
+        "row": 0,
+        "col": 6,
+        "answer": "LOSS"
+      },
+      {
+        "number": 10,
+        "clue": "Trench around a fort",
+        "row": 0,
+        "col": 11,
+        "answer": "MOAT"
+      },
+      {
+        "number": 14,
+        "clue": "Nom de plume",
+        "row": 1,
+        "col": 0,
+        "answer": "ALIAS"
+      },
+      {
+        "number": 15,
+        "clue": "Parisian's confidante",
+        "row": 1,
+        "col": 6,
+        "answer": "AMIE"
+      },
+      {
+        "number": 16,
+        "clue": "Within: Comb. form",
+        "row": 1,
+        "col": 11,
+        "answer": "ENDO"
+      },
+      {
+        "number": 17,
+        "clue": "Hair dyes",
+        "row": 2,
+        "col": 0,
+        "answer": "TINTS"
+      },
+      {
+        "number": 18,
+        "clue": "Caesar's mufti",
+        "row": 2,
+        "col": 6,
+        "answer": "TOGA"
+      },
+      {
+        "number": 19,
+        "clue": "Minimum tide",
+        "row": 2,
+        "col": 11,
+        "answer": "NEAP"
+      },
+      {
+        "number": 20,
+        "clue": "Public scandals, e.g.",
+        "row": 3,
+        "col": 0,
+        "answer": "SENSATIONS"
+      },
+      {
+        "number": 22,
+        "clue": "Designate",
+        "row": 3,
+        "col": 11,
+        "answer": "NAME"
+      },
+      {
+        "number": 23,
+        "clue": "Receptacle",
+        "row": 4,
+        "col": 4,
+        "answer": "URN"
+      },
+      {
+        "number": 24,
+        "clue": "Office gathering-spot",
+        "row": 4,
+        "col": 9,
+        "answer": "COOLER"
+      },
+      {
+        "number": 26,
+        "clue": "Chattering",
+        "row": 5,
+        "col": 0,
+        "answer": "BABBLY"
+      },
+      {
+        "number": 30,
+        "clue": "\"Live and ___\"",
+        "row": 5,
+        "col": 7,
+        "answer": "LEARN"
+      },
+      {
+        "number": 32,
+        "clue": "On the lookout",
+        "row": 6,
+        "col": 0,
+        "answer": "ALERT"
+      },
+      {
+        "number": 33,
+        "clue": "Diehard of a sort",
+        "row": 6,
+        "col": 6,
+        "answer": "MUMPSIMUS"
+      },
+      {
+        "number": 37,
+        "clue": "Grain container",
+        "row": 7,
+        "col": 0,
+        "answer": "SILO"
+      },
+      {
+        "number": 38,
+        "clue": "Low truck",
+        "row": 7,
+        "col": 5,
+        "answer": "BOGIE"
+      },
+      {
+        "number": 39,
+        "clue": "Scarlett's home",
+        "row": 7,
+        "col": 11,
+        "answer": "TARA"
+      },
+      {
+        "number": 40,
+        "clue": "0.621 mile",
+        "row": 8,
+        "col": 0,
+        "answer": "KILOMETER"
+      },
+      {
+        "number": 42,
+        "clue": "Initiated",
+        "row": 8,
+        "col": 10,
+        "answer": "BEGAN"
+      },
+      {
+        "number": 43,
+        "clue": "Skinflint",
+        "row": 9,
+        "col": 3,
+        "answer": "MISER"
+      },
+      {
+        "number": 44,
+        "clue": "Spring back",
+        "row": 9,
+        "col": 9,
+        "answer": "RESILE"
+      },
+      {
+        "number": 45,
+        "clue": "Sand-trap shots",
+        "row": 10,
+        "col": 0,
+        "answer": "BLASTS"
+      },
+      {
+        "number": 48,
+        "clue": "Something not to miss",
+        "row": 10,
+        "col": 8,
+        "answer": "BUS"
+      },
+      {
+        "number": 49,
+        "clue": "Wild talk",
+        "row": 11,
+        "col": 0,
+        "answer": "RANT"
+      },
+      {
+        "number": 50,
+        "clue": "Food and water, e.g.",
+        "row": 11,
+        "col": 5,
+        "answer": "ESSENTIALS"
+      },
+      {
+        "number": 57,
+        "clue": "No-man",
+        "row": 12,
+        "col": 0,
+        "answer": "ANTI"
+      },
+      {
+        "number": 58,
+        "clue": "S\u00e9ance sound",
+        "row": 12,
+        "col": 5,
+        "answer": "MOAN"
+      },
+      {
+        "number": 59,
+        "clue": "Wife of D.D.E.",
+        "row": 12,
+        "col": 10,
+        "answer": "MAMIE"
+      },
+      {
+        "number": 60,
+        "clue": "Levantine ketch",
+        "row": 13,
+        "col": 0,
+        "answer": "SAIC"
+      },
+      {
+        "number": 61,
+        "clue": "Mother Machree's land",
+        "row": 13,
+        "col": 5,
+        "answer": "ERIN"
+      },
+      {
+        "number": 62,
+        "clue": "Source of mescal",
+        "row": 13,
+        "col": 10,
+        "answer": "AGAVE"
+      },
+      {
+        "number": 63,
+        "clue": "Dweller in the sticks",
+        "row": 14,
+        "col": 0,
+        "answer": "HICK"
+      },
+      {
+        "number": 64,
+        "clue": "Depend (on)",
+        "row": 14,
+        "col": 5,
+        "answer": "RELY"
+      },
+      {
+        "number": 65,
+        "clue": "Eminent",
+        "row": 14,
+        "col": 10,
+        "answer": "NOTED"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Cisterns",
+        "row": 0,
+        "col": 0,
+        "answer": "VATS"
+      },
+      {
+        "number": 2,
+        "clue": "Nastase",
+        "row": 0,
+        "col": 1,
+        "answer": "ILIE"
+      },
+      {
+        "number": 3,
+        "clue": "___ Fein (Irish group)",
+        "row": 0,
+        "col": 2,
+        "answer": "SINN"
+      },
+      {
+        "number": 4,
+        "clue": "Does lacework",
+        "row": 0,
+        "col": 3,
+        "answer": "TATS"
+      },
+      {
+        "number": 5,
+        "clue": "Battery's partner-in-crime",
+        "row": 0,
+        "col": 4,
+        "answer": "ASSAULT"
+      },
+      {
+        "number": 6,
+        "clue": "___ America",
+        "row": 0,
+        "col": 6,
+        "answer": "LATIN"
+      },
+      {
+        "number": 7,
+        "clue": "Melville book",
+        "row": 0,
+        "col": 7,
+        "answer": "OMOO"
+      },
+      {
+        "number": 8,
+        "clue": "Use the dotted line",
+        "row": 0,
+        "col": 8,
+        "answer": "SIGN"
+      },
+      {
+        "number": 9,
+        "clue": "Homer painting",
+        "row": 0,
+        "col": 9,
+        "answer": "SEASCAPE"
+      },
+      {
+        "number": 10,
+        "clue": "Sect formed in 16th century",
+        "row": 0,
+        "col": 11,
+        "answer": "MENNONITES"
+      },
+      {
+        "number": 11,
+        "clue": "Ryan or Tatum",
+        "row": 0,
+        "col": 12,
+        "answer": "ONEAL"
+      },
+      {
+        "number": 12,
+        "clue": "\" . . . nothing like ___\"",
+        "row": 0,
+        "col": 13,
+        "answer": "ADAME"
+      },
+      {
+        "number": 13,
+        "clue": "Barfly that gets high",
+        "row": 0,
+        "col": 14,
+        "answer": "TOPER"
+      },
+      {
+        "number": 21,
+        "clue": "Do one's best",
+        "row": 3,
+        "col": 5,
+        "answer": "TRY"
+      },
+      {
+        "number": 25,
+        "clue": "Conjunctions",
+        "row": 4,
+        "col": 10,
+        "answer": "ORS"
+      },
+      {
+        "number": 26,
+        "clue": "Laze under rays",
+        "row": 5,
+        "col": 0,
+        "answer": "BASK"
+      },
+      {
+        "number": 27,
+        "clue": "Et ___ (and others)",
+        "row": 5,
+        "col": 1,
+        "answer": "ALII"
+      },
+      {
+        "number": 28,
+        "clue": "Thing to ring",
+        "row": 5,
+        "col": 2,
+        "answer": "BELL"
+      },
+      {
+        "number": 29,
+        "clue": "Halloween vehicle",
+        "row": 5,
+        "col": 3,
+        "answer": "BROOMSTICK"
+      },
+      {
+        "number": 30,
+        "clue": "German pistol",
+        "row": 5,
+        "col": 7,
+        "answer": "LUGER"
+      },
+      {
+        "number": 31,
+        "clue": "Arab nobleman",
+        "row": 5,
+        "col": 8,
+        "answer": "EMIR"
+      },
+      {
+        "number": 33,
+        "clue": "Homophone for 10 Across",
+        "row": 6,
+        "col": 6,
+        "answer": "MOTE"
+      },
+      {
+        "number": 34,
+        "clue": "The Three Kings",
+        "row": 6,
+        "col": 12,
+        "answer": "MAGI"
+      },
+      {
+        "number": 35,
+        "clue": "Russian range",
+        "row": 6,
+        "col": 13,
+        "answer": "URAL"
+      },
+      {
+        "number": 36,
+        "clue": "Lucid",
+        "row": 6,
+        "col": 14,
+        "answer": "SANE"
+      },
+      {
+        "number": 38,
+        "clue": "Steel-making process",
+        "row": 7,
+        "col": 5,
+        "answer": "BESSEMER"
+      },
+      {
+        "number": 41,
+        "clue": "Mass. institution",
+        "row": 8,
+        "col": 4,
+        "answer": "MIT"
+      },
+      {
+        "number": 42,
+        "clue": "Groom's choice",
+        "row": 8,
+        "col": 10,
+        "answer": "BESTMAN"
+      },
+      {
+        "number": 44,
+        "clue": "Nylons' spoiler",
+        "row": 9,
+        "col": 9,
+        "answer": "RUN"
+      },
+      {
+        "number": 45,
+        "clue": "Impudent",
+        "row": 10,
+        "col": 0,
+        "answer": "BRASH"
+      },
+      {
+        "number": 46,
+        "clue": "Oahu veranda",
+        "row": 10,
+        "col": 1,
+        "answer": "LANAI"
+      },
+      {
+        "number": 47,
+        "clue": "Caper",
+        "row": 10,
+        "col": 2,
+        "answer": "ANTIC"
+      },
+      {
+        "number": 48,
+        "clue": "Goodman",
+        "row": 10,
+        "col": 8,
+        "answer": "BENNY"
+      },
+      {
+        "number": 51,
+        "clue": "Tender",
+        "row": 11,
+        "col": 6,
+        "answer": "SORE"
+      },
+      {
+        "number": 52,
+        "clue": "Spanker, e.g.",
+        "row": 11,
+        "col": 7,
+        "answer": "SAIL"
+      },
+      {
+        "number": 53,
+        "clue": "Othello's ensign",
+        "row": 11,
+        "col": 11,
+        "answer": "IAGO"
+      },
+      {
+        "number": 54,
+        "clue": "Amo, amas, ___",
+        "row": 11,
+        "col": 12,
+        "answer": "AMAT"
+      },
+      {
+        "number": 55,
+        "clue": "Not taped",
+        "row": 11,
+        "col": 13,
+        "answer": "LIVE"
+      },
+      {
+        "number": 56,
+        "clue": "Pip or pit",
+        "row": 11,
+        "col": 14,
+        "answer": "SEED"
+      }
+    ]
+  }
+}

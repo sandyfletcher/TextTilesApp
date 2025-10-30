@@ -1,0 +1,1209 @@
+{
+  "id": "nyt-1977-10-09",
+  "metadata": {
+    "date": "1977-10-09",
+    "title": "A. &amp; Q.",
+    "author": "Elaine D. Schorr",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 23,
+    "rows": 23
+  },
+  "grid": [
+    ["T", "O", "S", "C", "A", null, "F", "A", "R", "A", "D", "S", null, "A", "B", "L", "E", null, "C", "A", "W", "E", "D"],
+    ["A", "T", "E", "A", "R", null, "O", "M", "E", "L", "E", "T", null, "C", "R", "A", "W", null, "A", "S", "H", "E", "S"],
+    ["W", "H", "A", "T", "M", "A", "K", "E", "S", "A", "B", "E", "B", "E", "A", "M", "E", null, "S", "M", "O", "L", "T"],
+    ["N", "E", "T", "S", null, "M", "I", "N", "T", "S", null, "E", "R", "I", "C", "A", null, "S", "H", "A", "M", null, null],
+    ["Y", "R", "S", null, "S", "A", "N", "D", "S", null, null, "L", "O", "N", "E", null, null, "T", "A", "R", "A", "S", null],
+    [null, null, null, null, "U", "S", "E", "S", null, "G", "A", "B", "S", null, "S", "E", "R", "E", "N", "A", "D", "E", null],
+    ["F", "A", "W", "K", "E", "S", null, null, "A", "L", "I", "A", "S", null, null, "R", "O", "A", "D", null, "E", "S", "S"],
+    ["A", "S", "H", "E", "R", null, "W", "A", "S", "A", "N", "N", "E", "F", "R", "A", "N", "K", null, "C", "O", "S", "T"],
+    ["L", "I", "O", "N", "S", null, "A", "B", "A", "S", "E", "D", null, "I", "O", "T", "A", null, "B", "A", "S", "I", "E"],
+    ["S", "A", "M", "S", null, "L", "I", "E", "N", "S", null, null, "A", "L", "S", "O", null, "M", "O", "S", "C", "O", "W"],
+    ["E", "N", "D", null, null, "I", "S", "R", "A", "Y", "N", "O", "B", "L", "E", null, null, "I", "N", "C", "A", "N", null],
+    [null, null, "I", "W", "A", "N", "T", null, null, null, "A", "R", "I", null, null, null, "P", "R", "Y", "O", "R", null, null],
+    [null, "A", "D", "A", "G", "E", null, null, "W", "A", "S", "B", "E", "N", "B", "L", "U", "E", null, null, "W", "I", "G"],
+    ["D", "U", "C", "K", "E", "D", null, "H", "A", "L", "T", null, null, "A", "R", "I", "L", "S", null, "F", "I", "N", "O"],
+    ["U", "S", "H", "E", "R", null, "A", "I", "D", "E", null, "A", "N", "N", "U", "L", "S", null, "M", "I", "L", "N", "E"],
+    ["A", "S", "E", "S", null, "I", "S", "R", "I", "C", "H", "L", "I", "T", "T", "L", "E", null, "O", "L", "D", "E", "R"],
+    ["L", "I", "V", null, "A", "N", "T", "E", null, null, "E", "M", "C", "E", "E", null, null, "H", "O", "M", "E", "R", "S"],
+    [null, "E", "Y", "E", "G", "L", "A", "S", "S", null, "R", "A", "H", "S", null, "S", "C", "A", "R", null, null, null, null],
+    [null, "S", "C", "R", "E", "E", null, null, "E", "L", "A", "N", null, null, "S", "T", "A", "R", "E", null, "C", "H", "E"],
+    [null, null, "H", "I", "L", "T", null, "S", "C", "A", "L", "D", null, "T", "H", "I", "R", "D", null, "M", "O", "O", "R"],
+    ["S", "H", "A", "V", "E", null, "W", "H", "O", "M", "D", "I", "D", "M", "O", "L", "L", "Y", "P", "I", "C", "O", "N"],
+    ["M", "E", "S", "A", "S", null, "H", "O", "N", "E", null, "N", "E", "A", "R", "T", "O", null, "F", "L", "O", "P", "S"],
+    ["A", "M", "E", "N", "S", null, "O", "D", "D", "S", null, "E", "R", "N", "E", "S", "T", null, "C", "O", "A", "S", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Role for Price",
+        "row": 0,
+        "col": 0,
+        "answer": "TOSCA"
+      },
+      {
+        "number": 6,
+        "clue": "Electrical units",
+        "row": 0,
+        "col": 6,
+        "answer": "FARADS"
+      },
+      {
+        "number": 12,
+        "clue": "Having the know-how",
+        "row": 0,
+        "col": 13,
+        "answer": "ABLE"
+      },
+      {
+        "number": 16,
+        "clue": "Made corvine sounds",
+        "row": 0,
+        "col": 18,
+        "answer": "CAWED"
+      },
+      {
+        "number": 21,
+        "clue": "\"The homage of ___\": Byron",
+        "row": 1,
+        "col": 0,
+        "answer": "ATEAR"
+      },
+      {
+        "number": 22,
+        "clue": "Western ___",
+        "row": 1,
+        "col": 6,
+        "answer": "OMELET"
+      },
+      {
+        "number": 23,
+        "clue": "Bird's crop",
+        "row": 1,
+        "col": 13,
+        "answer": "CRAW"
+      },
+      {
+        "number": 24,
+        "clue": "Lenten symbol",
+        "row": 1,
+        "col": 18,
+        "answer": "ASHES"
+      },
+      {
+        "number": 25,
+        "clue": "Big Apple with no worms",
+        "row": 2,
+        "col": 0,
+        "answer": "WHATMAKESABEBEAME"
+      },
+      {
+        "number": 28,
+        "clue": "Young salmon",
+        "row": 2,
+        "col": 18,
+        "answer": "SMOLT"
+      },
+      {
+        "number": 29,
+        "clue": "Court team",
+        "row": 3,
+        "col": 0,
+        "answer": "NETS"
+      },
+      {
+        "number": 30,
+        "clue": "Sage and thyme",
+        "row": 3,
+        "col": 5,
+        "answer": "MINTS"
+      },
+      {
+        "number": 31,
+        "clue": "Author Jong",
+        "row": 3,
+        "col": 11,
+        "answer": "ERICA"
+      },
+      {
+        "number": 32,
+        "clue": "Put-on",
+        "row": 3,
+        "col": 17,
+        "answer": "SHAM"
+      },
+      {
+        "number": 33,
+        "clue": "Parts of a cen.",
+        "row": 4,
+        "col": 0,
+        "answer": "YRS"
+      },
+      {
+        "number": 34,
+        "clue": "Diana ___: 1934\u201373",
+        "row": 4,
+        "col": 4,
+        "answer": "SANDS"
+      },
+      {
+        "number": 35,
+        "clue": "Singlehanded",
+        "row": 4,
+        "col": 11,
+        "answer": "LONE"
+      },
+      {
+        "number": 36,
+        "clue": "\"___ Bulba\"",
+        "row": 4,
+        "col": 17,
+        "answer": "TARAS"
+      },
+      {
+        "number": 38,
+        "clue": "Takes advantage of",
+        "row": 5,
+        "col": 4,
+        "answer": "USES"
+      },
+      {
+        "number": 39,
+        "clue": "Blathers",
+        "row": 5,
+        "col": 9,
+        "answer": "GABS"
+      },
+      {
+        "number": 41,
+        "clue": "Romancer's offering",
+        "row": 5,
+        "col": 14,
+        "answer": "SERENADE"
+      },
+      {
+        "number": 44,
+        "clue": "Gunpowder Plot conspirator",
+        "row": 6,
+        "col": 0,
+        "answer": "FAWKES"
+      },
+      {
+        "number": 48,
+        "clue": "A.k.a.",
+        "row": 6,
+        "col": 8,
+        "answer": "ALIAS"
+      },
+      {
+        "number": 49,
+        "clue": "Artery",
+        "row": 6,
+        "col": 15,
+        "answer": "ROAD"
+      },
+      {
+        "number": 50,
+        "clue": "Before tee",
+        "row": 6,
+        "col": 20,
+        "answer": "ESS"
+      },
+      {
+        "number": 52,
+        "clue": "Son of Jacob",
+        "row": 7,
+        "col": 0,
+        "answer": "ASHER"
+      },
+      {
+        "number": 53,
+        "clue": "Yes, in her private writings",
+        "row": 7,
+        "col": 6,
+        "answer": "WASANNEFRANK"
+      },
+      {
+        "number": 57,
+        "clue": "Penalty",
+        "row": 7,
+        "col": 19,
+        "answer": "COST"
+      },
+      {
+        "number": 58,
+        "clue": "___ share",
+        "row": 8,
+        "col": 0,
+        "answer": "LIONS"
+      },
+      {
+        "number": 59,
+        "clue": "Demeaned",
+        "row": 8,
+        "col": 6,
+        "answer": "ABASED"
+      },
+      {
+        "number": 60,
+        "clue": "Pittance",
+        "row": 8,
+        "col": 13,
+        "answer": "IOTA"
+      },
+      {
+        "number": 61,
+        "clue": "Count of jazz",
+        "row": 8,
+        "col": 18,
+        "answer": "BASIE"
+      },
+      {
+        "number": 62,
+        "clue": "Levene and Levenson",
+        "row": 9,
+        "col": 0,
+        "answer": "SAMS"
+      },
+      {
+        "number": 63,
+        "clue": "Bank deals",
+        "row": 9,
+        "col": 5,
+        "answer": "LIENS"
+      },
+      {
+        "number": 64,
+        "clue": "As well",
+        "row": 9,
+        "col": 12,
+        "answer": "ALSO"
+      },
+      {
+        "number": 65,
+        "clue": "Where GUM is",
+        "row": 9,
+        "col": 17,
+        "answer": "MOSCOW"
+      },
+      {
+        "number": 66,
+        "clue": "Wrap up",
+        "row": 10,
+        "col": 0,
+        "answer": "END"
+      },
+      {
+        "number": 67,
+        "clue": "His peers think so",
+        "row": 10,
+        "col": 5,
+        "answer": "ISRAYNOBLE"
+      },
+      {
+        "number": 70,
+        "clue": "Quechua",
+        "row": 10,
+        "col": 17,
+        "answer": "INCAN"
+      },
+      {
+        "number": 71,
+        "clue": "\"___ to Live,\" 1958 film",
+        "row": 11,
+        "col": 2,
+        "answer": "IWANT"
+      },
+      {
+        "number": 74,
+        "clue": "\"Exodus\" name",
+        "row": 11,
+        "col": 10,
+        "answer": "ARI"
+      },
+      {
+        "number": 75,
+        "clue": "Comedian Richard",
+        "row": 11,
+        "col": 16,
+        "answer": "PRYOR"
+      },
+      {
+        "number": 76,
+        "clue": "Apothegm",
+        "row": 12,
+        "col": 1,
+        "answer": "ADAGE"
+      },
+      {
+        "number": 77,
+        "clue": "Only when his funny films failed",
+        "row": 12,
+        "col": 8,
+        "answer": "WASBENBLUE"
+      },
+      {
+        "number": 82,
+        "clue": "Jasey",
+        "row": 12,
+        "col": 20,
+        "answer": "WIG"
+      },
+      {
+        "number": 85,
+        "clue": "Sidestepped",
+        "row": 13,
+        "col": 0,
+        "answer": "DUCKED"
+      },
+      {
+        "number": 86,
+        "clue": "Sentry's cry",
+        "row": 13,
+        "col": 7,
+        "answer": "HALT"
+      },
+      {
+        "number": 87,
+        "clue": "Seed covers",
+        "row": 13,
+        "col": 13,
+        "answer": "ARILS"
+      },
+      {
+        "number": 88,
+        "clue": "Pure, in Parma",
+        "row": 13,
+        "col": 19,
+        "answer": "FINO"
+      },
+      {
+        "number": 89,
+        "clue": "Poe house",
+        "row": 14,
+        "col": 0,
+        "answer": "USHER"
+      },
+      {
+        "number": 90,
+        "clue": "Jordan, to Carter",
+        "row": 14,
+        "col": 6,
+        "answer": "AIDE"
+      },
+      {
+        "number": 91,
+        "clue": "Blots out",
+        "row": 14,
+        "col": 11,
+        "answer": "ANNULS"
+      },
+      {
+        "number": 93,
+        "clue": "Kanga's creator",
+        "row": 14,
+        "col": 18,
+        "answer": "MILNE"
+      },
+      {
+        "number": 94,
+        "clue": "\"___ Death\"",
+        "row": 15,
+        "col": 0,
+        "answer": "ASES"
+      },
+      {
+        "number": 95,
+        "clue": "Well, he's no John Wayne",
+        "row": 15,
+        "col": 5,
+        "answer": "ISRICHLITTLE"
+      },
+      {
+        "number": 97,
+        "clue": "Partner of wiser",
+        "row": 15,
+        "col": 18,
+        "answer": "OLDER"
+      },
+      {
+        "number": 98,
+        "clue": "Ullmann",
+        "row": 16,
+        "col": 0,
+        "answer": "LIV"
+      },
+      {
+        "number": 99,
+        "clue": "Status quo ___ bellum",
+        "row": 16,
+        "col": 4,
+        "answer": "ANTE"
+      },
+      {
+        "number": 100,
+        "clue": "Man with a mike",
+        "row": 16,
+        "col": 10,
+        "answer": "EMCEE"
+      },
+      {
+        "number": 101,
+        "clue": "Red Sox specialty",
+        "row": 16,
+        "col": 17,
+        "answer": "HOMERS"
+      },
+      {
+        "number": 102,
+        "clue": "Sight enhancer",
+        "row": 17,
+        "col": 1,
+        "answer": "EYEGLASS"
+      },
+      {
+        "number": 105,
+        "clue": "Bowl calls",
+        "row": 17,
+        "col": 10,
+        "answer": "RAHS"
+      },
+      {
+        "number": 106,
+        "clue": "Cicatrix",
+        "row": 17,
+        "col": 15,
+        "answer": "SCAR"
+      },
+      {
+        "number": 108,
+        "clue": "Rock debris",
+        "row": 18,
+        "col": 1,
+        "answer": "SCREE"
+      },
+      {
+        "number": 109,
+        "clue": "Dash",
+        "row": 18,
+        "col": 8,
+        "answer": "ELAN"
+      },
+      {
+        "number": 111,
+        "clue": "Rubberneck",
+        "row": 18,
+        "col": 14,
+        "answer": "STARE"
+      },
+      {
+        "number": 112,
+        "clue": "Guevara",
+        "row": 18,
+        "col": 20,
+        "answer": "CHE"
+      },
+      {
+        "number": 115,
+        "clue": "\"Excalibur\" part",
+        "row": 19,
+        "col": 2,
+        "answer": "HILT"
+      },
+      {
+        "number": 116,
+        "clue": "Cooking direction",
+        "row": 19,
+        "col": 7,
+        "answer": "SCALD"
+      },
+      {
+        "number": 117,
+        "clue": "Mail class",
+        "row": 19,
+        "col": 13,
+        "answer": "THIRD"
+      },
+      {
+        "number": 118,
+        "clue": "Heath for Heathcliff",
+        "row": 19,
+        "col": 19,
+        "answer": "MOOR"
+      },
+      {
+        "number": 119,
+        "clue": "Figaro's forte",
+        "row": 20,
+        "col": 0,
+        "answer": "SHAVE"
+      },
+      {
+        "number": 121,
+        "clue": "Nobody on Broadway",
+        "row": 20,
+        "col": 6,
+        "answer": "WHOMDIDMOLLYPICON"
+      },
+      {
+        "number": 124,
+        "clue": "N.M. terrains",
+        "row": 21,
+        "col": 0,
+        "answer": "MESAS"
+      },
+      {
+        "number": 125,
+        "clue": "Use a strop",
+        "row": 21,
+        "col": 6,
+        "answer": "HONE"
+      },
+      {
+        "number": 126,
+        "clue": "In proximity",
+        "row": 21,
+        "col": 11,
+        "answer": "NEARTO"
+      },
+      {
+        "number": 127,
+        "clue": "Turkeys",
+        "row": 21,
+        "col": 18,
+        "answer": "FLOPS"
+      },
+      {
+        "number": 128,
+        "clue": "Closing words",
+        "row": 22,
+        "col": 0,
+        "answer": "AMENS"
+      },
+      {
+        "number": 129,
+        "clue": "Bookie's quote",
+        "row": 22,
+        "col": 6,
+        "answer": "ODDS"
+      },
+      {
+        "number": 130,
+        "clue": "Autor Seton",
+        "row": 22,
+        "col": 11,
+        "answer": "ERNEST"
+      },
+      {
+        "number": 131,
+        "clue": "Littoral area",
+        "row": 22,
+        "col": 18,
+        "answer": "COAST"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Brownish orange",
+        "row": 0,
+        "col": 0,
+        "answer": "TAWNY"
+      },
+      {
+        "number": 2,
+        "clue": "Second of two",
+        "row": 0,
+        "col": 1,
+        "answer": "OTHER"
+      },
+      {
+        "number": 3,
+        "clue": "Ottomans",
+        "row": 0,
+        "col": 2,
+        "answer": "SEATS"
+      },
+      {
+        "number": 4,
+        "clue": "Hipsters",
+        "row": 0,
+        "col": 3,
+        "answer": "CATS"
+      },
+      {
+        "number": 5,
+        "clue": "Branch",
+        "row": 0,
+        "col": 4,
+        "answer": "ARM"
+      },
+      {
+        "number": 6,
+        "clue": "Famed choreographer: 1880\u20131942",
+        "row": 0,
+        "col": 6,
+        "answer": "FOKINE"
+      },
+      {
+        "number": 7,
+        "clue": "Makes better",
+        "row": 0,
+        "col": 7,
+        "answer": "AMENDS"
+      },
+      {
+        "number": 8,
+        "clue": "Pauses",
+        "row": 0,
+        "col": 8,
+        "answer": "RESTS"
+      },
+      {
+        "number": 9,
+        "clue": "Sigh for Yorick",
+        "row": 0,
+        "col": 9,
+        "answer": "ALAS"
+      },
+      {
+        "number": 10,
+        "clue": "Society newcomer",
+        "row": 0,
+        "col": 10,
+        "answer": "DEB"
+      },
+      {
+        "number": 11,
+        "clue": "Trinidad combo",
+        "row": 0,
+        "col": 11,
+        "answer": "STEELBAND"
+      },
+      {
+        "number": 12,
+        "clue": "___ the hole",
+        "row": 0,
+        "col": 13,
+        "answer": "ACEIN"
+      },
+      {
+        "number": 13,
+        "clue": "Clasps or clamps",
+        "row": 0,
+        "col": 14,
+        "answer": "BRACES"
+      },
+      {
+        "number": 14,
+        "clue": "Mongolian monk",
+        "row": 0,
+        "col": 15,
+        "answer": "LAMA"
+      },
+      {
+        "number": 15,
+        "clue": "Cote female",
+        "row": 0,
+        "col": 16,
+        "answer": "EWE"
+      },
+      {
+        "number": 16,
+        "clue": "___ carry",
+        "row": 0,
+        "col": 18,
+        "answer": "CASHAND"
+      },
+      {
+        "number": 17,
+        "clue": "Capital of Eritrea",
+        "row": 0,
+        "col": 19,
+        "answer": "ASMARA"
+      },
+      {
+        "number": 18,
+        "clue": "Imprisoning officials",
+        "row": 0,
+        "col": 20,
+        "answer": "WHOMADEOSCARWILDE"
+      },
+      {
+        "number": 19,
+        "clue": "It could be electric",
+        "row": 0,
+        "col": 21,
+        "answer": "EEL"
+      },
+      {
+        "number": 20,
+        "clue": "N.Y. time, at times",
+        "row": 0,
+        "col": 22,
+        "answer": "DST"
+      },
+      {
+        "number": 26,
+        "clue": "Garner",
+        "row": 2,
+        "col": 5,
+        "answer": "AMASS"
+      },
+      {
+        "number": 27,
+        "clue": "Brush, in Brest",
+        "row": 2,
+        "col": 12,
+        "answer": "BROSSE"
+      },
+      {
+        "number": 32,
+        "clue": "Chateaubriand, e.g.",
+        "row": 3,
+        "col": 17,
+        "answer": "STEAK"
+      },
+      {
+        "number": 34,
+        "clue": "Court figures",
+        "row": 4,
+        "col": 4,
+        "answer": "SUERS"
+      },
+      {
+        "number": 37,
+        "clue": "Bull or jam",
+        "row": 4,
+        "col": 21,
+        "answer": "SESSION"
+      },
+      {
+        "number": 39,
+        "clue": "Like fish eyes",
+        "row": 5,
+        "col": 9,
+        "answer": "GLASSY"
+      },
+      {
+        "number": 40,
+        "clue": "Senior on the Seine",
+        "row": 5,
+        "col": 10,
+        "answer": "AINE"
+      },
+      {
+        "number": 42,
+        "clue": "Muse for Pindar",
+        "row": 5,
+        "col": 15,
+        "answer": "ERATO"
+      },
+      {
+        "number": 43,
+        "clue": "Columnist Barrett",
+        "row": 5,
+        "col": 16,
+        "answer": "RONA"
+      },
+      {
+        "number": 44,
+        "clue": "Without foundation",
+        "row": 6,
+        "col": 0,
+        "answer": "FALSE"
+      },
+      {
+        "number": 45,
+        "clue": "Penang person",
+        "row": 6,
+        "col": 1,
+        "answer": "ASIAN"
+      },
+      {
+        "number": 46,
+        "clue": "Ask 43 Down!",
+        "row": 6,
+        "col": 2,
+        "answer": "WHOMDIDCHEVYCHASE"
+      },
+      {
+        "number": 47,
+        "clue": "Kesey and Rosewall",
+        "row": 6,
+        "col": 3,
+        "answer": "KENS"
+      },
+      {
+        "number": 48,
+        "clue": "Yoga posture",
+        "row": 6,
+        "col": 8,
+        "answer": "ASANA"
+      },
+      {
+        "number": 51,
+        "clue": "Olla podrida",
+        "row": 6,
+        "col": 22,
+        "answer": "STEW"
+      },
+      {
+        "number": 53,
+        "clue": "Oft-watched line",
+        "row": 7,
+        "col": 6,
+        "answer": "WAIST"
+      },
+      {
+        "number": 54,
+        "clue": "But, in Bonn",
+        "row": 7,
+        "col": 7,
+        "answer": "ABER"
+      },
+      {
+        "number": 55,
+        "clue": "Satisfy",
+        "row": 7,
+        "col": 13,
+        "answer": "FILL"
+      },
+      {
+        "number": 56,
+        "clue": "Polyantha, e.g.",
+        "row": 7,
+        "col": 14,
+        "answer": "ROSE"
+      },
+      {
+        "number": 57,
+        "clue": "Maine bay",
+        "row": 7,
+        "col": 19,
+        "answer": "CASCO"
+      },
+      {
+        "number": 61,
+        "clue": "Lean as a rake",
+        "row": 8,
+        "col": 18,
+        "answer": "BONY"
+      },
+      {
+        "number": 63,
+        "clue": "Did an inside job",
+        "row": 9,
+        "col": 5,
+        "answer": "LINED"
+      },
+      {
+        "number": 64,
+        "clue": "Theatrical lover",
+        "row": 9,
+        "col": 12,
+        "answer": "ABIE"
+      },
+      {
+        "number": 65,
+        "clue": "Entangles",
+        "row": 9,
+        "col": 17,
+        "answer": "MIRES"
+      },
+      {
+        "number": 68,
+        "clue": "Political cartoonist",
+        "row": 10,
+        "col": 10,
+        "answer": "NAST"
+      },
+      {
+        "number": 69,
+        "clue": "Any planet",
+        "row": 10,
+        "col": 11,
+        "answer": "ORB"
+      },
+      {
+        "number": 72,
+        "clue": "Greets the dawn",
+        "row": 11,
+        "col": 3,
+        "answer": "WAKES"
+      },
+      {
+        "number": 73,
+        "clue": "Livy's field",
+        "row": 11,
+        "col": 4,
+        "answer": "AGER"
+      },
+      {
+        "number": 75,
+        "clue": "Beat",
+        "row": 11,
+        "col": 16,
+        "answer": "PULSE"
+      },
+      {
+        "number": 76,
+        "clue": "Down Under fellows",
+        "row": 12,
+        "col": 1,
+        "answer": "AUSSIES"
+      },
+      {
+        "number": 77,
+        "clue": "Ravine",
+        "row": 12,
+        "col": 8,
+        "answer": "WADI"
+      },
+      {
+        "number": 78,
+        "clue": "Author Waugh",
+        "row": 12,
+        "col": 9,
+        "answer": "ALEC"
+      },
+      {
+        "number": 79,
+        "clue": "City on the Loire",
+        "row": 12,
+        "col": 13,
+        "answer": "NANTES"
+      },
+      {
+        "number": 80,
+        "clue": "Yahoo",
+        "row": 12,
+        "col": 14,
+        "answer": "BRUTE"
+      },
+      {
+        "number": 81,
+        "clue": "Very small pin",
+        "row": 12,
+        "col": 15,
+        "answer": "LILL"
+      },
+      {
+        "number": 83,
+        "clue": "Word with city or tube",
+        "row": 12,
+        "col": 21,
+        "answer": "INNER"
+      },
+      {
+        "number": 84,
+        "clue": "Takeoff group",
+        "row": 12,
+        "col": 22,
+        "answer": "GOERS"
+      },
+      {
+        "number": 85,
+        "clue": "Kind of role",
+        "row": 13,
+        "col": 0,
+        "answer": "DUAL"
+      },
+      {
+        "number": 86,
+        "clue": "Puts on the payroll",
+        "row": 13,
+        "col": 7,
+        "answer": "HIRES"
+      },
+      {
+        "number": 88,
+        "clue": "Item not to be exposed",
+        "row": 13,
+        "col": 19,
+        "answer": "FILM"
+      },
+      {
+        "number": 90,
+        "clue": "Movie pooch",
+        "row": 14,
+        "col": 6,
+        "answer": "ASTA"
+      },
+      {
+        "number": 91,
+        "clue": "Variety of garnet",
+        "row": 14,
+        "col": 11,
+        "answer": "ALMANDINE"
+      },
+      {
+        "number": 92,
+        "clue": "Czar's name: Abbr.",
+        "row": 14,
+        "col": 12,
+        "answer": "NICH"
+      },
+      {
+        "number": 93,
+        "clue": "Henry the sculptor",
+        "row": 14,
+        "col": 18,
+        "answer": "MOORE"
+      },
+      {
+        "number": 95,
+        "clue": "Estuary",
+        "row": 15,
+        "col": 5,
+        "answer": "INLET"
+      },
+      {
+        "number": 96,
+        "clue": "Harbinger",
+        "row": 15,
+        "col": 10,
+        "answer": "HERALD"
+      },
+      {
+        "number": 99,
+        "clue": "Ever-abiding",
+        "row": 16,
+        "col": 4,
+        "answer": "AGELESS"
+      },
+      {
+        "number": 101,
+        "clue": "He wrote \"The Dynasts\"",
+        "row": 16,
+        "col": 17,
+        "answer": "HARDY"
+      },
+      {
+        "number": 103,
+        "clue": "Capital of Armenia",
+        "row": 17,
+        "col": 3,
+        "answer": "ERIVAN"
+      },
+      {
+        "number": 104,
+        "clue": "Abet",
+        "row": 17,
+        "col": 8,
+        "answer": "SECOND"
+      },
+      {
+        "number": 106,
+        "clue": "Avocets' kin",
+        "row": 17,
+        "col": 15,
+        "answer": "STILTS"
+      },
+      {
+        "number": 107,
+        "clue": "Freight shipment",
+        "row": 17,
+        "col": 16,
+        "answer": "CARLOT"
+      },
+      {
+        "number": 110,
+        "clue": "Incapacitates",
+        "row": 18,
+        "col": 9,
+        "answer": "LAMES"
+      },
+      {
+        "number": 111,
+        "clue": "Tanning locale",
+        "row": 18,
+        "col": 14,
+        "answer": "SHORE"
+      },
+      {
+        "number": 112,
+        "clue": "Apres-ski drink",
+        "row": 18,
+        "col": 20,
+        "answer": "COCOA"
+      },
+      {
+        "number": 113,
+        "clue": "Holey rollers",
+        "row": 18,
+        "col": 21,
+        "answer": "HOOPS"
+      },
+      {
+        "number": 114,
+        "clue": "Artist Max",
+        "row": 18,
+        "col": 22,
+        "answer": "ERNST"
+      },
+      {
+        "number": 116,
+        "clue": "Booted",
+        "row": 19,
+        "col": 7,
+        "answer": "SHOD"
+      },
+      {
+        "number": 117,
+        "clue": "Fed",
+        "row": 19,
+        "col": 13,
+        "answer": "TMAN"
+      },
+      {
+        "number": 118,
+        "clue": "Grain sorghum",
+        "row": 19,
+        "col": 19,
+        "answer": "MILO"
+      },
+      {
+        "number": 119,
+        "clue": "Little, in Lanark",
+        "row": 20,
+        "col": 0,
+        "answer": "SMA"
+      },
+      {
+        "number": 120,
+        "clue": "Haw's partner",
+        "row": 20,
+        "col": 1,
+        "answer": "HEM"
+      },
+      {
+        "number": 121,
+        "clue": "\"___ is Silvia?\"",
+        "row": 20,
+        "col": 6,
+        "answer": "WHO"
+      },
+      {
+        "number": 122,
+        "clue": "German article",
+        "row": 20,
+        "col": 12,
+        "answer": "DER"
+      },
+      {
+        "number": 123,
+        "clue": "Mil. rank",
+        "row": 20,
+        "col": 18,
+        "answer": "PFC"
+      }
+    ]
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-11-04",
+  "metadata": {
+    "date": "1977-11-04",
+    "title": "NY TIMES, FRI, NOV 04, 1977",
+    "author": "Jack Luzzatto",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["H", "E", "A", "P", null, "W", "P", "A", null, "E", "S", "T", "A", "T", "E"],
+    ["A", "M", "B", "U", "S", "H", "E", "S", null, "N", "E", "A", "R", "E", "R"],
+    ["R", "E", "S", "T", "L", "E", "S", "S", null, "D", "E", "J", "A", "V", "U"],
+    ["P", "R", "O", "T", "O", "N", null, "U", "M", "E", "A", null, "R", "E", "P"],
+    [null, "G", "L", "E", "E", null, "B", "R", "O", "D", null, "C", "A", "R", "T"],
+    ["F", "E", "U", "D", null, "F", "I", "E", "S", null, "F", "A", "T", "E", "S"],
+    ["E", "N", "T", null, "G", "O", "L", "D", "S", "T", "A", "R", null, null, null],
+    ["E", "T", "E", "R", "N", "A", "L", null, "H", "A", "R", "P", "I", "E", "S"],
+    [null, null, null, "Y", "A", "L", "E", "G", "A", "M", "E", null, "N", "U", "T"],
+    ["S", "T", "R", "E", "W", null, "T", "I", "R", "E", null, "C", "I", "T", "Y"],
+    ["A", "R", "E", "S", null, "B", "E", "N", "T", null, "B", "A", "T", "E", null],
+    ["B", "I", "T", null, "F", "A", "D", "S", null, "P", "A", "N", "I", "C", "S"],
+    ["O", "V", "U", "L", "A", "R", null, "E", "M", "E", "N", "D", "A", "T", "E"],
+    ["T", "I", "R", "A", "D", "E", null, "N", "A", "R", "C", "O", "T", "I", "C"],
+    ["S", "A", "N", "D", "E", "D", null, "G", "Y", "M", null, "R", "E", "C", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Jalopy",
+        "row": 0,
+        "col": 0,
+        "answer": "HEAP"
+      },
+      {
+        "number": 5,
+        "clue": "F.D.R. work agcy.",
+        "row": 0,
+        "col": 5,
+        "answer": "WPA"
+      },
+      {
+        "number": 8,
+        "clue": "You can't take it with you",
+        "row": 0,
+        "col": 9,
+        "answer": "ESTATE"
+      },
+      {
+        "number": 14,
+        "clue": "Bushwhacks",
+        "row": 1,
+        "col": 0,
+        "answer": "AMBUSHES"
+      },
+      {
+        "number": 16,
+        "clue": "More intimate",
+        "row": 1,
+        "col": 9,
+        "answer": "NEARER"
+      },
+      {
+        "number": 17,
+        "clue": "Fidgety",
+        "row": 2,
+        "col": 0,
+        "answer": "RESTLESS"
+      },
+      {
+        "number": 18,
+        "clue": "Weird sense of familiarity",
+        "row": 2,
+        "col": 9,
+        "answer": "DEJAVU"
+      },
+      {
+        "number": 19,
+        "clue": "Part of a nucleus",
+        "row": 3,
+        "col": 0,
+        "answer": "PROTON"
+      },
+      {
+        "number": 20,
+        "clue": "Swedish seaport",
+        "row": 3,
+        "col": 7,
+        "answer": "UMEA"
+      },
+      {
+        "number": 22,
+        "clue": "Name or fame, for short",
+        "row": 3,
+        "col": 12,
+        "answer": "REP"
+      },
+      {
+        "number": 23,
+        "clue": "High good humor",
+        "row": 4,
+        "col": 1,
+        "answer": "GLEE"
+      },
+      {
+        "number": 24,
+        "clue": "Crawford from Philadelphia",
+        "row": 4,
+        "col": 6,
+        "answer": "BROD"
+      },
+      {
+        "number": 25,
+        "clue": "Dog wagon",
+        "row": 4,
+        "col": 11,
+        "answer": "CART"
+      },
+      {
+        "number": 26,
+        "clue": "Vendetta",
+        "row": 5,
+        "col": 0,
+        "answer": "FEUD"
+      },
+      {
+        "number": 27,
+        "clue": "Hamlet's cries of disgust",
+        "row": 5,
+        "col": 5,
+        "answer": "FIES"
+      },
+      {
+        "number": 28,
+        "clue": "Terrible trio",
+        "row": 5,
+        "col": 10,
+        "answer": "FATES"
+      },
+      {
+        "number": 29,
+        "clue": "Air Force Base at Colorado Springs",
+        "row": 6,
+        "col": 0,
+        "answer": "ENT"
+      },
+      {
+        "number": 30,
+        "clue": "Kindergarten trophy",
+        "row": 6,
+        "col": 4,
+        "answer": "GOLDSTAR"
+      },
+      {
+        "number": 32,
+        "clue": "Time-defying",
+        "row": 7,
+        "col": 0,
+        "answer": "ETERNAL"
+      },
+      {
+        "number": 34,
+        "clue": "Greek fliers with women's faces",
+        "row": 7,
+        "col": 8,
+        "answer": "HARPIES"
+      },
+      {
+        "number": 38,
+        "clue": "Harvard football classic",
+        "row": 8,
+        "col": 3,
+        "answer": "YALEGAME"
+      },
+      {
+        "number": 40,
+        "clue": "Obsessed aficionado",
+        "row": 8,
+        "col": 12,
+        "answer": "NUT"
+      },
+      {
+        "number": 41,
+        "clue": "Scatter",
+        "row": 9,
+        "col": 0,
+        "answer": "STREW"
+      },
+      {
+        "number": 44,
+        "clue": "Lose stamina",
+        "row": 9,
+        "col": 6,
+        "answer": "TIRE"
+      },
+      {
+        "number": 45,
+        "clue": "Population center",
+        "row": 9,
+        "col": 11,
+        "answer": "CITY"
+      },
+      {
+        "number": 46,
+        "clue": "Mars, to Zeus and friends",
+        "row": 10,
+        "col": 0,
+        "answer": "ARES"
+      },
+      {
+        "number": 47,
+        "clue": "Flexed",
+        "row": 10,
+        "col": 5,
+        "answer": "BENT"
+      },
+      {
+        "number": 48,
+        "clue": "Moderate",
+        "row": 10,
+        "col": 10,
+        "answer": "BATE"
+      },
+      {
+        "number": 49,
+        "clue": "Morsel",
+        "row": 11,
+        "col": 0,
+        "answer": "BIT"
+      },
+      {
+        "number": 50,
+        "clue": "Popular fancies",
+        "row": 11,
+        "col": 4,
+        "answer": "FADS"
+      },
+      {
+        "number": 51,
+        "clue": "Goes to pieces",
+        "row": 11,
+        "col": 9,
+        "answer": "PANICS"
+      },
+      {
+        "number": 53,
+        "clue": "Like an egg",
+        "row": 12,
+        "col": 0,
+        "answer": "OVULAR"
+      },
+      {
+        "number": 55,
+        "clue": "Correct a text",
+        "row": 12,
+        "col": 7,
+        "answer": "EMENDATE"
+      },
+      {
+        "number": 57,
+        "clue": "Ranting outburst",
+        "row": 13,
+        "col": 0,
+        "answer": "TIRADE"
+      },
+      {
+        "number": 58,
+        "clue": "Sense-numbing",
+        "row": 13,
+        "col": 7,
+        "answer": "NARCOTIC"
+      },
+      {
+        "number": 59,
+        "clue": "Smoothed wood",
+        "row": 14,
+        "col": 0,
+        "answer": "SANDED"
+      },
+      {
+        "number": 60,
+        "clue": "Workout spot",
+        "row": 14,
+        "col": 7,
+        "answer": "GYM"
+      },
+      {
+        "number": 61,
+        "clue": "Kind of parallelogram: Abbr.",
+        "row": 14,
+        "col": 11,
+        "answer": "RECT"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Celestial strings",
+        "row": 0,
+        "col": 0,
+        "answer": "HARP"
+      },
+      {
+        "number": 2,
+        "clue": "Newborn, as a nation",
+        "row": 0,
+        "col": 1,
+        "answer": "EMERGENT"
+      },
+      {
+        "number": 3,
+        "clue": "Thoroughgoing",
+        "row": 0,
+        "col": 2,
+        "answer": "ABSOLUTE"
+      },
+      {
+        "number": 4,
+        "clue": "Shot for the cup",
+        "row": 0,
+        "col": 3,
+        "answer": "PUTTED"
+      },
+      {
+        "number": 5,
+        "clue": "History teacher's query",
+        "row": 0,
+        "col": 5,
+        "answer": "WHEN"
+      },
+      {
+        "number": 6,
+        "clue": "Footlike part",
+        "row": 0,
+        "col": 6,
+        "answer": "PES"
+      },
+      {
+        "number": 7,
+        "clue": "Confident",
+        "row": 0,
+        "col": 7,
+        "answer": "ASSURED"
+      },
+      {
+        "number": 8,
+        "clue": "Ran its course",
+        "row": 0,
+        "col": 9,
+        "answer": "ENDED"
+      },
+      {
+        "number": 9,
+        "clue": "\"To ___ world in a grain of sand\": Blake",
+        "row": 0,
+        "col": 10,
+        "answer": "SEEA"
+      },
+      {
+        "number": 10,
+        "clue": "Dervish's cap",
+        "row": 0,
+        "col": 11,
+        "answer": "TAJ"
+      },
+      {
+        "number": 11,
+        "clue": "Port for Noah",
+        "row": 0,
+        "col": 12,
+        "answer": "ARARAT"
+      },
+      {
+        "number": 12,
+        "clue": "Tiber, to the Romans",
+        "row": 0,
+        "col": 13,
+        "answer": "TEVERE"
+      },
+      {
+        "number": 13,
+        "clue": "Explodes",
+        "row": 0,
+        "col": 14,
+        "answer": "ERUPTS"
+      },
+      {
+        "number": 15,
+        "clue": "Plum for gin",
+        "row": 1,
+        "col": 4,
+        "answer": "SLOE"
+      },
+      {
+        "number": 21,
+        "clue": "Kaufman's collaborator",
+        "row": 3,
+        "col": 8,
+        "answer": "MOSSHART"
+      },
+      {
+        "number": 24,
+        "clue": "Lodged, as soldiers",
+        "row": 4,
+        "col": 6,
+        "answer": "BILLETED"
+      },
+      {
+        "number": 25,
+        "clue": "Nit-pick",
+        "row": 4,
+        "col": 11,
+        "answer": "CARP"
+      },
+      {
+        "number": 26,
+        "clue": "Lawyer's retainer",
+        "row": 5,
+        "col": 0,
+        "answer": "FEE"
+      },
+      {
+        "number": 27,
+        "clue": "Newborn colt or filly",
+        "row": 5,
+        "col": 5,
+        "answer": "FOAL"
+      },
+      {
+        "number": 28,
+        "clue": "Subway token",
+        "row": 5,
+        "col": 10,
+        "answer": "FARE"
+      },
+      {
+        "number": 30,
+        "clue": "Chew at",
+        "row": 6,
+        "col": 4,
+        "answer": "GNAW"
+      },
+      {
+        "number": 31,
+        "clue": "Unexciting",
+        "row": 6,
+        "col": 9,
+        "answer": "TAME"
+      },
+      {
+        "number": 33,
+        "clue": "Baker's dozen, possibly",
+        "row": 7,
+        "col": 3,
+        "answer": "RYES"
+      },
+      {
+        "number": 35,
+        "clue": "Start",
+        "row": 7,
+        "col": 12,
+        "answer": "INITIATE"
+      },
+      {
+        "number": 36,
+        "clue": "Having maximum fusibility",
+        "row": 7,
+        "col": 13,
+        "answer": "EUTECTIC"
+      },
+      {
+        "number": 37,
+        "clue": "Untidy place",
+        "row": 7,
+        "col": 14,
+        "answer": "STY"
+      },
+      {
+        "number": 39,
+        "clue": "Herb used as a medicine in China",
+        "row": 8,
+        "col": 7,
+        "answer": "GINSENG"
+      },
+      {
+        "number": 41,
+        "clue": "Peasant shoes",
+        "row": 9,
+        "col": 0,
+        "answer": "SABOTS"
+      },
+      {
+        "number": 42,
+        "clue": "Info one may not care to know",
+        "row": 9,
+        "col": 1,
+        "answer": "TRIVIA"
+      },
+      {
+        "number": 43,
+        "clue": "Comeback",
+        "row": 9,
+        "col": 2,
+        "answer": "RETURN"
+      },
+      {
+        "number": 45,
+        "clue": "Plain truth",
+        "row": 9,
+        "col": 11,
+        "answer": "CANDOR"
+      },
+      {
+        "number": 47,
+        "clue": "Revealed",
+        "row": 10,
+        "col": 5,
+        "answer": "BARED"
+      },
+      {
+        "number": 48,
+        "clue": "Judge's bench",
+        "row": 10,
+        "col": 10,
+        "answer": "BANC"
+      },
+      {
+        "number": 50,
+        "clue": "Lose brilliance",
+        "row": 11,
+        "col": 4,
+        "answer": "FADE"
+      },
+      {
+        "number": 51,
+        "clue": "Hair job",
+        "row": 11,
+        "col": 9,
+        "answer": "PERM"
+      },
+      {
+        "number": 52,
+        "clue": "Religious group",
+        "row": 11,
+        "col": 14,
+        "answer": "SECT"
+      },
+      {
+        "number": 54,
+        "clue": "\"A Shropshire ___\": Housman",
+        "row": 12,
+        "col": 3,
+        "answer": "LAD"
+      },
+      {
+        "number": 56,
+        "clue": "Hawthorn",
+        "row": 12,
+        "col": 8,
+        "answer": "MAY"
+      }
+    ]
+  }
+}

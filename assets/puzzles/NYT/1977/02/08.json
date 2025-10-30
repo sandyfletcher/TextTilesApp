@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1977-02-08",
+  "metadata": {
+    "date": "1977-02-08",
+    "title": "NY TIMES, TUE, FEB 08, 1977",
+    "author": "George Raventos",
+    "editor": "Will Weng",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["P", "H", "E", "W", null, "P", "S", "A", "L", "M", null, "D", "E", "L", "I"],
+    ["I", "O", "T", "A", null, "H", "E", "L", "I", "O", null, "E", "M", "I", "T"],
+    ["P", "T", "A", "R", "M", "I", "G", "A", "N", "S", null, "A", "B", "L", "E"],
+    ["S", "E", "S", null, "L", "A", "U", "D", null, "C", "E", "L", "L", "A", "R"],
+    [null, null, null, "A", "L", "L", "E", null, "T", "H", "R", "E", "E", null, null],
+    ["A", "P", "P", "L", "E", "S", null, "C", "H", "A", "I", "R", "M", "A", "N"],
+    ["B", "A", "H", "T", "S", null, "T", "R", "O", "T", "S", null, "A", "L", "E"],
+    ["A", "G", "A", "S", null, "M", "O", "I", "R", "E", null, "S", "T", "E", "S"],
+    ["S", "A", "N", null, "O", "A", "T", "E", "N", null, "S", "T", "I", "N", "T"],
+    ["E", "N", "T", "I", "T", "L", "E", "S", null, "S", "P", "A", "C", "E", "S"],
+    [null, null, "A", "N", "T", "E", "S", null, "R", "E", "A", "R", null, null, null],
+    ["P", "I", "S", "T", "O", "N", null, "D", "E", "E", "R", null, "L", "E", "S"],
+    ["L", "A", "M", "E", null, "K", "N", "I", "C", "K", "K", "N", "A", "C", "K"],
+    ["E", "M", "I", "R", null, "O", "R", "A", "T", "E", null, "E", "S", "T", "E"],
+    ["A", "B", "C", "S", null, "V", "A", "L", "O", "R", null, "D", "H", "O", "W"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hot-day exclamation",
+        "row": 0,
+        "col": 0,
+        "answer": "PHEW"
+      },
+      {
+        "number": 5,
+        "clue": "The 23d one is famous",
+        "row": 0,
+        "col": 5,
+        "answer": "PSALM"
+      },
+      {
+        "number": 10,
+        "clue": "Food store, for short",
+        "row": 0,
+        "col": 11,
+        "answer": "DELI"
+      },
+      {
+        "number": 14,
+        "clue": "Smallest bit",
+        "row": 1,
+        "col": 0,
+        "answer": "IOTA"
+      },
+      {
+        "number": 15,
+        "clue": "Sun: Prefix",
+        "row": 1,
+        "col": 5,
+        "answer": "HELIO"
+      },
+      {
+        "number": 16,
+        "clue": "Issue",
+        "row": 1,
+        "col": 11,
+        "answer": "EMIT"
+      },
+      {
+        "number": 17,
+        "clue": "Grouses",
+        "row": 2,
+        "col": 0,
+        "answer": "PTARMIGANS"
+      },
+      {
+        "number": 19,
+        "clue": "Capable",
+        "row": 2,
+        "col": 11,
+        "answer": "ABLE"
+      },
+      {
+        "number": 20,
+        "clue": "French possessive",
+        "row": 3,
+        "col": 0,
+        "answer": "SES"
+      },
+      {
+        "number": 21,
+        "clue": "Praise",
+        "row": 3,
+        "col": 4,
+        "answer": "LAUD"
+      },
+      {
+        "number": 22,
+        "clue": "Place for wine",
+        "row": 3,
+        "col": 9,
+        "answer": "CELLAR"
+      },
+      {
+        "number": 24,
+        "clue": "Genus of auks",
+        "row": 4,
+        "col": 3,
+        "answer": "ALLE"
+      },
+      {
+        "number": 25,
+        "clue": "Number",
+        "row": 4,
+        "col": 8,
+        "answer": "THREE"
+      },
+      {
+        "number": 26,
+        "clue": "Northern Spy et al.",
+        "row": 5,
+        "col": 0,
+        "answer": "APPLES"
+      },
+      {
+        "number": 29,
+        "clue": "One with a gavel",
+        "row": 5,
+        "col": 7,
+        "answer": "CHAIRMAN"
+      },
+      {
+        "number": 32,
+        "clue": "Thai money units",
+        "row": 6,
+        "col": 0,
+        "answer": "BAHTS"
+      },
+      {
+        "number": 33,
+        "clue": "Horse gaits",
+        "row": 6,
+        "col": 6,
+        "answer": "TROTS"
+      },
+      {
+        "number": 34,
+        "clue": "Beverage",
+        "row": 6,
+        "col": 12,
+        "answer": "ALE"
+      },
+      {
+        "number": 35,
+        "clue": "Moslem officials",
+        "row": 7,
+        "col": 0,
+        "answer": "AGAS"
+      },
+      {
+        "number": 36,
+        "clue": "Watered silk",
+        "row": 7,
+        "col": 5,
+        "answer": "MOIRE"
+      },
+      {
+        "number": 37,
+        "clue": "French holy women: Abbr.",
+        "row": 7,
+        "col": 11,
+        "answer": "STES"
+      },
+      {
+        "number": 38,
+        "clue": "___ Marino",
+        "row": 8,
+        "col": 0,
+        "answer": "SAN"
+      },
+      {
+        "number": 39,
+        "clue": "Made of a cereal",
+        "row": 8,
+        "col": 4,
+        "answer": "OATEN"
+      },
+      {
+        "number": 40,
+        "clue": "Be stingy with",
+        "row": 8,
+        "col": 10,
+        "answer": "STINT"
+      },
+      {
+        "number": 41,
+        "clue": "Gives the right to",
+        "row": 9,
+        "col": 0,
+        "answer": "ENTITLES"
+      },
+      {
+        "number": 43,
+        "clue": "Some are wide open",
+        "row": 9,
+        "col": 9,
+        "answer": "SPACES"
+      },
+      {
+        "number": 44,
+        "clue": "Poker payments",
+        "row": 10,
+        "col": 2,
+        "answer": "ANTES"
+      },
+      {
+        "number": 45,
+        "clue": "Back",
+        "row": 10,
+        "col": 8,
+        "answer": "REAR"
+      },
+      {
+        "number": 46,
+        "clue": "Engine part",
+        "row": 11,
+        "col": 0,
+        "answer": "PISTON"
+      },
+      {
+        "number": 48,
+        "clue": "Animal",
+        "row": 11,
+        "col": 7,
+        "answer": "DEER"
+      },
+      {
+        "number": 49,
+        "clue": "\"___ Girls\"",
+        "row": 11,
+        "col": 12,
+        "answer": "LES"
+      },
+      {
+        "number": 52,
+        "clue": "Metallic fabric",
+        "row": 12,
+        "col": 0,
+        "answer": "LAME"
+      },
+      {
+        "number": 53,
+        "clue": "Item for a whatnot",
+        "row": 12,
+        "col": 5,
+        "answer": "KNICKKNACK"
+      },
+      {
+        "number": 56,
+        "clue": "Moslem prince",
+        "row": 13,
+        "col": 0,
+        "answer": "EMIR"
+      },
+      {
+        "number": 57,
+        "clue": "Speechify",
+        "row": 13,
+        "col": 5,
+        "answer": "ORATE"
+      },
+      {
+        "number": 58,
+        "clue": "Italian family",
+        "row": 13,
+        "col": 11,
+        "answer": "ESTE"
+      },
+      {
+        "number": 59,
+        "clue": "Rudiments",
+        "row": 14,
+        "col": 0,
+        "answer": "ABCS"
+      },
+      {
+        "number": 60,
+        "clue": "Courage",
+        "row": 14,
+        "col": 5,
+        "answer": "VALOR"
+      },
+      {
+        "number": 61,
+        "clue": "Arabian coastal vessel",
+        "row": 14,
+        "col": 11,
+        "answer": "DHOW"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Card spots",
+        "row": 0,
+        "col": 0,
+        "answer": "PIPS"
+      },
+      {
+        "number": 2,
+        "clue": "Table d'___",
+        "row": 0,
+        "col": 1,
+        "answer": "HOTE"
+      },
+      {
+        "number": 3,
+        "clue": "Greek vowels",
+        "row": 0,
+        "col": 2,
+        "answer": "ETAS"
+      },
+      {
+        "number": 4,
+        "clue": "World or Boer",
+        "row": 0,
+        "col": 3,
+        "answer": "WAR"
+      },
+      {
+        "number": 5,
+        "clue": "Small containers",
+        "row": 0,
+        "col": 5,
+        "answer": "PHIALS"
+      },
+      {
+        "number": 6,
+        "clue": "Musical transition",
+        "row": 0,
+        "col": 6,
+        "answer": "SEGUE"
+      },
+      {
+        "number": 7,
+        "clue": "\"When I was ___\"",
+        "row": 0,
+        "col": 7,
+        "answer": "ALAD"
+      },
+      {
+        "number": 8,
+        "clue": "Chinese unicorn",
+        "row": 0,
+        "col": 8,
+        "answer": "LIN"
+      },
+      {
+        "number": 9,
+        "clue": "Having a musky odor",
+        "row": 0,
+        "col": 9,
+        "answer": "MOSCHATE"
+      },
+      {
+        "number": 10,
+        "clue": "One with a choice, in poker",
+        "row": 0,
+        "col": 11,
+        "answer": "DEALER"
+      },
+      {
+        "number": 11,
+        "clue": "Symbolic",
+        "row": 0,
+        "col": 12,
+        "answer": "EMBLEMATIC"
+      },
+      {
+        "number": 12,
+        "clue": "Miss Lee",
+        "row": 0,
+        "col": 13,
+        "answer": "LILA"
+      },
+      {
+        "number": 13,
+        "clue": "Brain passage",
+        "row": 0,
+        "col": 14,
+        "answer": "ITER"
+      },
+      {
+        "number": 18,
+        "clue": "French misses: Abbr.",
+        "row": 2,
+        "col": 4,
+        "answer": "MLLES"
+      },
+      {
+        "number": 23,
+        "clue": "Greek goddess",
+        "row": 3,
+        "col": 10,
+        "answer": "ERIS"
+      },
+      {
+        "number": 24,
+        "clue": "Heights: Abbr.",
+        "row": 4,
+        "col": 3,
+        "answer": "ALTS"
+      },
+      {
+        "number": 25,
+        "clue": "Rose's guardian",
+        "row": 4,
+        "col": 8,
+        "answer": "THORN"
+      },
+      {
+        "number": 26,
+        "clue": "Humble",
+        "row": 5,
+        "col": 0,
+        "answer": "ABASE"
+      },
+      {
+        "number": 27,
+        "clue": "Idolater",
+        "row": 5,
+        "col": 1,
+        "answer": "PAGAN"
+      },
+      {
+        "number": 28,
+        "clue": "Eerie",
+        "row": 5,
+        "col": 2,
+        "answer": "PHANTASMIC"
+      },
+      {
+        "number": 29,
+        "clue": "Yells",
+        "row": 5,
+        "col": 7,
+        "answer": "CRIES"
+      },
+      {
+        "number": 30,
+        "clue": "Coeur d'___",
+        "row": 5,
+        "col": 13,
+        "answer": "ALENE"
+      },
+      {
+        "number": 31,
+        "clue": "Aeries",
+        "row": 5,
+        "col": 14,
+        "answer": "NESTS"
+      },
+      {
+        "number": 33,
+        "clue": "Carries",
+        "row": 6,
+        "col": 6,
+        "answer": "TOTES"
+      },
+      {
+        "number": 36,
+        "clue": "Former Russian P.M.",
+        "row": 7,
+        "col": 5,
+        "answer": "MALENKOV"
+      },
+      {
+        "number": 37,
+        "clue": "Nova",
+        "row": 7,
+        "col": 11,
+        "answer": "STAR"
+      },
+      {
+        "number": 39,
+        "clue": "German king",
+        "row": 8,
+        "col": 4,
+        "answer": "OTTO"
+      },
+      {
+        "number": 40,
+        "clue": "___ plug",
+        "row": 8,
+        "col": 10,
+        "answer": "SPARK"
+      },
+      {
+        "number": 42,
+        "clue": "Buries",
+        "row": 9,
+        "col": 3,
+        "answer": "INTERS"
+      },
+      {
+        "number": 43,
+        "clue": "One on a quest",
+        "row": 9,
+        "col": 9,
+        "answer": "SEEKER"
+      },
+      {
+        "number": 45,
+        "clue": "Right-hand page",
+        "row": 10,
+        "col": 8,
+        "answer": "RECTO"
+      },
+      {
+        "number": 46,
+        "clue": "Appeal",
+        "row": 11,
+        "col": 0,
+        "answer": "PLEA"
+      },
+      {
+        "number": 47,
+        "clue": "Poetic foot",
+        "row": 11,
+        "col": 1,
+        "answer": "IAMB"
+      },
+      {
+        "number": 48,
+        "clue": "Use the phone",
+        "row": 11,
+        "col": 7,
+        "answer": "DIAL"
+      },
+      {
+        "number": 49,
+        "clue": "Eye protector",
+        "row": 11,
+        "col": 12,
+        "answer": "LASH"
+      },
+      {
+        "number": 50,
+        "clue": "Outer: Prefix",
+        "row": 11,
+        "col": 13,
+        "answer": "ECTO"
+      },
+      {
+        "number": 51,
+        "clue": "Swerve",
+        "row": 11,
+        "col": 14,
+        "answer": "SKEW"
+      },
+      {
+        "number": 54,
+        "clue": "Depression initials",
+        "row": 12,
+        "col": 6,
+        "answer": "NRA"
+      },
+      {
+        "number": 55,
+        "clue": "Man's nickname",
+        "row": 12,
+        "col": 11,
+        "answer": "NED"
+      }
+    ]
+  }
+}

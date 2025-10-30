@@ -1,0 +1,997 @@
+{
+  "id": "nyt-1977-10-16",
+  "metadata": {
+    "date": "1977-10-16",
+    "title": "POSSESSIVE PERSONALITIES",
+    "author": "Louis Baron",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 21,
+    "rows": 21
+  },
+  "grid": [
+    ["G", "O", "B", "S", null, "I", "A", "T", "R", "O", null, "S", "E", "C", null, null, "S", "W", "A", "T", null],
+    ["A", "B", "E", "T", null, "B", "R", "I", "E", "F", null, "U", "R", "U", null, "S", "T", "O", "L", "I", "D"],
+    ["H", "A", "R", "R", "Y", "S", "R", "E", "A", "S", "O", "N", "E", "R", null, "T", "R", "O", "I", "K", "A"],
+    ["E", "N", "G", "I", "N", "E", "E", "R", null, "M", "E", "R", "V", "S", "G", "R", "I", "F", "F", "I", "N"],
+    [null, null, null, "D", "E", "N", "T", null, "P", "A", "S", "O", null, null, "R", "A", "V", "E", null, null, null],
+    ["D", "A", "M", "E", "S", null, null, "D", "E", "L", "E", "O", "N", null, "I", "T", "E", "R", "A", "T", "E"],
+    ["A", "M", "I", "N", null, "E", "T", "H", "E", "L", "S", "M", "E", "R", "M", "A", "N", null, "V", "A", "S"],
+    ["T", "A", "K", "T", null, "P", "O", "O", "L", null, null, null, "G", "O", "E", "L", null, "C", "A", "S", "T"],
+    ["E", "T", "E", null, "N", "O", "E", "L", "S", "C", "O", "W", "A", "R", "D", null, "H", "A", "S", "T", "E"],
+    ["D", "I", "S", "P", "E", "N", "S", "E", null, "A", "M", "I", "T", "Y", null, "S", "E", "R", "G", "E", "S"],
+    [null, null, "H", "A", "R", "Y", null, null, "S", "N", "A", "R", "E", null, null, "T", "W", "O", "A", null, null],
+    ["S", "H", "A", "L", "O", "M", null, "S", "T", "A", "R", "E", null, "P", "U", "R", "E", "B", "R", "E", "D"],
+    ["E", "A", "M", "E", "S", null, "P", "A", "U", "L", "S", "D", "R", "A", "P", "E", "R", null, "D", "N", "A"],
+    ["I", "S", "M", "S", null, "H", "E", "L", "P", null, null, null, "O", "L", "G", "A", null, "G", "N", "A", "W"],
+    ["S", "T", "E", null, "C", "A", "P", "T", "A", "I", "N", "S", "C", "O", "O", "K", null, "R", "E", "T", "E"],
+    ["M", "O", "R", "D", "A", "N", "T", null, "S", "N", "A", "C", "K", "S", null, null, "T", "O", "R", "E", "S"],
+    [null, null, null, "O", "G", "G", "I", null, null, "A", "B", "O", "Y", null, "G", "R", "O", "W", null, null, null],
+    ["E", "D", "D", "I", "E", "S", "C", "A", "N", "T", "O", "R", null, "S", "E", "A", "P", "L", "A", "N", "E"],
+    ["C", "U", "A", "N", "D", "O", null, "N", "O", "R", "B", "E", "R", "T", "S", "W", "I", "E", "N", "E", "R"],
+    ["O", "R", "I", "G", "I", "N", null, "O", "V", "A", null, "R", "O", "U", "T", "E", null, "R", "O", "S", "S"],
+    [null, "A", "S", "S", "N", null, null, "N", "A", "P", null, "S", "O", "B", "E", "R", null, "S", "A", "T", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Large amount",
+        "row": 0,
+        "col": 0,
+        "answer": "GOBS"
+      },
+      {
+        "number": 5,
+        "clue": "Physician: Comb. form",
+        "row": 0,
+        "col": 5,
+        "answer": "IATRO"
+      },
+      {
+        "number": 10,
+        "clue": "Wine word",
+        "row": 0,
+        "col": 11,
+        "answer": "SEC"
+      },
+      {
+        "number": 13,
+        "clue": "Ruthian clout",
+        "row": 0,
+        "col": 16,
+        "answer": "SWAT"
+      },
+      {
+        "number": 17,
+        "clue": "Further",
+        "row": 1,
+        "col": 0,
+        "answer": "ABET"
+      },
+      {
+        "number": 18,
+        "clue": "Synopsis",
+        "row": 1,
+        "col": 5,
+        "answer": "BRIEF"
+      },
+      {
+        "number": 19,
+        "clue": "S.A. land",
+        "row": 1,
+        "col": 11,
+        "answer": "URU"
+      },
+      {
+        "number": 20,
+        "clue": "Impassive",
+        "row": 1,
+        "col": 15,
+        "answer": "STOLID"
+      },
+      {
+        "number": 22,
+        "clue": "Newsman's brain",
+        "row": 2,
+        "col": 0,
+        "answer": "HARRYSREASONER"
+      },
+      {
+        "number": 25,
+        "clue": "Three-horse shay",
+        "row": 2,
+        "col": 15,
+        "answer": "TROIKA"
+      },
+      {
+        "number": 26,
+        "clue": "Casey Jones",
+        "row": 3,
+        "col": 0,
+        "answer": "ENGINEER"
+      },
+      {
+        "number": 27,
+        "clue": "Talk-show mascot",
+        "row": 3,
+        "col": 9,
+        "answer": "MERVSGRIFFIN"
+      },
+      {
+        "number": 29,
+        "clue": "Fender bender",
+        "row": 4,
+        "col": 3,
+        "answer": "DENT"
+      },
+      {
+        "number": 30,
+        "clue": "Gait, in Grenada",
+        "row": 4,
+        "col": 8,
+        "answer": "PASO"
+      },
+      {
+        "number": 31,
+        "clue": "Talk gibberish",
+        "row": 4,
+        "col": 14,
+        "answer": "RAVE"
+      },
+      {
+        "number": 32,
+        "clue": "Beknighted women",
+        "row": 5,
+        "col": 0,
+        "answer": "DAMES"
+      },
+      {
+        "number": 35,
+        "clue": "Florida's discoverer",
+        "row": 5,
+        "col": 7,
+        "answer": "DELEON"
+      },
+      {
+        "number": 37,
+        "clue": "Battologize",
+        "row": 5,
+        "col": 14,
+        "answer": "ITERATE"
+      },
+      {
+        "number": 41,
+        "clue": "V.I.P. at Entebbe",
+        "row": 6,
+        "col": 0,
+        "answer": "AMIN"
+      },
+      {
+        "number": 42,
+        "clue": "Singer's sea mate",
+        "row": 6,
+        "col": 5,
+        "answer": "ETHELSMERMAN"
+      },
+      {
+        "number": 45,
+        "clue": "Anatomical duct",
+        "row": 6,
+        "col": 18,
+        "answer": "VAS"
+      },
+      {
+        "number": 46,
+        "clue": "Pulse, in music",
+        "row": 7,
+        "col": 0,
+        "answer": "TAKT"
+      },
+      {
+        "number": 47,
+        "clue": "Snooker, e.g.",
+        "row": 7,
+        "col": 5,
+        "answer": "POOL"
+      },
+      {
+        "number": 48,
+        "clue": "Old Hebrew avenger",
+        "row": 7,
+        "col": 12,
+        "answer": "GOEL"
+      },
+      {
+        "number": 49,
+        "clue": "Dramatis personae",
+        "row": 7,
+        "col": 17,
+        "answer": "CAST"
+      },
+      {
+        "number": 50,
+        "clue": "After printemps",
+        "row": 8,
+        "col": 0,
+        "answer": "ETE"
+      },
+      {
+        "number": 51,
+        "clue": "Playwright's chicken",
+        "row": 8,
+        "col": 4,
+        "answer": "NOELSCOWARD"
+      },
+      {
+        "number": 55,
+        "clue": "Waste maker",
+        "row": 8,
+        "col": 16,
+        "answer": "HASTE"
+      },
+      {
+        "number": 56,
+        "clue": "Hand out",
+        "row": 9,
+        "col": 0,
+        "answer": "DISPENSE"
+      },
+      {
+        "number": 58,
+        "clue": "Accord",
+        "row": 9,
+        "col": 9,
+        "answer": "AMITY"
+      },
+      {
+        "number": 59,
+        "clue": "Worsteds",
+        "row": 9,
+        "col": 15,
+        "answer": "SERGES"
+      },
+      {
+        "number": 60,
+        "clue": "Kod\u00e1ly's \"___ J\u00e1nos\"",
+        "row": 10,
+        "col": 2,
+        "answer": "HARY"
+      },
+      {
+        "number": 61,
+        "clue": "Pitfall",
+        "row": 10,
+        "col": 8,
+        "answer": "SNARE"
+      },
+      {
+        "number": 62,
+        "clue": "___-day",
+        "row": 10,
+        "col": 15,
+        "answer": "TWOA"
+      },
+      {
+        "number": 63,
+        "clue": "Aloha, in Israel",
+        "row": 11,
+        "col": 0,
+        "answer": "SHALOM"
+      },
+      {
+        "number": 65,
+        "clue": "Gawk",
+        "row": 11,
+        "col": 7,
+        "answer": "STARE"
+      },
+      {
+        "number": 66,
+        "clue": "Pedigreed animal",
+        "row": 11,
+        "col": 13,
+        "answer": "PUREBRED"
+      },
+      {
+        "number": 70,
+        "clue": "Chair name",
+        "row": 12,
+        "col": 0,
+        "answer": "EAMES"
+      },
+      {
+        "number": 71,
+        "clue": "Dancer's costumer",
+        "row": 12,
+        "col": 6,
+        "answer": "PAULSDRAPER"
+      },
+      {
+        "number": 73,
+        "clue": "Key to heredity",
+        "row": 12,
+        "col": 18,
+        "answer": "DNA"
+      },
+      {
+        "number": 74,
+        "clue": "Ideologies",
+        "row": 13,
+        "col": 0,
+        "answer": "ISMS"
+      },
+      {
+        "number": 75,
+        "clue": "Beatles' movie",
+        "row": 13,
+        "col": 5,
+        "answer": "HELP"
+      },
+      {
+        "number": 76,
+        "clue": "Nadia's rival",
+        "row": 13,
+        "col": 12,
+        "answer": "OLGA"
+      },
+      {
+        "number": 77,
+        "clue": "Chew at",
+        "row": 13,
+        "col": 17,
+        "answer": "GNAW"
+      },
+      {
+        "number": 78,
+        "clue": "Sault ___ Marie",
+        "row": 14,
+        "col": 0,
+        "answer": "STE"
+      },
+      {
+        "number": 79,
+        "clue": "Explorer's chef",
+        "row": 14,
+        "col": 4,
+        "answer": "CAPTAINSCOOK"
+      },
+      {
+        "number": 83,
+        "clue": "Plexus",
+        "row": 14,
+        "col": 17,
+        "answer": "RETE"
+      },
+      {
+        "number": 84,
+        "clue": "Biting",
+        "row": 15,
+        "col": 0,
+        "answer": "MORDANT"
+      },
+      {
+        "number": 86,
+        "clue": "Nosher's desire",
+        "row": 15,
+        "col": 8,
+        "answer": "SNACKS"
+      },
+      {
+        "number": 87,
+        "clue": "Column moldings",
+        "row": 15,
+        "col": 16,
+        "answer": "TORES"
+      },
+      {
+        "number": 88,
+        "clue": "Today, in Rome",
+        "row": 16,
+        "col": 3,
+        "answer": "OGGI"
+      },
+      {
+        "number": 89,
+        "clue": "\"___ Named Sue\"",
+        "row": 16,
+        "col": 9,
+        "answer": "ABOY"
+      },
+      {
+        "number": 90,
+        "clue": "Flourish",
+        "row": 16,
+        "col": 14,
+        "answer": "GROW"
+      },
+      {
+        "number": 92,
+        "clue": "Comic's choirmaster",
+        "row": 17,
+        "col": 0,
+        "answer": "EDDIESCANTOR"
+      },
+      {
+        "number": 97,
+        "clue": "Flying boat",
+        "row": 17,
+        "col": 13,
+        "answer": "SEAPLANE"
+      },
+      {
+        "number": 101,
+        "clue": "When, in Spain",
+        "row": 18,
+        "col": 0,
+        "answer": "CUANDO"
+      },
+      {
+        "number": 102,
+        "clue": "Cyberneticist's hot dog",
+        "row": 18,
+        "col": 7,
+        "answer": "NORBERTSWIENER"
+      },
+      {
+        "number": 104,
+        "clue": "Source",
+        "row": 19,
+        "col": 0,
+        "answer": "ORIGIN"
+      },
+      {
+        "number": 105,
+        "clue": "Items ab gallinis",
+        "row": 19,
+        "col": 7,
+        "answer": "OVA"
+      },
+      {
+        "number": 106,
+        "clue": "Channel",
+        "row": 19,
+        "col": 11,
+        "answer": "ROUTE"
+      },
+      {
+        "number": 107,
+        "clue": "Soprano Elinor",
+        "row": 19,
+        "col": 17,
+        "answer": "ROSS"
+      },
+      {
+        "number": 108,
+        "clue": "Soc. or org.",
+        "row": 20,
+        "col": 1,
+        "answer": "ASSN"
+      },
+      {
+        "number": 109,
+        "clue": "Snooze",
+        "row": 20,
+        "col": 7,
+        "answer": "NAP"
+      },
+      {
+        "number": 110,
+        "clue": "Judgelike",
+        "row": 20,
+        "col": 11,
+        "answer": "SOBER"
+      },
+      {
+        "number": 111,
+        "clue": "Surfeit",
+        "row": 20,
+        "col": 17,
+        "answer": "SATE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Apache masked dancers",
+        "row": 0,
+        "col": 0,
+        "answer": "GAHE"
+      },
+      {
+        "number": 2,
+        "clue": "Role in \"The Iceman Cometh\"",
+        "row": 0,
+        "col": 1,
+        "answer": "OBAN"
+      },
+      {
+        "number": 3,
+        "clue": "Floe",
+        "row": 0,
+        "col": 2,
+        "answer": "BERG"
+      },
+      {
+        "number": 4,
+        "clue": "Grating",
+        "row": 0,
+        "col": 3,
+        "answer": "STRIDENT"
+      },
+      {
+        "number": 5,
+        "clue": "\"The Wild Duck\" playwright",
+        "row": 0,
+        "col": 5,
+        "answer": "IBSEN"
+      },
+      {
+        "number": 6,
+        "clue": "Canadian court decree",
+        "row": 0,
+        "col": 6,
+        "answer": "ARRET"
+      },
+      {
+        "number": 7,
+        "clue": "Row",
+        "row": 0,
+        "col": 7,
+        "answer": "TIER"
+      },
+      {
+        "number": 8,
+        "clue": "Electrifying agcy.",
+        "row": 0,
+        "col": 8,
+        "answer": "REA"
+      },
+      {
+        "number": 9,
+        "clue": "\"Optimism is the content ___ men in high places\": Fitzgerald",
+        "row": 0,
+        "col": 9,
+        "answer": "OFSMALL"
+      },
+      {
+        "number": 10,
+        "clue": "Solarium",
+        "row": 0,
+        "col": 11,
+        "answer": "SUNROOM"
+      },
+      {
+        "number": 11,
+        "clue": "Jewish holiday eve",
+        "row": 0,
+        "col": 12,
+        "answer": "EREV"
+      },
+      {
+        "number": 12,
+        "clue": "Surly, churly men",
+        "row": 0,
+        "col": 13,
+        "answer": "CURS"
+      },
+      {
+        "number": 13,
+        "clue": "Struggled",
+        "row": 0,
+        "col": 16,
+        "answer": "STRIVEN"
+      },
+      {
+        "number": 14,
+        "clue": "Stereo speaker",
+        "row": 0,
+        "col": 17,
+        "answer": "WOOFER"
+      },
+      {
+        "number": 15,
+        "clue": "Arabic A",
+        "row": 0,
+        "col": 18,
+        "answer": "ALIF"
+      },
+      {
+        "number": 16,
+        "clue": "Heyerdahl's \"Kon-___\"",
+        "row": 0,
+        "col": 19,
+        "answer": "TIKI"
+      },
+      {
+        "number": 20,
+        "clue": "Laminar",
+        "row": 1,
+        "col": 15,
+        "answer": "STRATAL"
+      },
+      {
+        "number": 21,
+        "clue": "Fancy one",
+        "row": 1,
+        "col": 20,
+        "answer": "DAN"
+      },
+      {
+        "number": 23,
+        "clue": "Chemical suffixes",
+        "row": 2,
+        "col": 4,
+        "answer": "YNES"
+      },
+      {
+        "number": 24,
+        "clue": "Lab wire loops",
+        "row": 2,
+        "col": 10,
+        "answer": "OESES"
+      },
+      {
+        "number": 28,
+        "clue": "Besmeared",
+        "row": 3,
+        "col": 14,
+        "answer": "GRIMED"
+      },
+      {
+        "number": 30,
+        "clue": "Decorticates",
+        "row": 4,
+        "col": 8,
+        "answer": "PEELS"
+      },
+      {
+        "number": 32,
+        "clue": "\"Old hat\"",
+        "row": 5,
+        "col": 0,
+        "answer": "DATED"
+      },
+      {
+        "number": 33,
+        "clue": "Super fiddle",
+        "row": 5,
+        "col": 1,
+        "answer": "AMATI"
+      },
+      {
+        "number": 34,
+        "clue": "Sleuth's weapon",
+        "row": 5,
+        "col": 2,
+        "answer": "MIKESHAMMER"
+      },
+      {
+        "number": 35,
+        "clue": "Indian wild dog",
+        "row": 5,
+        "col": 7,
+        "answer": "DHOLE"
+      },
+      {
+        "number": 36,
+        "clue": "Deny",
+        "row": 5,
+        "col": 12,
+        "answer": "NEGATE"
+      },
+      {
+        "number": 38,
+        "clue": "Actress's mystery man",
+        "row": 5,
+        "col": 18,
+        "answer": "AVASGARDNER"
+      },
+      {
+        "number": 39,
+        "clue": "Discernment",
+        "row": 5,
+        "col": 19,
+        "answer": "TASTE"
+      },
+      {
+        "number": 40,
+        "clue": "Park in Colorado",
+        "row": 5,
+        "col": 20,
+        "answer": "ESTES"
+      },
+      {
+        "number": 42,
+        "clue": "Name giver",
+        "row": 6,
+        "col": 5,
+        "answer": "EPONYM"
+      },
+      {
+        "number": 43,
+        "clue": "Halluces",
+        "row": 6,
+        "col": 6,
+        "answer": "TOES"
+      },
+      {
+        "number": 44,
+        "clue": "Calhoun",
+        "row": 6,
+        "col": 13,
+        "answer": "RORY"
+      },
+      {
+        "number": 49,
+        "clue": "St.-John's-bread",
+        "row": 7,
+        "col": 17,
+        "answer": "CAROB"
+      },
+      {
+        "number": 51,
+        "clue": "Emperor and Wolfe",
+        "row": 8,
+        "col": 4,
+        "answer": "NEROS"
+      },
+      {
+        "number": 52,
+        "clue": "Kiel or Suez",
+        "row": 8,
+        "col": 9,
+        "answer": "CANAL"
+      },
+      {
+        "number": 53,
+        "clue": "Khayy\u00e1m et al.",
+        "row": 8,
+        "col": 10,
+        "answer": "OMARS"
+      },
+      {
+        "number": 54,
+        "clue": "Like a bionic man",
+        "row": 8,
+        "col": 11,
+        "answer": "WIRED"
+      },
+      {
+        "number": 55,
+        "clue": "Lumberman",
+        "row": 8,
+        "col": 16,
+        "answer": "HEWER"
+      },
+      {
+        "number": 57,
+        "clue": "Dims",
+        "row": 9,
+        "col": 3,
+        "answer": "PALES"
+      },
+      {
+        "number": 59,
+        "clue": "Run of luck",
+        "row": 9,
+        "col": 15,
+        "answer": "STREAK"
+      },
+      {
+        "number": 61,
+        "clue": "Buddhists",
+        "row": 10,
+        "col": 8,
+        "answer": "STUPAS"
+      },
+      {
+        "number": 63,
+        "clue": "Earthquake",
+        "row": 11,
+        "col": 0,
+        "answer": "SEISM"
+      },
+      {
+        "number": 64,
+        "clue": "Must",
+        "row": 11,
+        "col": 1,
+        "answer": "HASTO"
+      },
+      {
+        "number": 65,
+        "clue": "Seagoer",
+        "row": 11,
+        "col": 7,
+        "answer": "SALT"
+      },
+      {
+        "number": 66,
+        "clue": "Port of Aug. 3, 1492",
+        "row": 11,
+        "col": 13,
+        "answer": "PALOS"
+      },
+      {
+        "number": 67,
+        "clue": "Ascent",
+        "row": 11,
+        "col": 14,
+        "answer": "UPGO"
+      },
+      {
+        "number": 68,
+        "clue": "Mother's relative",
+        "row": 11,
+        "col": 19,
+        "answer": "ENATE"
+      },
+      {
+        "number": 69,
+        "clue": "Coolidge's V.P.",
+        "row": 11,
+        "col": 20,
+        "answer": "DAWES"
+      },
+      {
+        "number": 71,
+        "clue": "Aiding digestion",
+        "row": 12,
+        "col": 6,
+        "answer": "PEPTIC"
+      },
+      {
+        "number": 72,
+        "clue": "The Italian Stallion",
+        "row": 12,
+        "col": 12,
+        "answer": "ROCKY"
+      },
+      {
+        "number": 75,
+        "clue": "Refuses to quit",
+        "row": 13,
+        "col": 5,
+        "answer": "HANGSON"
+      },
+      {
+        "number": 77,
+        "clue": "Angry dogs",
+        "row": 13,
+        "col": 17,
+        "answer": "GROWLERS"
+      },
+      {
+        "number": 79,
+        "clue": "Confined, redundantly speaking",
+        "row": 14,
+        "col": 4,
+        "answer": "CAGEDIN"
+      },
+      {
+        "number": 80,
+        "clue": "\"Caught like a rat ___\"",
+        "row": 14,
+        "col": 9,
+        "answer": "INATRAP"
+      },
+      {
+        "number": 81,
+        "clue": "Mogul",
+        "row": 14,
+        "col": 10,
+        "answer": "NABOB"
+      },
+      {
+        "number": 82,
+        "clue": "They cross the plate",
+        "row": 14,
+        "col": 11,
+        "answer": "SCORERS"
+      },
+      {
+        "number": 85,
+        "clue": "Activities",
+        "row": 15,
+        "col": 3,
+        "answer": "DOINGS"
+      },
+      {
+        "number": 87,
+        "clue": "African antelope",
+        "row": 15,
+        "col": 16,
+        "answer": "TOPI"
+      },
+      {
+        "number": 90,
+        "clue": "Part of a P.C. Wren title",
+        "row": 16,
+        "col": 14,
+        "answer": "GESTE"
+      },
+      {
+        "number": 91,
+        "clue": "Less trained",
+        "row": 16,
+        "col": 15,
+        "answer": "RAWER"
+      },
+      {
+        "number": 92,
+        "clue": "Habitat: Prefix",
+        "row": 17,
+        "col": 0,
+        "answer": "ECO"
+      },
+      {
+        "number": 93,
+        "clue": "Brain covering",
+        "row": 17,
+        "col": 1,
+        "answer": "DURA"
+      },
+      {
+        "number": 94,
+        "clue": "Podium",
+        "row": 17,
+        "col": 2,
+        "answer": "DAIS"
+      },
+      {
+        "number": 95,
+        "clue": "Shortly",
+        "row": 17,
+        "col": 7,
+        "answer": "ANON"
+      },
+      {
+        "number": 96,
+        "clue": "Milky Way sphere",
+        "row": 17,
+        "col": 8,
+        "answer": "NOVA"
+      },
+      {
+        "number": 97,
+        "clue": "Half a ticket",
+        "row": 17,
+        "col": 13,
+        "answer": "STUB"
+      },
+      {
+        "number": 98,
+        "clue": "Wild ox",
+        "row": 17,
+        "col": 18,
+        "answer": "ANOA"
+      },
+      {
+        "number": 99,
+        "clue": "Nutcracker's suite",
+        "row": 17,
+        "col": 19,
+        "answer": "NEST"
+      },
+      {
+        "number": 100,
+        "clue": "Irish Gaelic",
+        "row": 17,
+        "col": 20,
+        "answer": "ERSE"
+      },
+      {
+        "number": 103,
+        "clue": "Aussie animal",
+        "row": 18,
+        "col": 12,
+        "answer": "ROO"
+      }
+    ]
+  }
+}

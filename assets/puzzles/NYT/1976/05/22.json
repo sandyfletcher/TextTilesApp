@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-05-22",
+  "metadata": {
+    "date": "1976-05-22",
+    "title": "NY TIMES, SAT, MAY 22, 1976",
+    "author": "Pedersen",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["M", "U", "S", "H", null, "S", "M", "O", "O", "T", null, "S", "T", "U", "N"],
+    ["I", "N", "T", "O", null, "L", "A", "C", "T", "O", null, "H", "I", "R", "E"],
+    ["S", "T", "E", "T", null, "A", "S", "H", "O", "W", null, "E", "D", "G", "E"],
+    ["C", "O", "W", "F", "I", "S", "H", "E", "S", null, "G", "R", "E", "E", "D"],
+    [null, null, null, "U", "S", "H", "E", "R", null, "O", "R", "R", null, null, null],
+    ["F", "O", "N", "D", "L", "E", "D", null, "C", "L", "A", "Y", "I", "S", "H"],
+    ["A", "L", "O", "G", null, "S", "Y", "N", "O", "D", "S", null, "M", "O", "O"],
+    ["R", "I", "S", "E", "S", null, "A", "R", "R", null, "S", "P", "A", "R", "S"],
+    ["E", "V", "E", null, "A", "L", "M", "A", "N", "S", null, "O", "G", "E", "E"],
+    ["S", "E", "S", "A", "M", "E", "S", null, "M", "U", "S", "S", "E", "L", "S"],
+    [null, null, null, "R", "M", "S", null, "C", "U", "B", "E", "S", null, null, null],
+    ["C", "A", "N", "D", "Y", null, "L", "E", "F", "T", "R", "I", "G", "H", "T"],
+    ["A", "L", "E", "E", null, "D", "E", "I", "F", "Y", null, "B", "O", "O", "R"],
+    ["F", "L", "A", "N", null, "I", "S", "L", "I", "P", null, "L", "A", "M", "E"],
+    ["E", "A", "R", "S", null, "M", "E", "S", "N", "E", null, "E", "T", "E", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Dog-team order",
+        "row": 0,
+        "col": 0,
+        "answer": "MUSH"
+      },
+      {
+        "number": 5,
+        "clue": "___-Hawley Act of 1930",
+        "row": 0,
+        "col": 5,
+        "answer": "SMOOT"
+      },
+      {
+        "number": 10,
+        "clue": "Daze",
+        "row": 0,
+        "col": 11,
+        "answer": "STUN"
+      },
+      {
+        "number": 14,
+        "clue": "Preposition",
+        "row": 1,
+        "col": 0,
+        "answer": "INTO"
+      },
+      {
+        "number": 15,
+        "clue": "Milk: Prefix",
+        "row": 1,
+        "col": 5,
+        "answer": "LACTO"
+      },
+      {
+        "number": 16,
+        "clue": "Rent",
+        "row": 1,
+        "col": 11,
+        "answer": "HIRE"
+      },
+      {
+        "number": 17,
+        "clue": "Proofreader's mark",
+        "row": 2,
+        "col": 0,
+        "answer": "STET"
+      },
+      {
+        "number": 18,
+        "clue": "Decide on ___ of hands",
+        "row": 2,
+        "col": 5,
+        "answer": "ASHOW"
+      },
+      {
+        "number": 19,
+        "clue": "\"___ of Night\"",
+        "row": 2,
+        "col": 11,
+        "answer": "EDGE"
+      },
+      {
+        "number": 20,
+        "clue": "Small dolphins",
+        "row": 3,
+        "col": 0,
+        "answer": "COWFISHES"
+      },
+      {
+        "number": 22,
+        "clue": "Cupidity",
+        "row": 3,
+        "col": 10,
+        "answer": "GREED"
+      },
+      {
+        "number": 23,
+        "clue": "Poe's fallen house",
+        "row": 4,
+        "col": 3,
+        "answer": "USHER"
+      },
+      {
+        "number": 24,
+        "clue": "Hockey star",
+        "row": 4,
+        "col": 9,
+        "answer": "ORR"
+      },
+      {
+        "number": 25,
+        "clue": "Caressed",
+        "row": 5,
+        "col": 0,
+        "answer": "FONDLED"
+      },
+      {
+        "number": 28,
+        "clue": "Like some soil",
+        "row": 5,
+        "col": 8,
+        "answer": "CLAYISH"
+      },
+      {
+        "number": 32,
+        "clue": "Sleep like ___",
+        "row": 6,
+        "col": 0,
+        "answer": "ALOG"
+      },
+      {
+        "number": 33,
+        "clue": "Church councils",
+        "row": 6,
+        "col": 5,
+        "answer": "SYNODS"
+      },
+      {
+        "number": 35,
+        "clue": "Pasture sound",
+        "row": 6,
+        "col": 12,
+        "answer": "MOO"
+      },
+      {
+        "number": 36,
+        "clue": "Sun events",
+        "row": 7,
+        "col": 0,
+        "answer": "RISES"
+      },
+      {
+        "number": 38,
+        "clue": "Itinerary abbr.",
+        "row": 7,
+        "col": 6,
+        "answer": "ARR"
+      },
+      {
+        "number": 39,
+        "clue": "Coast Guard women",
+        "row": 7,
+        "col": 10,
+        "answer": "SPARS"
+      },
+      {
+        "number": 41,
+        "clue": "Stag's time",
+        "row": 8,
+        "col": 0,
+        "answer": "EVE"
+      },
+      {
+        "number": 42,
+        "clue": "Old word for Germans",
+        "row": 8,
+        "col": 4,
+        "answer": "ALMANS"
+      },
+      {
+        "number": 45,
+        "clue": "Molding",
+        "row": 8,
+        "col": 11,
+        "answer": "OGEE"
+      },
+      {
+        "number": 46,
+        "clue": "Seeds for rolls",
+        "row": 9,
+        "col": 0,
+        "answer": "SESAMES"
+      },
+      {
+        "number": 48,
+        "clue": "Oysters' relatives",
+        "row": 9,
+        "col": 8,
+        "answer": "MUSSELS"
+      },
+      {
+        "number": 50,
+        "clue": "Paper quantities: Abbr.",
+        "row": 10,
+        "col": 3,
+        "answer": "RMS"
+      },
+      {
+        "number": 51,
+        "clue": "Sugar lumps",
+        "row": 10,
+        "col": 7,
+        "answer": "CUBES"
+      },
+      {
+        "number": 52,
+        "clue": "Caramels, etc.",
+        "row": 11,
+        "col": 0,
+        "answer": "CANDY"
+      },
+      {
+        "number": 55,
+        "clue": "Drill-sergeant's words",
+        "row": 11,
+        "col": 6,
+        "answer": "LEFTRIGHT"
+      },
+      {
+        "number": 59,
+        "clue": "On the sheltered side",
+        "row": 12,
+        "col": 0,
+        "answer": "ALEE"
+      },
+      {
+        "number": 60,
+        "clue": "Exalt",
+        "row": 12,
+        "col": 5,
+        "answer": "DEIFY"
+      },
+      {
+        "number": 61,
+        "clue": "Churl",
+        "row": 12,
+        "col": 11,
+        "answer": "BOOR"
+      },
+      {
+        "number": 62,
+        "clue": "Large pie",
+        "row": 13,
+        "col": 0,
+        "answer": "FLAN"
+      },
+      {
+        "number": 63,
+        "clue": "Suffolk County town",
+        "row": 13,
+        "col": 5,
+        "answer": "ISLIP"
+      },
+      {
+        "number": 64,
+        "clue": "Brain or duck",
+        "row": 13,
+        "col": 11,
+        "answer": "LAME"
+      },
+      {
+        "number": 65,
+        "clue": "Corn servings",
+        "row": 14,
+        "col": 0,
+        "answer": "EARS"
+      },
+      {
+        "number": 66,
+        "clue": "Middle, in law",
+        "row": 14,
+        "col": 5,
+        "answer": "MESNE"
+      },
+      {
+        "number": 67,
+        "clue": "French seasons",
+        "row": 14,
+        "col": 11,
+        "answer": "ETES"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Assorted: Abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "MISC"
+      },
+      {
+        "number": 2,
+        "clue": "\"Do ___ others . . . \"",
+        "row": 0,
+        "col": 1,
+        "answer": "UNTO"
+      },
+      {
+        "number": 3,
+        "clue": "Cook prunes",
+        "row": 0,
+        "col": 2,
+        "answer": "STEW"
+      },
+      {
+        "number": 4,
+        "clue": "Kind of sundae",
+        "row": 0,
+        "col": 3,
+        "answer": "HOTFUDGE"
+      },
+      {
+        "number": 5,
+        "clue": "Cuts",
+        "row": 0,
+        "col": 5,
+        "answer": "SLASHES"
+      },
+      {
+        "number": 6,
+        "clue": "Southern side dish",
+        "row": 0,
+        "col": 6,
+        "answer": "MASHEDYAMS"
+      },
+      {
+        "number": 7,
+        "clue": "Natural earth",
+        "row": 0,
+        "col": 7,
+        "answer": "OCHER"
+      },
+      {
+        "number": 8,
+        "clue": "Western Indians",
+        "row": 0,
+        "col": 8,
+        "answer": "OTOS"
+      },
+      {
+        "number": 9,
+        "clue": "Kind of head",
+        "row": 0,
+        "col": 9,
+        "answer": "TOW"
+      },
+      {
+        "number": 10,
+        "clue": "Wine",
+        "row": 0,
+        "col": 11,
+        "answer": "SHERRY"
+      },
+      {
+        "number": 11,
+        "clue": "Critical period",
+        "row": 0,
+        "col": 12,
+        "answer": "TIDE"
+      },
+      {
+        "number": 12,
+        "clue": "Press",
+        "row": 0,
+        "col": 13,
+        "answer": "URGE"
+      },
+      {
+        "number": 13,
+        "clue": "Require",
+        "row": 0,
+        "col": 14,
+        "answer": "NEED"
+      },
+      {
+        "number": 21,
+        "clue": "Crete or Cuba: Abbr.",
+        "row": 3,
+        "col": 4,
+        "answer": "ISL"
+      },
+      {
+        "number": 22,
+        "clue": "Hula-skirt base",
+        "row": 3,
+        "col": 10,
+        "answer": "GRASS"
+      },
+      {
+        "number": 24,
+        "clue": "___ Faithful",
+        "row": 4,
+        "col": 9,
+        "answer": "OLD"
+      },
+      {
+        "number": 25,
+        "clue": "Gets along",
+        "row": 5,
+        "col": 0,
+        "answer": "FARES"
+      },
+      {
+        "number": 26,
+        "clue": "Popeye's girl",
+        "row": 5,
+        "col": 1,
+        "answer": "OLIVE"
+      },
+      {
+        "number": 27,
+        "clue": "Count ___",
+        "row": 5,
+        "col": 2,
+        "answer": "NOSES"
+      },
+      {
+        "number": 28,
+        "clue": "Breakfast offering",
+        "row": 5,
+        "col": 8,
+        "answer": "CORNMUFFIN"
+      },
+      {
+        "number": 29,
+        "clue": "Conception",
+        "row": 5,
+        "col": 12,
+        "answer": "IMAGE"
+      },
+      {
+        "number": 30,
+        "clue": "City of Quebec",
+        "row": 5,
+        "col": 13,
+        "answer": "SOREL"
+      },
+      {
+        "number": 31,
+        "clue": "Waters the lawn",
+        "row": 5,
+        "col": 14,
+        "answer": "HOSES"
+      },
+      {
+        "number": 34,
+        "clue": "Depression agcy.",
+        "row": 6,
+        "col": 7,
+        "answer": "NRA"
+      },
+      {
+        "number": 37,
+        "clue": "Kaye or Davis Jr.",
+        "row": 7,
+        "col": 4,
+        "answer": "SAMMY"
+      },
+      {
+        "number": 40,
+        "clue": "Likely",
+        "row": 7,
+        "col": 11,
+        "answer": "POSSIBLE"
+      },
+      {
+        "number": 43,
+        "clue": "\"___ Mis\u00e9rables\"",
+        "row": 8,
+        "col": 5,
+        "answer": "LES"
+      },
+      {
+        "number": 44,
+        "clue": "Grouping, as of blood",
+        "row": 8,
+        "col": 9,
+        "answer": "SUBTYPE"
+      },
+      {
+        "number": 47,
+        "clue": "Eve and Enoch",
+        "row": 9,
+        "col": 3,
+        "answer": "ARDENS"
+      },
+      {
+        "number": 49,
+        "clue": "Relig. speech",
+        "row": 9,
+        "col": 10,
+        "answer": "SER"
+      },
+      {
+        "number": 51,
+        "clue": "Designer Chapman et al.",
+        "row": 10,
+        "col": 7,
+        "answer": "CEILS"
+      },
+      {
+        "number": 52,
+        "clue": "Eating place",
+        "row": 11,
+        "col": 0,
+        "answer": "CAFE"
+      },
+      {
+        "number": 53,
+        "clue": "___ breve",
+        "row": 11,
+        "col": 1,
+        "answer": "ALLA"
+      },
+      {
+        "number": 54,
+        "clue": "Beer or miss",
+        "row": 11,
+        "col": 2,
+        "answer": "NEAR"
+      },
+      {
+        "number": 55,
+        "clue": "___ majesty",
+        "row": 11,
+        "col": 6,
+        "answer": "LESE"
+      },
+      {
+        "number": 56,
+        "clue": "Billy or nanny",
+        "row": 11,
+        "col": 12,
+        "answer": "GOAT"
+      },
+      {
+        "number": 57,
+        "clue": "Baseball plate",
+        "row": 11,
+        "col": 13,
+        "answer": "HOME"
+      },
+      {
+        "number": 58,
+        "clue": "___ bien",
+        "row": 11,
+        "col": 14,
+        "answer": "TRES"
+      },
+      {
+        "number": 60,
+        "clue": "Dark",
+        "row": 12,
+        "col": 5,
+        "answer": "DIM"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1153 @@
+{
+  "id": "nyt-1976-02-08",
+  "metadata": {
+    "date": "1976-02-08",
+    "title": "TOUJOURS L&#39;AMOUR",
+    "author": "Jack L. Steinhardt",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 23,
+    "rows": 23
+  },
+  "grid": [
+    ["G", "A", "B", "B", "E", "R", null, "P", "L", "A", "T", "A", null, "B", "S", "A", null, "E", "N", "C", "A", "S", "E"],
+    ["A", "R", "R", "I", "V", "E", null, "E", "A", "S", "E", "R", null, "I", "A", "N", null, "R", "E", "A", "M", "E", "D"],
+    ["S", "T", "O", "N", "E", "S", null, "A", "T", "T", "E", "N", null, "R", "V", "A", null, "S", "A", "L", "P", "A", "S"],
+    [null, null, "W", "A", "R", "P", "S", "T", "H", "E", "M", "I", "N", "D", "A", "L", "I", "T", "T", "L", "E", null, null],
+    ["D", "E", "B", "T", "S", null, "A", "M", "E", "R", null, "C", "A", "N", "N", "O", "T", null, "S", "A", "R", "D", "S"],
+    ["A", "G", "E", "E", null, "I", "V", "O", "R", "S", null, "A", "V", "E", "N", "G", "E", null, "F", "L", "E", "E", "T"],
+    ["L", "O", "A", null, "G", "O", "O", "S", "E", null, null, null, null, "S", "A", "U", null, "P", "O", "I", "S", "E", "D"],
+    ["I", "S", "T", "H", "E", "W", "I", "S", "D", "O", "M", "O", "F", "T", "H", "E", "F", "O", "O", "L", null, null, null],
+    [null, null, null, "O", "M", "A", "R", null, null, "L", "A", "P", "I", "S", null, null, "A", "S", "T", "Y", "L", "A", "R"],
+    [null, "B", "A", "N", "I", null, null, "U", "N", "I", "T", "E", "R", null, "B", "B", "L", null, null, null, "I", "Z", "E"],
+    [null, "E", "L", "E", "N", "A", null, "L", "I", "V", "E", "N", null, null, "R", "O", "L", "E", null, "S", "N", "O", "B"],
+    [null, "A", "B", "R", "I", "G", "H", "T", "P", "A", "R", "T", "I", "C", "U", "L", "A", "R", "S", "T", "A", "R", null],
+    ["A", "D", "O", "S", null, "E", "A", "R", "P", null, null, "O", "N", "I", "C", "E", null, "G", "O", "R", "G", "E", null],
+    ["D", "L", "I", null, null, null, "N", "A", "Y", null, "L", "A", "S", "S", "E", "S", null, null, "L", "E", "E", "S", null],
+    ["Z", "E", "N", "A", "N", "A", "S", null, null, "W", "A", "L", "E", "S", null, null, "S", "A", "V", "A", null, null, null],
+    [null, null, null, "B", "U", "T", "A", "F", "R", "A", "I", "L", "T", "Y", "O", "F", "T", "H", "E", "M", "I", "N", "D"],
+    ["B", "E", "S", "A", "M", "E", null, "R", "E", "L", null, null, null, null, "B", "L", "E", "E", "D", null, "N", "O", "R"],
+    ["E", "R", "A", "S", "E", null, "D", "E", "A", "L", "E", "R", null, "S", "T", "O", "R", "M", null, "S", "T", "L", "O"],
+    ["T", "A", "L", "E", "R", null, "F", "E", "D", "O", "R", "A", null, "C", "R", "A", "N", null, "S", "T", "R", "A", "P"],
+    [null, null, "A", "M", "A", "L", "A", "D", "Y", "W", "I", "T", "H", "O", "U", "T", "A", "C", "U", "R", "E", null, null],
+    ["C", "A", "M", "E", "T", "O", null, "O", "W", "E", null, "T", "A", "R", "D", "E", null, "S", "C", "I", "P", "I", "O"],
+    ["A", "M", "I", "N", "O", "S", null, "M", "I", "R", null, "A", "M", "E", "E", "R", null, "O", "R", "P", "I", "N", "E"],
+    ["L", "U", "S", "T", "R", "E", null, "S", "T", "S", null, "N", "A", "R", "D", "S", null, "S", "E", "E", "D", "E", "R"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Talkative one",
+        "row": 0,
+        "col": 0,
+        "answer": "GABBER"
+      },
+      {
+        "number": 7,
+        "clue": "Rio de la ___",
+        "row": 0,
+        "col": 7,
+        "answer": "PLATA"
+      },
+      {
+        "number": 12,
+        "clue": "Youth org.",
+        "row": 0,
+        "col": 13,
+        "answer": "BSA"
+      },
+      {
+        "number": 15,
+        "clue": "Place within",
+        "row": 0,
+        "col": 17,
+        "answer": "ENCASE"
+      },
+      {
+        "number": 21,
+        "clue": "Hit the big time",
+        "row": 1,
+        "col": 0,
+        "answer": "ARRIVE"
+      },
+      {
+        "number": 22,
+        "clue": "Loom bar",
+        "row": 1,
+        "col": 7,
+        "answer": "EASER"
+      },
+      {
+        "number": 23,
+        "clue": "Fleming",
+        "row": 1,
+        "col": 13,
+        "answer": "IAN"
+      },
+      {
+        "number": 24,
+        "clue": "Widened a hole",
+        "row": 1,
+        "col": 17,
+        "answer": "REAMED"
+      },
+      {
+        "number": 25,
+        "clue": "Rolling and birth",
+        "row": 2,
+        "col": 0,
+        "answer": "STONES"
+      },
+      {
+        "number": 26,
+        "clue": "\"You used to come ___ . . . \"",
+        "row": 2,
+        "col": 7,
+        "answer": "ATTEN"
+      },
+      {
+        "number": 27,
+        "clue": "Electric abbr.",
+        "row": 2,
+        "col": 13,
+        "answer": "RVA"
+      },
+      {
+        "number": 28,
+        "clue": "Warm-water fishes",
+        "row": 2,
+        "col": 17,
+        "answer": "SALPAS"
+      },
+      {
+        "number": 29,
+        "clue": "Love: Crabbe",
+        "row": 3,
+        "col": 2,
+        "answer": "WARPSTHEMINDALITTLE"
+      },
+      {
+        "number": 33,
+        "clue": "Liabilities",
+        "row": 4,
+        "col": 0,
+        "answer": "DEBTS"
+      },
+      {
+        "number": 35,
+        "clue": "New World: Abbr.",
+        "row": 4,
+        "col": 6,
+        "answer": "AMER"
+      },
+      {
+        "number": 36,
+        "clue": "\"I ___ tell a . . . \"",
+        "row": 4,
+        "col": 11,
+        "answer": "CANNOT"
+      },
+      {
+        "number": 37,
+        "clue": "Quartzes",
+        "row": 4,
+        "col": 18,
+        "answer": "SARDS"
+      },
+      {
+        "number": 40,
+        "clue": "Out of line",
+        "row": 5,
+        "col": 0,
+        "answer": "AGEE"
+      },
+      {
+        "number": 41,
+        "clue": "Novello et al.",
+        "row": 5,
+        "col": 5,
+        "answer": "IVORS"
+      },
+      {
+        "number": 42,
+        "clue": "Take retribution",
+        "row": 5,
+        "col": 11,
+        "answer": "AVENGE"
+      },
+      {
+        "number": 43,
+        "clue": "Swift",
+        "row": 5,
+        "col": 18,
+        "answer": "FLEET"
+      },
+      {
+        "number": 44,
+        "clue": "Mauna ___",
+        "row": 6,
+        "col": 0,
+        "answer": "LOA"
+      },
+      {
+        "number": 45,
+        "clue": "Mother or silly",
+        "row": 6,
+        "col": 4,
+        "answer": "GOOSE"
+      },
+      {
+        "number": 46,
+        "clue": "German name for 92 Across",
+        "row": 6,
+        "col": 13,
+        "answer": "SAU"
+      },
+      {
+        "number": 47,
+        "clue": "Self-assured",
+        "row": 6,
+        "col": 17,
+        "answer": "POISED"
+      },
+      {
+        "number": 48,
+        "clue": "Love: Johnson",
+        "row": 7,
+        "col": 0,
+        "answer": "ISTHEWISDOMOFTHEFOOL"
+      },
+      {
+        "number": 55,
+        "clue": "Bradley",
+        "row": 8,
+        "col": 3,
+        "answer": "OMAR"
+      },
+      {
+        "number": 56,
+        "clue": "___ lazuli",
+        "row": 8,
+        "col": 9,
+        "answer": "LAPIS"
+      },
+      {
+        "number": 57,
+        "clue": "Without columns",
+        "row": 8,
+        "col": 16,
+        "answer": "ASTYLAR"
+      },
+      {
+        "number": 61,
+        "clue": "Rumanian coins",
+        "row": 9,
+        "col": 1,
+        "answer": "BANI"
+      },
+      {
+        "number": 63,
+        "clue": "One who welds",
+        "row": 9,
+        "col": 7,
+        "answer": "UNITER"
+      },
+      {
+        "number": 65,
+        "clue": "Container: Abbr.",
+        "row": 9,
+        "col": 14,
+        "answer": "BBL"
+      },
+      {
+        "number": 67,
+        "clue": "Suffix of action",
+        "row": 9,
+        "col": 20,
+        "answer": "IZE"
+      },
+      {
+        "number": 68,
+        "clue": "Form of Helen",
+        "row": 10,
+        "col": 1,
+        "answer": "ELENA"
+      },
+      {
+        "number": 70,
+        "clue": "Stimulate",
+        "row": 10,
+        "col": 7,
+        "answer": "LIVEN"
+      },
+      {
+        "number": 71,
+        "clue": "Leading ___",
+        "row": 10,
+        "col": 14,
+        "answer": "ROLE"
+      },
+      {
+        "number": 73,
+        "clue": "Snooty one",
+        "row": 10,
+        "col": 19,
+        "answer": "SNOB"
+      },
+      {
+        "number": 74,
+        "clue": "Love: Shakespeare",
+        "row": 11,
+        "col": 1,
+        "answer": "ABRIGHTPARTICULARSTAR"
+      },
+      {
+        "number": 79,
+        "clue": "Commotions",
+        "row": 12,
+        "col": 0,
+        "answer": "ADOS"
+      },
+      {
+        "number": 80,
+        "clue": "Western lawman",
+        "row": 12,
+        "col": 5,
+        "answer": "EARP"
+      },
+      {
+        "number": 81,
+        "clue": "In reserve",
+        "row": 12,
+        "col": 11,
+        "answer": "ONICE"
+      },
+      {
+        "number": 82,
+        "clue": "Royal sight in Colorado",
+        "row": 12,
+        "col": 17,
+        "answer": "GORGE"
+      },
+      {
+        "number": 83,
+        "clue": "Roman 551",
+        "row": 13,
+        "col": 0,
+        "answer": "DLI"
+      },
+      {
+        "number": 84,
+        "clue": "Vote against",
+        "row": 13,
+        "col": 6,
+        "answer": "NAY"
+      },
+      {
+        "number": 85,
+        "clue": "Girls",
+        "row": 13,
+        "col": 10,
+        "answer": "LASSES"
+      },
+      {
+        "number": 86,
+        "clue": "Sediment",
+        "row": 13,
+        "col": 18,
+        "answer": "LEES"
+      },
+      {
+        "number": 87,
+        "clue": "Seraglios",
+        "row": 14,
+        "col": 0,
+        "answer": "ZENANAS"
+      },
+      {
+        "number": 91,
+        "clue": "Fabric ribs",
+        "row": 14,
+        "col": 9,
+        "answer": "WALES"
+      },
+      {
+        "number": 92,
+        "clue": "Belgrade's river",
+        "row": 14,
+        "col": 16,
+        "answer": "SAVA"
+      },
+      {
+        "number": 94,
+        "clue": "Love: Congreve",
+        "row": 15,
+        "col": 3,
+        "answer": "BUTAFRAILTYOFTHEMIND"
+      },
+      {
+        "number": 102,
+        "clue": "\"___ Mucho\"",
+        "row": 16,
+        "col": 0,
+        "answer": "BESAME"
+      },
+      {
+        "number": 105,
+        "clue": "Cousin or aunt: Abbr.",
+        "row": 16,
+        "col": 7,
+        "answer": "REL"
+      },
+      {
+        "number": 106,
+        "clue": "Extort",
+        "row": 16,
+        "col": 14,
+        "answer": "BLEED"
+      },
+      {
+        "number": 107,
+        "clue": "Correlative",
+        "row": 16,
+        "col": 20,
+        "answer": "NOR"
+      },
+      {
+        "number": 108,
+        "clue": "Use a pencil end",
+        "row": 17,
+        "col": 0,
+        "answer": "ERASE"
+      },
+      {
+        "number": 109,
+        "clue": "Las Vegas employee",
+        "row": 17,
+        "col": 6,
+        "answer": "DEALER"
+      },
+      {
+        "number": 112,
+        "clue": "\"Orphans of the ___\"",
+        "row": 17,
+        "col": 13,
+        "answer": "STORM"
+      },
+      {
+        "number": 113,
+        "clue": "Town near Caen",
+        "row": 17,
+        "col": 19,
+        "answer": "STLO"
+      },
+      {
+        "number": 114,
+        "clue": "Old German coin",
+        "row": 18,
+        "col": 0,
+        "answer": "TALER"
+      },
+      {
+        "number": 115,
+        "clue": "Hat for Al Capone",
+        "row": 18,
+        "col": 6,
+        "answer": "FEDORA"
+      },
+      {
+        "number": 116,
+        "clue": "Herring measure",
+        "row": 18,
+        "col": 13,
+        "answer": "CRAN"
+      },
+      {
+        "number": 117,
+        "clue": "Boot or razor",
+        "row": 18,
+        "col": 18,
+        "answer": "STRAP"
+      },
+      {
+        "number": 118,
+        "clue": "Love: Dryden",
+        "row": 19,
+        "col": 2,
+        "answer": "AMALADYWITHOUTACURE"
+      },
+      {
+        "number": 122,
+        "clue": "Totaled",
+        "row": 20,
+        "col": 0,
+        "answer": "CAMETO"
+      },
+      {
+        "number": 124,
+        "clue": "Have bills",
+        "row": 20,
+        "col": 7,
+        "answer": "OWE"
+      },
+      {
+        "number": 125,
+        "clue": "Afternoon, in Madrid",
+        "row": 20,
+        "col": 11,
+        "answer": "TARDE"
+      },
+      {
+        "number": 126,
+        "clue": "Roman general",
+        "row": 20,
+        "col": 17,
+        "answer": "SCIPIO"
+      },
+      {
+        "number": 129,
+        "clue": "Acid prefixes",
+        "row": 21,
+        "col": 0,
+        "answer": "AMINOS"
+      },
+      {
+        "number": 130,
+        "clue": "Russian village",
+        "row": 21,
+        "col": 7,
+        "answer": "MIR"
+      },
+      {
+        "number": 131,
+        "clue": "Mideast title",
+        "row": 21,
+        "col": 11,
+        "answer": "AMEER"
+      },
+      {
+        "number": 132,
+        "clue": "Plant found in dry places",
+        "row": 21,
+        "col": 17,
+        "answer": "ORPINE"
+      },
+      {
+        "number": 133,
+        "clue": "Glitter",
+        "row": 22,
+        "col": 0,
+        "answer": "LUSTRE"
+      },
+      {
+        "number": 134,
+        "clue": "Wall and Main: Abbr.",
+        "row": 22,
+        "col": 7,
+        "answer": "STS"
+      },
+      {
+        "number": 135,
+        "clue": "Ointments",
+        "row": 22,
+        "col": 11,
+        "answer": "NARDS"
+      },
+      {
+        "number": 136,
+        "clue": "Farm implement",
+        "row": 22,
+        "col": 17,
+        "answer": "SEEDER"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Balloon filler",
+        "row": 0,
+        "col": 0,
+        "answer": "GAS"
+      },
+      {
+        "number": 2,
+        "clue": "Cultural field",
+        "row": 0,
+        "col": 1,
+        "answer": "ART"
+      },
+      {
+        "number": 3,
+        "clue": "Bully",
+        "row": 0,
+        "col": 2,
+        "answer": "BROWBEAT"
+      },
+      {
+        "number": 4,
+        "clue": "Double",
+        "row": 0,
+        "col": 3,
+        "answer": "BINATE"
+      },
+      {
+        "number": 5,
+        "clue": "Tinker to ___ to . . .",
+        "row": 0,
+        "col": 4,
+        "answer": "EVERS"
+      },
+      {
+        "number": 6,
+        "clue": "Defendant: Abbr.",
+        "row": 0,
+        "col": 5,
+        "answer": "RESP"
+      },
+      {
+        "number": 7,
+        "clue": "Soil improver",
+        "row": 0,
+        "col": 7,
+        "answer": "PEATMOSS"
+      },
+      {
+        "number": 8,
+        "clue": "Frothed, as a horse",
+        "row": 0,
+        "col": 8,
+        "answer": "LATHERED"
+      },
+      {
+        "number": 9,
+        "clue": "Garden flowers",
+        "row": 0,
+        "col": 9,
+        "answer": "ASTERS"
+      },
+      {
+        "number": 10,
+        "clue": "Abound",
+        "row": 0,
+        "col": 10,
+        "answer": "TEEM"
+      },
+      {
+        "number": 11,
+        "clue": "Rubbing fluid",
+        "row": 0,
+        "col": 11,
+        "answer": "ARNICA"
+      },
+      {
+        "number": 12,
+        "clue": "Oriental soup staples",
+        "row": 0,
+        "col": 13,
+        "answer": "BIRDNESTS"
+      },
+      {
+        "number": 13,
+        "clue": "Dixie port",
+        "row": 0,
+        "col": 14,
+        "answer": "SAVANNAH"
+      },
+      {
+        "number": 14,
+        "clue": "Parallel thing",
+        "row": 0,
+        "col": 15,
+        "answer": "ANALOGUE"
+      },
+      {
+        "number": 15,
+        "clue": "___ while",
+        "row": 0,
+        "col": 17,
+        "answer": "ERST"
+      },
+      {
+        "number": 16,
+        "clue": "Type of oil",
+        "row": 0,
+        "col": 18,
+        "answer": "NEATSFOOT"
+      },
+      {
+        "number": 17,
+        "clue": "Katharine Hepburn's flower",
+        "row": 0,
+        "col": 19,
+        "answer": "CALLALILY"
+      },
+      {
+        "number": 18,
+        "clue": "Electical units",
+        "row": 0,
+        "col": 20,
+        "answer": "AMPERES"
+      },
+      {
+        "number": 19,
+        "clue": "\" . . . ___ of troubles\"",
+        "row": 0,
+        "col": 21,
+        "answer": "SEA"
+      },
+      {
+        "number": 20,
+        "clue": "Desk workers: Abbr.",
+        "row": 0,
+        "col": 22,
+        "answer": "EDS"
+      },
+      {
+        "number": 30,
+        "clue": "___ faire",
+        "row": 3,
+        "col": 6,
+        "answer": "SAVOIR"
+      },
+      {
+        "number": 31,
+        "clue": "Seagoing: Abbr.",
+        "row": 3,
+        "col": 12,
+        "answer": "NAV"
+      },
+      {
+        "number": 32,
+        "clue": "Native: Suffix",
+        "row": 3,
+        "col": 16,
+        "answer": "ITE"
+      },
+      {
+        "number": 33,
+        "clue": "Contemporary painter",
+        "row": 4,
+        "col": 0,
+        "answer": "DALI"
+      },
+      {
+        "number": 34,
+        "clue": "Assertive tendencies",
+        "row": 4,
+        "col": 1,
+        "answer": "EGOS"
+      },
+      {
+        "number": 38,
+        "clue": "Scottish river",
+        "row": 4,
+        "col": 21,
+        "answer": "DEE"
+      },
+      {
+        "number": 39,
+        "clue": "Theology degree",
+        "row": 4,
+        "col": 22,
+        "answer": "STD"
+      },
+      {
+        "number": 41,
+        "clue": "Big Ten team",
+        "row": 5,
+        "col": 5,
+        "answer": "IOWA"
+      },
+      {
+        "number": 45,
+        "clue": "Castor and Pollux",
+        "row": 6,
+        "col": 4,
+        "answer": "GEMINI"
+      },
+      {
+        "number": 47,
+        "clue": "Opposite of neg.",
+        "row": 6,
+        "col": 17,
+        "answer": "POS"
+      },
+      {
+        "number": 49,
+        "clue": "Oilstone users",
+        "row": 7,
+        "col": 3,
+        "answer": "HONERS"
+      },
+      {
+        "number": 50,
+        "clue": "Tony of baseball",
+        "row": 7,
+        "col": 9,
+        "answer": "OLIVA"
+      },
+      {
+        "number": 51,
+        "clue": "Stabat or Alma",
+        "row": 7,
+        "col": 10,
+        "answer": "MATER"
+      },
+      {
+        "number": 52,
+        "clue": "Not restricted",
+        "row": 7,
+        "col": 11,
+        "answer": "OPENTOALL"
+      },
+      {
+        "number": 53,
+        "clue": "Tree",
+        "row": 7,
+        "col": 12,
+        "answer": "FIR"
+      },
+      {
+        "number": 54,
+        "clue": "Manuel de ___",
+        "row": 7,
+        "col": 16,
+        "answer": "FALLA"
+      },
+      {
+        "number": 58,
+        "clue": "Amount of printed matter",
+        "row": 8,
+        "col": 20,
+        "answer": "LINAGE"
+      },
+      {
+        "number": 59,
+        "clue": "Atlantic islands",
+        "row": 8,
+        "col": 21,
+        "answer": "AZORES"
+      },
+      {
+        "number": 60,
+        "clue": "Johnny ___",
+        "row": 8,
+        "col": 22,
+        "answer": "REB"
+      },
+      {
+        "number": 61,
+        "clue": "Parish officer",
+        "row": 9,
+        "col": 1,
+        "answer": "BEADLE"
+      },
+      {
+        "number": 62,
+        "clue": "Lombard king",
+        "row": 9,
+        "col": 2,
+        "answer": "ALBOIN"
+      },
+      {
+        "number": 63,
+        "clue": "Violet or modern",
+        "row": 9,
+        "col": 7,
+        "answer": "ULTRA"
+      },
+      {
+        "number": 64,
+        "clue": "Like fall air",
+        "row": 9,
+        "col": 8,
+        "answer": "NIPPY"
+      },
+      {
+        "number": 65,
+        "clue": "Liberator of Scotland",
+        "row": 9,
+        "col": 14,
+        "answer": "BRUCE"
+      },
+      {
+        "number": 66,
+        "clue": "Tree trunks",
+        "row": 9,
+        "col": 15,
+        "answer": "BOLES"
+      },
+      {
+        "number": 69,
+        "clue": "Stone or coon's",
+        "row": 10,
+        "col": 5,
+        "answer": "AGE"
+      },
+      {
+        "number": 72,
+        "clue": "Work unit",
+        "row": 10,
+        "col": 17,
+        "answer": "ERG"
+      },
+      {
+        "number": 73,
+        "clue": "Flow",
+        "row": 10,
+        "col": 19,
+        "answer": "STREAM"
+      },
+      {
+        "number": 75,
+        "clue": "Medieval guild",
+        "row": 11,
+        "col": 6,
+        "answer": "HANSA"
+      },
+      {
+        "number": 76,
+        "clue": "Double-boiler part",
+        "row": 11,
+        "col": 12,
+        "answer": "INSET"
+      },
+      {
+        "number": 77,
+        "clue": "Form of Cecilia",
+        "row": 11,
+        "col": 13,
+        "answer": "CISSY"
+      },
+      {
+        "number": 78,
+        "clue": "Worked out",
+        "row": 11,
+        "col": 18,
+        "answer": "SOLVED"
+      },
+      {
+        "number": 79,
+        "clue": "Cutting tool",
+        "row": 12,
+        "col": 0,
+        "answer": "ADZ"
+      },
+      {
+        "number": 85,
+        "clue": "Medieval poem",
+        "row": 13,
+        "col": 10,
+        "answer": "LAI"
+      },
+      {
+        "number": 88,
+        "clue": "Humiliation",
+        "row": 14,
+        "col": 3,
+        "answer": "ABASEMENT"
+      },
+      {
+        "number": 89,
+        "clue": "Part of a fraction",
+        "row": 14,
+        "col": 4,
+        "answer": "NUMERATOR"
+      },
+      {
+        "number": 90,
+        "clue": "Corroded",
+        "row": 14,
+        "col": 5,
+        "answer": "ATE"
+      },
+      {
+        "number": 91,
+        "clue": "Hogs, at times",
+        "row": 14,
+        "col": 9,
+        "answer": "WALLOWERS"
+      },
+      {
+        "number": 92,
+        "clue": "Breastbones",
+        "row": 14,
+        "col": 16,
+        "answer": "STERNA"
+      },
+      {
+        "number": 93,
+        "clue": "Interrupter's word",
+        "row": 14,
+        "col": 17,
+        "answer": "AHEM"
+      },
+      {
+        "number": 95,
+        "clue": "F.D.R.'s Four",
+        "row": 15,
+        "col": 7,
+        "answer": "FREEDOMS"
+      },
+      {
+        "number": 96,
+        "clue": "Spontaneous humor",
+        "row": 15,
+        "col": 8,
+        "answer": "READYWIT"
+      },
+      {
+        "number": 97,
+        "clue": "Pushed out",
+        "row": 15,
+        "col": 14,
+        "answer": "OBTRUDED"
+      },
+      {
+        "number": 98,
+        "clue": "Vagrants",
+        "row": 15,
+        "col": 15,
+        "answer": "FLOATERS"
+      },
+      {
+        "number": 99,
+        "clue": "Dauntless",
+        "row": 15,
+        "col": 20,
+        "answer": "INTREPID"
+      },
+      {
+        "number": 100,
+        "clue": "Lopez theme",
+        "row": 15,
+        "col": 21,
+        "answer": "NOLA"
+      },
+      {
+        "number": 101,
+        "clue": "Kick or leaf",
+        "row": 15,
+        "col": 22,
+        "answer": "DROP"
+      },
+      {
+        "number": 102,
+        "clue": "\"You ___!\" (surely)",
+        "row": 16,
+        "col": 0,
+        "answer": "BET"
+      },
+      {
+        "number": 103,
+        "clue": "Victorian ___",
+        "row": 16,
+        "col": 1,
+        "answer": "ERA"
+      },
+      {
+        "number": 104,
+        "clue": "Deli purchases",
+        "row": 16,
+        "col": 2,
+        "answer": "SALAMIS"
+      },
+      {
+        "number": 109,
+        "clue": "Graduate degree",
+        "row": 17,
+        "col": 6,
+        "answer": "DFA"
+      },
+      {
+        "number": 110,
+        "clue": "Silkworm",
+        "row": 17,
+        "col": 10,
+        "answer": "ERI"
+      },
+      {
+        "number": 111,
+        "clue": "Cane",
+        "row": 17,
+        "col": 11,
+        "answer": "RATTAN"
+      },
+      {
+        "number": 112,
+        "clue": "O. J. Simpson often",
+        "row": 17,
+        "col": 13,
+        "answer": "SCORER"
+      },
+      {
+        "number": 113,
+        "clue": "Rank designation",
+        "row": 17,
+        "col": 19,
+        "answer": "STRIPE"
+      },
+      {
+        "number": 117,
+        "clue": "Coin of Ecuador",
+        "row": 18,
+        "col": 18,
+        "answer": "SUCRE"
+      },
+      {
+        "number": 119,
+        "clue": "Fail to keep",
+        "row": 19,
+        "col": 5,
+        "answer": "LOSE"
+      },
+      {
+        "number": 120,
+        "clue": "Syrian city",
+        "row": 19,
+        "col": 12,
+        "answer": "HAMA"
+      },
+      {
+        "number": 121,
+        "clue": "Army comm. officers",
+        "row": 19,
+        "col": 17,
+        "answer": "CSOS"
+      },
+      {
+        "number": 122,
+        "clue": "Silent ___",
+        "row": 20,
+        "col": 0,
+        "answer": "CAL"
+      },
+      {
+        "number": 123,
+        "clue": "___ Darya",
+        "row": 20,
+        "col": 1,
+        "answer": "AMU"
+      },
+      {
+        "number": 127,
+        "clue": "Chemical suffix",
+        "row": 20,
+        "col": 21,
+        "answer": "INE"
+      },
+      {
+        "number": 128,
+        "clue": "Atop, to poets",
+        "row": 20,
+        "col": 22,
+        "answer": "OER"
+      }
+    ]
+  }
+}

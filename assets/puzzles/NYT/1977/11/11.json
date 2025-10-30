@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-11-11",
+  "metadata": {
+    "date": "1977-11-11",
+    "title": "NY TIMES, FRI, NOV 11, 1977",
+    "author": "Betty Duffy",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["C", "A", "P", "E", null, "C", "O", "C", "O", "A", null, "T", "A", "S", "S"],
+    ["O", "W", "E", "S", null, "A", "V", "O", "N", "S", null, "A", "C", "T", "I"],
+    ["T", "A", "K", "E", "I", "T", "O", "N", "T", "H", "E", "C", "H", "I", "N"],
+    ["E", "Y", "E", null, "D", "E", "I", null, "H", "O", "N", "K", "E", "R", "S"],
+    [null, null, null, "W", "O", "R", "D", null, "E", "N", "C", "Y", null, null, null],
+    ["P", "E", "T", "A", "L", "S", null, "A", "L", "E", "A", null, "A", "S", "S"],
+    ["A", "T", "O", "R", null, null, null, "P", "A", "S", "S", "A", "B", "L", "E"],
+    ["S", "H", "O", "O", "T", "F", "R", "O", "M", "T", "H", "E", "H", "I", "P"],
+    ["H", "A", "L", "F", "H", "O", "U", "R", null, null, null, "D", "O", "N", "T"],
+    ["A", "N", "S", null, "A", "U", "N", "T", null, "C", "L", "E", "R", "K", "S"],
+    [null, null, null, "M", "T", "N", "S", null, "L", "A", "O", "S", null, null, null],
+    ["D", "E", "L", "I", "C", "T", "I", null, "A", "N", "A", null, "T", "A", "C"],
+    ["F", "R", "O", "M", "H", "A", "N", "D", "T", "O", "M", "O", "U", "T", "H"],
+    ["A", "N", "N", "E", null, "I", "T", "H", "E", "E", null, "A", "N", "T", "I"],
+    ["S", "E", "E", "S", null, "N", "O", "U", "N", "S", null, "R", "E", "A", "P"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Horn or Cod",
+        "row": 0,
+        "col": 0,
+        "answer": "CAPE"
+      },
+      {
+        "number": 5,
+        "clue": "Import from Ghana",
+        "row": 0,
+        "col": 5,
+        "answer": "COCOA"
+      },
+      {
+        "number": 10,
+        "clue": "Russian wire service",
+        "row": 0,
+        "col": 11,
+        "answer": "TASS"
+      },
+      {
+        "number": 14,
+        "clue": "Is indebted",
+        "row": 1,
+        "col": 0,
+        "answer": "OWES"
+      },
+      {
+        "number": 15,
+        "clue": "Three different rivers in England",
+        "row": 1,
+        "col": 5,
+        "answer": "AVONS"
+      },
+      {
+        "number": 16,
+        "clue": "Playbill heading",
+        "row": 1,
+        "col": 11,
+        "answer": "ACTI"
+      },
+      {
+        "number": 17,
+        "clue": "Relative of \"bite the dust\"",
+        "row": 2,
+        "col": 0,
+        "answer": "TAKEITONTHECHIN"
+      },
+      {
+        "number": 20,
+        "clue": "Hurricane center",
+        "row": 3,
+        "col": 0,
+        "answer": "EYE"
+      },
+      {
+        "number": 21,
+        "clue": "\"Agnus ___\"",
+        "row": 3,
+        "col": 4,
+        "answer": "DEI"
+      },
+      {
+        "number": 22,
+        "clue": "Geese, at times",
+        "row": 3,
+        "col": 8,
+        "answer": "HONKERS"
+      },
+      {
+        "number": 23,
+        "clue": "Tidings",
+        "row": 4,
+        "col": 3,
+        "answer": "WORD"
+      },
+      {
+        "number": 24,
+        "clue": "Ref. book",
+        "row": 4,
+        "col": 8,
+        "answer": "ENCY"
+      },
+      {
+        "number": 25,
+        "clue": "Parts of peonies",
+        "row": 5,
+        "col": 0,
+        "answer": "PETALS"
+      },
+      {
+        "number": 28,
+        "clue": "Another name for Athena",
+        "row": 5,
+        "col": 7,
+        "answer": "ALEA"
+      },
+      {
+        "number": 29,
+        "clue": "Onager",
+        "row": 5,
+        "col": 12,
+        "answer": "ASS"
+      },
+      {
+        "number": 32,
+        "clue": "Suffix with fabric and domestic",
+        "row": 6,
+        "col": 0,
+        "answer": "ATOR"
+      },
+      {
+        "number": 33,
+        "clue": "So-so",
+        "row": 6,
+        "col": 7,
+        "answer": "PASSABLE"
+      },
+      {
+        "number": 35,
+        "clue": "Tell it like it is",
+        "row": 7,
+        "col": 0,
+        "answer": "SHOOTFROMTHEHIP"
+      },
+      {
+        "number": 39,
+        "clue": "Length of many a TV show",
+        "row": 8,
+        "col": 0,
+        "answer": "HALFHOUR"
+      },
+      {
+        "number": 40,
+        "clue": "Taboo word",
+        "row": 8,
+        "col": 11,
+        "answer": "DONT"
+      },
+      {
+        "number": 41,
+        "clue": "Suburb of Li\u00e8ge, Belgium",
+        "row": 9,
+        "col": 0,
+        "answer": "ANS"
+      },
+      {
+        "number": 42,
+        "clue": "Polly, to Tom Sawyer",
+        "row": 9,
+        "col": 4,
+        "answer": "AUNT"
+      },
+      {
+        "number": 43,
+        "clue": "Office workers",
+        "row": 9,
+        "col": 9,
+        "answer": "CLERKS"
+      },
+      {
+        "number": 45,
+        "clue": "Land elevations: Abbr.",
+        "row": 10,
+        "col": 3,
+        "answer": "MTNS"
+      },
+      {
+        "number": 46,
+        "clue": "Neighbor of Thailand",
+        "row": 10,
+        "col": 8,
+        "answer": "LAOS"
+      },
+      {
+        "number": 47,
+        "clue": "Corpus ___",
+        "row": 11,
+        "col": 0,
+        "answer": "DELICTI"
+      },
+      {
+        "number": 50,
+        "clue": "Literary collection",
+        "row": 11,
+        "col": 8,
+        "answer": "ANA"
+      },
+      {
+        "number": 51,
+        "clue": "Tic's follower",
+        "row": 11,
+        "col": 12,
+        "answer": "TAC"
+      },
+      {
+        "number": 54,
+        "clue": "Improvidently",
+        "row": 12,
+        "col": 0,
+        "answer": "FROMHANDTOMOUTH"
+      },
+      {
+        "number": 57,
+        "clue": "British princess",
+        "row": 13,
+        "col": 0,
+        "answer": "ANNE"
+      },
+      {
+        "number": 58,
+        "clue": "\" . . . ___ wed\"",
+        "row": 13,
+        "col": 5,
+        "answer": "ITHEE"
+      },
+      {
+        "number": 59,
+        "clue": "Opposed",
+        "row": 13,
+        "col": 11,
+        "answer": "ANTI"
+      },
+      {
+        "number": 60,
+        "clue": "Perceives",
+        "row": 14,
+        "col": 0,
+        "answer": "SEES"
+      },
+      {
+        "number": 61,
+        "clue": "Some are proper",
+        "row": 14,
+        "col": 5,
+        "answer": "NOUNS"
+      },
+      {
+        "number": 62,
+        "clue": "Harvest",
+        "row": 14,
+        "col": 11,
+        "answer": "REAP"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Pigeon shelter",
+        "row": 0,
+        "col": 0,
+        "answer": "COTE"
+      },
+      {
+        "number": 2,
+        "clue": "Farthest from the pin",
+        "row": 0,
+        "col": 1,
+        "answer": "AWAY"
+      },
+      {
+        "number": 3,
+        "clue": "Short pooch, for short",
+        "row": 0,
+        "col": 2,
+        "answer": "PEKE"
+      },
+      {
+        "number": 4,
+        "clue": "Compass point",
+        "row": 0,
+        "col": 3,
+        "answer": "ESE"
+      },
+      {
+        "number": 5,
+        "clue": "Supplies food",
+        "row": 0,
+        "col": 5,
+        "answer": "CATERS"
+      },
+      {
+        "number": 6,
+        "clue": "Egglike",
+        "row": 0,
+        "col": 6,
+        "answer": "OVOID"
+      },
+      {
+        "number": 7,
+        "clue": "Pro's opposite",
+        "row": 0,
+        "col": 7,
+        "answer": "CON"
+      },
+      {
+        "number": 8,
+        "clue": "Fleeing the law",
+        "row": 0,
+        "col": 8,
+        "answer": "ONTHELAM"
+      },
+      {
+        "number": 9,
+        "clue": "\"___ as the day is long\"",
+        "row": 0,
+        "col": 9,
+        "answer": "ASHONEST"
+      },
+      {
+        "number": 10,
+        "clue": "Far from fashionable",
+        "row": 0,
+        "col": 11,
+        "answer": "TACKY"
+      },
+      {
+        "number": 11,
+        "clue": "Aspirin seller",
+        "row": 0,
+        "col": 12,
+        "answer": "ACHE"
+      },
+      {
+        "number": 12,
+        "clue": "Commotion",
+        "row": 0,
+        "col": 13,
+        "answer": "STIR"
+      },
+      {
+        "number": 13,
+        "clue": "Confessor's earful",
+        "row": 0,
+        "col": 14,
+        "answer": "SINS"
+      },
+      {
+        "number": 18,
+        "clue": "Baal, for one",
+        "row": 2,
+        "col": 4,
+        "answer": "IDOL"
+      },
+      {
+        "number": 19,
+        "clue": "Convert to money, British style",
+        "row": 2,
+        "col": 10,
+        "answer": "ENCASH"
+      },
+      {
+        "number": 23,
+        "clue": "H.G. Wells's \"___ the Worlds\"",
+        "row": 4,
+        "col": 3,
+        "answer": "WAROF"
+      },
+      {
+        "number": 25,
+        "clue": "Turkish V.I.P.",
+        "row": 5,
+        "col": 0,
+        "answer": "PASHA"
+      },
+      {
+        "number": 26,
+        "clue": "A memorable Allen",
+        "row": 5,
+        "col": 1,
+        "answer": "ETHAN"
+      },
+      {
+        "number": 27,
+        "clue": "\"Give us the ___\": Churchill",
+        "row": 5,
+        "col": 2,
+        "answer": "TOOLS"
+      },
+      {
+        "number": 28,
+        "clue": "To the left, on ship",
+        "row": 5,
+        "col": 7,
+        "answer": "APORT"
+      },
+      {
+        "number": 29,
+        "clue": "Detest",
+        "row": 5,
+        "col": 12,
+        "answer": "ABHOR"
+      },
+      {
+        "number": 30,
+        "clue": "Move stealthily",
+        "row": 5,
+        "col": 13,
+        "answer": "SLINK"
+      },
+      {
+        "number": 31,
+        "clue": "Clans",
+        "row": 5,
+        "col": 14,
+        "answer": "SEPTS"
+      },
+      {
+        "number": 34,
+        "clue": "Mosquito genus",
+        "row": 6,
+        "col": 11,
+        "answer": "AEDES"
+      },
+      {
+        "number": 36,
+        "clue": "One of the oldest materials for roofs",
+        "row": 7,
+        "col": 4,
+        "answer": "THATCH"
+      },
+      {
+        "number": 37,
+        "clue": "Trevi attraction",
+        "row": 7,
+        "col": 5,
+        "answer": "FOUNTAIN"
+      },
+      {
+        "number": 38,
+        "clue": "Meets up with",
+        "row": 7,
+        "col": 6,
+        "answer": "RUNSINTO"
+      },
+      {
+        "number": 43,
+        "clue": "Buckeye and birchbark",
+        "row": 9,
+        "col": 9,
+        "answer": "CANOES"
+      },
+      {
+        "number": 44,
+        "clue": "Clayey soil",
+        "row": 9,
+        "col": 10,
+        "answer": "LOAM"
+      },
+      {
+        "number": 45,
+        "clue": "Mummers like Marceau",
+        "row": 10,
+        "col": 3,
+        "answer": "MIMES"
+      },
+      {
+        "number": 46,
+        "clue": "Cause to be tardy",
+        "row": 10,
+        "col": 8,
+        "answer": "LATEN"
+      },
+      {
+        "number": 47,
+        "clue": "Advanced degrees for painters, sculptors, etc.",
+        "row": 11,
+        "col": 0,
+        "answer": "DFAS"
+      },
+      {
+        "number": 48,
+        "clue": "Relative of a fish eagle",
+        "row": 11,
+        "col": 1,
+        "answer": "ERNE"
+      },
+      {
+        "number": 49,
+        "clue": "Unescorted",
+        "row": 11,
+        "col": 2,
+        "answer": "LONE"
+      },
+      {
+        "number": 51,
+        "clue": "Platter matter",
+        "row": 11,
+        "col": 12,
+        "answer": "TUNE"
+      },
+      {
+        "number": 52,
+        "clue": "\"___ boy!\"",
+        "row": 11,
+        "col": 13,
+        "answer": "ATTA"
+      },
+      {
+        "number": 53,
+        "clue": "One of Carter's sons",
+        "row": 11,
+        "col": 14,
+        "answer": "CHIP"
+      },
+      {
+        "number": 55,
+        "clue": "\"Lady of the Lake\" outlaw",
+        "row": 12,
+        "col": 7,
+        "answer": "DHU"
+      },
+      {
+        "number": 56,
+        "clue": "Item for a dinghy",
+        "row": 12,
+        "col": 11,
+        "answer": "OAR"
+      }
+    ]
+  }
+}

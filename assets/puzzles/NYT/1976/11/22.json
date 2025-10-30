@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-11-22",
+  "metadata": {
+    "date": "1976-11-22",
+    "title": "NY TIMES, MON, NOV 22, 1976",
+    "author": "Samuel K. Fliegner",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["D", "E", "B", "T", null, "D", "U", "R", "O", "S", null, "C", "H", "I", "P"],
+    ["A", "Q", "U", "A", null, "E", "L", "I", "S", "E", null, "L", "E", "T", "O"],
+    ["N", "U", "L", "L", null, "B", "U", "L", "L", "R", "O", "A", "R", "E", "R"],
+    ["K", "I", "L", "M", "E", "R", null, "L", "O", "V", "E", "S", "E", "A", "T"],
+    [null, null, "F", "U", "R", "I", "A", "E", null, "I", "T", "S", null, null, null],
+    [null, "M", "I", "D", "G", "E", "S", null, "A", "L", "A", "M", "B", "I", "C"],
+    ["G", "A", "D", null, "O", "F", "S", "O", "L", "E", null, "A", "U", "D", "E"],
+    ["O", "N", "D", "I", "T", null, "E", "L", "B", null, "I", "N", "L", "E", "T"],
+    ["B", "E", "L", "S", null, "I", "N", "D", "I", "A", "N", null, "L", "A", "E"],
+    ["I", "T", "E", "R", "A", "N", "T", null, "O", "R", "G", "A", "N", "S", null],
+    [null, null, null, "A", "R", "S", null, "E", "N", "C", "A", "S", "E", null, null],
+    ["A", "F", "F", "E", "C", "T", "E", "D", null, "A", "S", "H", "C", "A", "N"],
+    ["B", "U", "L", "L", "H", "E", "A", "D", "E", "D", null, "O", "K", "L", "A"],
+    ["B", "R", "E", "I", null, "A", "S", "I", "D", "E", null, "R", "E", "E", "M"],
+    ["A", "L", "A", "S", null, "D", "E", "E", "D", "S", null, "E", "D", "G", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Liability",
+        "row": 0,
+        "col": 0,
+        "answer": "DEBT"
+      },
+      {
+        "number": 5,
+        "clue": "Spanish coins",
+        "row": 0,
+        "col": 5,
+        "answer": "DUROS"
+      },
+      {
+        "number": 10,
+        "clue": "Short golf shot",
+        "row": 0,
+        "col": 11,
+        "answer": "CHIP"
+      },
+      {
+        "number": 14,
+        "clue": "Pura or vitae",
+        "row": 1,
+        "col": 0,
+        "answer": "AQUA"
+      },
+      {
+        "number": 15,
+        "clue": "Beethoven's \"F\u00fcr ___\"",
+        "row": 1,
+        "col": 5,
+        "answer": "ELISE"
+      },
+      {
+        "number": 16,
+        "clue": "Mother of Apollo",
+        "row": 1,
+        "col": 11,
+        "answer": "LETO"
+      },
+      {
+        "number": 17,
+        "clue": "Valueless",
+        "row": 2,
+        "col": 0,
+        "answer": "NULL"
+      },
+      {
+        "number": 18,
+        "clue": "Child's noisemaker",
+        "row": 2,
+        "col": 5,
+        "answer": "BULLROARER"
+      },
+      {
+        "number": 20,
+        "clue": "Poet killed in W.W. I",
+        "row": 3,
+        "col": 0,
+        "answer": "KILMER"
+      },
+      {
+        "number": 22,
+        "clue": "Cozy sofa",
+        "row": 3,
+        "col": 7,
+        "answer": "LOVESEAT"
+      },
+      {
+        "number": 23,
+        "clue": "Goddesses of myth",
+        "row": 4,
+        "col": 2,
+        "answer": "FURIAE"
+      },
+      {
+        "number": 25,
+        "clue": "\"___ your turn\"",
+        "row": 4,
+        "col": 9,
+        "answer": "ITS"
+      },
+      {
+        "number": 26,
+        "clue": "Tiny insects",
+        "row": 5,
+        "col": 1,
+        "answer": "MIDGES"
+      },
+      {
+        "number": 27,
+        "clue": "Distilling vessel: Var.",
+        "row": 5,
+        "col": 8,
+        "answer": "ALAMBIC"
+      },
+      {
+        "number": 31,
+        "clue": "Traipse",
+        "row": 6,
+        "col": 0,
+        "answer": "GAD"
+      },
+      {
+        "number": 32,
+        "clue": "Filet ___",
+        "row": 6,
+        "col": 4,
+        "answer": "OFSOLE"
+      },
+      {
+        "number": 34,
+        "clue": "French river",
+        "row": 6,
+        "col": 11,
+        "answer": "AUDE"
+      },
+      {
+        "number": 35,
+        "clue": "Bit of gossip",
+        "row": 7,
+        "col": 0,
+        "answer": "ONDIT"
+      },
+      {
+        "number": 37,
+        "clue": "Jujube tree",
+        "row": 7,
+        "col": 6,
+        "answer": "ELB"
+      },
+      {
+        "number": 38,
+        "clue": "Fiord",
+        "row": 7,
+        "col": 10,
+        "answer": "INLET"
+      },
+      {
+        "number": 39,
+        "clue": "Units of loudness",
+        "row": 8,
+        "col": 0,
+        "answer": "BELS"
+      },
+      {
+        "number": 40,
+        "clue": "Summer or club",
+        "row": 8,
+        "col": 5,
+        "answer": "INDIAN"
+      },
+      {
+        "number": 42,
+        "clue": "New Guinea port",
+        "row": 8,
+        "col": 12,
+        "answer": "LAE"
+      },
+      {
+        "number": 43,
+        "clue": "Repeating",
+        "row": 9,
+        "col": 0,
+        "answer": "ITERANT"
+      },
+      {
+        "number": 45,
+        "clue": "Barrel and vital",
+        "row": 9,
+        "col": 8,
+        "answer": "ORGANS"
+      },
+      {
+        "number": 47,
+        "clue": "Ovid's \"___ Amatoria\"",
+        "row": 10,
+        "col": 3,
+        "answer": "ARS"
+      },
+      {
+        "number": 48,
+        "clue": "Put in a crate",
+        "row": 10,
+        "col": 7,
+        "answer": "ENCASE"
+      },
+      {
+        "number": 49,
+        "clue": "Pretentious",
+        "row": 11,
+        "col": 0,
+        "answer": "AFFECTED"
+      },
+      {
+        "number": 53,
+        "clue": "Waste receptacle",
+        "row": 11,
+        "col": 9,
+        "answer": "ASHCAN"
+      },
+      {
+        "number": 56,
+        "clue": "Obstinate",
+        "row": 12,
+        "col": 0,
+        "answer": "BULLHEADED"
+      },
+      {
+        "number": 58,
+        "clue": "Neighbor of Kan.",
+        "row": 12,
+        "col": 11,
+        "answer": "OKLA"
+      },
+      {
+        "number": 59,
+        "clue": "Culture tissue",
+        "row": 13,
+        "col": 0,
+        "answer": "BREI"
+      },
+      {
+        "number": 60,
+        "clue": "Parenthetical comment",
+        "row": 13,
+        "col": 5,
+        "answer": "ASIDE"
+      },
+      {
+        "number": 61,
+        "clue": "Biblical ox",
+        "row": 13,
+        "col": 11,
+        "answer": "REEM"
+      },
+      {
+        "number": 62,
+        "clue": "Too bad!",
+        "row": 14,
+        "col": 0,
+        "answer": "ALAS"
+      },
+      {
+        "number": 63,
+        "clue": "Exploits",
+        "row": 14,
+        "col": 5,
+        "answer": "DEEDS"
+      },
+      {
+        "number": 64,
+        "clue": "On ___ (tense)",
+        "row": 14,
+        "col": 11,
+        "answer": "EDGE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Humid",
+        "row": 0,
+        "col": 0,
+        "answer": "DANK"
+      },
+      {
+        "number": 2,
+        "clue": "Prefix for poise or nox",
+        "row": 0,
+        "col": 1,
+        "answer": "EQUI"
+      },
+      {
+        "number": 3,
+        "clue": "Violin's big brother",
+        "row": 0,
+        "col": 2,
+        "answer": "BULLFIDDLE"
+      },
+      {
+        "number": 4,
+        "clue": "Body of Jewish law",
+        "row": 0,
+        "col": 3,
+        "answer": "TALMUD"
+      },
+      {
+        "number": 5,
+        "clue": "Interrogate, as an astronaut",
+        "row": 0,
+        "col": 5,
+        "answer": "DEBRIEF"
+      },
+      {
+        "number": 6,
+        "clue": "Eskimo knife",
+        "row": 0,
+        "col": 6,
+        "answer": "ULU"
+      },
+      {
+        "number": 7,
+        "clue": "Moon valley",
+        "row": 0,
+        "col": 7,
+        "answer": "RILLE"
+      },
+      {
+        "number": 8,
+        "clue": "European capital",
+        "row": 0,
+        "col": 8,
+        "answer": "OSLO"
+      },
+      {
+        "number": 9,
+        "clue": "Obsequious",
+        "row": 0,
+        "col": 9,
+        "answer": "SERVILE"
+      },
+      {
+        "number": 10,
+        "clue": "Upper-___ (junior or senior)",
+        "row": 0,
+        "col": 11,
+        "answer": "CLASSMAN"
+      },
+      {
+        "number": 11,
+        "clue": "Roll-call answer",
+        "row": 0,
+        "col": 12,
+        "answer": "HERE"
+      },
+      {
+        "number": 12,
+        "clue": "Willow",
+        "row": 0,
+        "col": 13,
+        "answer": "ITEA"
+      },
+      {
+        "number": 13,
+        "clue": "Dessert wine",
+        "row": 0,
+        "col": 14,
+        "answer": "PORT"
+      },
+      {
+        "number": 19,
+        "clue": "Where Hercules died",
+        "row": 2,
+        "col": 10,
+        "answer": "OETA"
+      },
+      {
+        "number": 21,
+        "clue": "Rye fungus",
+        "row": 3,
+        "col": 4,
+        "answer": "ERGOT"
+      },
+      {
+        "number": 24,
+        "clue": "Concur",
+        "row": 4,
+        "col": 6,
+        "answer": "ASSENT"
+      },
+      {
+        "number": 26,
+        "clue": "Degas contemporary",
+        "row": 5,
+        "col": 1,
+        "answer": "MANET"
+      },
+      {
+        "number": 27,
+        "clue": "\"Perfidious ___\"",
+        "row": 5,
+        "col": 8,
+        "answer": "ALBION"
+      },
+      {
+        "number": 28,
+        "clue": "In need of an outsized collar",
+        "row": 5,
+        "col": 12,
+        "answer": "BULLNECKED"
+      },
+      {
+        "number": 29,
+        "clue": "Inventors' fortes",
+        "row": 5,
+        "col": 13,
+        "answer": "IDEAS"
+      },
+      {
+        "number": 30,
+        "clue": "Whale",
+        "row": 5,
+        "col": 14,
+        "answer": "CETE"
+      },
+      {
+        "number": 31,
+        "clue": "Asian desert",
+        "row": 6,
+        "col": 0,
+        "answer": "GOBI"
+      },
+      {
+        "number": 33,
+        "clue": "Bailey or fogy",
+        "row": 6,
+        "col": 7,
+        "answer": "OLD"
+      },
+      {
+        "number": 36,
+        "clue": "Mideast people",
+        "row": 7,
+        "col": 3,
+        "answer": "ISRAELIS"
+      },
+      {
+        "number": 38,
+        "clue": "Tropical plants",
+        "row": 7,
+        "col": 10,
+        "answer": "INGAS"
+      },
+      {
+        "number": 40,
+        "clue": "Word of preference",
+        "row": 8,
+        "col": 5,
+        "answer": "INSTEAD"
+      },
+      {
+        "number": 41,
+        "clue": "Shopping centers",
+        "row": 8,
+        "col": 9,
+        "answer": "ARCADES"
+      },
+      {
+        "number": 44,
+        "clue": "Roguish",
+        "row": 9,
+        "col": 4,
+        "answer": "ARCH"
+      },
+      {
+        "number": 46,
+        "clue": "Beached",
+        "row": 9,
+        "col": 11,
+        "answer": "ASHORE"
+      },
+      {
+        "number": 48,
+        "clue": "Very good character",
+        "row": 10,
+        "col": 7,
+        "answer": "EDDIE"
+      },
+      {
+        "number": 49,
+        "clue": "Mr. Eban",
+        "row": 11,
+        "col": 0,
+        "answer": "ABBA"
+      },
+      {
+        "number": 50,
+        "clue": "Wrap around",
+        "row": 11,
+        "col": 1,
+        "answer": "FURL"
+      },
+      {
+        "number": 51,
+        "clue": "___ in one's ear",
+        "row": 11,
+        "col": 2,
+        "answer": "FLEA"
+      },
+      {
+        "number": 52,
+        "clue": "Palliate",
+        "row": 11,
+        "col": 6,
+        "answer": "EASE"
+      },
+      {
+        "number": 54,
+        "clue": "Shake ___ (hurry)",
+        "row": 11,
+        "col": 13,
+        "answer": "ALEG"
+      },
+      {
+        "number": 55,
+        "clue": "Roster entry",
+        "row": 11,
+        "col": 14,
+        "answer": "NAME"
+      },
+      {
+        "number": 57,
+        "clue": "TV actor Byrnes",
+        "row": 12,
+        "col": 8,
+        "answer": "EDD"
+      }
+    ]
+  }
+}

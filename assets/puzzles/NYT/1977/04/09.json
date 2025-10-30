@@ -1,0 +1,515 @@
+{
+  "id": "nyt-1977-04-09",
+  "metadata": {
+    "date": "1977-04-09",
+    "title": "NY TIMES, SAT, APR 09, 1977",
+    "author": "Jack Luzzatto",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["R", "E", "C", "L", "A", "M", "E", null, null, "G", "E", "L", "A", "T", "I"],
+    ["E", "P", "A", "U", "L", "E", "T", null, "A", "L", "S", "O", "R", "A", "N"],
+    ["D", "I", "N", "N", "E", "R", "O", "C", "C", "A", "S", "I", "O", "N", "S"],
+    ["S", "C", "O", "T", null, "S", "W", "A", "T", "S", null, "S", "U", "T", "E"],
+    ["T", "U", "N", null, null, null, "A", "N", "I", "S", "E", null, "S", "A", "T"],
+    ["A", "R", "I", "D", null, "C", "H", "I", "N", null, "A", "P", "E", "R", "S"],
+    ["R", "E", "C", "E", "D", "E", null, "N", "I", "A", "G", "A", "R", "A", null],
+    [null, null, null, "F", "I", "R", "E", "E", "A", "T", "E", "R", null, null, null],
+    [null, "O", "V", "E", "R", "E", "A", "T", null, "I", "R", "I", "S", "E", "S"],
+    ["S", "P", "A", "R", "K", null, "R", "E", "G", "S", null, "S", "E", "R", "E"],
+    ["T", "I", "M", null, "S", "O", "L", "E", "R", null, null, null, "L", "A", "D"],
+    ["R", "A", "P", "T", null, "M", "E", "T", "E", "S", null, "E", "L", "S", "A"],
+    ["A", "T", "E", "O", "N", "E", "S", "H", "E", "A", "R", "T", "O", "U", "T"],
+    ["T", "E", "R", "R", "O", "R", "S", null, "C", "L", "O", "T", "U", "R", "E"],
+    ["A", "S", "S", "E", "T", "S", null, null, "E", "S", "T", "A", "T", "E", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Publicity",
+        "row": 0,
+        "col": 0,
+        "answer": "RECLAME"
+      },
+      {
+        "number": 8,
+        "clue": "Italian ice creams",
+        "row": 0,
+        "col": 9,
+        "answer": "GELATI"
+      },
+      {
+        "number": 14,
+        "clue": "Shoulder fringe",
+        "row": 1,
+        "col": 0,
+        "answer": "EPAULET"
+      },
+      {
+        "number": 15,
+        "clue": "Dewey in 1948",
+        "row": 1,
+        "col": 8,
+        "answer": "ALSORAN"
+      },
+      {
+        "number": 16,
+        "clue": "Testimonial feasts, e.g.",
+        "row": 2,
+        "col": 0,
+        "answer": "DINNEROCCASIONS"
+      },
+      {
+        "number": 18,
+        "clue": "Highlander",
+        "row": 3,
+        "col": 0,
+        "answer": "SCOT"
+      },
+      {
+        "number": 19,
+        "clue": "Hits hard",
+        "row": 3,
+        "col": 5,
+        "answer": "SWATS"
+      },
+      {
+        "number": 20,
+        "clue": "Flock of mallards",
+        "row": 3,
+        "col": 11,
+        "answer": "SUTE"
+      },
+      {
+        "number": 21,
+        "clue": "Wine cask",
+        "row": 4,
+        "col": 0,
+        "answer": "TUN"
+      },
+      {
+        "number": 22,
+        "clue": "Liqueur flavoring",
+        "row": 4,
+        "col": 6,
+        "answer": "ANISE"
+      },
+      {
+        "number": 24,
+        "clue": "Posed",
+        "row": 4,
+        "col": 12,
+        "answer": "SAT"
+      },
+      {
+        "number": 25,
+        "clue": "Parched",
+        "row": 5,
+        "col": 0,
+        "answer": "ARID"
+      },
+      {
+        "number": 27,
+        "clue": "Shoot the breeze",
+        "row": 5,
+        "col": 5,
+        "answer": "CHIN"
+      },
+      {
+        "number": 28,
+        "clue": "Parrots",
+        "row": 5,
+        "col": 10,
+        "answer": "APERS"
+      },
+      {
+        "number": 30,
+        "clue": "Ebb",
+        "row": 6,
+        "col": 0,
+        "answer": "RECEDE"
+      },
+      {
+        "number": 32,
+        "clue": "Spectacular waterfall",
+        "row": 6,
+        "col": 7,
+        "answer": "NIAGARA"
+      },
+      {
+        "number": 34,
+        "clue": "Pugnacious person",
+        "row": 7,
+        "col": 3,
+        "answer": "FIREEATER"
+      },
+      {
+        "number": 36,
+        "clue": "Gorge",
+        "row": 8,
+        "col": 1,
+        "answer": "OVEREAT"
+      },
+      {
+        "number": 38,
+        "clue": "Eye parts",
+        "row": 8,
+        "col": 9,
+        "answer": "IRISES"
+      },
+      {
+        "number": 42,
+        "clue": "Fiery particle",
+        "row": 9,
+        "col": 0,
+        "answer": "SPARK"
+      },
+      {
+        "number": 43,
+        "clue": "Rules: Abbr.",
+        "row": 9,
+        "col": 6,
+        "answer": "REGS"
+      },
+      {
+        "number": 45,
+        "clue": "Sapless",
+        "row": 9,
+        "col": 11,
+        "answer": "SERE"
+      },
+      {
+        "number": 46,
+        "clue": "Dickens boy",
+        "row": 10,
+        "col": 0,
+        "answer": "TIM"
+      },
+      {
+        "number": 47,
+        "clue": "Cobbler",
+        "row": 10,
+        "col": 4,
+        "answer": "SOLER"
+      },
+      {
+        "number": 49,
+        "clue": "Young fellow",
+        "row": 10,
+        "col": 12,
+        "answer": "LAD"
+      },
+      {
+        "number": 50,
+        "clue": "Engrossed",
+        "row": 11,
+        "col": 0,
+        "answer": "RAPT"
+      },
+      {
+        "number": 52,
+        "clue": "Allots",
+        "row": 11,
+        "col": 5,
+        "answer": "METES"
+      },
+      {
+        "number": 54,
+        "clue": "Wagnerian heroine",
+        "row": 11,
+        "col": 11,
+        "answer": "ELSA"
+      },
+      {
+        "number": 55,
+        "clue": "Suffered enviously",
+        "row": 12,
+        "col": 0,
+        "answer": "ATEONESHEARTOUT"
+      },
+      {
+        "number": 58,
+        "clue": "Brats",
+        "row": 13,
+        "col": 0,
+        "answer": "TERRORS"
+      },
+      {
+        "number": 59,
+        "clue": "Close of legislature",
+        "row": 13,
+        "col": 8,
+        "answer": "CLOTURE"
+      },
+      {
+        "number": 60,
+        "clue": "Worthwhile holdings",
+        "row": 14,
+        "col": 0,
+        "answer": "ASSETS"
+      },
+      {
+        "number": 61,
+        "clue": "Worthwhile leavings",
+        "row": 14,
+        "col": 8,
+        "answer": "ESTATES"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Russian symbol",
+        "row": 0,
+        "col": 0,
+        "answer": "REDSTAR"
+      },
+      {
+        "number": 2,
+        "clue": "Food fancier",
+        "row": 0,
+        "col": 1,
+        "answer": "EPICURE"
+      },
+      {
+        "number": 3,
+        "clue": "Orthodox",
+        "row": 0,
+        "col": 2,
+        "answer": "CANONIC"
+      },
+      {
+        "number": 4,
+        "clue": "Fontanne partner",
+        "row": 0,
+        "col": 3,
+        "answer": "LUNT"
+      },
+      {
+        "number": 5,
+        "clue": "Pub serving",
+        "row": 0,
+        "col": 4,
+        "answer": "ALE"
+      },
+      {
+        "number": 6,
+        "clue": "Seas: Fr.",
+        "row": 0,
+        "col": 5,
+        "answer": "MERS"
+      },
+      {
+        "number": 7,
+        "clue": "Georgia river",
+        "row": 0,
+        "col": 6,
+        "answer": "ETOWAH"
+      },
+      {
+        "number": 8,
+        "clue": "Tumbler",
+        "row": 0,
+        "col": 9,
+        "answer": "GLASS"
+      },
+      {
+        "number": 9,
+        "clue": "Lisper's problem",
+        "row": 0,
+        "col": 10,
+        "answer": "ESS"
+      },
+      {
+        "number": 10,
+        "clue": "Superman's friend",
+        "row": 0,
+        "col": 11,
+        "answer": "LOIS"
+      },
+      {
+        "number": 11,
+        "clue": "Alarm clock",
+        "row": 0,
+        "col": 12,
+        "answer": "AROUSER"
+      },
+      {
+        "number": 12,
+        "clue": "Trumpet blare",
+        "row": 0,
+        "col": 13,
+        "answer": "TANTARA"
+      },
+      {
+        "number": 13,
+        "clue": "Mosaic pieces",
+        "row": 0,
+        "col": 14,
+        "answer": "INSETS"
+      },
+      {
+        "number": 15,
+        "clue": "Sea anemone",
+        "row": 1,
+        "col": 8,
+        "answer": "ACTINIA"
+      },
+      {
+        "number": 17,
+        "clue": "Dracula features",
+        "row": 2,
+        "col": 7,
+        "answer": "CANINETEETH"
+      },
+      {
+        "number": 23,
+        "clue": "Hard to restrain",
+        "row": 4,
+        "col": 10,
+        "answer": "EAGER"
+      },
+      {
+        "number": 26,
+        "clue": "Postpone",
+        "row": 5,
+        "col": 3,
+        "answer": "DEFER"
+      },
+      {
+        "number": 27,
+        "clue": "Coat with wax",
+        "row": 5,
+        "col": 5,
+        "answer": "CERE"
+      },
+      {
+        "number": 29,
+        "clue": "Juliet's betrothed",
+        "row": 5,
+        "col": 11,
+        "answer": "PARIS"
+      },
+      {
+        "number": 31,
+        "clue": "Daggers",
+        "row": 6,
+        "col": 4,
+        "answer": "DIRKS"
+      },
+      {
+        "number": 33,
+        "clue": "Monkshood",
+        "row": 6,
+        "col": 9,
+        "answer": "ATIS"
+      },
+      {
+        "number": 35,
+        "clue": "Like certain seals",
+        "row": 7,
+        "col": 6,
+        "answer": "EARLESS"
+      },
+      {
+        "number": 36,
+        "clue": "Pain-killers",
+        "row": 8,
+        "col": 1,
+        "answer": "OPIATES"
+      },
+      {
+        "number": 37,
+        "clue": "They improvise",
+        "row": 8,
+        "col": 2,
+        "answer": "VAMPERS"
+      },
+      {
+        "number": 39,
+        "clue": "Betrayal",
+        "row": 8,
+        "col": 12,
+        "answer": "SELLOUT"
+      },
+      {
+        "number": 40,
+        "clue": "Expunction",
+        "row": 8,
+        "col": 13,
+        "answer": "ERASURE"
+      },
+      {
+        "number": 41,
+        "clue": "Calms down",
+        "row": 8,
+        "col": 14,
+        "answer": "SEDATES"
+      },
+      {
+        "number": 42,
+        "clue": "Layers",
+        "row": 9,
+        "col": 0,
+        "answer": "STRATA"
+      },
+      {
+        "number": 44,
+        "clue": "An old glory",
+        "row": 9,
+        "col": 8,
+        "answer": "GREECE"
+      },
+      {
+        "number": 48,
+        "clue": "Hebrew measures",
+        "row": 10,
+        "col": 5,
+        "answer": "OMERS"
+      },
+      {
+        "number": 51,
+        "clue": "Sped madly",
+        "row": 11,
+        "col": 3,
+        "answer": "TORE"
+      },
+      {
+        "number": 53,
+        "clue": "Bando and Maglie",
+        "row": 11,
+        "col": 9,
+        "answer": "SALS"
+      },
+      {
+        "number": 54,
+        "clue": "Girl of comics",
+        "row": 11,
+        "col": 11,
+        "answer": "ETTA"
+      },
+      {
+        "number": 56,
+        "clue": "\"___ by bread alone . . . \"",
+        "row": 12,
+        "col": 4,
+        "answer": "NOT"
+      },
+      {
+        "number": 57,
+        "clue": "Spoilage",
+        "row": 12,
+        "col": 10,
+        "answer": "ROT"
+      }
+    ]
+  }
+}

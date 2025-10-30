@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-11-23",
+  "metadata": {
+    "date": "1977-11-23",
+    "title": "NY TIMES, WED, NOV 23, 1977",
+    "author": "Jeanette K. Brill",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["D", "A", "F", "T", null, "S", "L", "E", "D", null, null, "N", "A", "I", "L"],
+    ["I", "B", "A", "R", null, "P", "I", "L", "E", "D", null, "A", "R", "M", "Y"],
+    ["D", "O", "S", "E", null, "A", "G", "I", "L", "E", null, "P", "O", "P", "E"],
+    ["O", "U", "T", "A", "T", "T", "H", "E", "E", "L", "B", "O", "W", "S", null],
+    [null, null, null, "S", "U", "E", "T", null, "G", "I", "R", "L", null, null, null],
+    ["D", "E", "M", "U", "R", null, null, "G", "A", "V", "E", "I", "T", "T", "O"],
+    ["A", "C", "O", "R", "N", null, "L", "A", "T", "E", "R", null, "E", "A", "U"],
+    ["T", "O", "R", "Y", null, "M", "O", "P", "E", "R", null, "M", "A", "T", "T"],
+    ["E", "L", "A", null, "C", "A", "V", "E", "S", null, "R", "A", "C", "E", "R"],
+    ["R", "E", "L", "E", "A", "S", "E", "D", null, null, "O", "C", "H", "R", "E"],
+    [null, null, null, "N", "E", "S", "S", null, "I", "T", "C", "H", null, null, null],
+    [null, "D", "O", "W", "N", "A", "T", "T", "H", "E", "H", "E", "E", "L", "S"],
+    ["S", "O", "U", "R", null, "G", "O", "R", "E", "N", null, "T", "R", "I", "P"],
+    ["E", "L", "S", "A", null, "E", "R", "I", "A", "N", null, "E", "S", "M", "E"],
+    ["W", "E", "E", "P", null, null, "Y", "O", "R", "E", null, "S", "E", "E", "D"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tetched",
+        "row": 0,
+        "col": 0,
+        "answer": "DAFT"
+      },
+      {
+        "number": 5,
+        "clue": "Jack jumper",
+        "row": 0,
+        "col": 5,
+        "answer": "SLED"
+      },
+      {
+        "number": 9,
+        "clue": "Its overgrowth is called onychauxis",
+        "row": 0,
+        "col": 11,
+        "answer": "NAIL"
+      },
+      {
+        "number": 13,
+        "clue": "Construction girder",
+        "row": 1,
+        "col": 0,
+        "answer": "IBAR"
+      },
+      {
+        "number": 14,
+        "clue": "Nappy",
+        "row": 1,
+        "col": 5,
+        "answer": "PILED"
+      },
+      {
+        "number": 16,
+        "clue": "Middies' rival",
+        "row": 1,
+        "col": 11,
+        "answer": "ARMY"
+      },
+      {
+        "number": 17,
+        "clue": "Portion of a potion",
+        "row": 2,
+        "col": 0,
+        "answer": "DOSE"
+      },
+      {
+        "number": 18,
+        "clue": "As quick as a cat",
+        "row": 2,
+        "col": 5,
+        "answer": "AGILE"
+      },
+      {
+        "number": 19,
+        "clue": "He wrote \"Essay on Man\"",
+        "row": 2,
+        "col": 11,
+        "answer": "POPE"
+      },
+      {
+        "number": 20,
+        "clue": "Shabby",
+        "row": 3,
+        "col": 0,
+        "answer": "OUTATTHEELBOWS"
+      },
+      {
+        "number": 23,
+        "clue": "Tallow",
+        "row": 4,
+        "col": 3,
+        "answer": "SUET"
+      },
+      {
+        "number": 24,
+        "clue": "\"Bloomer ___\"",
+        "row": 4,
+        "col": 8,
+        "answer": "GIRL"
+      },
+      {
+        "number": 25,
+        "clue": "Have scruples",
+        "row": 5,
+        "col": 0,
+        "answer": "DEMUR"
+      },
+      {
+        "number": 28,
+        "clue": "Thrashed",
+        "row": 5,
+        "col": 7,
+        "answer": "GAVEITTO"
+      },
+      {
+        "number": 32,
+        "clue": "Squirrel's tidbit",
+        "row": 6,
+        "col": 0,
+        "answer": "ACORN"
+      },
+      {
+        "number": 33,
+        "clue": "\"Buy now, pay ___\"",
+        "row": 6,
+        "col": 6,
+        "answer": "LATER"
+      },
+      {
+        "number": 34,
+        "clue": "___ Claire, Wis.",
+        "row": 6,
+        "col": 12,
+        "answer": "EAU"
+      },
+      {
+        "number": 35,
+        "clue": "Reactionary",
+        "row": 7,
+        "col": 0,
+        "answer": "TORY"
+      },
+      {
+        "number": 36,
+        "clue": "Listless one",
+        "row": 7,
+        "col": 5,
+        "answer": "MOPER"
+      },
+      {
+        "number": 37,
+        "clue": "Dillon of \"Gunsmoke\"",
+        "row": 7,
+        "col": 11,
+        "answer": "MATT"
+      },
+      {
+        "number": 38,
+        "clue": "Guido note",
+        "row": 8,
+        "col": 0,
+        "answer": "ELA"
+      },
+      {
+        "number": 39,
+        "clue": "Spelunkers' milieu",
+        "row": 8,
+        "col": 4,
+        "answer": "CAVES"
+      },
+      {
+        "number": 40,
+        "clue": "Le Mans entrant",
+        "row": 8,
+        "col": 10,
+        "answer": "RACER"
+      },
+      {
+        "number": 41,
+        "clue": "At liberty at last",
+        "row": 9,
+        "col": 0,
+        "answer": "RELEASED"
+      },
+      {
+        "number": 43,
+        "clue": "Yellow pigment",
+        "row": 9,
+        "col": 10,
+        "answer": "OCHRE"
+      },
+      {
+        "number": 44,
+        "clue": "Robert Stack role",
+        "row": 10,
+        "col": 3,
+        "answer": "NESS"
+      },
+      {
+        "number": 45,
+        "clue": "Restless inclination",
+        "row": 10,
+        "col": 8,
+        "answer": "ITCH"
+      },
+      {
+        "number": 47,
+        "clue": "Shabby",
+        "row": 11,
+        "col": 1,
+        "answer": "DOWNATTHEHEELS"
+      },
+      {
+        "number": 53,
+        "clue": "Tart",
+        "row": 12,
+        "col": 0,
+        "answer": "SOUR"
+      },
+      {
+        "number": 54,
+        "clue": "Big name in bridge",
+        "row": 12,
+        "col": 5,
+        "answer": "GOREN"
+      },
+      {
+        "number": 55,
+        "clue": "Stumble",
+        "row": 12,
+        "col": 11,
+        "answer": "TRIP"
+      },
+      {
+        "number": 56,
+        "clue": "Lohengrin's wife",
+        "row": 13,
+        "col": 0,
+        "answer": "ELSA"
+      },
+      {
+        "number": 57,
+        "clue": "Of one of the Great Lakes",
+        "row": 13,
+        "col": 5,
+        "answer": "ERIAN"
+      },
+      {
+        "number": 58,
+        "clue": "Salinger's \"To ___ with Love\"",
+        "row": 13,
+        "col": 11,
+        "answer": "ESME"
+      },
+      {
+        "number": 59,
+        "clue": "\"___ no more, my lady\"",
+        "row": 14,
+        "col": 0,
+        "answer": "WEEP"
+      },
+      {
+        "number": 60,
+        "clue": "Time long gone by",
+        "row": 14,
+        "col": 6,
+        "answer": "YORE"
+      },
+      {
+        "number": 61,
+        "clue": "A beginning",
+        "row": 14,
+        "col": 11,
+        "answer": "SEED"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Prank",
+        "row": 0,
+        "col": 0,
+        "answer": "DIDO"
+      },
+      {
+        "number": 2,
+        "clue": "___ Hassan, \"Arabian Nights\" character",
+        "row": 0,
+        "col": 1,
+        "answer": "ABOU"
+      },
+      {
+        "number": 3,
+        "clue": "Firmly loyal, as friends",
+        "row": 0,
+        "col": 2,
+        "answer": "FAST"
+      },
+      {
+        "number": 4,
+        "clue": "Hamilton's post in 1789",
+        "row": 0,
+        "col": 3,
+        "answer": "TREASURY"
+      },
+      {
+        "number": 5,
+        "clue": "Freshet",
+        "row": 0,
+        "col": 5,
+        "answer": "SPATE"
+      },
+      {
+        "number": 6,
+        "clue": "\"The ___ That Failed\"",
+        "row": 0,
+        "col": 6,
+        "answer": "LIGHT"
+      },
+      {
+        "number": 7,
+        "clue": "Sculptor Nadelman",
+        "row": 0,
+        "col": 7,
+        "answer": "ELIE"
+      },
+      {
+        "number": 8,
+        "clue": "Signers of the Declaration",
+        "row": 0,
+        "col": 8,
+        "answer": "DELEGATES"
+      },
+      {
+        "number": 9,
+        "clue": "Citt\u00e0 near Vesuvius",
+        "row": 0,
+        "col": 11,
+        "answer": "NAPOLI"
+      },
+      {
+        "number": 10,
+        "clue": "In ___ (lined up)",
+        "row": 0,
+        "col": 12,
+        "answer": "AROW"
+      },
+      {
+        "number": 11,
+        "clue": "Mischievous ones",
+        "row": 0,
+        "col": 13,
+        "answer": "IMPS"
+      },
+      {
+        "number": 12,
+        "clue": "Caustic",
+        "row": 0,
+        "col": 14,
+        "answer": "LYE"
+      },
+      {
+        "number": 15,
+        "clue": "Rescue",
+        "row": 1,
+        "col": 9,
+        "answer": "DELIVER"
+      },
+      {
+        "number": 21,
+        "clue": "Pirouette",
+        "row": 3,
+        "col": 4,
+        "answer": "TURN"
+      },
+      {
+        "number": 22,
+        "clue": "Fox or Rabbit",
+        "row": 3,
+        "col": 10,
+        "answer": "BRER"
+      },
+      {
+        "number": 25,
+        "clue": "Time marker",
+        "row": 5,
+        "col": 0,
+        "answer": "DATER"
+      },
+      {
+        "number": 26,
+        "clue": "Eleve's school",
+        "row": 5,
+        "col": 1,
+        "answer": "ECOLE"
+      },
+      {
+        "number": 27,
+        "clue": "Righteous",
+        "row": 5,
+        "col": 2,
+        "answer": "MORAL"
+      },
+      {
+        "number": 28,
+        "clue": "Yawned",
+        "row": 5,
+        "col": 7,
+        "answer": "GAPED"
+      },
+      {
+        "number": 29,
+        "clue": "Emulate Jean Brodie",
+        "row": 5,
+        "col": 12,
+        "answer": "TEACH"
+      },
+      {
+        "number": 30,
+        "clue": "\"Spud\"",
+        "row": 5,
+        "col": 13,
+        "answer": "TATER"
+      },
+      {
+        "number": 31,
+        "clue": "Bizarre",
+        "row": 5,
+        "col": 14,
+        "answer": "OUTRE"
+      },
+      {
+        "number": 33,
+        "clue": "Segal best seller",
+        "row": 6,
+        "col": 6,
+        "answer": "LOVESTORY"
+      },
+      {
+        "number": 36,
+        "clue": "Kneading of sorts",
+        "row": 7,
+        "col": 5,
+        "answer": "MASSAGE"
+      },
+      {
+        "number": 37,
+        "clue": "Portuguese guitars",
+        "row": 7,
+        "col": 11,
+        "answer": "MACHETES"
+      },
+      {
+        "number": 39,
+        "clue": "City in Normandy",
+        "row": 8,
+        "col": 4,
+        "answer": "CAEN"
+      },
+      {
+        "number": 40,
+        "clue": "French saint: Aug. 16",
+        "row": 8,
+        "col": 10,
+        "answer": "ROCH"
+      },
+      {
+        "number": 42,
+        "clue": "Sheathe",
+        "row": 9,
+        "col": 3,
+        "answer": "ENWRAP"
+      },
+      {
+        "number": 45,
+        "clue": "\"___ America Singing\": Whitman",
+        "row": 10,
+        "col": 8,
+        "answer": "IHEAR"
+      },
+      {
+        "number": 46,
+        "clue": "Shade of orange",
+        "row": 10,
+        "col": 9,
+        "answer": "TENNE"
+      },
+      {
+        "number": 47,
+        "clue": "Allot sparingly",
+        "row": 11,
+        "col": 1,
+        "answer": "DOLE"
+      },
+      {
+        "number": 48,
+        "clue": "York's river",
+        "row": 11,
+        "col": 2,
+        "answer": "OUSE"
+      },
+      {
+        "number": 49,
+        "clue": "Wynken, Blynken and Nod",
+        "row": 11,
+        "col": 7,
+        "answer": "TRIO"
+      },
+      {
+        "number": 50,
+        "clue": "Gaelic",
+        "row": 11,
+        "col": 12,
+        "answer": "ERSE"
+      },
+      {
+        "number": 51,
+        "clue": "Mortar ingredient",
+        "row": 11,
+        "col": 13,
+        "answer": "LIME"
+      },
+      {
+        "number": 52,
+        "clue": "Hurried",
+        "row": 11,
+        "col": 14,
+        "answer": "SPED"
+      },
+      {
+        "number": 53,
+        "clue": "Baste",
+        "row": 12,
+        "col": 0,
+        "answer": "SEW"
+      }
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "id": "nyt-1977-06-24",
+  "metadata": {
+    "date": "1977-06-24",
+    "title": "NY TIMES, FRI, JUN 24, 1977",
+    "author": "Bert Beaman",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "A", "W", "E", "D", null, "C", "U", "E", "S", null, "A", "I", "N", "T"],
+    ["P", "R", "I", "M", "A", "D", "O", "N", "N", "A", null, "S", "T", "O", "A"],
+    ["I", "N", "S", "U", "B", "O", "R", "D", "I", "N", "A", "T", "I", "O", "N"],
+    ["T", "O", "P", null, "B", "R", "E", "E", "D", null, "L", "A", "N", "D", "S"],
+    [null, null, null, "A", "L", "A", "R", "M", null, "B", "A", "B", "E", "L", null],
+    ["S", "C", "E", "N", "E", null, null, "O", "M", "A", "R", null, "R", "E", "P"],
+    ["C", "O", "N", "N", null, "S", "A", "N", "U", "S", "I", null, "A", "H", "A"],
+    ["U", "N", "S", "O", "P", "H", "I", "S", "T", "I", "C", "A", "T", "E", "D"],
+    ["D", "T", "H", null, "L", "I", "S", "T", "E", "N", null, "D", "E", "A", "D"],
+    ["S", "I", "R", null, "A", "P", "E", "R", null, null, "D", "A", "D", "D", "Y"],
+    [null, "N", "O", "U", "N", "S", null, "A", "D", "S", "U", "M", null, null, null],
+    ["M", "E", "U", "S", "E", null, "A", "T", "O", "L", "L", null, "E", "S", "E"],
+    ["U", "N", "D", "E", "R", "P", "R", "I", "V", "I", "L", "E", "G", "E", "D"],
+    ["I", "C", "E", "R", null, "I", "N", "V", "E", "T", "E", "R", "A", "T", "E"],
+    ["R", "E", "D", "S", null, "P", "E", "E", "R", null, "S", "E", "D", "A", "N"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Did some carpentry",
+        "row": 0,
+        "col": 0,
+        "answer": "SAWED"
+      },
+      {
+        "number": 6,
+        "clue": "Actors' concerns",
+        "row": 0,
+        "col": 6,
+        "answer": "CUES"
+      },
+      {
+        "number": 10,
+        "clue": "\"___ She Sweet\"",
+        "row": 0,
+        "col": 11,
+        "answer": "AINT"
+      },
+      {
+        "number": 14,
+        "clue": "Star like Sills",
+        "row": 1,
+        "col": 0,
+        "answer": "PRIMADONNA"
+      },
+      {
+        "number": 16,
+        "clue": "Attic promenade",
+        "row": 1,
+        "col": 11,
+        "answer": "STOA"
+      },
+      {
+        "number": 17,
+        "clue": "Army no-no",
+        "row": 2,
+        "col": 0,
+        "answer": "INSUBORDINATION"
+      },
+      {
+        "number": 19,
+        "clue": "Kind of kick",
+        "row": 3,
+        "col": 0,
+        "answer": "TOP"
+      },
+      {
+        "number": 20,
+        "clue": "Westminster judge's concern",
+        "row": 3,
+        "col": 4,
+        "answer": "BREED"
+      },
+      {
+        "number": 21,
+        "clue": "Catches",
+        "row": 3,
+        "col": 10,
+        "answer": "LANDS"
+      },
+      {
+        "number": 22,
+        "clue": "Cry \"Wolf!\"",
+        "row": 4,
+        "col": 3,
+        "answer": "ALARM"
+      },
+      {
+        "number": 23,
+        "clue": "Tumult",
+        "row": 4,
+        "col": 9,
+        "answer": "BABEL"
+      },
+      {
+        "number": 24,
+        "clue": "Setting",
+        "row": 5,
+        "col": 0,
+        "answer": "SCENE"
+      },
+      {
+        "number": 27,
+        "clue": "Sharif",
+        "row": 5,
+        "col": 7,
+        "answer": "OMAR"
+      },
+      {
+        "number": 29,
+        "clue": "Corded fabric",
+        "row": 5,
+        "col": 12,
+        "answer": "REP"
+      },
+      {
+        "number": 31,
+        "clue": "Neighbor of R.I.",
+        "row": 6,
+        "col": 0,
+        "answer": "CONN"
+      },
+      {
+        "number": 32,
+        "clue": "Moslem ascetic",
+        "row": 6,
+        "col": 5,
+        "answer": "SANUSI"
+      },
+      {
+        "number": 34,
+        "clue": "\"Eureka!\"",
+        "row": 6,
+        "col": 12,
+        "answer": "AHA"
+      },
+      {
+        "number": 35,
+        "clue": "Na\u00efve",
+        "row": 7,
+        "col": 0,
+        "answer": "UNSOPHISTICATED"
+      },
+      {
+        "number": 38,
+        "clue": "Divinity-school deg.",
+        "row": 8,
+        "col": 0,
+        "answer": "DTH"
+      },
+      {
+        "number": 39,
+        "clue": "Pay attention",
+        "row": 8,
+        "col": 4,
+        "answer": "LISTEN"
+      },
+      {
+        "number": 40,
+        "clue": "Kind of duck",
+        "row": 8,
+        "col": 11,
+        "answer": "DEAD"
+      },
+      {
+        "number": 41,
+        "clue": "Gielgud's title",
+        "row": 9,
+        "col": 0,
+        "answer": "SIR"
+      },
+      {
+        "number": 42,
+        "clue": "Unoriginal one",
+        "row": 9,
+        "col": 4,
+        "answer": "APER"
+      },
+      {
+        "number": 43,
+        "clue": "Warbucks",
+        "row": 9,
+        "col": 10,
+        "answer": "DADDY"
+      },
+      {
+        "number": 44,
+        "clue": "Some are common",
+        "row": 10,
+        "col": 1,
+        "answer": "NOUNS"
+      },
+      {
+        "number": 46,
+        "clue": "Latin roll-call answer",
+        "row": 10,
+        "col": 7,
+        "answer": "ADSUM"
+      },
+      {
+        "number": 49,
+        "clue": "W.W.I battle site",
+        "row": 11,
+        "col": 0,
+        "answer": "MEUSE"
+      },
+      {
+        "number": 50,
+        "clue": "Bikini, for one",
+        "row": 11,
+        "col": 6,
+        "answer": "ATOLL"
+      },
+      {
+        "number": 51,
+        "clue": "Wind dir.",
+        "row": 11,
+        "col": 12,
+        "answer": "ESE"
+      },
+      {
+        "number": 54,
+        "clue": "Like many slum children",
+        "row": 12,
+        "col": 0,
+        "answer": "UNDERPRIVILEGED"
+      },
+      {
+        "number": 57,
+        "clue": "Wine bucket",
+        "row": 13,
+        "col": 0,
+        "answer": "ICER"
+      },
+      {
+        "number": 58,
+        "clue": "Habitual",
+        "row": 13,
+        "col": 5,
+        "answer": "INVETERATE"
+      },
+      {
+        "number": 59,
+        "clue": "Baseball champs: 1976",
+        "row": 14,
+        "col": 0,
+        "answer": "REDS"
+      },
+      {
+        "number": 60,
+        "clue": "Earl or duke",
+        "row": 14,
+        "col": 5,
+        "answer": "PEER"
+      },
+      {
+        "number": 61,
+        "clue": "Runabout's relative",
+        "row": 14,
+        "col": 10,
+        "answer": "SEDAN"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Patio gear",
+        "row": 0,
+        "col": 0,
+        "answer": "SPIT"
+      },
+      {
+        "number": 2,
+        "clue": "River through Pisa",
+        "row": 0,
+        "col": 1,
+        "answer": "ARNO"
+      },
+      {
+        "number": 3,
+        "clue": "Mere handful",
+        "row": 0,
+        "col": 2,
+        "answer": "WISP"
+      },
+      {
+        "number": 4,
+        "clue": "Bird that can't fly",
+        "row": 0,
+        "col": 3,
+        "answer": "EMU"
+      },
+      {
+        "number": 5,
+        "clue": "What dilettantes do",
+        "row": 0,
+        "col": 4,
+        "answer": "DABBLE"
+      },
+      {
+        "number": 6,
+        "clue": "Kitchen utensil",
+        "row": 0,
+        "col": 6,
+        "answer": "CORER"
+      },
+      {
+        "number": 7,
+        "clue": "Reserved",
+        "row": 0,
+        "col": 7,
+        "answer": "UNDEMONSTRATIVE"
+      },
+      {
+        "number": 8,
+        "clue": "Oklahoma city",
+        "row": 0,
+        "col": 8,
+        "answer": "ENID"
+      },
+      {
+        "number": 9,
+        "clue": "___ Diego",
+        "row": 0,
+        "col": 9,
+        "answer": "SAN"
+      },
+      {
+        "number": 10,
+        "clue": "Take ___ at (try)",
+        "row": 0,
+        "col": 11,
+        "answer": "ASTAB"
+      },
+      {
+        "number": 11,
+        "clue": "Traveled about",
+        "row": 0,
+        "col": 12,
+        "answer": "ITINERATED"
+      },
+      {
+        "number": 12,
+        "clue": "Fool",
+        "row": 0,
+        "col": 13,
+        "answer": "NOODLEHEAD"
+      },
+      {
+        "number": 13,
+        "clue": "Hosiery shades",
+        "row": 0,
+        "col": 14,
+        "answer": "TANS"
+      },
+      {
+        "number": 15,
+        "clue": "Copperfield's first wife",
+        "row": 1,
+        "col": 5,
+        "answer": "DORA"
+      },
+      {
+        "number": 18,
+        "clue": "He took Rome: A.D. 410",
+        "row": 2,
+        "col": 10,
+        "answer": "ALARIC"
+      },
+      {
+        "number": 22,
+        "clue": "Part of A.D.",
+        "row": 4,
+        "col": 3,
+        "answer": "ANNO"
+      },
+      {
+        "number": 23,
+        "clue": "\"___ Street Blues\"",
+        "row": 4,
+        "col": 9,
+        "answer": "BASIN"
+      },
+      {
+        "number": 24,
+        "clue": "Runs before the wind",
+        "row": 5,
+        "col": 0,
+        "answer": "SCUDS"
+      },
+      {
+        "number": 25,
+        "clue": "Self-restraint",
+        "row": 5,
+        "col": 1,
+        "answer": "CONTINENCE"
+      },
+      {
+        "number": 26,
+        "clue": "Concealed",
+        "row": 5,
+        "col": 2,
+        "answer": "ENSHROUDED"
+      },
+      {
+        "number": 28,
+        "clue": "Tone down",
+        "row": 5,
+        "col": 8,
+        "answer": "MUTE"
+      },
+      {
+        "number": 30,
+        "clue": "Rice field",
+        "row": 5,
+        "col": 14,
+        "answer": "PADDY"
+      },
+      {
+        "number": 32,
+        "clue": "Exports",
+        "row": 6,
+        "col": 5,
+        "answer": "SHIPS"
+      },
+      {
+        "number": 33,
+        "clue": "Ease, in Paris",
+        "row": 6,
+        "col": 6,
+        "answer": "AISE"
+      },
+      {
+        "number": 36,
+        "clue": "Carpenter, at times",
+        "row": 7,
+        "col": 4,
+        "answer": "PLANER"
+      },
+      {
+        "number": 37,
+        "clue": "Bede, of literature",
+        "row": 7,
+        "col": 11,
+        "answer": "ADAM"
+      },
+      {
+        "number": 43,
+        "clue": "He advocated \"brinkmanship\"",
+        "row": 9,
+        "col": 10,
+        "answer": "DULLES"
+      },
+      {
+        "number": 45,
+        "clue": "Customers",
+        "row": 10,
+        "col": 3,
+        "answer": "USERS"
+      },
+      {
+        "number": 47,
+        "clue": "White-cliff territory",
+        "row": 10,
+        "col": 8,
+        "answer": "DOVER"
+      },
+      {
+        "number": 48,
+        "clue": "Skirt feature",
+        "row": 10,
+        "col": 9,
+        "answer": "SLIT"
+      },
+      {
+        "number": 49,
+        "clue": "Alaskan glacier",
+        "row": 11,
+        "col": 0,
+        "answer": "MUIR"
+      },
+      {
+        "number": 50,
+        "clue": "English composer",
+        "row": 11,
+        "col": 6,
+        "answer": "ARNE"
+      },
+      {
+        "number": 51,
+        "clue": "Old oath",
+        "row": 11,
+        "col": 12,
+        "answer": "EGAD"
+      },
+      {
+        "number": 52,
+        "clue": "___ precedent",
+        "row": 11,
+        "col": 13,
+        "answer": "SETA"
+      },
+      {
+        "number": 53,
+        "clue": "British statesman",
+        "row": 11,
+        "col": 14,
+        "answer": "EDEN"
+      },
+      {
+        "number": 55,
+        "clue": "Domino spot",
+        "row": 12,
+        "col": 5,
+        "answer": "PIP"
+      },
+      {
+        "number": 56,
+        "clue": "Prior to",
+        "row": 12,
+        "col": 11,
+        "answer": "ERE"
+      }
+    ]
+  }
+}

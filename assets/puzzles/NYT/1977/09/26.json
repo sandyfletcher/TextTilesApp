@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-09-26",
+  "metadata": {
+    "date": "1977-09-26",
+    "title": "NY TIMES, MON, SEP 26, 1977",
+    "author": "Herb L. Risteen",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "D", "A", "M", null, "E", "P", "O", "C", "H", null, "L", "O", "B", "E"],
+    ["C", "O", "C", "A", null, "L", "A", "C", "E", "S", null, "A", "G", "R", "A"],
+    ["T", "U", "R", "N", "E", "D", "T", "H", "E", "T", "A", "B", "L", "E", "S"],
+    [null, "R", "E", "D", "R", "E", "S", "S", null, null, "L", "E", "E", "R", "Y"],
+    [null, null, null, "R", "O", "S", "Y", null, "G", "A", "E", "L", null, null, null],
+    ["S", "A", "D", "I", "S", "T", null, "T", "A", "R", "P", null, "R", "E", "D"],
+    ["A", "B", "E", "L", null, null, "S", "E", "T", "U", "P", null, "A", "L", "I"],
+    ["T", "A", "B", "L", "E", "D", "T", "H", "E", "M", "O", "T", "I", "O", "N"],
+    ["I", "T", "U", null, "R", "O", "U", "E", "S", null, null, "E", "D", "G", "E"],
+    ["N", "E", "T", null, "M", "I", "N", "E", null, "S", "E", "N", "S", "E", "D"],
+    [null, null, null, "M", "I", "N", "G", null, "M", "E", "D", "E", null, null, null],
+    ["S", "H", "E", "E", "N", null, null, "R", "E", "V", "A", "M", "P", "S", null],
+    ["T", "A", "B", "L", "E", "D", "H", "O", "T", "E", "M", "E", "A", "L", "S"],
+    ["A", "L", "O", "E", null, "O", "I", "L", "E", "R", null, "N", "A", "U", "T"],
+    ["B", "O", "N", "E", null, "S", "T", "E", "R", "N", null, "T", "R", "E", "Y"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Garden occupant",
+        "row": 0,
+        "col": 0,
+        "answer": "ADAM"
+      },
+      {
+        "number": 5,
+        "clue": "Historical period",
+        "row": 0,
+        "col": 5,
+        "answer": "EPOCH"
+      },
+      {
+        "number": 10,
+        "clue": "Lung part",
+        "row": 0,
+        "col": 11,
+        "answer": "LOBE"
+      },
+      {
+        "number": 14,
+        "clue": "Amusing Imogene",
+        "row": 1,
+        "col": 0,
+        "answer": "COCA"
+      },
+      {
+        "number": 15,
+        "clue": "Thrashes",
+        "row": 1,
+        "col": 5,
+        "answer": "LACES"
+      },
+      {
+        "number": 16,
+        "clue": "Taj Mahal site",
+        "row": 1,
+        "col": 11,
+        "answer": "AGRA"
+      },
+      {
+        "number": 17,
+        "clue": "Accomplished a reversal",
+        "row": 2,
+        "col": 0,
+        "answer": "TURNEDTHETABLES"
+      },
+      {
+        "number": 20,
+        "clue": "Remedy",
+        "row": 3,
+        "col": 1,
+        "answer": "REDRESS"
+      },
+      {
+        "number": 21,
+        "clue": "Suspicious",
+        "row": 3,
+        "col": 10,
+        "answer": "LEERY"
+      },
+      {
+        "number": 22,
+        "clue": "Optimistic",
+        "row": 4,
+        "col": 3,
+        "answer": "ROSY"
+      },
+      {
+        "number": 23,
+        "clue": "Highlander, for one",
+        "row": 4,
+        "col": 8,
+        "answer": "GAEL"
+      },
+      {
+        "number": 25,
+        "clue": "Inhuman person",
+        "row": 5,
+        "col": 0,
+        "answer": "SADIST"
+      },
+      {
+        "number": 28,
+        "clue": "Waterproof cover",
+        "row": 5,
+        "col": 7,
+        "answer": "TARP"
+      },
+      {
+        "number": 29,
+        "clue": "Debit color",
+        "row": 5,
+        "col": 12,
+        "answer": "RED"
+      },
+      {
+        "number": 32,
+        "clue": "Son of 1 Across",
+        "row": 6,
+        "col": 0,
+        "answer": "ABEL"
+      },
+      {
+        "number": 33,
+        "clue": "Organization",
+        "row": 6,
+        "col": 6,
+        "answer": "SETUP"
+      },
+      {
+        "number": 34,
+        "clue": "Potent pugilist",
+        "row": 6,
+        "col": 12,
+        "answer": "ALI"
+      },
+      {
+        "number": 35,
+        "clue": "Put off discussion",
+        "row": 7,
+        "col": 0,
+        "answer": "TABLEDTHEMOTION"
+      },
+      {
+        "number": 39,
+        "clue": "Printers' org.",
+        "row": 8,
+        "col": 0,
+        "answer": "ITU"
+      },
+      {
+        "number": 40,
+        "clue": "Dissolute men",
+        "row": 8,
+        "col": 4,
+        "answer": "ROUES"
+      },
+      {
+        "number": 41,
+        "clue": "Sharpness",
+        "row": 8,
+        "col": 11,
+        "answer": "EDGE"
+      },
+      {
+        "number": 42,
+        "clue": "Catch cod",
+        "row": 9,
+        "col": 0,
+        "answer": "NET"
+      },
+      {
+        "number": 43,
+        "clue": "Explosive charge",
+        "row": 9,
+        "col": 4,
+        "answer": "MINE"
+      },
+      {
+        "number": 44,
+        "clue": "Was aware of",
+        "row": 9,
+        "col": 9,
+        "answer": "SENSED"
+      },
+      {
+        "number": 46,
+        "clue": "Chinese porcelain",
+        "row": 10,
+        "col": 3,
+        "answer": "MING"
+      },
+      {
+        "number": 47,
+        "clue": "Persian's neighbor",
+        "row": 10,
+        "col": 8,
+        "answer": "MEDE"
+      },
+      {
+        "number": 48,
+        "clue": "Brightness",
+        "row": 11,
+        "col": 0,
+        "answer": "SHEEN"
+      },
+      {
+        "number": 51,
+        "clue": "Patches up",
+        "row": 11,
+        "col": 7,
+        "answer": "REVAMPS"
+      },
+      {
+        "number": 54,
+        "clue": "Cafe service",
+        "row": 12,
+        "col": 0,
+        "answer": "TABLEDHOTEMEALS"
+      },
+      {
+        "number": 58,
+        "clue": "Medicinal lily",
+        "row": 13,
+        "col": 0,
+        "answer": "ALOE"
+      },
+      {
+        "number": 59,
+        "clue": "Engine tender",
+        "row": 13,
+        "col": 5,
+        "answer": "OILER"
+      },
+      {
+        "number": 60,
+        "clue": "Navigational: Abbr.",
+        "row": 13,
+        "col": 11,
+        "answer": "NAUT"
+      },
+      {
+        "number": 61,
+        "clue": "Fibula or femur",
+        "row": 14,
+        "col": 0,
+        "answer": "BONE"
+      },
+      {
+        "number": 62,
+        "clue": "Noted violinist",
+        "row": 14,
+        "col": 5,
+        "answer": "STERN"
+      },
+      {
+        "number": 63,
+        "clue": "Low card",
+        "row": 14,
+        "col": 11,
+        "answer": "TREY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Statute",
+        "row": 0,
+        "col": 0,
+        "answer": "ACT"
+      },
+      {
+        "number": 2,
+        "clue": "Gloomy",
+        "row": 0,
+        "col": 1,
+        "answer": "DOUR"
+      },
+      {
+        "number": 3,
+        "clue": "Israeli port",
+        "row": 0,
+        "col": 2,
+        "answer": "ACRE"
+      },
+      {
+        "number": 4,
+        "clue": "African baboon",
+        "row": 0,
+        "col": 3,
+        "answer": "MANDRILL"
+      },
+      {
+        "number": 5,
+        "clue": "First in age",
+        "row": 0,
+        "col": 5,
+        "answer": "ELDEST"
+      },
+      {
+        "number": 6,
+        "clue": "Scapegoat",
+        "row": 0,
+        "col": 6,
+        "answer": "PATSY"
+      },
+      {
+        "number": 7,
+        "clue": "Publisher on a 13\u00a2 stamp",
+        "row": 0,
+        "col": 7,
+        "answer": "OCHS"
+      },
+      {
+        "number": 8,
+        "clue": "Dee's predecessor",
+        "row": 0,
+        "col": 8,
+        "answer": "CEE"
+      },
+      {
+        "number": 9,
+        "clue": "Presidential monogram",
+        "row": 0,
+        "col": 9,
+        "answer": "HST"
+      },
+      {
+        "number": 10,
+        "clue": "Put in a class",
+        "row": 0,
+        "col": 11,
+        "answer": "LABEL"
+      },
+      {
+        "number": 11,
+        "clue": "Be flirtatious",
+        "row": 0,
+        "col": 12,
+        "answer": "OGLE"
+      },
+      {
+        "number": 12,
+        "clue": "___ Rabbit",
+        "row": 0,
+        "col": 13,
+        "answer": "BRER"
+      },
+      {
+        "number": 13,
+        "clue": "Marryat's midshipman",
+        "row": 0,
+        "col": 14,
+        "answer": "EASY"
+      },
+      {
+        "number": 18,
+        "clue": "Greek love god",
+        "row": 2,
+        "col": 4,
+        "answer": "EROS"
+      },
+      {
+        "number": 19,
+        "clue": "Syrian city",
+        "row": 2,
+        "col": 10,
+        "answer": "ALEPPO"
+      },
+      {
+        "number": 23,
+        "clue": "Saratoga general",
+        "row": 4,
+        "col": 8,
+        "answer": "GATES"
+      },
+      {
+        "number": 24,
+        "clue": "Hooded plant",
+        "row": 4,
+        "col": 9,
+        "answer": "ARUM"
+      },
+      {
+        "number": 25,
+        "clue": "Fine fabric",
+        "row": 5,
+        "col": 0,
+        "answer": "SATIN"
+      },
+      {
+        "number": 26,
+        "clue": "Put an end to",
+        "row": 5,
+        "col": 1,
+        "answer": "ABATE"
+      },
+      {
+        "number": 27,
+        "clue": "Social event",
+        "row": 5,
+        "col": 2,
+        "answer": "DEBUT"
+      },
+      {
+        "number": 28,
+        "clue": "Show amusement",
+        "row": 5,
+        "col": 7,
+        "answer": "TEHEE"
+      },
+      {
+        "number": 29,
+        "clue": "Police activities",
+        "row": 5,
+        "col": 12,
+        "answer": "RAIDS"
+      },
+      {
+        "number": 30,
+        "clue": "Encomium",
+        "row": 5,
+        "col": 13,
+        "answer": "ELOGE"
+      },
+      {
+        "number": 31,
+        "clue": "Had a repast",
+        "row": 5,
+        "col": 14,
+        "answer": "DINED"
+      },
+      {
+        "number": 33,
+        "clue": "Attacked by a scorpion",
+        "row": 6,
+        "col": 6,
+        "answer": "STUNG"
+      },
+      {
+        "number": 36,
+        "clue": "Fur for royal robes",
+        "row": 7,
+        "col": 4,
+        "answer": "ERMINE"
+      },
+      {
+        "number": 37,
+        "clue": "Ruin",
+        "row": 7,
+        "col": 5,
+        "answer": "DOIN"
+      },
+      {
+        "number": 38,
+        "clue": "City living quarters",
+        "row": 7,
+        "col": 11,
+        "answer": "TENEMENT"
+      },
+      {
+        "number": 44,
+        "clue": "River into Bristol Channel",
+        "row": 9,
+        "col": 9,
+        "answer": "SEVERN"
+      },
+      {
+        "number": 45,
+        "clue": "Cheese variety",
+        "row": 9,
+        "col": 10,
+        "answer": "EDAM"
+      },
+      {
+        "number": 46,
+        "clue": "Donnybrook",
+        "row": 10,
+        "col": 3,
+        "answer": "MELEE"
+      },
+      {
+        "number": 47,
+        "clue": "Measuring device",
+        "row": 10,
+        "col": 8,
+        "answer": "METER"
+      },
+      {
+        "number": 48,
+        "clue": "Sudden, sharp sensation",
+        "row": 11,
+        "col": 0,
+        "answer": "STAB"
+      },
+      {
+        "number": 49,
+        "clue": "Symbol of innocence",
+        "row": 11,
+        "col": 1,
+        "answer": "HALO"
+      },
+      {
+        "number": 50,
+        "clue": "Deep black",
+        "row": 11,
+        "col": 2,
+        "answer": "EBON"
+      },
+      {
+        "number": 51,
+        "clue": "Function",
+        "row": 11,
+        "col": 7,
+        "answer": "ROLE"
+      },
+      {
+        "number": 52,
+        "clue": "TV's Jack",
+        "row": 11,
+        "col": 12,
+        "answer": "PAAR"
+      },
+      {
+        "number": 53,
+        "clue": "Pivot",
+        "row": 11,
+        "col": 13,
+        "answer": "SLUE"
+      },
+      {
+        "number": 55,
+        "clue": "Author ___ Passos",
+        "row": 12,
+        "col": 5,
+        "answer": "DOS"
+      },
+      {
+        "number": 56,
+        "clue": "Batter's objective",
+        "row": 12,
+        "col": 6,
+        "answer": "HIT"
+      },
+      {
+        "number": 57,
+        "clue": "Porker's pad",
+        "row": 12,
+        "col": 14,
+        "answer": "STY"
+      }
+    ]
+  }
+}

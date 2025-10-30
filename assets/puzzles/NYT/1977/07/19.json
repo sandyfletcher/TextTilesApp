@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-07-19",
+  "metadata": {
+    "date": "1977-07-19",
+    "title": "NY TIMES, TUE, JUL 19, 1977",
+    "author": "William Lutwiniak",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "A", "S", "H", null, "F", "A", "T", "S", null, "G", "L", "A", "S", "S"],
+    ["O", "N", "E", "I", null, "I", "V", "A", "N", null, "R", "A", "T", "I", "O"],
+    ["F", "A", "N", "G", null, "A", "E", "R", "O", null, "I", "D", "E", "S", "T"],
+    ["A", "S", "T", "H", "E", "C", "R", "O", "W", "F", "L", "I", "E", "S", null],
+    [null, null, null, "H", "A", "R", "T", null, "B", "I", "L", "E", null, null, null],
+    ["E", "S", "T", "A", "T", "E", null, "S", "A", "L", "E", "S", "T", "A", "X"],
+    ["Q", "U", "I", "T", "S", null, "T", "I", "L", "L", "S", null, "A", "G", "E"],
+    ["U", "R", "N", "S", null, "M", "A", "D", "L", "Y", null, "B", "R", "A", "N"],
+    ["A", "G", "T", null, "J", "O", "K", "E", "S", null, "M", "A", "T", "Z", "O"],
+    ["L", "E", "O", "N", "U", "R", "I", "S", null, "L", "E", "S", "S", "E", "N"],
+    [null, null, null, "I", "N", "O", "N", null, "A", "I", "R", "E", null, null, null],
+    [null, "M", "A", "K", "I", "N", "G", "A", "B", "E", "E", "L", "I", "N", "E"],
+    ["T", "U", "L", "I", "P", null, "T", "R", "O", "D", null, "E", "X", "E", "S"],
+    ["E", "L", "A", "T", "E", null, "H", "I", "D", "E", null, "S", "I", "L", "T"],
+    ["C", "E", "S", "A", "R", null, "E", "D", "E", "R", null, "S", "A", "L", "A"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Cummerbund",
+        "row": 0,
+        "col": 0,
+        "answer": "SASH"
+      },
+      {
+        "number": 5,
+        "clue": "Cholesterol sources",
+        "row": 0,
+        "col": 5,
+        "answer": "FATS"
+      },
+      {
+        "number": 9,
+        "clue": "Tumbler",
+        "row": 0,
+        "col": 10,
+        "answer": "GLASS"
+      },
+      {
+        "number": 14,
+        "clue": "\"The ___ Love\"",
+        "row": 1,
+        "col": 0,
+        "answer": "ONEI"
+      },
+      {
+        "number": 15,
+        "clue": "Muscovite",
+        "row": 1,
+        "col": 5,
+        "answer": "IVAN"
+      },
+      {
+        "number": 16,
+        "clue": "Proportion",
+        "row": 1,
+        "col": 10,
+        "answer": "RATIO"
+      },
+      {
+        "number": 17,
+        "clue": "Ophidian feature",
+        "row": 2,
+        "col": 0,
+        "answer": "FANG"
+      },
+      {
+        "number": 18,
+        "clue": "Drome or naut predecessor",
+        "row": 2,
+        "col": 5,
+        "answer": "AERO"
+      },
+      {
+        "number": 19,
+        "clue": "That is: Lat.",
+        "row": 2,
+        "col": 10,
+        "answer": "IDEST"
+      },
+      {
+        "number": 20,
+        "clue": "Directly",
+        "row": 3,
+        "col": 0,
+        "answer": "ASTHECROWFLIES"
+      },
+      {
+        "number": 23,
+        "clue": "Forest creature",
+        "row": 4,
+        "col": 3,
+        "answer": "HART"
+      },
+      {
+        "number": 24,
+        "clue": "Choler",
+        "row": 4,
+        "col": 8,
+        "answer": "BILE"
+      },
+      {
+        "number": 25,
+        "clue": "Acres",
+        "row": 5,
+        "col": 0,
+        "answer": "ESTATE"
+      },
+      {
+        "number": 28,
+        "clue": "Shopper's bane",
+        "row": 5,
+        "col": 7,
+        "answer": "SALESTAX"
+      },
+      {
+        "number": 32,
+        "clue": "Relinquishes a job",
+        "row": 6,
+        "col": 0,
+        "answer": "QUITS"
+      },
+      {
+        "number": 33,
+        "clue": "Cultivates",
+        "row": 6,
+        "col": 6,
+        "answer": "TILLS"
+      },
+      {
+        "number": 34,
+        "clue": "Vital statistic",
+        "row": 6,
+        "col": 12,
+        "answer": "AGE"
+      },
+      {
+        "number": 35,
+        "clue": "Garden planters",
+        "row": 7,
+        "col": 0,
+        "answer": "URNS"
+      },
+      {
+        "number": 36,
+        "clue": "With abandon",
+        "row": 7,
+        "col": 5,
+        "answer": "MADLY"
+      },
+      {
+        "number": 37,
+        "clue": "Grain product",
+        "row": 7,
+        "col": 11,
+        "answer": "BRAN"
+      },
+      {
+        "number": 38,
+        "clue": "Proxy: Abbr.",
+        "row": 8,
+        "col": 0,
+        "answer": "AGT"
+      },
+      {
+        "number": 39,
+        "clue": "Gags",
+        "row": 8,
+        "col": 4,
+        "answer": "JOKES"
+      },
+      {
+        "number": 40,
+        "clue": "Passover bread",
+        "row": 8,
+        "col": 10,
+        "answer": "MATZO"
+      },
+      {
+        "number": 41,
+        "clue": "\"Trinity\" author",
+        "row": 9,
+        "col": 0,
+        "answer": "LEONURIS"
+      },
+      {
+        "number": 43,
+        "clue": "Diminish",
+        "row": 9,
+        "col": 9,
+        "answer": "LESSEN"
+      },
+      {
+        "number": 44,
+        "clue": "Participating",
+        "row": 10,
+        "col": 3,
+        "answer": "INON"
+      },
+      {
+        "number": 45,
+        "clue": "River of England",
+        "row": 10,
+        "col": 8,
+        "answer": "AIRE"
+      },
+      {
+        "number": 46,
+        "clue": "Going directly",
+        "row": 11,
+        "col": 1,
+        "answer": "MAKINGABEELINE"
+      },
+      {
+        "number": 52,
+        "clue": "Spring bloomer",
+        "row": 12,
+        "col": 0,
+        "answer": "TULIP"
+      },
+      {
+        "number": 53,
+        "clue": "Stepped",
+        "row": 12,
+        "col": 6,
+        "answer": "TROD"
+      },
+      {
+        "number": 54,
+        "clue": "Former spouses",
+        "row": 12,
+        "col": 11,
+        "answer": "EXES"
+      },
+      {
+        "number": 55,
+        "clue": "Uplift",
+        "row": 13,
+        "col": 0,
+        "answer": "ELATE"
+      },
+      {
+        "number": 56,
+        "clue": "Hair's companion",
+        "row": 13,
+        "col": 6,
+        "answer": "HIDE"
+      },
+      {
+        "number": 57,
+        "clue": "Dredge's burden",
+        "row": 13,
+        "col": 11,
+        "answer": "SILT"
+      },
+      {
+        "number": 58,
+        "clue": "Franck",
+        "row": 14,
+        "col": 0,
+        "answer": "CESAR"
+      },
+      {
+        "number": 59,
+        "clue": "Largest dam in Germany",
+        "row": 14,
+        "col": 6,
+        "answer": "EDER"
+      },
+      {
+        "number": 60,
+        "clue": "Hacienda room",
+        "row": 14,
+        "col": 11,
+        "answer": "SALA"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Lounge item",
+        "row": 0,
+        "col": 0,
+        "answer": "SOFA"
+      },
+      {
+        "number": 2,
+        "clue": "Miscellanies",
+        "row": 0,
+        "col": 1,
+        "answer": "ANAS"
+      },
+      {
+        "number": 3,
+        "clue": "Mailed",
+        "row": 0,
+        "col": 2,
+        "answer": "SENT"
+      },
+      {
+        "number": 4,
+        "clue": "Snoots",
+        "row": 0,
+        "col": 3,
+        "answer": "HIGHHATS"
+      },
+      {
+        "number": 5,
+        "clue": "Hackney coach",
+        "row": 0,
+        "col": 5,
+        "answer": "FIACRE"
+      },
+      {
+        "number": 6,
+        "clue": "Stave off",
+        "row": 0,
+        "col": 6,
+        "answer": "AVERT"
+      },
+      {
+        "number": 7,
+        "clue": "South Sea staple",
+        "row": 0,
+        "col": 7,
+        "answer": "TARO"
+      },
+      {
+        "number": 8,
+        "clue": "Grows apace",
+        "row": 0,
+        "col": 8,
+        "answer": "SNOWBALLS"
+      },
+      {
+        "number": 9,
+        "clue": "Gratings",
+        "row": 0,
+        "col": 10,
+        "answer": "GRILLES"
+      },
+      {
+        "number": 10,
+        "clue": "Start of a speech",
+        "row": 0,
+        "col": 11,
+        "answer": "LADIES"
+      },
+      {
+        "number": 11,
+        "clue": "To ___ (right on)",
+        "row": 0,
+        "col": 12,
+        "answer": "ATEE"
+      },
+      {
+        "number": 12,
+        "clue": "Sibilant sound",
+        "row": 0,
+        "col": 13,
+        "answer": "SISS"
+      },
+      {
+        "number": 13,
+        "clue": "A.A. candidate",
+        "row": 0,
+        "col": 14,
+        "answer": "SOT"
+      },
+      {
+        "number": 21,
+        "clue": "Beanery sign",
+        "row": 3,
+        "col": 4,
+        "answer": "EATS"
+      },
+      {
+        "number": 22,
+        "clue": "Paddock girl",
+        "row": 3,
+        "col": 9,
+        "answer": "FILLY"
+      },
+      {
+        "number": 25,
+        "clue": "Peer",
+        "row": 5,
+        "col": 0,
+        "answer": "EQUAL"
+      },
+      {
+        "number": 26,
+        "clue": "Come on strong",
+        "row": 5,
+        "col": 1,
+        "answer": "SURGE"
+      },
+      {
+        "number": 27,
+        "clue": "Rio ___, Brazil",
+        "row": 5,
+        "col": 2,
+        "answer": "TINTO"
+      },
+      {
+        "number": 28,
+        "clue": "Rectangles have four",
+        "row": 5,
+        "col": 7,
+        "answer": "SIDES"
+      },
+      {
+        "number": 29,
+        "clue": "Bakery items",
+        "row": 5,
+        "col": 12,
+        "answer": "TARTS"
+      },
+      {
+        "number": 30,
+        "clue": "Staring",
+        "row": 5,
+        "col": 13,
+        "answer": "AGAZE"
+      },
+      {
+        "number": 31,
+        "clue": "Gas in the atmosphere",
+        "row": 5,
+        "col": 14,
+        "answer": "XENON"
+      },
+      {
+        "number": 33,
+        "clue": "___ cake (winning)",
+        "row": 6,
+        "col": 6,
+        "answer": "TAKINGTHE"
+      },
+      {
+        "number": 36,
+        "clue": "Dullard",
+        "row": 7,
+        "col": 5,
+        "answer": "MORON"
+      },
+      {
+        "number": 37,
+        "clue": "Unsubstantiated",
+        "row": 7,
+        "col": 11,
+        "answer": "BASELESS"
+      },
+      {
+        "number": 39,
+        "clue": "Evergreen",
+        "row": 8,
+        "col": 4,
+        "answer": "JUNIPER"
+      },
+      {
+        "number": 40,
+        "clue": "Unalloyed",
+        "row": 8,
+        "col": 10,
+        "answer": "MERE"
+      },
+      {
+        "number": 42,
+        "clue": "Khrushchev",
+        "row": 9,
+        "col": 3,
+        "answer": "NIKITA"
+      },
+      {
+        "number": 43,
+        "clue": "German songs",
+        "row": 9,
+        "col": 9,
+        "answer": "LIEDER"
+      },
+      {
+        "number": 45,
+        "clue": "Domicile",
+        "row": 10,
+        "col": 8,
+        "answer": "ABODE"
+      },
+      {
+        "number": 46,
+        "clue": "U.S.M.A. mascot",
+        "row": 11,
+        "col": 1,
+        "answer": "MULE"
+      },
+      {
+        "number": 47,
+        "clue": "Wellaway!",
+        "row": 11,
+        "col": 2,
+        "answer": "ALAS"
+      },
+      {
+        "number": 48,
+        "clue": "Saharan",
+        "row": 11,
+        "col": 7,
+        "answer": "ARID"
+      },
+      {
+        "number": 49,
+        "clue": "Corn lily",
+        "row": 11,
+        "col": 12,
+        "answer": "IXIA"
+      },
+      {
+        "number": 50,
+        "clue": "Mistress Gwyn",
+        "row": 11,
+        "col": 13,
+        "answer": "NELL"
+      },
+      {
+        "number": 51,
+        "clue": "This: Sp.",
+        "row": 11,
+        "col": 14,
+        "answer": "ESTA"
+      },
+      {
+        "number": 52,
+        "clue": "Gumshoe",
+        "row": 12,
+        "col": 0,
+        "answer": "TEC"
+      }
+    ]
+  }
+}

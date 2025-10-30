@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-05-11",
+  "metadata": {
+    "date": "1976-05-11",
+    "title": "NY TIMES, TUE, MAY 11, 1976",
+    "author": "William Lutwiniak",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["M", "E", "W", "S", null, null, "S", "M", "I", "T", null, "G", "L", "U", "M"],
+    ["I", "T", "O", "N", null, "A", "P", "A", "C", "E", null, "R", "O", "P", "E"],
+    ["N", "O", "N", "O", null, "D", "I", "J", "O", "N", null, "O", "C", "T", "A"],
+    ["I", "N", "G", "O", "O", "D", "C", "O", "N", "D", "I", "T", "I", "O", "N"],
+    [null, null, null, "T", "A", "L", "E", "R", null, "E", "R", "E", null, null, null],
+    ["T", "H", "U", null, "F", "E", "B", null, "G", "R", "I", "S", "T", "L", "E"],
+    ["R", "I", "N", "G", null, "D", "E", "L", "A", null, "S", "Q", "U", "I", "D"],
+    ["I", "N", "C", "A", "S", null, "R", "E", "L", null, "H", "U", "N", "T", "S"],
+    ["A", "D", "U", "L", "T", null, "R", "O", "V", "E", null, "E", "I", "R", "E"],
+    ["L", "I", "T", "U", "R", "G", "Y", null, "A", "M", "S", null, "S", "E", "L"],
+    [null, null, null, "M", "I", "O", null, "U", "N", "C", "L", "E", null, null, null],
+    ["I", "N", "A", "P", "P", "L", "E", "P", "I", "E", "O", "R", "D", "E", "R"],
+    ["W", "I", "T", "H", null, "F", "R", "O", "Z", "E", null, "W", "A", "X", "Y"],
+    ["A", "C", "R", "E", null, "E", "I", "N", "E", "S", null, "I", "L", "I", "E"],
+    ["S", "K", "I", "D", null, "R", "E", "A", "D", null, null, "N", "E", "T", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "English stables",
+        "row": 0,
+        "col": 0,
+        "answer": "MEWS"
+      },
+      {
+        "number": 5,
+        "clue": "Thwacked",
+        "row": 0,
+        "col": 6,
+        "answer": "SMIT"
+      },
+      {
+        "number": 9,
+        "clue": "Downcast",
+        "row": 0,
+        "col": 11,
+        "answer": "GLUM"
+      },
+      {
+        "number": 13,
+        "clue": "Pour ___ (intensify)",
+        "row": 1,
+        "col": 0,
+        "answer": "ITON"
+      },
+      {
+        "number": 14,
+        "clue": "P.D.Q.",
+        "row": 1,
+        "col": 5,
+        "answer": "APACE"
+      },
+      {
+        "number": 15,
+        "clue": "Lanyard",
+        "row": 1,
+        "col": 11,
+        "answer": "ROPE"
+      },
+      {
+        "number": 16,
+        "clue": "Minor taboo",
+        "row": 2,
+        "col": 0,
+        "answer": "NONO"
+      },
+      {
+        "number": 17,
+        "clue": "City of France",
+        "row": 2,
+        "col": 5,
+        "answer": "DIJON"
+      },
+      {
+        "number": 18,
+        "clue": "Numerical prefix",
+        "row": 2,
+        "col": 11,
+        "answer": "OCTA"
+      },
+      {
+        "number": 19,
+        "clue": "Functioning",
+        "row": 3,
+        "col": 0,
+        "answer": "INGOODCONDITION"
+      },
+      {
+        "number": 22,
+        "clue": "Old German coin",
+        "row": 4,
+        "col": 3,
+        "answer": "TALER"
+      },
+      {
+        "number": 23,
+        "clue": "\"Present!,\" in Soho",
+        "row": 4,
+        "col": 9,
+        "answer": "ERE"
+      },
+      {
+        "number": 24,
+        "clue": "Calendar abbr.",
+        "row": 5,
+        "col": 0,
+        "answer": "THU"
+      },
+      {
+        "number": 27,
+        "clue": "Calendar abbr.",
+        "row": 5,
+        "col": 4,
+        "answer": "FEB"
+      },
+      {
+        "number": 28,
+        "clue": "Cartilage",
+        "row": 5,
+        "col": 8,
+        "answer": "GRISTLE"
+      },
+      {
+        "number": 32,
+        "clue": "Best-man's prop",
+        "row": 6,
+        "col": 0,
+        "answer": "RING"
+      },
+      {
+        "number": 34,
+        "clue": "Walter ___ Mare",
+        "row": 6,
+        "col": 5,
+        "answer": "DELA"
+      },
+      {
+        "number": 36,
+        "clue": "Ink squirter",
+        "row": 6,
+        "col": 10,
+        "answer": "SQUID"
+      },
+      {
+        "number": 37,
+        "clue": "Pizarro's victims",
+        "row": 7,
+        "col": 0,
+        "answer": "INCAS"
+      },
+      {
+        "number": 39,
+        "clue": "Electrical unit",
+        "row": 7,
+        "col": 6,
+        "answer": "REL"
+      },
+      {
+        "number": 40,
+        "clue": "Safaris",
+        "row": 7,
+        "col": 10,
+        "answer": "HUNTS"
+      },
+      {
+        "number": 41,
+        "clue": "Eligible voter",
+        "row": 8,
+        "col": 0,
+        "answer": "ADULT"
+      },
+      {
+        "number": 42,
+        "clue": "Gather no moss",
+        "row": 8,
+        "col": 6,
+        "answer": "ROVE"
+      },
+      {
+        "number": 44,
+        "clue": "Colleen's land",
+        "row": 8,
+        "col": 11,
+        "answer": "EIRE"
+      },
+      {
+        "number": 45,
+        "clue": "Church rite",
+        "row": 9,
+        "col": 0,
+        "answer": "LITURGY"
+      },
+      {
+        "number": 47,
+        "clue": "Times of day: abbr.",
+        "row": 9,
+        "col": 8,
+        "answer": "AMS"
+      },
+      {
+        "number": 49,
+        "clue": "Orch. offering",
+        "row": 9,
+        "col": 12,
+        "answer": "SEL"
+      },
+      {
+        "number": 50,
+        "clue": "\"O Sole ___\"",
+        "row": 10,
+        "col": 3,
+        "answer": "MIO"
+      },
+      {
+        "number": 51,
+        "clue": "Family member",
+        "row": 10,
+        "col": 7,
+        "answer": "UNCLE"
+      },
+      {
+        "number": 53,
+        "clue": "Tidy",
+        "row": 11,
+        "col": 0,
+        "answer": "INAPPLEPIEORDER"
+      },
+      {
+        "number": 60,
+        "clue": "Accompanying",
+        "row": 12,
+        "col": 0,
+        "answer": "WITH"
+      },
+      {
+        "number": 61,
+        "clue": "Preserved in a way",
+        "row": 12,
+        "col": 5,
+        "answer": "FROZE"
+      },
+      {
+        "number": 62,
+        "clue": "Like bottoms of skis",
+        "row": 12,
+        "col": 11,
+        "answer": "WAXY"
+      },
+      {
+        "number": 63,
+        "clue": "Land unit",
+        "row": 13,
+        "col": 0,
+        "answer": "ACRE"
+      },
+      {
+        "number": 64,
+        "clue": "German article",
+        "row": 13,
+        "col": 5,
+        "answer": "EINES"
+      },
+      {
+        "number": 65,
+        "clue": "Nastase",
+        "row": 13,
+        "col": 11,
+        "answer": "ILIE"
+      },
+      {
+        "number": 66,
+        "clue": "Auto mishap",
+        "row": 14,
+        "col": 0,
+        "answer": "SKID"
+      },
+      {
+        "number": 67,
+        "clue": "Scan",
+        "row": 14,
+        "col": 5,
+        "answer": "READ"
+      },
+      {
+        "number": 68,
+        "clue": "A.B.A. team",
+        "row": 14,
+        "col": 11,
+        "answer": "NETS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Short skirt",
+        "row": 0,
+        "col": 0,
+        "answer": "MINI"
+      },
+      {
+        "number": 2,
+        "clue": "Harrow's rival",
+        "row": 0,
+        "col": 1,
+        "answer": "ETON"
+      },
+      {
+        "number": 3,
+        "clue": "Anna May ___",
+        "row": 0,
+        "col": 2,
+        "answer": "WONG"
+      },
+      {
+        "number": 4,
+        "clue": "High-hat",
+        "row": 0,
+        "col": 3,
+        "answer": "SNOOT"
+      },
+      {
+        "number": 5,
+        "clue": "Wintergreen",
+        "row": 0,
+        "col": 6,
+        "answer": "SPICEBERRY"
+      },
+      {
+        "number": 6,
+        "clue": "Hoople or Bowes",
+        "row": 0,
+        "col": 7,
+        "answer": "MAJOR"
+      },
+      {
+        "number": 7,
+        "clue": "Object of worship",
+        "row": 0,
+        "col": 8,
+        "answer": "ICON"
+      },
+      {
+        "number": 8,
+        "clue": "Impressionable",
+        "row": 0,
+        "col": 9,
+        "answer": "TENDER"
+      },
+      {
+        "number": 9,
+        "clue": "Like gargoyles",
+        "row": 0,
+        "col": 11,
+        "answer": "GROTESQUE"
+      },
+      {
+        "number": 10,
+        "clue": "Places",
+        "row": 0,
+        "col": 12,
+        "answer": "LOCI"
+      },
+      {
+        "number": 11,
+        "clue": "Capable of",
+        "row": 0,
+        "col": 13,
+        "answer": "UPTO"
+      },
+      {
+        "number": 12,
+        "clue": "Spiteful",
+        "row": 0,
+        "col": 14,
+        "answer": "MEAN"
+      },
+      {
+        "number": 14,
+        "clue": "Daft",
+        "row": 1,
+        "col": 5,
+        "answer": "ADDLED"
+      },
+      {
+        "number": 20,
+        "clue": "Bumpkin",
+        "row": 3,
+        "col": 4,
+        "answer": "OAF"
+      },
+      {
+        "number": 21,
+        "clue": "Whisky or coffee",
+        "row": 3,
+        "col": 10,
+        "answer": "IRISH"
+      },
+      {
+        "number": 24,
+        "clue": "Scopes's ordeal",
+        "row": 5,
+        "col": 0,
+        "answer": "TRIAL"
+      },
+      {
+        "number": 25,
+        "clue": "Language of India",
+        "row": 5,
+        "col": 1,
+        "answer": "HINDI"
+      },
+      {
+        "number": 26,
+        "clue": "Like some gems",
+        "row": 5,
+        "col": 2,
+        "answer": "UNCUT"
+      },
+      {
+        "number": 28,
+        "clue": "Stimulated sharply",
+        "row": 5,
+        "col": 8,
+        "answer": "GALVANIZED"
+      },
+      {
+        "number": 29,
+        "clue": "African capital",
+        "row": 5,
+        "col": 12,
+        "answer": "TUNIS"
+      },
+      {
+        "number": 30,
+        "clue": "Metric measure",
+        "row": 5,
+        "col": 13,
+        "answer": "LITRE"
+      },
+      {
+        "number": 31,
+        "clue": "Ford",
+        "row": 5,
+        "col": 14,
+        "answer": "EDSEL"
+      },
+      {
+        "number": 33,
+        "clue": "Bounded clumsily",
+        "row": 6,
+        "col": 3,
+        "answer": "GALUMPHED"
+      },
+      {
+        "number": 35,
+        "clue": "Durocher",
+        "row": 6,
+        "col": 7,
+        "answer": "LEO"
+      },
+      {
+        "number": 38,
+        "clue": "Divest",
+        "row": 7,
+        "col": 4,
+        "answer": "STRIP"
+      },
+      {
+        "number": 43,
+        "clue": "Head-table people",
+        "row": 8,
+        "col": 9,
+        "answer": "EMCEES"
+      },
+      {
+        "number": 46,
+        "clue": "Nicklaus or Boros",
+        "row": 9,
+        "col": 5,
+        "answer": "GOLFER"
+      },
+      {
+        "number": 48,
+        "clue": "Traffic sign",
+        "row": 9,
+        "col": 10,
+        "answer": "SLO"
+      },
+      {
+        "number": 51,
+        "clue": "Once ___ time",
+        "row": 10,
+        "col": 7,
+        "answer": "UPONA"
+      },
+      {
+        "number": 52,
+        "clue": "Stu of movies",
+        "row": 10,
+        "col": 11,
+        "answer": "ERWIN"
+      },
+      {
+        "number": 53,
+        "clue": "\"As ___ saying . . . \"",
+        "row": 11,
+        "col": 0,
+        "answer": "IWAS"
+      },
+      {
+        "number": 54,
+        "clue": "Shaving mishap",
+        "row": 11,
+        "col": 1,
+        "answer": "NICK"
+      },
+      {
+        "number": 55,
+        "clue": "Bell town of Italy",
+        "row": 11,
+        "col": 2,
+        "answer": "ATRI"
+      },
+      {
+        "number": 56,
+        "clue": "Great Lake",
+        "row": 11,
+        "col": 6,
+        "answer": "ERIE"
+      },
+      {
+        "number": 57,
+        "clue": "Hill's counterpart",
+        "row": 11,
+        "col": 12,
+        "answer": "DALE"
+      },
+      {
+        "number": 58,
+        "clue": "Way out",
+        "row": 11,
+        "col": 13,
+        "answer": "EXIT"
+      },
+      {
+        "number": 59,
+        "clue": "Bread and whisky",
+        "row": 11,
+        "col": 14,
+        "answer": "RYES"
+      }
+    ]
+  }
+}

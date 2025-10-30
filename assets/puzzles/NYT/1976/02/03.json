@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-02-03",
+  "metadata": {
+    "date": "1976-02-03",
+    "title": "NY TIMES, TUE, FEB 03, 1976",
+    "author": "Jim Page",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "E", "S", "S", null, "H", "A", "T", "E", "D", null, "S", "C", "A", "T"],
+    ["H", "A", "H", "A", null, "E", "R", "A", "S", "E", null, "T", "O", "R", "O"],
+    ["E", "C", "O", "N", null, "R", "A", "K", "E", "S", null, "E", "M", "I", "R"],
+    ["P", "H", "O", "S", "G", "E", "N", "E", null, null, "G", "L", "E", "A", "N"],
+    [null, null, "T", "K", "O", "S", null, "I", "D", "I", "O", "M", "S", null, null],
+    ["D", "E", "F", "R", "A", "Y", null, "T", "A", "K", "E", "O", "F", "F", null],
+    ["A", "C", "R", "I", "D", null, "C", "O", "V", "E", "R", null, "U", "L", "T"],
+    ["M", "O", "O", "T", null, "B", "O", "R", "E", "S", null, "S", "L", "O", "E"],
+    ["E", "L", "M", null, "A", "R", "I", "L", "S", null, "A", "T", "L", "A", "S"],
+    [null, "E", "T", "A", "G", "E", "R", "E", null, "E", "R", "E", "C", "T", "S"],
+    [null, null, "H", "E", "A", "R", "S", "A", null, "L", "O", "D", "I", null, null],
+    ["S", "L", "E", "D", "S", null, null, "V", "I", "E", "W", "F", "R", "O", "M"],
+    ["L", "E", "H", "I", null, "G", "L", "E", "N", "N", null, "A", "C", "T", "A"],
+    ["A", "N", "I", "L", null, "M", "O", "I", "R", "A", null, "S", "L", "I", "T"],
+    ["G", "A", "P", "E", null, "S", "A", "T", "E", "S", null, "T", "E", "S", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Meeting: Abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "SESS"
+      },
+      {
+        "number": 5,
+        "clue": "Loathed",
+        "row": 0,
+        "col": 5,
+        "answer": "HATED"
+      },
+      {
+        "number": 10,
+        "clue": "Get out!",
+        "row": 0,
+        "col": 11,
+        "answer": "SCAT"
+      },
+      {
+        "number": 14,
+        "clue": "Sounds of laughter",
+        "row": 1,
+        "col": 0,
+        "answer": "HAHA"
+      },
+      {
+        "number": 15,
+        "clue": "Obliterate",
+        "row": 1,
+        "col": 5,
+        "answer": "ERASE"
+      },
+      {
+        "number": 16,
+        "clue": "Matador's foe",
+        "row": 1,
+        "col": 11,
+        "answer": "TORO"
+      },
+      {
+        "number": 17,
+        "clue": "School subject: Abbr.",
+        "row": 2,
+        "col": 0,
+        "answer": "ECON"
+      },
+      {
+        "number": 18,
+        "clue": "Does a fall chore",
+        "row": 2,
+        "col": 5,
+        "answer": "RAKES"
+      },
+      {
+        "number": 19,
+        "clue": "Arabian title",
+        "row": 2,
+        "col": 11,
+        "answer": "EMIR"
+      },
+      {
+        "number": 20,
+        "clue": "Gas used in W. W. I",
+        "row": 3,
+        "col": 0,
+        "answer": "PHOSGENE"
+      },
+      {
+        "number": 22,
+        "clue": "Collect",
+        "row": 3,
+        "col": 10,
+        "answer": "GLEAN"
+      },
+      {
+        "number": 23,
+        "clue": "Ring decisions",
+        "row": 4,
+        "col": 2,
+        "answer": "TKOS"
+      },
+      {
+        "number": 24,
+        "clue": "Dialects",
+        "row": 4,
+        "col": 7,
+        "answer": "IDIOMS"
+      },
+      {
+        "number": 27,
+        "clue": "Pay the cost",
+        "row": 5,
+        "col": 0,
+        "answer": "DEFRAY"
+      },
+      {
+        "number": 29,
+        "clue": "Sight at J.F.K.",
+        "row": 5,
+        "col": 7,
+        "answer": "TAKEOFF"
+      },
+      {
+        "number": 31,
+        "clue": "Biting",
+        "row": 6,
+        "col": 0,
+        "answer": "ACRID"
+      },
+      {
+        "number": 32,
+        "clue": "Kind of girl",
+        "row": 6,
+        "col": 6,
+        "answer": "COVER"
+      },
+      {
+        "number": 33,
+        "clue": "Final: Abbr.",
+        "row": 6,
+        "col": 12,
+        "answer": "ULT"
+      },
+      {
+        "number": 35,
+        "clue": "Debatable",
+        "row": 7,
+        "col": 0,
+        "answer": "MOOT"
+      },
+      {
+        "number": 36,
+        "clue": "Long-winded ones",
+        "row": 7,
+        "col": 5,
+        "answer": "BORES"
+      },
+      {
+        "number": 37,
+        "clue": "___ gin",
+        "row": 7,
+        "col": 11,
+        "answer": "SLOE"
+      },
+      {
+        "number": 38,
+        "clue": "Shade tree",
+        "row": 8,
+        "col": 0,
+        "answer": "ELM"
+      },
+      {
+        "number": 39,
+        "clue": "Seed coatings",
+        "row": 8,
+        "col": 4,
+        "answer": "ARILS"
+      },
+      {
+        "number": 40,
+        "clue": "\"___ Shrugged\"",
+        "row": 8,
+        "col": 10,
+        "answer": "ATLAS"
+      },
+      {
+        "number": 41,
+        "clue": "Shelving for ornaments",
+        "row": 9,
+        "col": 1,
+        "answer": "ETAGERE"
+      },
+      {
+        "number": 43,
+        "clue": "Builds",
+        "row": 9,
+        "col": 9,
+        "answer": "ERECTS"
+      },
+      {
+        "number": 44,
+        "clue": "\" . . . he ___ different drummer\"",
+        "row": 10,
+        "col": 2,
+        "answer": "HEARSA"
+      },
+      {
+        "number": 45,
+        "clue": "Town near Milan",
+        "row": 10,
+        "col": 9,
+        "answer": "LODI"
+      },
+      {
+        "number": 46,
+        "clue": "Belly-bumpers",
+        "row": 11,
+        "col": 0,
+        "answer": "SLEDS"
+      },
+      {
+        "number": 48,
+        "clue": "\"A ___ the Bridge\"",
+        "row": 11,
+        "col": 7,
+        "answer": "VIEWFROM"
+      },
+      {
+        "number": 52,
+        "clue": "Utah city",
+        "row": 12,
+        "col": 0,
+        "answer": "LEHI"
+      },
+      {
+        "number": 53,
+        "clue": "Friendship 7 passenger",
+        "row": 12,
+        "col": 5,
+        "answer": "GLENN"
+      },
+      {
+        "number": 55,
+        "clue": "Official records",
+        "row": 12,
+        "col": 11,
+        "answer": "ACTA"
+      },
+      {
+        "number": 56,
+        "clue": "Blue dye",
+        "row": 13,
+        "col": 0,
+        "answer": "ANIL"
+      },
+      {
+        "number": 57,
+        "clue": "Shearer",
+        "row": 13,
+        "col": 5,
+        "answer": "MOIRA"
+      },
+      {
+        "number": 58,
+        "clue": "Use a letter-opener",
+        "row": 13,
+        "col": 11,
+        "answer": "SLIT"
+      },
+      {
+        "number": 59,
+        "clue": "Stare",
+        "row": 14,
+        "col": 0,
+        "answer": "GAPE"
+      },
+      {
+        "number": 60,
+        "clue": "Fills up",
+        "row": 14,
+        "col": 5,
+        "answer": "SATES"
+      },
+      {
+        "number": 61,
+        "clue": "Road ___",
+        "row": 14,
+        "col": 11,
+        "answer": "TEST"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Name of a herd dog",
+        "row": 0,
+        "col": 0,
+        "answer": "SHEP"
+      },
+      {
+        "number": 2,
+        "clue": "Apiece",
+        "row": 0,
+        "col": 1,
+        "answer": "EACH"
+      },
+      {
+        "number": 3,
+        "clue": "Emulate Jesse James",
+        "row": 0,
+        "col": 2,
+        "answer": "SHOOTFROMTHEHIP"
+      },
+      {
+        "number": 4,
+        "clue": "Old Hindu language",
+        "row": 0,
+        "col": 3,
+        "answer": "SANSKRIT"
+      },
+      {
+        "number": 5,
+        "clue": "Council of Trent subject",
+        "row": 0,
+        "col": 5,
+        "answer": "HERESY"
+      },
+      {
+        "number": 6,
+        "clue": "Islands off Galway",
+        "row": 0,
+        "col": 6,
+        "answer": "ARAN"
+      },
+      {
+        "number": 7,
+        "clue": "Hobson's choice",
+        "row": 0,
+        "col": 7,
+        "answer": "TAKEITORLEAVEIT"
+      },
+      {
+        "number": 8,
+        "clue": "Native: Suffix",
+        "row": 0,
+        "col": 8,
+        "answer": "ESE"
+      },
+      {
+        "number": 9,
+        "clue": "___ Moines",
+        "row": 0,
+        "col": 9,
+        "answer": "DES"
+      },
+      {
+        "number": 10,
+        "clue": "Fiery sea guardian",
+        "row": 0,
+        "col": 11,
+        "answer": "STELMO"
+      },
+      {
+        "number": 11,
+        "clue": "Gets nowhere the hard way",
+        "row": 0,
+        "col": 12,
+        "answer": "COMESFULLCIRCLE"
+      },
+      {
+        "number": 12,
+        "clue": "Pons offering",
+        "row": 0,
+        "col": 13,
+        "answer": "ARIA"
+      },
+      {
+        "number": 13,
+        "clue": "Like some postmen's trousers",
+        "row": 0,
+        "col": 14,
+        "answer": "TORN"
+      },
+      {
+        "number": 21,
+        "clue": "Incite",
+        "row": 3,
+        "col": 4,
+        "answer": "GOAD"
+      },
+      {
+        "number": 22,
+        "clue": "Theater ___",
+        "row": 3,
+        "col": 10,
+        "answer": "GOER"
+      },
+      {
+        "number": 25,
+        "clue": "Garroway and Brubeck",
+        "row": 4,
+        "col": 8,
+        "answer": "DAVES"
+      },
+      {
+        "number": 26,
+        "clue": "Eisenhower et al.",
+        "row": 4,
+        "col": 9,
+        "answer": "IKES"
+      },
+      {
+        "number": 27,
+        "clue": "Agatha Christie e.g.",
+        "row": 5,
+        "col": 0,
+        "answer": "DAME"
+      },
+      {
+        "number": 28,
+        "clue": "French school",
+        "row": 5,
+        "col": 1,
+        "answer": "ECOLE"
+      },
+      {
+        "number": 30,
+        "clue": "Negotiate, as a loan",
+        "row": 5,
+        "col": 13,
+        "answer": "FLOAT"
+      },
+      {
+        "number": 32,
+        "clue": "Coconut fibers",
+        "row": 6,
+        "col": 6,
+        "answer": "COIRS"
+      },
+      {
+        "number": 34,
+        "clue": "Girl's nickname",
+        "row": 6,
+        "col": 14,
+        "answer": "TESS"
+      },
+      {
+        "number": 36,
+        "clue": "Uncle Remus relative",
+        "row": 7,
+        "col": 5,
+        "answer": "BRER"
+      },
+      {
+        "number": 37,
+        "clue": "Unswerving: Var.",
+        "row": 7,
+        "col": 11,
+        "answer": "STEDFAST"
+      },
+      {
+        "number": 39,
+        "clue": "Khan et al.",
+        "row": 8,
+        "col": 4,
+        "answer": "AGAS"
+      },
+      {
+        "number": 40,
+        "clue": "Lined up",
+        "row": 8,
+        "col": 10,
+        "answer": "AROW"
+      },
+      {
+        "number": 42,
+        "clue": "Roman magistrate",
+        "row": 9,
+        "col": 3,
+        "answer": "AEDILE"
+      },
+      {
+        "number": 43,
+        "clue": "Relatives of Helens",
+        "row": 9,
+        "col": 9,
+        "answer": "ELENAS"
+      },
+      {
+        "number": 46,
+        "clue": "Ore residue",
+        "row": 11,
+        "col": 0,
+        "answer": "SLAG"
+      },
+      {
+        "number": 47,
+        "clue": "Miss Horne",
+        "row": 11,
+        "col": 1,
+        "answer": "LENA"
+      },
+      {
+        "number": 49,
+        "clue": "Concerning",
+        "row": 11,
+        "col": 8,
+        "answer": "INRE"
+      },
+      {
+        "number": 50,
+        "clue": "\"Miss ___ regrets . . . \"",
+        "row": 11,
+        "col": 13,
+        "answer": "OTIS"
+      },
+      {
+        "number": 51,
+        "clue": "N. T. book",
+        "row": 11,
+        "col": 14,
+        "answer": "MATT"
+      },
+      {
+        "number": 53,
+        "clue": "Baseball execs",
+        "row": 12,
+        "col": 5,
+        "answer": "GMS"
+      },
+      {
+        "number": 54,
+        "clue": "Mauna ___",
+        "row": 12,
+        "col": 6,
+        "answer": "LOA"
+      }
+    ]
+  }
+}

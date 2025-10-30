@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-05-21",
+  "metadata": {
+    "date": "1976-05-21",
+    "title": "NY TIMES, FRI, MAY 21, 1976",
+    "author": "Sidney L. Robbins",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "P", "R", "Y", null, "S", "P", "A", "R", "E", null, "A", "D", "A", "M"],
+    ["P", "L", "I", "E", null, "T", "E", "T", "E", "S", null, "L", "O", "B", "O"],
+    ["Q", "U", "A", "R", "T", "E", "R", "O", "F", "A", "D", "O", "Z", "E", "N"],
+    ["R", "M", "S", null, "A", "L", "U", "M", "S", null, "A", "T", "E", "L", "O"],
+    [null, null, null, "A", "L", "A", "S", null, null, "P", "R", "O", null, null, null],
+    ["O", "N", "E", "M", "O", "R", "E", "T", "H", "A", "N", "F", "I", "V", "E"],
+    ["N", "O", "M", "E", "N", null, null, "H", "I", "S", "S", null, "R", "E", "P"],
+    ["E", "R", "O", "S", null, "C", "A", "R", "D", "S", null, "M", "A", "S", "S"],
+    ["R", "U", "R", null, "P", "A", "L", "O", null, null, "S", "E", "T", "T", "O"],
+    ["A", "N", "Y", "B", "A", "S", "E", "B", "A", "L", "L", "T", "E", "A", "M"],
+    [null, null, null, "A", "T", "T", null, null, "L", "O", "U", "S", null, null, null],
+    ["S", "H", "I", "R", "R", null, "S", "E", "T", "A", "E", null, "T", "H", "E"],
+    ["M", "I", "D", "N", "I", "G", "H", "T", "A", "N", "D", "N", "O", "O", "N"],
+    ["O", "R", "L", "E", null, "O", "R", "A", "R", "E", null, "A", "G", "E", "D"],
+    ["G", "E", "E", "S", null, "P", "I", "L", "E", "D", null, "B", "A", "R", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Nimble",
+        "row": 0,
+        "col": 0,
+        "answer": "SPRY"
+      },
+      {
+        "number": 5,
+        "clue": "Type of tire",
+        "row": 0,
+        "col": 5,
+        "answer": "SPARE"
+      },
+      {
+        "number": 10,
+        "clue": "Genesis name",
+        "row": 0,
+        "col": 11,
+        "answer": "ADAM"
+      },
+      {
+        "number": 14,
+        "clue": "Ballet movement",
+        "row": 1,
+        "col": 0,
+        "answer": "PLIE"
+      },
+      {
+        "number": 15,
+        "clue": "Places for chapeaux",
+        "row": 1,
+        "col": 5,
+        "answer": "TETES"
+      },
+      {
+        "number": 16,
+        "clue": "Wolf",
+        "row": 1,
+        "col": 11,
+        "answer": "LOBO"
+      },
+      {
+        "number": 17,
+        "clue": "Three",
+        "row": 2,
+        "col": 0,
+        "answer": "QUARTEROFADOZEN"
+      },
+      {
+        "number": 20,
+        "clue": "Abbr. in a boarding-house ad",
+        "row": 3,
+        "col": 0,
+        "answer": "RMS"
+      },
+      {
+        "number": 21,
+        "clue": "Astringents",
+        "row": 3,
+        "col": 4,
+        "answer": "ALUMS"
+      },
+      {
+        "number": 22,
+        "clue": "Defective: Prefix",
+        "row": 3,
+        "col": 10,
+        "answer": "ATELO"
+      },
+      {
+        "number": 23,
+        "clue": "Sitka's state: Abbr.",
+        "row": 4,
+        "col": 3,
+        "answer": "ALAS"
+      },
+      {
+        "number": 24,
+        "clue": "Favoring",
+        "row": 4,
+        "col": 9,
+        "answer": "PRO"
+      },
+      {
+        "number": 25,
+        "clue": "Six",
+        "row": 5,
+        "col": 0,
+        "answer": "ONEMORETHANFIVE"
+      },
+      {
+        "number": 33,
+        "clue": "Name, in old Rome",
+        "row": 6,
+        "col": 0,
+        "answer": "NOMEN"
+      },
+      {
+        "number": 34,
+        "clue": "Sound of disapproval",
+        "row": 6,
+        "col": 7,
+        "answer": "HISS"
+      },
+      {
+        "number": 35,
+        "clue": "Relative of an agt.",
+        "row": 6,
+        "col": 12,
+        "answer": "REP"
+      },
+      {
+        "number": 36,
+        "clue": "Greek god of love",
+        "row": 7,
+        "col": 0,
+        "answer": "EROS"
+      },
+      {
+        "number": 37,
+        "clue": "Face and greeting",
+        "row": 7,
+        "col": 5,
+        "answer": "CARDS"
+      },
+      {
+        "number": 39,
+        "clue": "Part of Einstein's formula",
+        "row": 7,
+        "col": 11,
+        "answer": "MASS"
+      },
+      {
+        "number": 40,
+        "clue": "Capek title",
+        "row": 8,
+        "col": 0,
+        "answer": "RUR"
+      },
+      {
+        "number": 41,
+        "clue": "___ Alto",
+        "row": 8,
+        "col": 4,
+        "answer": "PALO"
+      },
+      {
+        "number": 42,
+        "clue": "Bout",
+        "row": 8,
+        "col": 10,
+        "answer": "SETTO"
+      },
+      {
+        "number": 43,
+        "clue": "Nine",
+        "row": 9,
+        "col": 0,
+        "answer": "ANYBASEBALLTEAM"
+      },
+      {
+        "number": 47,
+        "clue": "Lawyer: Abbr.",
+        "row": 10,
+        "col": 3,
+        "answer": "ATT"
+      },
+      {
+        "number": 48,
+        "clue": "Gehrig et al.",
+        "row": 10,
+        "col": 8,
+        "answer": "LOUS"
+      },
+      {
+        "number": 49,
+        "clue": "Gather up, as cloth",
+        "row": 11,
+        "col": 0,
+        "answer": "SHIRR"
+      },
+      {
+        "number": 52,
+        "clue": "Bristles",
+        "row": 11,
+        "col": 6,
+        "answer": "SETAE"
+      },
+      {
+        "number": 54,
+        "clue": "Article",
+        "row": 11,
+        "col": 12,
+        "answer": "THE"
+      },
+      {
+        "number": 57,
+        "clue": "Twelve",
+        "row": 12,
+        "col": 0,
+        "answer": "MIDNIGHTANDNOON"
+      },
+      {
+        "number": 60,
+        "clue": "Heraldic band",
+        "row": 13,
+        "col": 0,
+        "answer": "ORLE"
+      },
+      {
+        "number": 61,
+        "clue": "\"___ Ben Jonson\"",
+        "row": 13,
+        "col": 5,
+        "answer": "ORARE"
+      },
+      {
+        "number": 62,
+        "clue": "Past the prime",
+        "row": 13,
+        "col": 11,
+        "answer": "AGED"
+      },
+      {
+        "number": 63,
+        "clue": "Haws' partners",
+        "row": 14,
+        "col": 0,
+        "answer": "GEES"
+      },
+      {
+        "number": 64,
+        "clue": "Heaped",
+        "row": 14,
+        "col": 5,
+        "answer": "PILED"
+      },
+      {
+        "number": 65,
+        "clue": "Obstacles",
+        "row": 14,
+        "col": 11,
+        "answer": "BARS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Forum initials",
+        "row": 0,
+        "col": 0,
+        "answer": "SPQR"
+      },
+      {
+        "number": 2,
+        "clue": "\" . . . and pulled out a ___\"",
+        "row": 0,
+        "col": 1,
+        "answer": "PLUM"
+      },
+      {
+        "number": 3,
+        "clue": "Inlets",
+        "row": 0,
+        "col": 2,
+        "answer": "RIAS"
+      },
+      {
+        "number": 4,
+        "clue": "Suffix for law or saw",
+        "row": 0,
+        "col": 3,
+        "answer": "YER"
+      },
+      {
+        "number": 5,
+        "clue": "Of a pillar",
+        "row": 0,
+        "col": 5,
+        "answer": "STELAR"
+      },
+      {
+        "number": 6,
+        "clue": "Examine",
+        "row": 0,
+        "col": 6,
+        "answer": "PERUSE"
+      },
+      {
+        "number": 7,
+        "clue": "Type of bomb",
+        "row": 0,
+        "col": 7,
+        "answer": "ATOM"
+      },
+      {
+        "number": 8,
+        "clue": "Grid officials",
+        "row": 0,
+        "col": 8,
+        "answer": "REFS"
+      },
+      {
+        "number": 9,
+        "clue": "That, in Valencia",
+        "row": 0,
+        "col": 9,
+        "answer": "ESA"
+      },
+      {
+        "number": 10,
+        "clue": "\"That's ___ malarkey!\"",
+        "row": 0,
+        "col": 11,
+        "answer": "ALOTOF"
+      },
+      {
+        "number": 11,
+        "clue": "Be inattentive",
+        "row": 0,
+        "col": 12,
+        "answer": "DOZE"
+      },
+      {
+        "number": 12,
+        "clue": "Actor Walter",
+        "row": 0,
+        "col": 13,
+        "answer": "ABEL"
+      },
+      {
+        "number": 13,
+        "clue": "Kind of gram or maniac",
+        "row": 0,
+        "col": 14,
+        "answer": "MONO"
+      },
+      {
+        "number": 18,
+        "clue": "Claw",
+        "row": 2,
+        "col": 4,
+        "answer": "TALON"
+      },
+      {
+        "number": 19,
+        "clue": "Relatives of drats",
+        "row": 2,
+        "col": 10,
+        "answer": "DARNS"
+      },
+      {
+        "number": 23,
+        "clue": "Iowa city",
+        "row": 4,
+        "col": 3,
+        "answer": "AMES"
+      },
+      {
+        "number": 24,
+        "clue": "Bridge call",
+        "row": 4,
+        "col": 9,
+        "answer": "PASS"
+      },
+      {
+        "number": 25,
+        "clue": "Burdens, to Caesar",
+        "row": 5,
+        "col": 0,
+        "answer": "ONERA"
+      },
+      {
+        "number": 26,
+        "clue": "No-hit, ___ game",
+        "row": 5,
+        "col": 1,
+        "answer": "NORUN"
+      },
+      {
+        "number": 27,
+        "clue": "Atlanta campus",
+        "row": 5,
+        "col": 2,
+        "answer": "EMORY"
+      },
+      {
+        "number": 28,
+        "clue": "Heart action",
+        "row": 5,
+        "col": 7,
+        "answer": "THROB"
+      },
+      {
+        "number": 29,
+        "clue": "Kept under cover",
+        "row": 5,
+        "col": 8,
+        "answer": "HID"
+      },
+      {
+        "number": 30,
+        "clue": "Furious",
+        "row": 5,
+        "col": 12,
+        "answer": "IRATE"
+      },
+      {
+        "number": 31,
+        "clue": "Hearth goddess",
+        "row": 5,
+        "col": 13,
+        "answer": "VESTA"
+      },
+      {
+        "number": 32,
+        "clue": "Type of salts",
+        "row": 5,
+        "col": 14,
+        "answer": "EPSOM"
+      },
+      {
+        "number": 37,
+        "clue": "\"The die is ___\"",
+        "row": 7,
+        "col": 5,
+        "answer": "CAST"
+      },
+      {
+        "number": 38,
+        "clue": "Beverage",
+        "row": 7,
+        "col": 6,
+        "answer": "ALE"
+      },
+      {
+        "number": 39,
+        "clue": "N.Y. players",
+        "row": 7,
+        "col": 11,
+        "answer": "METS"
+      },
+      {
+        "number": 41,
+        "clue": "Writer Angelo",
+        "row": 8,
+        "col": 4,
+        "answer": "PATRI"
+      },
+      {
+        "number": 42,
+        "clue": "Swerved",
+        "row": 8,
+        "col": 10,
+        "answer": "SLUED"
+      },
+      {
+        "number": 44,
+        "clue": "Critic Clive",
+        "row": 9,
+        "col": 3,
+        "answer": "BARNES"
+      },
+      {
+        "number": 45,
+        "clue": "Town in north Italy",
+        "row": 9,
+        "col": 8,
+        "answer": "ALTARE"
+      },
+      {
+        "number": 46,
+        "clue": "Made a bank deal",
+        "row": 9,
+        "col": 9,
+        "answer": "LOANED"
+      },
+      {
+        "number": 49,
+        "clue": "Pollution factor",
+        "row": 11,
+        "col": 0,
+        "answer": "SMOG"
+      },
+      {
+        "number": 50,
+        "clue": "Take on",
+        "row": 11,
+        "col": 1,
+        "answer": "HIRE"
+      },
+      {
+        "number": 51,
+        "clue": "Groundless",
+        "row": 11,
+        "col": 2,
+        "answer": "IDLE"
+      },
+      {
+        "number": 52,
+        "clue": "Hindu goddess",
+        "row": 11,
+        "col": 6,
+        "answer": "SHRI"
+      },
+      {
+        "number": 53,
+        "clue": "Relative of etc.",
+        "row": 11,
+        "col": 7,
+        "answer": "ETAL"
+      },
+      {
+        "number": 54,
+        "clue": "Roman garment",
+        "row": 11,
+        "col": 12,
+        "answer": "TOGA"
+      },
+      {
+        "number": 55,
+        "clue": "Garden worker",
+        "row": 11,
+        "col": 13,
+        "answer": "HOER"
+      },
+      {
+        "number": 56,
+        "clue": "Divinity shapings",
+        "row": 11,
+        "col": 14,
+        "answer": "ENDS"
+      },
+      {
+        "number": 58,
+        "clue": "Pol. party",
+        "row": 12,
+        "col": 5,
+        "answer": "GOP"
+      },
+      {
+        "number": 59,
+        "clue": "Seize",
+        "row": 12,
+        "col": 11,
+        "answer": "NAB"
+      }
+    ]
+  }
+}

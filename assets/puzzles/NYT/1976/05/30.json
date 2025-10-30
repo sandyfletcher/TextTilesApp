@@ -1,0 +1,1223 @@
+{
+  "id": "nyt-1976-05-30",
+  "metadata": {
+    "date": "1976-05-30",
+    "title": "GETTING ACROSS",
+    "author": "Maria G. Rice",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 23,
+    "rows": 23
+  },
+  "grid": [
+    ["A", "S", "S", "T", null, null, "A", "C", "E", null, "T", "E", "N", "D", "S", null, "R", "E", "O", null, "R", "E", "T"],
+    ["S", "H", "O", "A", "L", null, "S", "R", "S", null, "O", "R", "A", "R", "E", null, "E", "M", "U", null, "E", "L", "A"],
+    ["H", "E", "L", "L", "E", "S", "P", "O", "N", "T", "B", "Y", "L", "E", "A", "N", "D", "E", "R", null, "D", "E", "S"],
+    [null, null, "S", "L", "A", "P", null, "S", "E", "R", "A", null, "A", "S", "T", "A", "R", null, "M", "E", "S", "A", "S"],
+    [null, null, null, "E", "P", "I", "C", "S", null, "I", "C", "C", null, "S", "O", "R", "E", null, "A", "R", "E", "T", "E"],
+    [null, "L", "A", "S", "T", "R", "O", "W", null, "A", "C", "H", "E", "S", null, "U", "S", "B", "Y", "R", "A", "I", "L"],
+    ["P", "I", "T", "T", null, "O", "O", "O", null, "L", "O", "A", "T", "H", "E", null, "S", "O", "O", null, "B", "C", "S"],
+    ["S", "T", "L", null, null, null, "I", "R", "A", "S", null, "N", "A", "I", "V", "E", null, "O", "R", "G", "Y", null, null],
+    ["S", "H", "A", "R", "P", "E", "N", "D", "S", null, "E", "N", "T", "R", "E", "P", "O", "T", null, "R", "I", "G", "A"],
+    ["T", "E", "N", "T", "I", "N", "G", null, "P", "I", "L", "E", null, "T", "R", "O", "P", null, "M", "A", "S", "O", "N"],
+    [null, null, "T", "E", "E", "N", null, "F", "I", "N", "A", "L", null, null, null, "D", "E", "T", "O", "U", "R", "E", "D"],
+    ["M", "A", "I", null, "R", "U", "B", "I", "C", "O", "N", "B", "Y", "C", "A", "E", "S", "A", "R", null, "A", "R", "S"],
+    ["E", "S", "C", "O", "R", "I", "A", "L", null, null, null, "Y", "E", "A", "R", "S", null, "R", "A", "R", "E", null, null],
+    ["L", "I", "B", "R", "E", null, "B", "L", "O", "W", null, "A", "N", "T", "E", null, "R", "E", "S", "A", "L", "E", "S"],
+    ["D", "A", "Y", "S", null, "E", "Y", "E", "B", "A", "L", "L", "S", null, "C", "R", "O", "S", "S", "F", "I", "L", "E"],
+    [null, null, "C", "O", "S", "T", null, "S", "I", "S", "A", "L", null, "S", "A", "I", "D", null, null, null, "T", "I", "N"],
+    ["A", "T", "O", null, "A", "N", "T", null, "T", "H", "R", "I", "C", "E", null, "D", "E", "A", null, "S", "E", "T", "S"],
+    ["D", "E", "L", "A", "W", "A", "R", "E", null, "I", "S", "E", "R", "E", null, "E", "N", "C", "L", "O", "S", "E", null],
+    ["D", "R", "U", "G", "S", null, "O", "R", "A", "N", null, "S", "O", "W", null, "O", "T", "T", "O", "I", null, null, null],
+    ["E", "M", "M", "E", "T", null, "L", "I", "N", "G", "S", null, "W", "H", "E", "N", null, "E", "B", "R", "O", null, null],
+    ["N", "E", "B", null, "A", "T", "L", "A", "N", "T", "I", "C", "B", "Y", "L", "I", "N", "D", "B", "E", "R", "G", "H"],
+    ["D", "R", "U", null, "R", "O", "E", null, "I", "O", "N", "I", "A", null, "S", "C", "I", null, "Y", "E", "T", "I", "S"],
+    ["A", "S", "S", null, "S", "E", "D", null, "E", "N", "D", "E", "R", null, "E", "E", "L", null, null, "S", "E", "N", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Deputy: Abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "ASST"
+      },
+      {
+        "number": 5,
+        "clue": "___ in the hole",
+        "row": 0,
+        "col": 6,
+        "answer": "ACE"
+      },
+      {
+        "number": 8,
+        "clue": "Looks after",
+        "row": 0,
+        "col": 10,
+        "answer": "TENDS"
+      },
+      {
+        "number": 13,
+        "clue": "Old car",
+        "row": 0,
+        "col": 16,
+        "answer": "REO"
+      },
+      {
+        "number": 16,
+        "clue": "Soak",
+        "row": 0,
+        "col": 20,
+        "answer": "RET"
+      },
+      {
+        "number": 19,
+        "clue": "School of a kind",
+        "row": 1,
+        "col": 0,
+        "answer": "SHOAL"
+      },
+      {
+        "number": 21,
+        "clue": "Elders: Abbr.",
+        "row": 1,
+        "col": 6,
+        "answer": "SRS"
+      },
+      {
+        "number": 22,
+        "clue": "Pray, in old Rome",
+        "row": 1,
+        "col": 10,
+        "answer": "ORARE"
+      },
+      {
+        "number": 23,
+        "clue": "Relative of the rhea",
+        "row": 1,
+        "col": 16,
+        "answer": "EMU"
+      },
+      {
+        "number": 24,
+        "clue": "High note",
+        "row": 1,
+        "col": 20,
+        "answer": "ELA"
+      },
+      {
+        "number": 25,
+        "clue": "Legendary crossing",
+        "row": 2,
+        "col": 0,
+        "answer": "HELLESPONTBYLEANDER"
+      },
+      {
+        "number": 29,
+        "clue": "___ Moines",
+        "row": 2,
+        "col": 20,
+        "answer": "DES"
+      },
+      {
+        "number": 30,
+        "clue": "Insult",
+        "row": 3,
+        "col": 2,
+        "answer": "SLAP"
+      },
+      {
+        "number": 31,
+        "clue": "Fluids",
+        "row": 3,
+        "col": 7,
+        "answer": "SERA"
+      },
+      {
+        "number": 32,
+        "clue": "\"___ Is Born\"",
+        "row": 3,
+        "col": 12,
+        "answer": "ASTAR"
+      },
+      {
+        "number": 33,
+        "clue": "Western hills",
+        "row": 3,
+        "col": 18,
+        "answer": "MESAS"
+      },
+      {
+        "number": 35,
+        "clue": "Long poems",
+        "row": 4,
+        "col": 3,
+        "answer": "EPICS"
+      },
+      {
+        "number": 37,
+        "clue": "U.S. agency",
+        "row": 4,
+        "col": 9,
+        "answer": "ICC"
+      },
+      {
+        "number": 39,
+        "clue": "Miffed",
+        "row": 4,
+        "col": 13,
+        "answer": "SORE"
+      },
+      {
+        "number": 40,
+        "clue": "Mountain ridge",
+        "row": 4,
+        "col": 18,
+        "answer": "ARETE"
+      },
+      {
+        "number": 41,
+        "clue": "Place for late movie-goers",
+        "row": 5,
+        "col": 1,
+        "answer": "LASTROW"
+      },
+      {
+        "number": 43,
+        "clue": "Feels compassion",
+        "row": 5,
+        "col": 9,
+        "answer": "ACHES"
+      },
+      {
+        "number": 45,
+        "clue": "All-America crossing of 1869",
+        "row": 5,
+        "col": 15,
+        "answer": "USBYRAIL"
+      },
+      {
+        "number": 47,
+        "clue": "British P.M.",
+        "row": 6,
+        "col": 0,
+        "answer": "PITT"
+      },
+      {
+        "number": 48,
+        "clue": "Scoreboard trio",
+        "row": 6,
+        "col": 5,
+        "answer": "OOO"
+      },
+      {
+        "number": 49,
+        "clue": "Abhor",
+        "row": 6,
+        "col": 9,
+        "answer": "LOATHE"
+      },
+      {
+        "number": 51,
+        "clue": "___ Canals",
+        "row": 6,
+        "col": 16,
+        "answer": "SOO"
+      },
+      {
+        "number": 52,
+        "clue": "College degree",
+        "row": 6,
+        "col": 20,
+        "answer": "BCS"
+      },
+      {
+        "number": 53,
+        "clue": "Initials for a Cardinal cap",
+        "row": 7,
+        "col": 0,
+        "answer": "STL"
+      },
+      {
+        "number": 54,
+        "clue": "Gershwin et al.",
+        "row": 7,
+        "col": 6,
+        "answer": "IRAS"
+      },
+      {
+        "number": 56,
+        "clue": "Innocent",
+        "row": 7,
+        "col": 11,
+        "answer": "NAIVE"
+      },
+      {
+        "number": 58,
+        "clue": "Revelry",
+        "row": 7,
+        "col": 17,
+        "answer": "ORGY"
+      },
+      {
+        "number": 60,
+        "clue": "Features of needles",
+        "row": 8,
+        "col": 0,
+        "answer": "SHARPENDS"
+      },
+      {
+        "number": 64,
+        "clue": "Warehouse",
+        "row": 8,
+        "col": 10,
+        "answer": "ENTREPOT"
+      },
+      {
+        "number": 66,
+        "clue": "Baltic port",
+        "row": 8,
+        "col": 19,
+        "answer": "RIGA"
+      },
+      {
+        "number": 69,
+        "clue": "\"We're ___ tonight on the . . . \"",
+        "row": 9,
+        "col": 0,
+        "answer": "TENTING"
+      },
+      {
+        "number": 70,
+        "clue": "Atomic reactor",
+        "row": 9,
+        "col": 8,
+        "answer": "PILE"
+      },
+      {
+        "number": 72,
+        "clue": "De ___ (too much)",
+        "row": 9,
+        "col": 13,
+        "answer": "TROP"
+      },
+      {
+        "number": 73,
+        "clue": "Half a U.S. line",
+        "row": 9,
+        "col": 18,
+        "answer": "MASON"
+      },
+      {
+        "number": 74,
+        "clue": "___age",
+        "row": 10,
+        "col": 2,
+        "answer": "TEEN"
+      },
+      {
+        "number": 75,
+        "clue": "Last",
+        "row": 10,
+        "col": 7,
+        "answer": "FINAL"
+      },
+      {
+        "number": 76,
+        "clue": "Used the long route",
+        "row": 10,
+        "col": 15,
+        "answer": "DETOURED"
+      },
+      {
+        "number": 78,
+        "clue": "French month",
+        "row": 11,
+        "col": 0,
+        "answer": "MAI"
+      },
+      {
+        "number": 80,
+        "clue": "Decisive crossing of old",
+        "row": 11,
+        "col": 4,
+        "answer": "RUBICONBYCAESAR"
+      },
+      {
+        "number": 85,
+        "clue": "\"___ longa . . . \"",
+        "row": 11,
+        "col": 20,
+        "answer": "ARS"
+      },
+      {
+        "number": 86,
+        "clue": "Palace near Madrid",
+        "row": 12,
+        "col": 0,
+        "answer": "ESCORIAL"
+      },
+      {
+        "number": 88,
+        "clue": "Time periods",
+        "row": 12,
+        "col": 11,
+        "answer": "YEARS"
+      },
+      {
+        "number": 89,
+        "clue": "Scarce",
+        "row": 12,
+        "col": 17,
+        "answer": "RARE"
+      },
+      {
+        "number": 91,
+        "clue": "Cuba ___",
+        "row": 13,
+        "col": 0,
+        "answer": "LIBRE"
+      },
+      {
+        "number": 92,
+        "clue": "Kind of torch or hard",
+        "row": 13,
+        "col": 6,
+        "answer": "BLOW"
+      },
+      {
+        "number": 95,
+        "clue": "Part of A.M.",
+        "row": 13,
+        "col": 11,
+        "answer": "ANTE"
+      },
+      {
+        "number": 96,
+        "clue": "Secondary deals",
+        "row": 13,
+        "col": 16,
+        "answer": "RESALES"
+      },
+      {
+        "number": 99,
+        "clue": "Doris and Clarence",
+        "row": 14,
+        "col": 0,
+        "answer": "DAYS"
+      },
+      {
+        "number": 100,
+        "clue": "Catfish ___, Dogpatch delicacy",
+        "row": 14,
+        "col": 5,
+        "answer": "EYEBALLS"
+      },
+      {
+        "number": 102,
+        "clue": "Run on two party tickets",
+        "row": 14,
+        "col": 14,
+        "answer": "CROSSFILE"
+      },
+      {
+        "number": 104,
+        "clue": "Price",
+        "row": 15,
+        "col": 2,
+        "answer": "COST"
+      },
+      {
+        "number": 106,
+        "clue": "Rope fiber",
+        "row": 15,
+        "col": 7,
+        "answer": "SISAL"
+      },
+      {
+        "number": 107,
+        "clue": "Suez port",
+        "row": 15,
+        "col": 13,
+        "answer": "SAID"
+      },
+      {
+        "number": 108,
+        "clue": "Can material",
+        "row": 15,
+        "col": 20,
+        "answer": "TIN"
+      },
+      {
+        "number": 109,
+        "clue": "From ___ Z",
+        "row": 16,
+        "col": 0,
+        "answer": "ATO"
+      },
+      {
+        "number": 111,
+        "clue": "Opposite of syn.",
+        "row": 16,
+        "col": 4,
+        "answer": "ANT"
+      },
+      {
+        "number": 113,
+        "clue": "Extremely",
+        "row": 16,
+        "col": 8,
+        "answer": "THRICE"
+      },
+      {
+        "number": 115,
+        "clue": "Latin goddess",
+        "row": 16,
+        "col": 15,
+        "answer": "DEA"
+      },
+      {
+        "number": 117,
+        "clue": "Collections",
+        "row": 16,
+        "col": 19,
+        "answer": "SETS"
+      },
+      {
+        "number": 118,
+        "clue": "Crossing by 94 Down",
+        "row": 17,
+        "col": 0,
+        "answer": "DELAWARE"
+      },
+      {
+        "number": 121,
+        "clue": "French river",
+        "row": 17,
+        "col": 9,
+        "answer": "ISERE"
+      },
+      {
+        "number": 122,
+        "clue": "Confine",
+        "row": 17,
+        "col": 15,
+        "answer": "ENCLOSE"
+      },
+      {
+        "number": 124,
+        "clue": "Stupefies",
+        "row": 18,
+        "col": 0,
+        "answer": "DRUGS"
+      },
+      {
+        "number": 125,
+        "clue": "Algerian port",
+        "row": 18,
+        "col": 6,
+        "answer": "ORAN"
+      },
+      {
+        "number": 127,
+        "clue": "Plant",
+        "row": 18,
+        "col": 11,
+        "answer": "SOW"
+      },
+      {
+        "number": 128,
+        "clue": "Holy Roman emperor",
+        "row": 18,
+        "col": 15,
+        "answer": "OTTOI"
+      },
+      {
+        "number": 129,
+        "clue": "Irish hero",
+        "row": 19,
+        "col": 0,
+        "answer": "EMMET"
+      },
+      {
+        "number": 130,
+        "clue": "Food fishes",
+        "row": 19,
+        "col": 6,
+        "answer": "LINGS"
+      },
+      {
+        "number": 132,
+        "clue": "One of the five W's",
+        "row": 19,
+        "col": 12,
+        "answer": "WHEN"
+      },
+      {
+        "number": 134,
+        "clue": "River of Spain",
+        "row": 19,
+        "col": 17,
+        "answer": "EBRO"
+      },
+      {
+        "number": 136,
+        "clue": "Bird beak",
+        "row": 20,
+        "col": 0,
+        "answer": "NEB"
+      },
+      {
+        "number": 137,
+        "clue": "Solo crossing",
+        "row": 20,
+        "col": 4,
+        "answer": "ATLANTICBYLINDBERGH"
+      },
+      {
+        "number": 143,
+        "clue": "Actress Joanne",
+        "row": 21,
+        "col": 0,
+        "answer": "DRU"
+      },
+      {
+        "number": 144,
+        "clue": "Richard or shad",
+        "row": 21,
+        "col": 4,
+        "answer": "ROE"
+      },
+      {
+        "number": 145,
+        "clue": "Ancient region of Asia Minor",
+        "row": 21,
+        "col": 8,
+        "answer": "IONIA"
+      },
+      {
+        "number": 146,
+        "clue": "Ecol. or econ.",
+        "row": 21,
+        "col": 14,
+        "answer": "SCI"
+      },
+      {
+        "number": 147,
+        "clue": "Tibetan creatures",
+        "row": 21,
+        "col": 18,
+        "answer": "YETIS"
+      },
+      {
+        "number": 148,
+        "clue": "Dunce",
+        "row": 22,
+        "col": 0,
+        "answer": "ASS"
+      },
+      {
+        "number": 149,
+        "clue": "But, to Caesar",
+        "row": 22,
+        "col": 4,
+        "answer": "SED"
+      },
+      {
+        "number": 150,
+        "clue": "Bitter or tail",
+        "row": 22,
+        "col": 8,
+        "answer": "ENDER"
+      },
+      {
+        "number": 151,
+        "clue": "Fish",
+        "row": 22,
+        "col": 14,
+        "answer": "EEL"
+      },
+      {
+        "number": 152,
+        "clue": "Delivered",
+        "row": 22,
+        "col": 19,
+        "answer": "SENT"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Mountain or cigar",
+        "row": 0,
+        "col": 0,
+        "answer": "ASH"
+      },
+      {
+        "number": 2,
+        "clue": "Haggard novel",
+        "row": 0,
+        "col": 1,
+        "answer": "SHE"
+      },
+      {
+        "number": 3,
+        "clue": "Hurok et al.",
+        "row": 0,
+        "col": 2,
+        "answer": "SOLS"
+      },
+      {
+        "number": 4,
+        "clue": "Most farfetched",
+        "row": 0,
+        "col": 3,
+        "answer": "TALLEST"
+      },
+      {
+        "number": 5,
+        "clue": "Snake",
+        "row": 0,
+        "col": 6,
+        "answer": "ASP"
+      },
+      {
+        "number": 6,
+        "clue": "Puzzle type",
+        "row": 0,
+        "col": 7,
+        "answer": "CROSSWORD"
+      },
+      {
+        "number": 7,
+        "clue": "Early laborer",
+        "row": 0,
+        "col": 8,
+        "answer": "ESNE"
+      },
+      {
+        "number": 8,
+        "clue": "Road of stage fame",
+        "row": 0,
+        "col": 10,
+        "answer": "TOBACCO"
+      },
+      {
+        "number": 9,
+        "clue": "Noun suffix",
+        "row": 0,
+        "col": 11,
+        "answer": "ERY"
+      },
+      {
+        "number": 10,
+        "clue": "Hero of Hindu epic",
+        "row": 0,
+        "col": 12,
+        "answer": "NALA"
+      },
+      {
+        "number": 11,
+        "clue": "Tuxedo accessory",
+        "row": 0,
+        "col": 13,
+        "answer": "DRESSSHIRT"
+      },
+      {
+        "number": 12,
+        "clue": "Eastern alliance",
+        "row": 0,
+        "col": 14,
+        "answer": "SEATO"
+      },
+      {
+        "number": 13,
+        "clue": "Reparation",
+        "row": 0,
+        "col": 16,
+        "answer": "REDRESS"
+      },
+      {
+        "number": 14,
+        "clue": "Scottish uncle",
+        "row": 0,
+        "col": 17,
+        "answer": "EME"
+      },
+      {
+        "number": 15,
+        "clue": "Beame, to New Yorkers",
+        "row": 0,
+        "col": 18,
+        "answer": "OURMAYOR"
+      },
+      {
+        "number": 16,
+        "clue": "Biblical crossing",
+        "row": 0,
+        "col": 20,
+        "answer": "REDSEABYISRAELITES"
+      },
+      {
+        "number": 17,
+        "clue": "Of Zeno's school",
+        "row": 0,
+        "col": 21,
+        "answer": "ELEATIC"
+      },
+      {
+        "number": 18,
+        "clue": "Cord ornaments",
+        "row": 0,
+        "col": 22,
+        "answer": "TASSELS"
+      },
+      {
+        "number": 20,
+        "clue": "Jumped",
+        "row": 1,
+        "col": 4,
+        "answer": "LEAPT"
+      },
+      {
+        "number": 26,
+        "clue": "Agnew",
+        "row": 2,
+        "col": 5,
+        "answer": "SPIRO"
+      },
+      {
+        "number": 27,
+        "clue": "Afflictions",
+        "row": 2,
+        "col": 9,
+        "answer": "TRIALS"
+      },
+      {
+        "number": 28,
+        "clue": "Island off Japan",
+        "row": 2,
+        "col": 15,
+        "answer": "NARU"
+      },
+      {
+        "number": 34,
+        "clue": "Blunder",
+        "row": 3,
+        "col": 19,
+        "answer": "ERR"
+      },
+      {
+        "number": 36,
+        "clue": "Billing's partner",
+        "row": 4,
+        "col": 6,
+        "answer": "COOING"
+      },
+      {
+        "number": 38,
+        "clue": "W.W. II crossing",
+        "row": 4,
+        "col": 11,
+        "answer": "CHANNELBYALLIES"
+      },
+      {
+        "number": 41,
+        "clue": "Supple",
+        "row": 5,
+        "col": 1,
+        "answer": "LITHE"
+      },
+      {
+        "number": 42,
+        "clue": "Admiral's crossing",
+        "row": 5,
+        "col": 2,
+        "answer": "ATLANTICBYCOLUMBUS"
+      },
+      {
+        "number": 44,
+        "clue": "Condition, in Arles",
+        "row": 5,
+        "col": 12,
+        "answer": "ETAT"
+      },
+      {
+        "number": 46,
+        "clue": "To ___ (also)",
+        "row": 5,
+        "col": 17,
+        "answer": "BOOT"
+      },
+      {
+        "number": 47,
+        "clue": "Attention-getting sound",
+        "row": 6,
+        "col": 0,
+        "answer": "PSST"
+      },
+      {
+        "number": 50,
+        "clue": "Green or glades",
+        "row": 6,
+        "col": 14,
+        "answer": "EVER"
+      },
+      {
+        "number": 55,
+        "clue": "Fish garnish",
+        "row": 7,
+        "col": 8,
+        "answer": "ASPIC"
+      },
+      {
+        "number": 57,
+        "clue": "Lyric poems",
+        "row": 7,
+        "col": 15,
+        "answer": "EPODES"
+      },
+      {
+        "number": 59,
+        "clue": "Cuba's ___ San Martin",
+        "row": 7,
+        "col": 19,
+        "answer": "GRAU"
+      },
+      {
+        "number": 61,
+        "clue": "Map abbr.",
+        "row": 8,
+        "col": 3,
+        "answer": "RTE"
+      },
+      {
+        "number": 62,
+        "clue": "Writer Loti",
+        "row": 8,
+        "col": 4,
+        "answer": "PIERRE"
+      },
+      {
+        "number": 63,
+        "clue": "Weariness",
+        "row": 8,
+        "col": 5,
+        "answer": "ENNUI"
+      },
+      {
+        "number": 64,
+        "clue": "Dash",
+        "row": 8,
+        "col": 10,
+        "answer": "ELAN"
+      },
+      {
+        "number": 65,
+        "clue": "Unfolds, poetically",
+        "row": 8,
+        "col": 16,
+        "answer": "OPES"
+      },
+      {
+        "number": 67,
+        "clue": "One on the move",
+        "row": 8,
+        "col": 21,
+        "answer": "GOER"
+      },
+      {
+        "number": 68,
+        "clue": "Relatives of ifs and buts",
+        "row": 8,
+        "col": 22,
+        "answer": "ANDS"
+      },
+      {
+        "number": 71,
+        "clue": "Daughter of Cadmus",
+        "row": 9,
+        "col": 9,
+        "answer": "INO"
+      },
+      {
+        "number": 73,
+        "clue": "Swamp",
+        "row": 9,
+        "col": 18,
+        "answer": "MORASS"
+      },
+      {
+        "number": 75,
+        "clue": "French girls",
+        "row": 10,
+        "col": 7,
+        "answer": "FILLES"
+      },
+      {
+        "number": 77,
+        "clue": "Biblical weeds",
+        "row": 10,
+        "col": 17,
+        "answer": "TARES"
+      },
+      {
+        "number": 78,
+        "clue": "Card combination",
+        "row": 11,
+        "col": 0,
+        "answer": "MELD"
+      },
+      {
+        "number": 79,
+        "clue": "Continent",
+        "row": 11,
+        "col": 1,
+        "answer": "ASIA"
+      },
+      {
+        "number": 81,
+        "clue": "Indulge",
+        "row": 11,
+        "col": 6,
+        "answer": "BABY"
+      },
+      {
+        "number": 82,
+        "clue": "Desires",
+        "row": 11,
+        "col": 12,
+        "answer": "YENS"
+      },
+      {
+        "number": 83,
+        "clue": "Lynx, for one",
+        "row": 11,
+        "col": 13,
+        "answer": "CAT"
+      },
+      {
+        "number": 84,
+        "clue": "Betel palm",
+        "row": 11,
+        "col": 14,
+        "answer": "ARECA"
+      },
+      {
+        "number": 87,
+        "clue": "Words of approximation",
+        "row": 12,
+        "col": 3,
+        "answer": "ORSO"
+      },
+      {
+        "number": 90,
+        "clue": "Brit. fliers",
+        "row": 12,
+        "col": 19,
+        "answer": "RAF"
+      },
+      {
+        "number": 93,
+        "clue": "News notice",
+        "row": 13,
+        "col": 8,
+        "answer": "OBIT"
+      },
+      {
+        "number": 94,
+        "clue": "Dollar thrower",
+        "row": 13,
+        "col": 9,
+        "answer": "WASHINGTON"
+      },
+      {
+        "number": 96,
+        "clue": "Beaver or vole",
+        "row": 13,
+        "col": 16,
+        "answer": "RODENT"
+      },
+      {
+        "number": 97,
+        "clue": "Cr\u00e8me de la cr\u00e8me",
+        "row": 13,
+        "col": 21,
+        "answer": "ELITE"
+      },
+      {
+        "number": 98,
+        "clue": "Wash. people",
+        "row": 13,
+        "col": 22,
+        "answer": "SENS"
+      },
+      {
+        "number": 100,
+        "clue": "Small stove",
+        "row": 14,
+        "col": 5,
+        "answer": "ETNA"
+      },
+      {
+        "number": 101,
+        "clue": "Gibbons",
+        "row": 14,
+        "col": 10,
+        "answer": "LARS"
+      },
+      {
+        "number": 103,
+        "clue": "Sleigh across a pond",
+        "row": 14,
+        "col": 15,
+        "answer": "RIDEONICE"
+      },
+      {
+        "number": 105,
+        "clue": "Reacted sharply",
+        "row": 15,
+        "col": 4,
+        "answer": "SAWSTARS"
+      },
+      {
+        "number": 107,
+        "clue": "Get the reason",
+        "row": 15,
+        "col": 13,
+        "answer": "SEEWHY"
+      },
+      {
+        "number": 109,
+        "clue": "Book supplements",
+        "row": 16,
+        "col": 0,
+        "answer": "ADDENDA"
+      },
+      {
+        "number": 110,
+        "clue": "First ___ (prison newcomers)",
+        "row": 16,
+        "col": 1,
+        "answer": "TERMERS"
+      },
+      {
+        "number": 112,
+        "clue": "Fished",
+        "row": 16,
+        "col": 6,
+        "answer": "TROLLED"
+      },
+      {
+        "number": 114,
+        "clue": "Jimmy",
+        "row": 16,
+        "col": 12,
+        "answer": "CROWBAR"
+      },
+      {
+        "number": 116,
+        "clue": "Pretended",
+        "row": 16,
+        "col": 17,
+        "answer": "ACTED"
+      },
+      {
+        "number": 117,
+        "clue": "Parties",
+        "row": 16,
+        "col": 19,
+        "answer": "SOIREES"
+      },
+      {
+        "number": 119,
+        "clue": "Mature",
+        "row": 17,
+        "col": 3,
+        "answer": "AGE"
+      },
+      {
+        "number": 120,
+        "clue": "Silkworm",
+        "row": 17,
+        "col": 7,
+        "answer": "ERIA"
+      },
+      {
+        "number": 123,
+        "clue": "Pressure group",
+        "row": 17,
+        "col": 18,
+        "answer": "LOBBY"
+      },
+      {
+        "number": 126,
+        "clue": "Miss Laurie",
+        "row": 18,
+        "col": 8,
+        "answer": "ANNIE"
+      },
+      {
+        "number": 131,
+        "clue": "Province of Pakistan",
+        "row": 19,
+        "col": 10,
+        "answer": "SIND"
+      },
+      {
+        "number": 133,
+        "clue": "Otherwise",
+        "row": 19,
+        "col": 14,
+        "answer": "ELSE"
+      },
+      {
+        "number": 135,
+        "clue": "Town of Italy",
+        "row": 19,
+        "col": 20,
+        "answer": "ORTE"
+      },
+      {
+        "number": 138,
+        "clue": "___ the line",
+        "row": 20,
+        "col": 5,
+        "answer": "TOE"
+      },
+      {
+        "number": 139,
+        "clue": "French co.",
+        "row": 20,
+        "col": 11,
+        "answer": "CIE"
+      },
+      {
+        "number": 140,
+        "clue": "Nothing",
+        "row": 20,
+        "col": 16,
+        "answer": "NIL"
+      },
+      {
+        "number": 141,
+        "clue": "Martini base",
+        "row": 20,
+        "col": 21,
+        "answer": "GIN"
+      },
+      {
+        "number": 142,
+        "clue": "Missouri initials",
+        "row": 20,
+        "col": 22,
+        "answer": "HST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-07-12",
+  "metadata": {
+    "date": "1976-07-12",
+    "title": "NY TIMES, MON, JUL 12, 1976",
+    "author": "Mel Rosen",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["D", "A", "W", "N", null, "H", "A", "P", "P", "Y", null, "M", "O", "V", "E"],
+    ["E", "Z", "I", "O", null, "O", "C", "H", "R", "E", null, "A", "C", "E", "R"],
+    ["C", "O", "N", "V", "E", "N", "T", "I", "O", "N", "S", "I", "T", "E", "S"],
+    ["A", "V", "E", null, "V", "I", "O", "L", null, null, "A", "D", "O", "P", "T"],
+    [null, null, null, "S", "E", "N", "N", null, "M", "A", "D", "E", null, null, null],
+    ["C", "A", "S", "I", "N", "G", null, "N", "O", "M", "I", "N", "A", "T", "E"],
+    ["A", "G", "H", "A", null, null, "H", "E", "R", "O", "S", null, "B", "O", "A"],
+    ["P", "R", "O", "M", "I", "S", "E", "A", "N", "Y", "T", "H", "I", "N", "G"],
+    ["E", "E", "R", null, "N", "O", "I", "L", "S", null, null, "O", "D", "E", "R"],
+    ["S", "E", "N", "A", "T", "O", "R", "S", null, "V", "A", "R", "E", "S", "E"],
+    [null, null, null, "R", "U", "N", "S", null, "T", "A", "T", "A", null, null, null],
+    ["T", "H", "E", "I", "R", null, null, "S", "I", "S", "I", null, "J", "A", "W"],
+    ["S", "E", "C", "O", "N", "D", "I", "N", "G", "S", "P", "E", "E", "C", "H"],
+    ["A", "M", "O", "S", null, "O", "H", "A", "R", "A", null, "M", "E", "R", "E"],
+    ["R", "I", "L", "E", null, "N", "I", "G", "E", "L", null, "P", "R", "E", "Y"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Auroral time",
+        "row": 0,
+        "col": 0,
+        "answer": "DAWN"
+      },
+      {
+        "number": 5,
+        "clue": "A Rockefeller",
+        "row": 0,
+        "col": 5,
+        "answer": "HAPPY"
+      },
+      {
+        "number": 10,
+        "clue": "Get up and go",
+        "row": 0,
+        "col": 11,
+        "answer": "MOVE"
+      },
+      {
+        "number": 14,
+        "clue": "Pinza",
+        "row": 1,
+        "col": 0,
+        "answer": "EZIO"
+      },
+      {
+        "number": 15,
+        "clue": "Earth color",
+        "row": 1,
+        "col": 5,
+        "answer": "OCHRE"
+      },
+      {
+        "number": 16,
+        "clue": "Maple genus",
+        "row": 1,
+        "col": 11,
+        "answer": "ACER"
+      },
+      {
+        "number": 17,
+        "clue": "New York City and Kansas City",
+        "row": 2,
+        "col": 0,
+        "answer": "CONVENTIONSITES"
+      },
+      {
+        "number": 20,
+        "clue": "Pennsylvania, e.g.",
+        "row": 3,
+        "col": 0,
+        "answer": "AVE"
+      },
+      {
+        "number": 21,
+        "clue": "Stringed instrument",
+        "row": 3,
+        "col": 4,
+        "answer": "VIOL"
+      },
+      {
+        "number": 22,
+        "clue": "___ a platform",
+        "row": 3,
+        "col": 10,
+        "answer": "ADOPT"
+      },
+      {
+        "number": 23,
+        "clue": "Swiss herdsman",
+        "row": 4,
+        "col": 3,
+        "answer": "SENN"
+      },
+      {
+        "number": 24,
+        "clue": "Put together",
+        "row": 4,
+        "col": 8,
+        "answer": "MADE"
+      },
+      {
+        "number": 26,
+        "clue": "Checking out, to a yegg",
+        "row": 5,
+        "col": 0,
+        "answer": "CASING"
+      },
+      {
+        "number": 29,
+        "clue": "Put up for approval",
+        "row": 5,
+        "col": 7,
+        "answer": "NOMINATE"
+      },
+      {
+        "number": 33,
+        "clue": "Turkish title",
+        "row": 6,
+        "col": 0,
+        "answer": "AGHA"
+      },
+      {
+        "number": 34,
+        "clue": "Leander's lover et al.",
+        "row": 6,
+        "col": 6,
+        "answer": "HEROS"
+      },
+      {
+        "number": 35,
+        "clue": "Reptile",
+        "row": 6,
+        "col": 12,
+        "answer": "BOA"
+      },
+      {
+        "number": 36,
+        "clue": "Political opportunist's credo",
+        "row": 7,
+        "col": 0,
+        "answer": "PROMISEANYTHING"
+      },
+      {
+        "number": 40,
+        "clue": "Poetic word",
+        "row": 8,
+        "col": 0,
+        "answer": "EER"
+      },
+      {
+        "number": 41,
+        "clue": "Fiber knots",
+        "row": 8,
+        "col": 4,
+        "answer": "NOILS"
+      },
+      {
+        "number": 42,
+        "clue": "German river",
+        "row": 8,
+        "col": 11,
+        "answer": "ODER"
+      },
+      {
+        "number": 43,
+        "clue": "Some candidates",
+        "row": 9,
+        "col": 0,
+        "answer": "SENATORS"
+      },
+      {
+        "number": 45,
+        "clue": "Composer Edgard ___",
+        "row": 9,
+        "col": 9,
+        "answer": "VARESE"
+      },
+      {
+        "number": 47,
+        "clue": "Stands for election",
+        "row": 10,
+        "col": 3,
+        "answer": "RUNS"
+      },
+      {
+        "number": 48,
+        "clue": "'Bye",
+        "row": 10,
+        "col": 8,
+        "answer": "TATA"
+      },
+      {
+        "number": 49,
+        "clue": "Possessive",
+        "row": 11,
+        "col": 0,
+        "answer": "THEIR"
+      },
+      {
+        "number": 52,
+        "clue": "Mexican approval",
+        "row": 11,
+        "col": 7,
+        "answer": "SISI"
+      },
+      {
+        "number": 53,
+        "clue": "Boxer's target",
+        "row": 11,
+        "col": 12,
+        "answer": "JAW"
+      },
+      {
+        "number": 56,
+        "clue": "Certain follow-up",
+        "row": 12,
+        "col": 0,
+        "answer": "SECONDINGSPEECH"
+      },
+      {
+        "number": 60,
+        "clue": "Andy's friend",
+        "row": 13,
+        "col": 0,
+        "answer": "AMOS"
+      },
+      {
+        "number": 61,
+        "clue": "Writer John ___",
+        "row": 13,
+        "col": 5,
+        "answer": "OHARA"
+      },
+      {
+        "number": 62,
+        "clue": "Only",
+        "row": 13,
+        "col": 11,
+        "answer": "MERE"
+      },
+      {
+        "number": 63,
+        "clue": "Stir up",
+        "row": 14,
+        "col": 0,
+        "answer": "RILE"
+      },
+      {
+        "number": 64,
+        "clue": "___ Bruce (Dr. Watson in films)",
+        "row": 14,
+        "col": 5,
+        "answer": "NIGEL"
+      },
+      {
+        "number": 65,
+        "clue": "Victim",
+        "row": 14,
+        "col": 11,
+        "answer": "PREY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ten: Prefix",
+        "row": 0,
+        "col": 0,
+        "answer": "DECA"
+      },
+      {
+        "number": 2,
+        "clue": "Russian sea",
+        "row": 0,
+        "col": 1,
+        "answer": "AZOV"
+      },
+      {
+        "number": 3,
+        "clue": "Sherry",
+        "row": 0,
+        "col": 2,
+        "answer": "WINE"
+      },
+      {
+        "number": 4,
+        "clue": "Important mo.",
+        "row": 0,
+        "col": 3,
+        "answer": "NOV"
+      },
+      {
+        "number": 5,
+        "clue": "Improving the edge",
+        "row": 0,
+        "col": 5,
+        "answer": "HONING"
+      },
+      {
+        "number": 6,
+        "clue": "Take steps",
+        "row": 0,
+        "col": 6,
+        "answer": "ACTON"
+      },
+      {
+        "number": 7,
+        "clue": "Silvers",
+        "row": 0,
+        "col": 7,
+        "answer": "PHIL"
+      },
+      {
+        "number": 8,
+        "clue": "Play-for-pay person",
+        "row": 0,
+        "col": 8,
+        "answer": "PRO"
+      },
+      {
+        "number": 9,
+        "clue": "Itch",
+        "row": 0,
+        "col": 9,
+        "answer": "YEN"
+      },
+      {
+        "number": 10,
+        "clue": "Kind of voyage",
+        "row": 0,
+        "col": 11,
+        "answer": "MAIDEN"
+      },
+      {
+        "number": 11,
+        "clue": "Eight: Prefix",
+        "row": 0,
+        "col": 12,
+        "answer": "OCTO"
+      },
+      {
+        "number": 12,
+        "clue": "Barkley",
+        "row": 0,
+        "col": 13,
+        "answer": "VEEP"
+      },
+      {
+        "number": 13,
+        "clue": "Formerly, of old",
+        "row": 0,
+        "col": 14,
+        "answer": "ERST"
+      },
+      {
+        "number": 18,
+        "clue": "Fifty-fifty",
+        "row": 2,
+        "col": 4,
+        "answer": "EVEN"
+      },
+      {
+        "number": 19,
+        "clue": "Cruel one",
+        "row": 2,
+        "col": 10,
+        "answer": "SADIST"
+      },
+      {
+        "number": 23,
+        "clue": "Place for Anna",
+        "row": 4,
+        "col": 3,
+        "answer": "SIAM"
+      },
+      {
+        "number": 24,
+        "clue": "September times",
+        "row": 4,
+        "col": 8,
+        "answer": "MORNS"
+      },
+      {
+        "number": 25,
+        "clue": "Formosa Strait island",
+        "row": 4,
+        "col": 9,
+        "answer": "AMOY"
+      },
+      {
+        "number": 26,
+        "clue": "Horn and Hatteras",
+        "row": 5,
+        "col": 0,
+        "answer": "CAPES"
+      },
+      {
+        "number": 27,
+        "clue": "Reach accord",
+        "row": 5,
+        "col": 1,
+        "answer": "AGREE"
+      },
+      {
+        "number": 28,
+        "clue": "Wool-less",
+        "row": 5,
+        "col": 2,
+        "answer": "SHORN"
+      },
+      {
+        "number": 29,
+        "clue": "Actress Patricia and family",
+        "row": 5,
+        "col": 7,
+        "answer": "NEALS"
+      },
+      {
+        "number": 30,
+        "clue": "Stand for",
+        "row": 5,
+        "col": 12,
+        "answer": "ABIDE"
+      },
+      {
+        "number": 31,
+        "clue": "Hues",
+        "row": 5,
+        "col": 13,
+        "answer": "TONES"
+      },
+      {
+        "number": 32,
+        "clue": "Tidal flood",
+        "row": 5,
+        "col": 14,
+        "answer": "EAGRE"
+      },
+      {
+        "number": 34,
+        "clue": "Legatees",
+        "row": 6,
+        "col": 6,
+        "answer": "HEIRS"
+      },
+      {
+        "number": 37,
+        "clue": "One after another",
+        "row": 7,
+        "col": 4,
+        "answer": "INTURN"
+      },
+      {
+        "number": 38,
+        "clue": "Shortly",
+        "row": 7,
+        "col": 5,
+        "answer": "SOON"
+      },
+      {
+        "number": 39,
+        "clue": "Lively dance",
+        "row": 7,
+        "col": 11,
+        "answer": "HORA"
+      },
+      {
+        "number": 44,
+        "clue": "Songlike",
+        "row": 9,
+        "col": 3,
+        "answer": "ARIOSE"
+      },
+      {
+        "number": 45,
+        "clue": "Feudal underling",
+        "row": 9,
+        "col": 9,
+        "answer": "VASSAL"
+      },
+      {
+        "number": 46,
+        "clue": "\"Take ___ from me\"",
+        "row": 9,
+        "col": 10,
+        "answer": "ATIP"
+      },
+      {
+        "number": 48,
+        "clue": "Ethiopian province",
+        "row": 10,
+        "col": 8,
+        "answer": "TIGRE"
+      },
+      {
+        "number": 49,
+        "clue": "Ivan or Peter",
+        "row": 11,
+        "col": 0,
+        "answer": "TSAR"
+      },
+      {
+        "number": 50,
+        "clue": "Half: Prefix",
+        "row": 11,
+        "col": 1,
+        "answer": "HEMI"
+      },
+      {
+        "number": 51,
+        "clue": "Campaign issue: Abbr.",
+        "row": 11,
+        "col": 2,
+        "answer": "ECOL"
+      },
+      {
+        "number": 52,
+        "clue": "Hindrance",
+        "row": 11,
+        "col": 7,
+        "answer": "SNAG"
+      },
+      {
+        "number": 53,
+        "clue": "Deride",
+        "row": 11,
+        "col": 12,
+        "answer": "JEER"
+      },
+      {
+        "number": 54,
+        "clue": "Land measure",
+        "row": 11,
+        "col": 13,
+        "answer": "ACRE"
+      },
+      {
+        "number": 55,
+        "clue": "Miss Muffet's fare",
+        "row": 11,
+        "col": 14,
+        "answer": "WHEY"
+      },
+      {
+        "number": 57,
+        "clue": "River to 2 Down",
+        "row": 12,
+        "col": 5,
+        "answer": "DON"
+      },
+      {
+        "number": 58,
+        "clue": "N.Z. fish",
+        "row": 12,
+        "col": 6,
+        "answer": "IHI"
+      },
+      {
+        "number": 59,
+        "clue": "Napoleon, e.g.: Abbr.",
+        "row": 12,
+        "col": 11,
+        "answer": "EMP"
+      }
+    ]
+  }
+}

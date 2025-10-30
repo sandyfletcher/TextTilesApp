@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-05-27",
+  "metadata": {
+    "date": "1977-05-27",
+    "title": "NY TIMES, FRI, MAY 27, 1977",
+    "author": "Harriet Gilson Rosenberg",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["C", "H", "A", "P", null, "S", "L", "A", "S", "H", null, null, "P", "M", "S"],
+    ["L", "A", "M", "E", null, "P", "I", "N", "T", "A", null, "F", "R", "A", "N"],
+    ["E", "L", "I", "S", null, "E", "N", "T", "E", "R", null, "R", "A", "N", "A"],
+    ["F", "O", "R", "T", "H", "E", "T", "I", "M", "E", "B", "E", "I", "N", "G"],
+    [null, null, null, "L", "A", "D", null, null, null, "D", "O", "E", "S", null, null],
+    ["O", "C", "H", "E", "R", null, "S", "R", "A", null, "A", "D", "E", "S", null],
+    ["R", "O", "I", null, "E", "R", "O", "I", "C", "A", null, "O", "L", "I", "D"],
+    ["N", "O", "T", "I", "M", "E", "F", "O", "R", "C", "O", "M", "E", "D", "Y"],
+    ["O", "P", "T", "S", null, "M", "A", "D", "E", "T", "O", null, "S", "E", "N"],
+    [null, "S", "H", "O", "D", null, "R", "E", "S", null, "M", "A", "S", "S", "E"],
+    [null, null, "E", "M", "U", "S", null, null, null, "A", "P", "B", null, null, null],
+    ["T", "I", "M", "E", "O", "N", "O", "N", "E", "S", "H", "A", "N", "D", "S"],
+    ["R", "O", "A", "R", null, "A", "V", "E", "R", "T", null, "D", "I", "R", "E"],
+    ["E", "T", "R", "E", null, "K", "E", "E", "N", "E", null, "A", "L", "A", "N"],
+    ["Y", "A", "K", null, null, "E", "N", "D", "E", "R", null, "N", "E", "W", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Fellow, in London",
+        "row": 0,
+        "col": 0,
+        "answer": "CHAP"
+      },
+      {
+        "number": 5,
+        "clue": "Saber mark",
+        "row": 0,
+        "col": 5,
+        "answer": "SLASH"
+      },
+      {
+        "number": 10,
+        "clue": "Afternoons: Abbr.",
+        "row": 0,
+        "col": 12,
+        "answer": "PMS"
+      },
+      {
+        "number": 13,
+        "clue": "Kind of duck or excuse",
+        "row": 1,
+        "col": 0,
+        "answer": "LAME"
+      },
+      {
+        "number": 14,
+        "clue": "One of a famous trio",
+        "row": 1,
+        "col": 5,
+        "answer": "PINTA"
+      },
+      {
+        "number": 15,
+        "clue": "QB Tarkenton",
+        "row": 1,
+        "col": 11,
+        "answer": "FRAN"
+      },
+      {
+        "number": 16,
+        "clue": "Athletes in blue",
+        "row": 2,
+        "col": 0,
+        "answer": "ELIS"
+      },
+      {
+        "number": 17,
+        "clue": "Welcoming word",
+        "row": 2,
+        "col": 5,
+        "answer": "ENTER"
+      },
+      {
+        "number": 18,
+        "clue": "Punjab potentate",
+        "row": 2,
+        "col": 11,
+        "answer": "RANA"
+      },
+      {
+        "number": 19,
+        "clue": "Temporarily",
+        "row": 3,
+        "col": 0,
+        "answer": "FORTHETIMEBEING"
+      },
+      {
+        "number": 22,
+        "clue": "Youngster",
+        "row": 4,
+        "col": 3,
+        "answer": "LAD"
+      },
+      {
+        "number": 23,
+        "clue": "\"Easy ___ it\"",
+        "row": 4,
+        "col": 9,
+        "answer": "DOES"
+      },
+      {
+        "number": 24,
+        "clue": "Palette pigment",
+        "row": 5,
+        "col": 0,
+        "answer": "OCHER"
+      },
+      {
+        "number": 27,
+        "clue": "Spanish Mrs.",
+        "row": 5,
+        "col": 6,
+        "answer": "SRA"
+      },
+      {
+        "number": 30,
+        "clue": "Lime and lemon",
+        "row": 5,
+        "col": 10,
+        "answer": "ADES"
+      },
+      {
+        "number": 32,
+        "clue": "King: Fr.",
+        "row": 6,
+        "col": 0,
+        "answer": "ROI"
+      },
+      {
+        "number": 33,
+        "clue": "Beethoven's Third",
+        "row": 6,
+        "col": 4,
+        "answer": "EROICA"
+      },
+      {
+        "number": 36,
+        "clue": "Stenchy",
+        "row": 6,
+        "col": 11,
+        "answer": "OLID"
+      },
+      {
+        "number": 38,
+        "clue": "Behrman play about a playwright",
+        "row": 7,
+        "col": 0,
+        "answer": "NOTIMEFORCOMEDY"
+      },
+      {
+        "number": 41,
+        "clue": "Elects",
+        "row": 8,
+        "col": 0,
+        "answer": "OPTS"
+      },
+      {
+        "number": 42,
+        "clue": "___-order (custom-tailored)",
+        "row": 8,
+        "col": 5,
+        "answer": "MADETO"
+      },
+      {
+        "number": 43,
+        "clue": "Japanese coin",
+        "row": 8,
+        "col": 12,
+        "answer": "SEN"
+      },
+      {
+        "number": 44,
+        "clue": "Sandaled",
+        "row": 9,
+        "col": 1,
+        "answer": "SHOD"
+      },
+      {
+        "number": 46,
+        "clue": "In medias ___",
+        "row": 9,
+        "col": 6,
+        "answer": "RES"
+      },
+      {
+        "number": 47,
+        "clue": "En ___ (in a body)",
+        "row": 9,
+        "col": 10,
+        "answer": "MASSE"
+      },
+      {
+        "number": 49,
+        "clue": "Feathered six-footers",
+        "row": 10,
+        "col": 2,
+        "answer": "EMUS"
+      },
+      {
+        "number": 51,
+        "clue": "Police-alert initials",
+        "row": 10,
+        "col": 9,
+        "answer": "APB"
+      },
+      {
+        "number": 52,
+        "clue": "Possible cause of ennui",
+        "row": 11,
+        "col": 0,
+        "answer": "TIMEONONESHANDS"
+      },
+      {
+        "number": 60,
+        "clue": "Simba's sound",
+        "row": 12,
+        "col": 0,
+        "answer": "ROAR"
+      },
+      {
+        "number": 61,
+        "clue": "Prevent",
+        "row": 12,
+        "col": 5,
+        "answer": "AVERT"
+      },
+      {
+        "number": 62,
+        "clue": "Catastrophic",
+        "row": 12,
+        "col": 11,
+        "answer": "DIRE"
+      },
+      {
+        "number": 63,
+        "clue": "Raison d'___",
+        "row": 13,
+        "col": 0,
+        "answer": "ETRE"
+      },
+      {
+        "number": 64,
+        "clue": "Valley in N.Y. (artists' mecca)",
+        "row": 13,
+        "col": 5,
+        "answer": "KEENE"
+      },
+      {
+        "number": 65,
+        "clue": "Astronaut Bean",
+        "row": 13,
+        "col": 11,
+        "answer": "ALAN"
+      },
+      {
+        "number": 66,
+        "clue": "\"Mirthquake\"",
+        "row": 14,
+        "col": 0,
+        "answer": "YAK"
+      },
+      {
+        "number": 67,
+        "clue": "Word with tail or bitter",
+        "row": 14,
+        "col": 5,
+        "answer": "ENDER"
+      },
+      {
+        "number": 68,
+        "clue": "Salamander",
+        "row": 14,
+        "col": 11,
+        "answer": "NEWT"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Musical symbol",
+        "row": 0,
+        "col": 0,
+        "answer": "CLEF"
+      },
+      {
+        "number": 2,
+        "clue": "Aura",
+        "row": 0,
+        "col": 1,
+        "answer": "HALO"
+      },
+      {
+        "number": 3,
+        "clue": "Asian noble",
+        "row": 0,
+        "col": 2,
+        "answer": "AMIR"
+      },
+      {
+        "number": 4,
+        "clue": "Tool for pounding",
+        "row": 0,
+        "col": 3,
+        "answer": "PESTLE"
+      },
+      {
+        "number": 5,
+        "clue": "Kind of demon",
+        "row": 0,
+        "col": 5,
+        "answer": "SPEED"
+      },
+      {
+        "number": 6,
+        "clue": "Scourge of serge",
+        "row": 0,
+        "col": 6,
+        "answer": "LINT"
+      },
+      {
+        "number": 7,
+        "clue": "Con",
+        "row": 0,
+        "col": 7,
+        "answer": "ANTI"
+      },
+      {
+        "number": 8,
+        "clue": "Flower part",
+        "row": 0,
+        "col": 8,
+        "answer": "STEM"
+      },
+      {
+        "number": 9,
+        "clue": "Ran",
+        "row": 0,
+        "col": 9,
+        "answer": "HARED"
+      },
+      {
+        "number": 10,
+        "clue": "Meriting no accolades",
+        "row": 0,
+        "col": 12,
+        "answer": "PRAISELESS"
+      },
+      {
+        "number": 11,
+        "clue": "Educator Horace",
+        "row": 0,
+        "col": 13,
+        "answer": "MANN"
+      },
+      {
+        "number": 12,
+        "clue": "Fisherman's bane",
+        "row": 0,
+        "col": 14,
+        "answer": "SNAG"
+      },
+      {
+        "number": 15,
+        "clue": "Nat Turner's quest",
+        "row": 1,
+        "col": 11,
+        "answer": "FREEDOM"
+      },
+      {
+        "number": 20,
+        "clue": "Odalisques' abode",
+        "row": 3,
+        "col": 4,
+        "answer": "HAREM"
+      },
+      {
+        "number": 21,
+        "clue": "___ constrictor",
+        "row": 3,
+        "col": 10,
+        "answer": "BOA"
+      },
+      {
+        "number": 24,
+        "clue": "\"Yes ___!\"",
+        "row": 5,
+        "col": 0,
+        "answer": "ORNO"
+      },
+      {
+        "number": 25,
+        "clue": "Condominiums' kin",
+        "row": 5,
+        "col": 1,
+        "answer": "COOPS"
+      },
+      {
+        "number": 26,
+        "clue": "Be on target",
+        "row": 5,
+        "col": 2,
+        "answer": "HITTHEMARK"
+      },
+      {
+        "number": 27,
+        "clue": "\"___, so good!\"",
+        "row": 5,
+        "col": 6,
+        "answer": "SOFAR"
+      },
+      {
+        "number": 28,
+        "clue": "___ Janeiro",
+        "row": 5,
+        "col": 7,
+        "answer": "RIODE"
+      },
+      {
+        "number": 29,
+        "clue": "Lots of land",
+        "row": 5,
+        "col": 8,
+        "answer": "ACRES"
+      },
+      {
+        "number": 31,
+        "clue": "Contesting teams",
+        "row": 5,
+        "col": 13,
+        "answer": "SIDES"
+      },
+      {
+        "number": 34,
+        "clue": "Radiation dosage",
+        "row": 6,
+        "col": 5,
+        "answer": "REM"
+      },
+      {
+        "number": 35,
+        "clue": "Stamp or Volstead",
+        "row": 6,
+        "col": 9,
+        "answer": "ACT"
+      },
+      {
+        "number": 37,
+        "clue": "Unit of force",
+        "row": 6,
+        "col": 14,
+        "answer": "DYNE"
+      },
+      {
+        "number": 39,
+        "clue": "Corresponding part",
+        "row": 7,
+        "col": 3,
+        "answer": "ISOMERE"
+      },
+      {
+        "number": 40,
+        "clue": "Pizzazz",
+        "row": 7,
+        "col": 10,
+        "answer": "OOMPH"
+      },
+      {
+        "number": 45,
+        "clue": "Twosome",
+        "row": 9,
+        "col": 4,
+        "answer": "DUO"
+      },
+      {
+        "number": 48,
+        "clue": "Oil center in Iran",
+        "row": 9,
+        "col": 11,
+        "answer": "ABADAN"
+      },
+      {
+        "number": 50,
+        "clue": "Anaconda",
+        "row": 10,
+        "col": 5,
+        "answer": "SNAKE"
+      },
+      {
+        "number": 51,
+        "clue": "Flower of fall",
+        "row": 10,
+        "col": 9,
+        "answer": "ASTER"
+      },
+      {
+        "number": 52,
+        "clue": "Three-spot",
+        "row": 11,
+        "col": 0,
+        "answer": "TREY"
+      },
+      {
+        "number": 53,
+        "clue": "Letter after theta",
+        "row": 11,
+        "col": 1,
+        "answer": "IOTA"
+      },
+      {
+        "number": 54,
+        "clue": "Place to prepare a pizza",
+        "row": 11,
+        "col": 6,
+        "answer": "OVEN"
+      },
+      {
+        "number": 55,
+        "clue": "Requirement",
+        "row": 11,
+        "col": 7,
+        "answer": "NEED"
+      },
+      {
+        "number": 56,
+        "clue": "Sea-going flier",
+        "row": 11,
+        "col": 8,
+        "answer": "ERNE"
+      },
+      {
+        "number": 57,
+        "clue": "River at Memphis",
+        "row": 11,
+        "col": 12,
+        "answer": "NILE"
+      },
+      {
+        "number": 58,
+        "clue": "Sketch",
+        "row": 11,
+        "col": 13,
+        "answer": "DRAW"
+      },
+      {
+        "number": 59,
+        "clue": "Mailed",
+        "row": 11,
+        "col": 14,
+        "answer": "SENT"
+      }
+    ]
+  }
+}

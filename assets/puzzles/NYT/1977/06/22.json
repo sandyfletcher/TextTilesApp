@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1977-06-22",
+  "metadata": {
+    "date": "1977-06-22",
+    "title": "NY TIMES, WED, JUN 22, 1977",
+    "author": "William Lutwiniak",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["C", "O", "R", "D", null, "L", "I", "A", "R", "S", null, "A", "G", "E", "D"],
+    ["A", "L", "A", "I", null, "I", "S", "S", "U", "E", null, "W", "A", "V", "E"],
+    ["L", "I", "P", "S", null, "C", "H", "I", "M", "P", "A", "N", "Z", "E", "E"],
+    ["M", "O", "S", "Q", "U", "E", null, "A", "B", "A", "D", null, "E", "R", "R"],
+    [null, null, null, "U", "S", "N", "A", null, "A", "L", "I", "F", null, null, null],
+    ["D", "E", "S", "I", "E", "C", "L", "E", null, "S", "O", "R", "A", "S", null],
+    ["O", "B", "O", "E", null, "E", "T", "A", "L", null, "S", "A", "L", "A", "D"],
+    ["V", "O", "L", "T", null, "S", "A", "T", "E", "S", null, "G", "L", "U", "E"],
+    ["E", "N", "D", "U", "P", null, "R", "U", "N", "E", null, "M", "O", "T", "E"],
+    [null, "Y", "O", "D", "E", "L", null, "P", "I", "C", "K", "E", "T", "E", "D"],
+    [null, null, null, "E", "W", "E", "R", null, "N", "O", "O", "N", null, null, null],
+    ["S", "P", "Y", null, "I", "D", "O", "L", null, "N", "O", "T", "B", "A", "D"],
+    ["L", "O", "O", "K", "T", "O", "W", "A", "R", "D", null, "A", "E", "R", "O"],
+    ["O", "G", "L", "E", null, "F", "E", "R", "A", "L", null, "R", "A", "I", "L"],
+    ["P", "O", "K", "Y", null, "F", "L", "A", "W", "Y", null, "Y", "U", "L", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "128 cu. ft. of wood",
+        "row": 0,
+        "col": 0,
+        "answer": "CORD"
+      },
+      {
+        "number": 5,
+        "clue": "Fabulizers",
+        "row": 0,
+        "col": 5,
+        "answer": "LIARS"
+      },
+      {
+        "number": 10,
+        "clue": "On in years",
+        "row": 0,
+        "col": 11,
+        "answer": "AGED"
+      },
+      {
+        "number": 14,
+        "clue": "Jai follower",
+        "row": 1,
+        "col": 0,
+        "answer": "ALAI"
+      },
+      {
+        "number": 15,
+        "clue": "Put out",
+        "row": 1,
+        "col": 5,
+        "answer": "ISSUE"
+      },
+      {
+        "number": 16,
+        "clue": "Flutter",
+        "row": 1,
+        "col": 11,
+        "answer": "WAVE"
+      },
+      {
+        "number": 17,
+        "clue": "\"___ that touch liquor . . . \"",
+        "row": 2,
+        "col": 0,
+        "answer": "LIPS"
+      },
+      {
+        "number": 18,
+        "clue": "Zoo denizen",
+        "row": 2,
+        "col": 5,
+        "answer": "CHIMPANZEE"
+      },
+      {
+        "number": 20,
+        "clue": "Imam's bailiwick",
+        "row": 3,
+        "col": 0,
+        "answer": "MOSQUE"
+      },
+      {
+        "number": 22,
+        "clue": "Aldrich's \"Story of ___ Boy\"",
+        "row": 3,
+        "col": 7,
+        "answer": "ABAD"
+      },
+      {
+        "number": 23,
+        "clue": "Misdo",
+        "row": 3,
+        "col": 12,
+        "answer": "ERR"
+      },
+      {
+        "number": 24,
+        "clue": "The Middies",
+        "row": 4,
+        "col": 3,
+        "answer": "USNA"
+      },
+      {
+        "number": 26,
+        "clue": "Arabic letter",
+        "row": 4,
+        "col": 8,
+        "answer": "ALIF"
+      },
+      {
+        "number": 28,
+        "clue": "Fin ___ (decadent)",
+        "row": 5,
+        "col": 0,
+        "answer": "DESIECLE"
+      },
+      {
+        "number": 32,
+        "clue": "Wading birds",
+        "row": 5,
+        "col": 9,
+        "answer": "SORAS"
+      },
+      {
+        "number": 35,
+        "clue": "Orchestra member",
+        "row": 6,
+        "col": 0,
+        "answer": "OBOE"
+      },
+      {
+        "number": 36,
+        "clue": "Relative of etc.",
+        "row": 6,
+        "col": 5,
+        "answer": "ETAL"
+      },
+      {
+        "number": 38,
+        "clue": "Waldorf, e.g.",
+        "row": 6,
+        "col": 10,
+        "answer": "SALAD"
+      },
+      {
+        "number": 40,
+        "clue": "Electrical unit",
+        "row": 7,
+        "col": 0,
+        "answer": "VOLT"
+      },
+      {
+        "number": 41,
+        "clue": "Gluts",
+        "row": 7,
+        "col": 5,
+        "answer": "SATES"
+      },
+      {
+        "number": 43,
+        "clue": "Adhesive",
+        "row": 7,
+        "col": 11,
+        "answer": "GLUE"
+      },
+      {
+        "number": 44,
+        "clue": "Conclude",
+        "row": 8,
+        "col": 0,
+        "answer": "ENDUP"
+      },
+      {
+        "number": 46,
+        "clue": "Mystical mark",
+        "row": 8,
+        "col": 6,
+        "answer": "RUNE"
+      },
+      {
+        "number": 47,
+        "clue": "Particle of dust",
+        "row": 8,
+        "col": 11,
+        "answer": "MOTE"
+      },
+      {
+        "number": 48,
+        "clue": "Alpine serenade",
+        "row": 9,
+        "col": 1,
+        "answer": "YODEL"
+      },
+      {
+        "number": 50,
+        "clue": "Demonstrated, as strikers",
+        "row": 9,
+        "col": 7,
+        "answer": "PICKETED"
+      },
+      {
+        "number": 52,
+        "clue": "Pitcher",
+        "row": 10,
+        "col": 3,
+        "answer": "EWER"
+      },
+      {
+        "number": 54,
+        "clue": "Lunchtime",
+        "row": 10,
+        "col": 8,
+        "answer": "NOON"
+      },
+      {
+        "number": 55,
+        "clue": "Double agent",
+        "row": 11,
+        "col": 0,
+        "answer": "SPY"
+      },
+      {
+        "number": 58,
+        "clue": "Niche object",
+        "row": 11,
+        "col": 4,
+        "answer": "IDOL"
+      },
+      {
+        "number": 60,
+        "clue": "Passable",
+        "row": 11,
+        "col": 9,
+        "answer": "NOTBAD"
+      },
+      {
+        "number": 64,
+        "clue": "Anticipate",
+        "row": 12,
+        "col": 0,
+        "answer": "LOOKTOWARD"
+      },
+      {
+        "number": 67,
+        "clue": "Go by plane",
+        "row": 12,
+        "col": 11,
+        "answer": "AERO"
+      },
+      {
+        "number": 68,
+        "clue": "\"Loverly\" look",
+        "row": 13,
+        "col": 0,
+        "answer": "OGLE"
+      },
+      {
+        "number": 69,
+        "clue": "Untamed",
+        "row": 13,
+        "col": 5,
+        "answer": "FERAL"
+      },
+      {
+        "number": 70,
+        "clue": "Inveigh",
+        "row": 13,
+        "col": 11,
+        "answer": "RAIL"
+      },
+      {
+        "number": 71,
+        "clue": "Annoyingly slow",
+        "row": 14,
+        "col": 0,
+        "answer": "POKY"
+      },
+      {
+        "number": 72,
+        "clue": "Defective",
+        "row": 14,
+        "col": 5,
+        "answer": "FLAWY"
+      },
+      {
+        "number": 73,
+        "clue": "Christmastide",
+        "row": 14,
+        "col": 11,
+        "answer": "YULE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Unflappable",
+        "row": 0,
+        "col": 0,
+        "answer": "CALM"
+      },
+      {
+        "number": 2,
+        "clue": "Salmagundi",
+        "row": 0,
+        "col": 1,
+        "answer": "OLIO"
+      },
+      {
+        "number": 3,
+        "clue": "Knocks",
+        "row": 0,
+        "col": 2,
+        "answer": "RAPS"
+      },
+      {
+        "number": 4,
+        "clue": "Anxiety",
+        "row": 0,
+        "col": 3,
+        "answer": "DISQUIETUDE"
+      },
+      {
+        "number": 5,
+        "clue": "Permits, British style",
+        "row": 0,
+        "col": 5,
+        "answer": "LICENCES"
+      },
+      {
+        "number": 6,
+        "clue": "Like: Suffix",
+        "row": 0,
+        "col": 6,
+        "answer": "ISH"
+      },
+      {
+        "number": 7,
+        "clue": "Where the Ob flows",
+        "row": 0,
+        "col": 7,
+        "answer": "ASIA"
+      },
+      {
+        "number": 8,
+        "clue": "Cugat's forte",
+        "row": 0,
+        "col": 8,
+        "answer": "RUMBA"
+      },
+      {
+        "number": 9,
+        "clue": "Flower features",
+        "row": 0,
+        "col": 9,
+        "answer": "SEPALS"
+      },
+      {
+        "number": 10,
+        "clue": "Wheat feature",
+        "row": 0,
+        "col": 11,
+        "answer": "AWN"
+      },
+      {
+        "number": 11,
+        "clue": "Look",
+        "row": 0,
+        "col": 12,
+        "answer": "GAZE"
+      },
+      {
+        "number": 12,
+        "clue": "At any time",
+        "row": 0,
+        "col": 13,
+        "answer": "EVER"
+      },
+      {
+        "number": 13,
+        "clue": "Antelope's playmate",
+        "row": 0,
+        "col": 14,
+        "answer": "DEER"
+      },
+      {
+        "number": 19,
+        "clue": "Juan's goodbye",
+        "row": 2,
+        "col": 10,
+        "answer": "ADIOS"
+      },
+      {
+        "number": 21,
+        "clue": "Wield",
+        "row": 3,
+        "col": 4,
+        "answer": "USE"
+      },
+      {
+        "number": 25,
+        "clue": "Wedding locale",
+        "row": 4,
+        "col": 6,
+        "answer": "ALTAR"
+      },
+      {
+        "number": 27,
+        "clue": "Piecemeal",
+        "row": 4,
+        "col": 11,
+        "answer": "FRAGMENTARY"
+      },
+      {
+        "number": 28,
+        "clue": "Peace symbol",
+        "row": 5,
+        "col": 0,
+        "answer": "DOVE"
+      },
+      {
+        "number": 29,
+        "clue": "Hard wood",
+        "row": 5,
+        "col": 1,
+        "answer": "EBONY"
+      },
+      {
+        "number": 30,
+        "clue": "Italian coin",
+        "row": 5,
+        "col": 2,
+        "answer": "SOLDO"
+      },
+      {
+        "number": 31,
+        "clue": "Go through, as food",
+        "row": 5,
+        "col": 7,
+        "answer": "EATUP"
+      },
+      {
+        "number": 33,
+        "clue": "Apportion",
+        "row": 5,
+        "col": 12,
+        "answer": "ALLOT"
+      },
+      {
+        "number": 34,
+        "clue": "Cook in a bit of fat",
+        "row": 5,
+        "col": 13,
+        "answer": "SAUTE"
+      },
+      {
+        "number": 37,
+        "clue": "\"Pravda\" founder: 1912",
+        "row": 6,
+        "col": 8,
+        "answer": "LENIN"
+      },
+      {
+        "number": 39,
+        "clue": "Achievement",
+        "row": 6,
+        "col": 14,
+        "answer": "DEED"
+      },
+      {
+        "number": 42,
+        "clue": "Next",
+        "row": 7,
+        "col": 9,
+        "answer": "SECONDLY"
+      },
+      {
+        "number": 45,
+        "clue": "Lapwing",
+        "row": 8,
+        "col": 4,
+        "answer": "PEWIT"
+      },
+      {
+        "number": 49,
+        "clue": "Batted first",
+        "row": 9,
+        "col": 5,
+        "answer": "LEDOFF"
+      },
+      {
+        "number": 51,
+        "clue": "Cole Porter musical, \"Hitchy-___\"",
+        "row": 9,
+        "col": 10,
+        "answer": "KOO"
+      },
+      {
+        "number": 53,
+        "clue": "Spur feature",
+        "row": 10,
+        "col": 6,
+        "answer": "ROWEL"
+      },
+      {
+        "number": 55,
+        "clue": "Dish out messily",
+        "row": 11,
+        "col": 0,
+        "answer": "SLOP"
+      },
+      {
+        "number": 56,
+        "clue": "Comics character",
+        "row": 11,
+        "col": 1,
+        "answer": "POGO"
+      },
+      {
+        "number": 57,
+        "clue": "Egg feature",
+        "row": 11,
+        "col": 2,
+        "answer": "YOLK"
+      },
+      {
+        "number": 59,
+        "clue": "Zhivago's love",
+        "row": 11,
+        "col": 7,
+        "answer": "LARA"
+      },
+      {
+        "number": 61,
+        "clue": "Swain",
+        "row": 11,
+        "col": 12,
+        "answer": "BEAU"
+      },
+      {
+        "number": 62,
+        "clue": "Seed coat",
+        "row": 11,
+        "col": 13,
+        "answer": "ARIL"
+      },
+      {
+        "number": 63,
+        "clue": "An also-ran in '76",
+        "row": 11,
+        "col": 14,
+        "answer": "DOLE"
+      },
+      {
+        "number": 65,
+        "clue": "Essential",
+        "row": 12,
+        "col": 3,
+        "answer": "KEY"
+      },
+      {
+        "number": 66,
+        "clue": "Green",
+        "row": 12,
+        "col": 8,
+        "answer": "RAW"
+      }
+    ]
+  }
+}

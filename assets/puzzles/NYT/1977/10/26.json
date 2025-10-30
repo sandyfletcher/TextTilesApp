@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1977-10-26",
+  "metadata": {
+    "date": "1977-10-26",
+    "title": "NY TIMES, WED, OCT 26, 1977",
+    "author": "Hal R. Hollinger",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["C", "L", "I", "M", "B", null, "B", "R", "O", "W", null, "E", "C", "H", "O"],
+    ["H", "O", "S", "E", "A", null, "R", "E", "N", "I", null, "G", "R", "A", "U"],
+    ["I", "V", "A", "N", "S", null, "I", "N", "E", "L", "E", "G", "A", "N", "T"],
+    ["N", "E", "W", "S", "I", "S", "G", "O", "O", "D", "N", "E", "W", "S", null],
+    ["A", "R", "I", null, "L", "A", "S", null, null, "C", "I", "D", null, null, null],
+    [null, null, null, "J", "I", "G", null, "S", "P", "A", "D", null, "L", "E", "E"],
+    ["S", "O", "N", "I", "C", null, "S", "E", "A", "T", null, "F", "O", "A", "L"],
+    ["T", "H", "E", "B", "A", "D", "N", "E", "W", "S", "B", "E", "A", "R", "S"],
+    ["E", "I", "R", "E", null, "E", "A", "R", "N", null, "R", "I", "F", "L", "E"],
+    ["W", "O", "O", null, "A", "L", "P", "S", null, "D", "U", "N", null, null, null],
+    [null, null, null, "P", "L", "I", null, null, "R", "O", "E", null, "V", "O", "A"],
+    [null, "T", "H", "E", "E", "V", "E", "N", "I", "N", "G", "N", "E", "W", "S"],
+    ["P", "R", "O", "C", "E", "E", "D", "E", "D", null, "H", "O", "R", "N", "S"],
+    ["A", "U", "R", "A", null, "R", "I", "V", "E", null, "E", "N", "S", "U", "E"],
+    ["D", "E", "A", "N", null, "S", "T", "A", "R", null, "L", "E", "A", "P", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Go up the ladder",
+        "row": 0,
+        "col": 0,
+        "answer": "CLIMB"
+      },
+      {
+        "number": 6,
+        "clue": "Forehead",
+        "row": 0,
+        "col": 6,
+        "answer": "BROW"
+      },
+      {
+        "number": 10,
+        "clue": "\"Me too\" utterance",
+        "row": 0,
+        "col": 11,
+        "answer": "ECHO"
+      },
+      {
+        "number": 14,
+        "clue": "Hebrew prophet",
+        "row": 1,
+        "col": 0,
+        "answer": "HOSEA"
+      },
+      {
+        "number": 15,
+        "clue": "Bolognese painter",
+        "row": 1,
+        "col": 6,
+        "answer": "RENI"
+      },
+      {
+        "number": 16,
+        "clue": "She wrote \"The House on Coliseum Street\"",
+        "row": 1,
+        "col": 11,
+        "answer": "GRAU"
+      },
+      {
+        "number": 17,
+        "clue": "Russian soldiers",
+        "row": 2,
+        "col": 0,
+        "answer": "IVANS"
+      },
+      {
+        "number": 18,
+        "clue": "Lacking in grace",
+        "row": 2,
+        "col": 6,
+        "answer": "INELEGANT"
+      },
+      {
+        "number": 20,
+        "clue": "Old saying, with \"No\"",
+        "row": 3,
+        "col": 0,
+        "answer": "NEWSISGOODNEWS"
+      },
+      {
+        "number": 22,
+        "clue": "\"Exodus\" hero",
+        "row": 4,
+        "col": 0,
+        "answer": "ARI"
+      },
+      {
+        "number": 23,
+        "clue": "\"___ Vegas East\" (Atlantic City)",
+        "row": 4,
+        "col": 4,
+        "answer": "LAS"
+      },
+      {
+        "number": 24,
+        "clue": "Spanish soldier-hero",
+        "row": 4,
+        "col": 9,
+        "answer": "CID"
+      },
+      {
+        "number": 25,
+        "clue": "Irish dance",
+        "row": 5,
+        "col": 3,
+        "answer": "JIG"
+      },
+      {
+        "number": 26,
+        "clue": "Miner's nail",
+        "row": 5,
+        "col": 7,
+        "answer": "SPAD"
+      },
+      {
+        "number": 28,
+        "clue": "Actress Remick",
+        "row": 5,
+        "col": 12,
+        "answer": "LEE"
+      },
+      {
+        "number": 31,
+        "clue": "Part of SST",
+        "row": 6,
+        "col": 0,
+        "answer": "SONIC"
+      },
+      {
+        "number": 34,
+        "clue": "Word with box or love",
+        "row": 6,
+        "col": 6,
+        "answer": "SEAT"
+      },
+      {
+        "number": 35,
+        "clue": "New-born mule",
+        "row": 6,
+        "col": 11,
+        "answer": "FOAL"
+      },
+      {
+        "number": 36,
+        "clue": "Matthau movie",
+        "row": 7,
+        "col": 0,
+        "answer": "THEBADNEWSBEARS"
+      },
+      {
+        "number": 39,
+        "clue": "Liam Cosgrave's land",
+        "row": 8,
+        "col": 0,
+        "answer": "EIRE"
+      },
+      {
+        "number": 40,
+        "clue": "\"I ___ that I eat\": Shak.",
+        "row": 8,
+        "col": 5,
+        "answer": "EARN"
+      },
+      {
+        "number": 41,
+        "clue": "Jaeger's weapon",
+        "row": 8,
+        "col": 10,
+        "answer": "RIFLE"
+      },
+      {
+        "number": 42,
+        "clue": "What swains pitch",
+        "row": 9,
+        "col": 0,
+        "answer": "WOO"
+      },
+      {
+        "number": 43,
+        "clue": "Italian border range",
+        "row": 9,
+        "col": 4,
+        "answer": "ALPS"
+      },
+      {
+        "number": 44,
+        "clue": "Importune a debtor",
+        "row": 9,
+        "col": 9,
+        "answer": "DUN"
+      },
+      {
+        "number": 45,
+        "clue": "Fold; wrinkle: Fr.",
+        "row": 10,
+        "col": 3,
+        "answer": "PLI"
+      },
+      {
+        "number": 46,
+        "clue": "Kind of deer",
+        "row": 10,
+        "col": 8,
+        "answer": "ROE"
+      },
+      {
+        "number": 47,
+        "clue": "Overseas news org.",
+        "row": 10,
+        "col": 12,
+        "answer": "VOA"
+      },
+      {
+        "number": 50,
+        "clue": "TV feature",
+        "row": 11,
+        "col": 1,
+        "answer": "THEEVENINGNEWS"
+      },
+      {
+        "number": 55,
+        "clue": "Advanced",
+        "row": 12,
+        "col": 0,
+        "answer": "PROCEEDED"
+      },
+      {
+        "number": 56,
+        "clue": "Dilemma duo",
+        "row": 12,
+        "col": 10,
+        "answer": "HORNS"
+      },
+      {
+        "number": 57,
+        "clue": "Distinctive air",
+        "row": 13,
+        "col": 0,
+        "answer": "AURA"
+      },
+      {
+        "number": 58,
+        "clue": "Split",
+        "row": 13,
+        "col": 5,
+        "answer": "RIVE"
+      },
+      {
+        "number": 59,
+        "clue": "Follow",
+        "row": 13,
+        "col": 10,
+        "answer": "ENSUE"
+      },
+      {
+        "number": 60,
+        "clue": "Cathedral official",
+        "row": 14,
+        "col": 0,
+        "answer": "DEAN"
+      },
+      {
+        "number": 61,
+        "clue": "Name of many a newspaper",
+        "row": 14,
+        "col": 5,
+        "answer": "STAR"
+      },
+      {
+        "number": 62,
+        "clue": "\"Into the dangerous world I ___\": Blake",
+        "row": 14,
+        "col": 10,
+        "answer": "LEAPT"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Gift for 20th anniversary",
+        "row": 0,
+        "col": 0,
+        "answer": "CHINA"
+      },
+      {
+        "number": 2,
+        "clue": "Shakespeare's third age of man",
+        "row": 0,
+        "col": 1,
+        "answer": "LOVER"
+      },
+      {
+        "number": 3,
+        "clue": "\"I came, ___ conquered\"",
+        "row": 0,
+        "col": 2,
+        "answer": "ISAWI"
+      },
+      {
+        "number": 4,
+        "clue": "Word with clothes or room",
+        "row": 0,
+        "col": 3,
+        "answer": "MENS"
+      },
+      {
+        "number": 5,
+        "clue": "St. Peter's, for one",
+        "row": 0,
+        "col": 4,
+        "answer": "BASILICA"
+      },
+      {
+        "number": 6,
+        "clue": "Two-masters",
+        "row": 0,
+        "col": 6,
+        "answer": "BRIGS"
+      },
+      {
+        "number": 7,
+        "clue": "City on the Truckee",
+        "row": 0,
+        "col": 7,
+        "answer": "RENO"
+      },
+      {
+        "number": 8,
+        "clue": "___-cat (sandlot game)",
+        "row": 0,
+        "col": 8,
+        "answer": "ONEO"
+      },
+      {
+        "number": 9,
+        "clue": "Team from Lexington, Ky.",
+        "row": 0,
+        "col": 9,
+        "answer": "WILDCATS"
+      },
+      {
+        "number": 10,
+        "clue": "Pressed into action",
+        "row": 0,
+        "col": 11,
+        "answer": "EGGED"
+      },
+      {
+        "number": 11,
+        "clue": "Bird's crop",
+        "row": 0,
+        "col": 12,
+        "answer": "CRAW"
+      },
+      {
+        "number": 12,
+        "clue": "Kaltenborn",
+        "row": 0,
+        "col": 13,
+        "answer": "HANS"
+      },
+      {
+        "number": 13,
+        "clue": "In circulation, as a newspaper",
+        "row": 0,
+        "col": 14,
+        "answer": "OUT"
+      },
+      {
+        "number": 19,
+        "clue": "Sir Geraint's wife",
+        "row": 2,
+        "col": 10,
+        "answer": "ENID"
+      },
+      {
+        "number": 21,
+        "clue": "Problem in middle age",
+        "row": 3,
+        "col": 5,
+        "answer": "SAG"
+      },
+      {
+        "number": 25,
+        "clue": "Be in accord",
+        "row": 5,
+        "col": 3,
+        "answer": "JIBE"
+      },
+      {
+        "number": 26,
+        "clue": "News forecasters of a sort",
+        "row": 5,
+        "col": 7,
+        "answer": "SEERS"
+      },
+      {
+        "number": 27,
+        "clue": "One of 16 on a board",
+        "row": 5,
+        "col": 8,
+        "answer": "PAWN"
+      },
+      {
+        "number": 28,
+        "clue": "Lallygag",
+        "row": 5,
+        "col": 12,
+        "answer": "LOAF"
+      },
+      {
+        "number": 29,
+        "clue": "Monroe of the Knicks",
+        "row": 5,
+        "col": 13,
+        "answer": "EARL"
+      },
+      {
+        "number": 30,
+        "clue": "If not",
+        "row": 5,
+        "col": 14,
+        "answer": "ELSE"
+      },
+      {
+        "number": 31,
+        "clue": "Lobscouse, e.g.",
+        "row": 6,
+        "col": 0,
+        "answer": "STEW"
+      },
+      {
+        "number": 32,
+        "clue": "Where Bowling Green is",
+        "row": 6,
+        "col": 1,
+        "answer": "OHIO"
+      },
+      {
+        "number": 33,
+        "clue": "Opera by Handel",
+        "row": 6,
+        "col": 2,
+        "answer": "NERO"
+      },
+      {
+        "number": 34,
+        "clue": "Word with dragon or brim",
+        "row": 6,
+        "col": 6,
+        "answer": "SNAP"
+      },
+      {
+        "number": 35,
+        "clue": "Sinn ___, Irish political group",
+        "row": 6,
+        "col": 11,
+        "answer": "FEIN"
+      },
+      {
+        "number": 37,
+        "clue": "A newsboy does it",
+        "row": 7,
+        "col": 5,
+        "answer": "DELIVERS"
+      },
+      {
+        "number": 38,
+        "clue": "Family of Flemish painters",
+        "row": 7,
+        "col": 10,
+        "answer": "BRUEGHEL"
+      },
+      {
+        "number": 43,
+        "clue": "On the protected side",
+        "row": 9,
+        "col": 4,
+        "answer": "ALEE"
+      },
+      {
+        "number": 44,
+        "clue": "Rickles",
+        "row": 9,
+        "col": 9,
+        "answer": "DON"
+      },
+      {
+        "number": 45,
+        "clue": "Praline ingredient",
+        "row": 10,
+        "col": 3,
+        "answer": "PECAN"
+      },
+      {
+        "number": 46,
+        "clue": "Appended clause",
+        "row": 10,
+        "col": 8,
+        "answer": "RIDER"
+      },
+      {
+        "number": 47,
+        "clue": "Vice ___",
+        "row": 10,
+        "col": 12,
+        "answer": "VERSA"
+      },
+      {
+        "number": 48,
+        "clue": "Admit to",
+        "row": 10,
+        "col": 13,
+        "answer": "OWNUP"
+      },
+      {
+        "number": 49,
+        "clue": "Balance-sheet item",
+        "row": 10,
+        "col": 14,
+        "answer": "ASSET"
+      },
+      {
+        "number": 50,
+        "clue": "Veridical",
+        "row": 11,
+        "col": 1,
+        "answer": "TRUE"
+      },
+      {
+        "number": 51,
+        "clue": "Sabra's dance",
+        "row": 11,
+        "col": 2,
+        "answer": "HORA"
+      },
+      {
+        "number": 52,
+        "clue": "Work at the copy desk",
+        "row": 11,
+        "col": 6,
+        "answer": "EDIT"
+      },
+      {
+        "number": 53,
+        "clue": "Leningrad's river",
+        "row": 11,
+        "col": 7,
+        "answer": "NEVA"
+      },
+      {
+        "number": 54,
+        "clue": "\"And then there were ___\"",
+        "row": 11,
+        "col": 11,
+        "answer": "NONE"
+      },
+      {
+        "number": 55,
+        "clue": "Item carried by a reporter",
+        "row": 12,
+        "col": 0,
+        "answer": "PAD"
+      }
+    ]
+  }
+}

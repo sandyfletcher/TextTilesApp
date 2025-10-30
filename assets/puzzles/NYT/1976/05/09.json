@@ -1,0 +1,1039 @@
+{
+  "id": "nyt-1976-05-09",
+  "metadata": {
+    "date": "1976-05-09",
+    "title": "AIRS APPARENT",
+    "author": "Herb Risteen",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 21,
+    "rows": 21
+  },
+  "grid": [
+    ["A", "D", "A", "M", null, "T", "E", "N", "O", "R", null, "S", "C", "A", "L", "E", "S", null, "M", "O", "T"],
+    ["M", "E", "L", "I", null, "A", "L", "I", "B", "I", null, "P", "O", "M", "A", "D", "E", null, "A", "B", "A"],
+    ["P", "E", "E", "N", null, "F", "A", "C", "E", "T", "H", "E", "M", "U", "S", "I", "C", null, "N", "O", "B"],
+    ["S", "P", "U", "N", null, "T", "I", "E", "S", null, "O", "L", "E", "S", null, "E", "T", "U", "D", "E", "S"],
+    [null, "S", "T", "E", "R", null, "N", "N", "E", null, "E", "L", "D", "E", "R", null, "S", "R", "O", null, null],
+    [null, null, null, "S", "A", "R", "E", "E", null, null, null, null, "I", "D", "A", null, null, "B", "L", "A", "T"],
+    [null, "S", "H", "I", "R", "E", null, null, "V", "A", "S", "T", "E", null, "M", "A", "L", "A", "I", "S", "E"],
+    ["M", "O", "O", "N", "E", "D", null, "C", "A", "P", "E", "R", "S", null, null, "B", "O", "N", "N", "E", "T"],
+    ["A", "D", "I", "G", "E", null, "T", "U", "L", "I", "P", "S", null, "T", "E", "O", "R", null, "S", "A", "R"],
+    ["B", "A", "S", "E", null, "A", "R", "R", "E", "S", "T", null, "L", "I", "T", "R", "E", "S", null, null, null],
+    [null, "S", "T", "R", "I", "K", "E", "S", "T", "H", "E", "R", "I", "G", "H", "T", "N", "O", "T", "E", null],
+    [null, null, null, "S", "C", "E", "N", "E", "S", null, "M", "E", "T", "R", "E", "S", null, "N", "A", "P", "A"],
+    ["A", "S", "S", null, "E", "N", "T", "S", null, "A", "B", "A", "T", "E", "R", null, "A", "G", "R", "E", "E"],
+    ["D", "E", "P", "O", "N", "E", null, null, "T", "R", "E", "V", "E", "S", null, "S", "T", "A", "T", "E", "S"],
+    ["A", "T", "A", "V", "I", "S", "M", null, "R", "A", "R", "E", "R", null, null, "T", "U", "N", "E", "S", null],
+    ["R", "I", "R", "E", null, null, "I", "B", "O", null, null, null, null, "B", "L", "A", "N", "D", null, null, null],
+    [null, null, "E", "R", "S", null, "T", "E", "M", "P", "O", null, "T", "O", "E", null, "E", "D", "A", "M", null],
+    ["C", "A", "P", "T", "O", "R", null, "A", "B", "O", "R", null, "A", "G", "E", "E", null, "A", "R", "I", "D"],
+    ["A", "G", "A", null, "T", "O", "O", "T", "O", "N", "E", "S", "H", "O", "R", "N", null, "N", "I", "N", "A"],
+    ["P", "E", "R", null, "I", "M", "P", "E", "N", "D", null, "T", "O", "T", "E", "D", null, "C", "A", "E", "N"],
+    ["E", "S", "T", null, "K", "E", "E", "N", "E", "S", null, "R", "E", "A", "D", "S", null, "E", "S", "S", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Garden occupant",
+        "row": 0,
+        "col": 0,
+        "answer": "ADAM"
+      },
+      {
+        "number": 5,
+        "clue": "Met performer",
+        "row": 0,
+        "col": 5,
+        "answer": "TENOR"
+      },
+      {
+        "number": 10,
+        "clue": "Fish and musical",
+        "row": 0,
+        "col": 11,
+        "answer": "SCALES"
+      },
+      {
+        "number": 16,
+        "clue": "Witticism",
+        "row": 0,
+        "col": 18,
+        "answer": "MOT"
+      },
+      {
+        "number": 19,
+        "clue": "Honey: Prefix",
+        "row": 1,
+        "col": 0,
+        "answer": "MELI"
+      },
+      {
+        "number": 20,
+        "clue": "Excuse",
+        "row": 1,
+        "col": 5,
+        "answer": "ALIBI"
+      },
+      {
+        "number": 21,
+        "clue": "Hair application",
+        "row": 1,
+        "col": 11,
+        "answer": "POMADE"
+      },
+      {
+        "number": 22,
+        "clue": "Arab robe",
+        "row": 1,
+        "col": 18,
+        "answer": "ABA"
+      },
+      {
+        "number": 23,
+        "clue": "Hammer part",
+        "row": 2,
+        "col": 0,
+        "answer": "PEEN"
+      },
+      {
+        "number": 24,
+        "clue": "Look at one's piano score",
+        "row": 2,
+        "col": 5,
+        "answer": "FACETHEMUSIC"
+      },
+      {
+        "number": 26,
+        "clue": "London swell",
+        "row": 2,
+        "col": 18,
+        "answer": "NOB"
+      },
+      {
+        "number": 27,
+        "clue": "Told, as a yarn",
+        "row": 3,
+        "col": 0,
+        "answer": "SPUN"
+      },
+      {
+        "number": 28,
+        "clue": "Railroad and neck",
+        "row": 3,
+        "col": 5,
+        "answer": "TIES"
+      },
+      {
+        "number": 29,
+        "clue": "Cordoba cheers",
+        "row": 3,
+        "col": 10,
+        "answer": "OLES"
+      },
+      {
+        "number": 30,
+        "clue": "Musical works",
+        "row": 3,
+        "col": 15,
+        "answer": "ETUDES"
+      },
+      {
+        "number": 32,
+        "clue": "Suffix for gang",
+        "row": 4,
+        "col": 1,
+        "answer": "STER"
+      },
+      {
+        "number": 34,
+        "clue": "Compass point",
+        "row": 4,
+        "col": 6,
+        "answer": "NNE"
+      },
+      {
+        "number": 35,
+        "clue": "Golfer Lee",
+        "row": 4,
+        "col": 10,
+        "answer": "ELDER"
+      },
+      {
+        "number": 37,
+        "clue": "B'way sign",
+        "row": 4,
+        "col": 16,
+        "answer": "SRO"
+      },
+      {
+        "number": 38,
+        "clue": "Madras garment",
+        "row": 5,
+        "col": 3,
+        "answer": "SAREE"
+      },
+      {
+        "number": 40,
+        "clue": "Peak of Crete",
+        "row": 5,
+        "col": 12,
+        "answer": "IDA"
+      },
+      {
+        "number": 41,
+        "clue": "Talk harshly",
+        "row": 5,
+        "col": 17,
+        "answer": "BLAT"
+      },
+      {
+        "number": 44,
+        "clue": "Worcester, e.g.",
+        "row": 6,
+        "col": 1,
+        "answer": "SHIRE"
+      },
+      {
+        "number": 46,
+        "clue": "Great: Fr.",
+        "row": 6,
+        "col": 8,
+        "answer": "VASTE"
+      },
+      {
+        "number": 50,
+        "clue": "Vague discomfort",
+        "row": 6,
+        "col": 14,
+        "answer": "MALAISE"
+      },
+      {
+        "number": 53,
+        "clue": "Gazed idly",
+        "row": 7,
+        "col": 0,
+        "answer": "MOONED"
+      },
+      {
+        "number": 54,
+        "clue": "\"Canadian ___\"",
+        "row": 7,
+        "col": 7,
+        "answer": "CAPERS"
+      },
+      {
+        "number": 55,
+        "clue": "Sunwear for Sue",
+        "row": 7,
+        "col": 15,
+        "answer": "BONNET"
+      },
+      {
+        "number": 56,
+        "clue": "Italian river",
+        "row": 8,
+        "col": 0,
+        "answer": "ADIGE"
+      },
+      {
+        "number": 57,
+        "clue": "Dutch exports",
+        "row": 8,
+        "col": 6,
+        "answer": "TULIPS"
+      },
+      {
+        "number": 58,
+        "clue": "Town near Udine",
+        "row": 8,
+        "col": 13,
+        "answer": "TEOR"
+      },
+      {
+        "number": 60,
+        "clue": "Men's org.",
+        "row": 8,
+        "col": 18,
+        "answer": "SAR"
+      },
+      {
+        "number": 61,
+        "clue": "Despicable",
+        "row": 9,
+        "col": 0,
+        "answer": "BASE"
+      },
+      {
+        "number": 62,
+        "clue": "Check",
+        "row": 9,
+        "col": 5,
+        "answer": "ARREST"
+      },
+      {
+        "number": 63,
+        "clue": "Capacity units",
+        "row": 9,
+        "col": 12,
+        "answer": "LITRES"
+      },
+      {
+        "number": 65,
+        "clue": "Shows accuracy at the piano",
+        "row": 10,
+        "col": 1,
+        "answer": "STRIKESTHERIGHTNOTE"
+      },
+      {
+        "number": 70,
+        "clue": "Postcard offerings",
+        "row": 11,
+        "col": 3,
+        "answer": "SCENES"
+      },
+      {
+        "number": 71,
+        "clue": "Linear measures",
+        "row": 11,
+        "col": 10,
+        "answer": "METRES"
+      },
+      {
+        "number": 72,
+        "clue": "Calif. valley",
+        "row": 11,
+        "col": 17,
+        "answer": "NAPA"
+      },
+      {
+        "number": 74,
+        "clue": "Ninny",
+        "row": 12,
+        "col": 0,
+        "answer": "ASS"
+      },
+      {
+        "number": 77,
+        "clue": "Doorways: Abbr.",
+        "row": 12,
+        "col": 4,
+        "answer": "ENTS"
+      },
+      {
+        "number": 78,
+        "clue": "Legal plea",
+        "row": 12,
+        "col": 9,
+        "answer": "ABATER"
+      },
+      {
+        "number": 79,
+        "clue": "Concur",
+        "row": 12,
+        "col": 16,
+        "answer": "AGREE"
+      },
+      {
+        "number": 80,
+        "clue": "Testify",
+        "row": 13,
+        "col": 0,
+        "answer": "DEPONE"
+      },
+      {
+        "number": 82,
+        "clue": "German city",
+        "row": 13,
+        "col": 8,
+        "answer": "TREVES"
+      },
+      {
+        "number": 83,
+        "clue": "Turn ___ evidence",
+        "row": 13,
+        "col": 15,
+        "answer": "STATES"
+      },
+      {
+        "number": 84,
+        "clue": "Throwback",
+        "row": 14,
+        "col": 0,
+        "answer": "ATAVISM"
+      },
+      {
+        "number": 86,
+        "clue": "Harder to find",
+        "row": 14,
+        "col": 8,
+        "answer": "RARER"
+      },
+      {
+        "number": 87,
+        "clue": "Adjusts, as a violin",
+        "row": 14,
+        "col": 15,
+        "answer": "TUNES"
+      },
+      {
+        "number": 88,
+        "clue": "Laugh, in Paris",
+        "row": 15,
+        "col": 0,
+        "answer": "RIRE"
+      },
+      {
+        "number": 89,
+        "clue": "Niger native",
+        "row": 15,
+        "col": 6,
+        "answer": "IBO"
+      },
+      {
+        "number": 91,
+        "clue": "\"Old Virginny\" composer",
+        "row": 15,
+        "col": 13,
+        "answer": "BLAND"
+      },
+      {
+        "number": 93,
+        "clue": "Hesitant sounds",
+        "row": 16,
+        "col": 2,
+        "answer": "ERS"
+      },
+      {
+        "number": 95,
+        "clue": "Adagio or allegro, e.g.",
+        "row": 16,
+        "col": 6,
+        "answer": "TEMPO"
+      },
+      {
+        "number": 98,
+        "clue": "Area of Italy",
+        "row": 16,
+        "col": 12,
+        "answer": "TOE"
+      },
+      {
+        "number": 99,
+        "clue": "Cheese",
+        "row": 16,
+        "col": 16,
+        "answer": "EDAM"
+      },
+      {
+        "number": 102,
+        "clue": "Hercules, to Iole",
+        "row": 17,
+        "col": 0,
+        "answer": "CAPTOR"
+      },
+      {
+        "number": 105,
+        "clue": "Assam native",
+        "row": 17,
+        "col": 7,
+        "answer": "ABOR"
+      },
+      {
+        "number": 106,
+        "clue": "Off line",
+        "row": 17,
+        "col": 12,
+        "answer": "AGEE"
+      },
+      {
+        "number": 108,
+        "clue": "Like the Gobi",
+        "row": 17,
+        "col": 17,
+        "answer": "ARID"
+      },
+      {
+        "number": 110,
+        "clue": "Khan",
+        "row": 18,
+        "col": 0,
+        "answer": "AGA"
+      },
+      {
+        "number": 111,
+        "clue": "Play in a band",
+        "row": 18,
+        "col": 4,
+        "answer": "TOOTONESHORN"
+      },
+      {
+        "number": 114,
+        "clue": "Early ocean crosser",
+        "row": 18,
+        "col": 17,
+        "answer": "NINA"
+      },
+      {
+        "number": 115,
+        "clue": "Through",
+        "row": 19,
+        "col": 0,
+        "answer": "PER"
+      },
+      {
+        "number": 116,
+        "clue": "Get near at hand",
+        "row": 19,
+        "col": 4,
+        "answer": "IMPEND"
+      },
+      {
+        "number": 117,
+        "clue": "Carried",
+        "row": 19,
+        "col": 11,
+        "answer": "TOTED"
+      },
+      {
+        "number": 118,
+        "clue": "French city",
+        "row": 19,
+        "col": 17,
+        "answer": "CAEN"
+      },
+      {
+        "number": 119,
+        "clue": "Part of i.e.",
+        "row": 20,
+        "col": 0,
+        "answer": "EST"
+      },
+      {
+        "number": 120,
+        "clue": "Actress Laura et al.",
+        "row": 20,
+        "col": 4,
+        "answer": "KEENES"
+      },
+      {
+        "number": 121,
+        "clue": "Interprets",
+        "row": 20,
+        "col": 11,
+        "answer": "READS"
+      },
+      {
+        "number": 122,
+        "clue": "Actual being",
+        "row": 20,
+        "col": 17,
+        "answer": "ESSE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Elec. units",
+        "row": 0,
+        "col": 0,
+        "answer": "AMPS"
+      },
+      {
+        "number": 2,
+        "clue": "Ocean chasms",
+        "row": 0,
+        "col": 1,
+        "answer": "DEEPS"
+      },
+      {
+        "number": 3,
+        "clue": "Alaskan native",
+        "row": 0,
+        "col": 2,
+        "answer": "ALEUT"
+      },
+      {
+        "number": 4,
+        "clue": "Small German bards",
+        "row": 0,
+        "col": 3,
+        "answer": "MINNESINGERS"
+      },
+      {
+        "number": 5,
+        "clue": "White House name",
+        "row": 0,
+        "col": 5,
+        "answer": "TAFT"
+      },
+      {
+        "number": 6,
+        "clue": "Astolat name",
+        "row": 0,
+        "col": 6,
+        "answer": "ELAINE"
+      },
+      {
+        "number": 7,
+        "clue": "___ Creed",
+        "row": 0,
+        "col": 7,
+        "answer": "NICENE"
+      },
+      {
+        "number": 8,
+        "clue": "Portly",
+        "row": 0,
+        "col": 8,
+        "answer": "OBESE"
+      },
+      {
+        "number": 9,
+        "clue": "Slowing, in music: Abbr.",
+        "row": 0,
+        "col": 9,
+        "answer": "RIT"
+      },
+      {
+        "number": 10,
+        "clue": "Charm",
+        "row": 0,
+        "col": 11,
+        "answer": "SPELL"
+      },
+      {
+        "number": 11,
+        "clue": "Divine and Human",
+        "row": 0,
+        "col": 12,
+        "answer": "COMEDIES"
+      },
+      {
+        "number": 12,
+        "clue": "Gave pleasure to",
+        "row": 0,
+        "col": 13,
+        "answer": "AMUSED"
+      },
+      {
+        "number": 13,
+        "clue": "___ Vegas",
+        "row": 0,
+        "col": 14,
+        "answer": "LAS"
+      },
+      {
+        "number": 14,
+        "clue": "Miss Adams",
+        "row": 0,
+        "col": 15,
+        "answer": "EDIE"
+      },
+      {
+        "number": 15,
+        "clue": "Groups",
+        "row": 0,
+        "col": 16,
+        "answer": "SECTS"
+      },
+      {
+        "number": 16,
+        "clue": "Lutes' relatives",
+        "row": 0,
+        "col": 18,
+        "answer": "MANDOLINS"
+      },
+      {
+        "number": 17,
+        "clue": "Instrument",
+        "row": 0,
+        "col": 19,
+        "answer": "OBOE"
+      },
+      {
+        "number": 18,
+        "clue": "Filers' aids",
+        "row": 0,
+        "col": 20,
+        "answer": "TABS"
+      },
+      {
+        "number": 25,
+        "clue": "Do farm work",
+        "row": 2,
+        "col": 10,
+        "answer": "HOE"
+      },
+      {
+        "number": 31,
+        "clue": "___ renewal",
+        "row": 3,
+        "col": 17,
+        "answer": "URBAN"
+      },
+      {
+        "number": 33,
+        "clue": "Peep show",
+        "row": 4,
+        "col": 4,
+        "answer": "RAREE"
+      },
+      {
+        "number": 36,
+        "clue": "Farm animal",
+        "row": 4,
+        "col": 14,
+        "answer": "RAM"
+      },
+      {
+        "number": 39,
+        "clue": "One of a flag trio",
+        "row": 5,
+        "col": 5,
+        "answer": "RED"
+      },
+      {
+        "number": 42,
+        "clue": "Confused",
+        "row": 5,
+        "col": 19,
+        "answer": "ASEA"
+      },
+      {
+        "number": 43,
+        "clue": "Four: Prefix",
+        "row": 5,
+        "col": 20,
+        "answer": "TETR"
+      },
+      {
+        "number": 44,
+        "clue": "Fountain items",
+        "row": 6,
+        "col": 1,
+        "answer": "SODAS"
+      },
+      {
+        "number": 45,
+        "clue": "___ by one's own petard",
+        "row": 6,
+        "col": 2,
+        "answer": "HOIST"
+      },
+      {
+        "number": 46,
+        "clue": "Jeeves and Bunter, e.g.",
+        "row": 6,
+        "col": 8,
+        "answer": "VALETS"
+      },
+      {
+        "number": 47,
+        "clue": "Silly",
+        "row": 6,
+        "col": 9,
+        "answer": "APISH"
+      },
+      {
+        "number": 48,
+        "clue": "Walter Huston's song",
+        "row": 6,
+        "col": 10,
+        "answer": "SEPTEMBER"
+      },
+      {
+        "number": 49,
+        "clue": "Co. officials",
+        "row": 6,
+        "col": 11,
+        "answer": "TRS"
+      },
+      {
+        "number": 51,
+        "clue": "Cuts off prematurely",
+        "row": 6,
+        "col": 15,
+        "answer": "ABORTS"
+      },
+      {
+        "number": 52,
+        "clue": "Italian film name",
+        "row": 6,
+        "col": 16,
+        "answer": "LOREN"
+      },
+      {
+        "number": 53,
+        "clue": "Fairy queen",
+        "row": 7,
+        "col": 0,
+        "answer": "MAB"
+      },
+      {
+        "number": 54,
+        "clue": "Word with \"foiled again\"",
+        "row": 7,
+        "col": 7,
+        "answer": "CURSES"
+      },
+      {
+        "number": 57,
+        "clue": "English river",
+        "row": 8,
+        "col": 6,
+        "answer": "TRENT"
+      },
+      {
+        "number": 58,
+        "clue": "Paris zoo animals",
+        "row": 8,
+        "col": 13,
+        "answer": "TIGRES"
+      },
+      {
+        "number": 59,
+        "clue": "Anesthetic",
+        "row": 8,
+        "col": 14,
+        "answer": "ETHER"
+      },
+      {
+        "number": 62,
+        "clue": "One-seeded fruits: Var.",
+        "row": 9,
+        "col": 5,
+        "answer": "AKENES"
+      },
+      {
+        "number": 63,
+        "clue": "Fail to use a trash basket",
+        "row": 9,
+        "col": 12,
+        "answer": "LITTER"
+      },
+      {
+        "number": 64,
+        "clue": "Musical cop-out",
+        "row": 9,
+        "col": 17,
+        "answer": "SONGANDDANCE"
+      },
+      {
+        "number": 66,
+        "clue": "Boadicea's tribe",
+        "row": 10,
+        "col": 4,
+        "answer": "ICENI"
+      },
+      {
+        "number": 67,
+        "clue": "Plunder, old style",
+        "row": 10,
+        "col": 11,
+        "answer": "REAVE"
+      },
+      {
+        "number": 68,
+        "clue": "French pastry item",
+        "row": 10,
+        "col": 18,
+        "answer": "TARTE"
+      },
+      {
+        "number": 69,
+        "clue": "Fencing weapons",
+        "row": 10,
+        "col": 19,
+        "answer": "EPEES"
+      },
+      {
+        "number": 73,
+        "clue": "Roman bronze",
+        "row": 11,
+        "col": 20,
+        "answer": "AES"
+      },
+      {
+        "number": 74,
+        "clue": "Jewish month",
+        "row": 12,
+        "col": 0,
+        "answer": "ADAR"
+      },
+      {
+        "number": 75,
+        "clue": "Bristle: Prefix",
+        "row": 12,
+        "col": 1,
+        "answer": "SETI"
+      },
+      {
+        "number": 76,
+        "clue": "Opera bit-role, in a way",
+        "row": 12,
+        "col": 2,
+        "answer": "SPAREPART"
+      },
+      {
+        "number": 78,
+        "clue": "Constellation",
+        "row": 12,
+        "col": 9,
+        "answer": "ARA"
+      },
+      {
+        "number": 79,
+        "clue": "In harmony",
+        "row": 12,
+        "col": 16,
+        "answer": "ATUNE"
+      },
+      {
+        "number": 81,
+        "clue": "Public",
+        "row": 13,
+        "col": 3,
+        "answer": "OVERT"
+      },
+      {
+        "number": 82,
+        "clue": "One of Willson's 76",
+        "row": 13,
+        "col": 8,
+        "answer": "TROMBONE"
+      },
+      {
+        "number": 83,
+        "clue": "Post: Abbr.",
+        "row": 13,
+        "col": 15,
+        "answer": "STA"
+      },
+      {
+        "number": 85,
+        "clue": "Cambridge campus",
+        "row": 14,
+        "col": 6,
+        "answer": "MIT"
+      },
+      {
+        "number": 90,
+        "clue": "Vanquished",
+        "row": 15,
+        "col": 7,
+        "answer": "BEATEN"
+      },
+      {
+        "number": 91,
+        "clue": "S.A. capital",
+        "row": 15,
+        "col": 13,
+        "answer": "BOGOTA"
+      },
+      {
+        "number": 92,
+        "clue": "Cast an evil glance",
+        "row": 15,
+        "col": 14,
+        "answer": "LEERED"
+      },
+      {
+        "number": 94,
+        "clue": "African tribesman",
+        "row": 16,
+        "col": 4,
+        "answer": "SOTIK"
+      },
+      {
+        "number": 96,
+        "clue": "Places for Thoreau",
+        "row": 16,
+        "col": 9,
+        "answer": "PONDS"
+      },
+      {
+        "number": 97,
+        "clue": "Neighbor of Wash.",
+        "row": 16,
+        "col": 10,
+        "answer": "ORE"
+      },
+      {
+        "number": 98,
+        "clue": "Resort lake",
+        "row": 16,
+        "col": 12,
+        "answer": "TAHOE"
+      },
+      {
+        "number": 100,
+        "clue": "Divas' renderings",
+        "row": 16,
+        "col": 18,
+        "answer": "ARIAS"
+      },
+      {
+        "number": 101,
+        "clue": "Strip and land",
+        "row": 16,
+        "col": 19,
+        "answer": "MINES"
+      },
+      {
+        "number": 102,
+        "clue": "Cod or Town",
+        "row": 17,
+        "col": 0,
+        "answer": "CAPE"
+      },
+      {
+        "number": 103,
+        "clue": "Stone and teen",
+        "row": 17,
+        "col": 1,
+        "answer": "AGES"
+      },
+      {
+        "number": 104,
+        "clue": "Via del Corso's city",
+        "row": 17,
+        "col": 5,
+        "answer": "ROME"
+      },
+      {
+        "number": 107,
+        "clue": "Two of eleven",
+        "row": 17,
+        "col": 15,
+        "answer": "ENDS"
+      },
+      {
+        "number": 109,
+        "clue": "Great or Clemence",
+        "row": 17,
+        "col": 20,
+        "answer": "DANE"
+      },
+      {
+        "number": 112,
+        "clue": "Unclose, in poems",
+        "row": 18,
+        "col": 6,
+        "answer": "OPE"
+      },
+      {
+        "number": 113,
+        "clue": "Vessel: Abbr.",
+        "row": 18,
+        "col": 11,
+        "answer": "STR"
+      }
+    ]
+  }
+}

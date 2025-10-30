@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-09-01",
+  "metadata": {
+    "date": "1976-09-01",
+    "title": "NY TIMES, WED, SEP 01, 1976",
+    "author": "Hugh P. Holland",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "N", "T", "S", null, "A", "C", "E", "R", "B", null, "T", "A", "S", "S"],
+    ["C", "A", "R", "L", null, "M", "O", "R", "E", "L", null, "A", "L", "T", "A"],
+    ["A", "S", "E", "A", null, "A", "M", "I", "D", "O", null, "N", "E", "A", "P"],
+    ["T", "H", "E", "T", "H", "R", "E", "E", "M", "O", "N", "K", "E", "Y", "S"],
+    [null, null, null, null, "M", "O", "B", null, "A", "M", "A", null, null, null, null],
+    ["L", "A", "S", "T", "S", null, "A", "W", "N", null, "P", "A", "R", "E", "E"],
+    ["A", "S", "T", "A", null, "I", "C", "H", null, "P", "E", "D", "A", "N", "T"],
+    ["T", "H", "E", "M", "O", "N", "K", "E", "Y", "W", "R", "E", "N", "C", "H"],
+    ["H", "E", "R", "A", "L", "D", null, "R", "O", "A", null, "P", "E", "R", "E"],
+    ["S", "N", "E", "R", "D", null, "R", "E", "U", null, "S", "T", "E", "E", "R"],
+    [null, null, null, null, "I", "D", "A", null, "N", "M", "U", null, null, null, null],
+    ["M", "O", "N", "K", "E", "Y", "I", "N", "G", "A", "R", "O", "U", "N", "D"],
+    ["I", "D", "E", "O", null, "E", "L", "E", "C", "T", null, "U", "T", "O", "R"],
+    ["S", "E", "A", "L", null, "R", "A", "B", "A", "T", null, "T", "A", "R", "A"],
+    ["S", "A", "R", "A", null, "S", "T", "O", "T", "S", null, "S", "H", "A", "M"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Busy creatures",
+        "row": 0,
+        "col": 0,
+        "answer": "ANTS"
+      },
+      {
+        "number": 5,
+        "clue": "Sour",
+        "row": 0,
+        "col": 5,
+        "answer": "ACERB"
+      },
+      {
+        "number": 10,
+        "clue": "Soviet agency",
+        "row": 0,
+        "col": 11,
+        "answer": "TASS"
+      },
+      {
+        "number": 14,
+        "clue": "Reiner or Carmer",
+        "row": 1,
+        "col": 0,
+        "answer": "CARL"
+      },
+      {
+        "number": 15,
+        "clue": "Mushroom",
+        "row": 1,
+        "col": 5,
+        "answer": "MOREL"
+      },
+      {
+        "number": 16,
+        "clue": "Can. province",
+        "row": 1,
+        "col": 11,
+        "answer": "ALTA"
+      },
+      {
+        "number": 17,
+        "clue": "Bewildered",
+        "row": 2,
+        "col": 0,
+        "answer": "ASEA"
+      },
+      {
+        "number": 18,
+        "clue": "Acid prefix",
+        "row": 2,
+        "col": 5,
+        "answer": "AMIDO"
+      },
+      {
+        "number": 19,
+        "clue": "Tide",
+        "row": 2,
+        "col": 11,
+        "answer": "NEAP"
+      },
+      {
+        "number": 20,
+        "clue": "Shunners of evil",
+        "row": 3,
+        "col": 0,
+        "answer": "THETHREEMONKEYS"
+      },
+      {
+        "number": 23,
+        "clue": "Kind of rule",
+        "row": 4,
+        "col": 4,
+        "answer": "MOB"
+      },
+      {
+        "number": 24,
+        "clue": "Candlenut tree",
+        "row": 4,
+        "col": 8,
+        "answer": "AMA"
+      },
+      {
+        "number": 25,
+        "clue": "Shoe molds",
+        "row": 5,
+        "col": 0,
+        "answer": "LASTS"
+      },
+      {
+        "number": 29,
+        "clue": "Grain beard",
+        "row": 5,
+        "col": 6,
+        "answer": "AWN"
+      },
+      {
+        "number": 31,
+        "clue": "Gay ___",
+        "row": 5,
+        "col": 10,
+        "answer": "PAREE"
+      },
+      {
+        "number": 36,
+        "clue": "Movie dog",
+        "row": 6,
+        "col": 0,
+        "answer": "ASTA"
+      },
+      {
+        "number": 37,
+        "clue": "German pronoun",
+        "row": 6,
+        "col": 5,
+        "answer": "ICH"
+      },
+      {
+        "number": 38,
+        "clue": "Precisionist",
+        "row": 6,
+        "col": 9,
+        "answer": "PEDANT"
+      },
+      {
+        "number": 39,
+        "clue": "Symbol of disruption",
+        "row": 7,
+        "col": 0,
+        "answer": "THEMONKEYWRENCH"
+      },
+      {
+        "number": 42,
+        "clue": "Publicize",
+        "row": 8,
+        "col": 0,
+        "answer": "HERALD"
+      },
+      {
+        "number": 43,
+        "clue": "Spanish town",
+        "row": 8,
+        "col": 7,
+        "answer": "ROA"
+      },
+      {
+        "number": 44,
+        "clue": "Paris parent",
+        "row": 8,
+        "col": 11,
+        "answer": "PERE"
+      },
+      {
+        "number": 45,
+        "clue": "McCarthy sidekick",
+        "row": 9,
+        "col": 0,
+        "answer": "SNERD"
+      },
+      {
+        "number": 46,
+        "clue": "Peleg's son",
+        "row": 9,
+        "col": 6,
+        "answer": "REU"
+      },
+      {
+        "number": 47,
+        "clue": "Man the tiller",
+        "row": 9,
+        "col": 10,
+        "answer": "STEER"
+      },
+      {
+        "number": 48,
+        "clue": "Miss Lupino",
+        "row": 10,
+        "col": 4,
+        "answer": "IDA"
+      },
+      {
+        "number": 50,
+        "clue": "Seamen's org.",
+        "row": 10,
+        "col": 8,
+        "answer": "NMU"
+      },
+      {
+        "number": 52,
+        "clue": "Trifling",
+        "row": 11,
+        "col": 0,
+        "answer": "MONKEYINGAROUND"
+      },
+      {
+        "number": 61,
+        "clue": "Thought: Prefix",
+        "row": 12,
+        "col": 0,
+        "answer": "IDEO"
+      },
+      {
+        "number": 62,
+        "clue": "Choose",
+        "row": 12,
+        "col": 5,
+        "answer": "ELECT"
+      },
+      {
+        "number": 63,
+        "clue": "Employ: Lat.",
+        "row": 12,
+        "col": 11,
+        "answer": "UTOR"
+      },
+      {
+        "number": 64,
+        "clue": "Fasten",
+        "row": 13,
+        "col": 0,
+        "answer": "SEAL"
+      },
+      {
+        "number": 65,
+        "clue": "Moroccan port",
+        "row": 13,
+        "col": 5,
+        "answer": "RABAT"
+      },
+      {
+        "number": 66,
+        "clue": "Irish kings' home",
+        "row": 13,
+        "col": 11,
+        "answer": "TARA"
+      },
+      {
+        "number": 67,
+        "clue": "Mrs. Roosevelt",
+        "row": 14,
+        "col": 0,
+        "answer": "SARA"
+      },
+      {
+        "number": 68,
+        "clue": "Bounces, in Scotland",
+        "row": 14,
+        "col": 5,
+        "answer": "STOTS"
+      },
+      {
+        "number": 69,
+        "clue": "Counterfeit",
+        "row": 14,
+        "col": 11,
+        "answer": "SHAM"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Weak as ___",
+        "row": 0,
+        "col": 0,
+        "answer": "ACAT"
+      },
+      {
+        "number": 2,
+        "clue": "Defunct auto",
+        "row": 0,
+        "col": 1,
+        "answer": "NASH"
+      },
+      {
+        "number": 3,
+        "clue": "Catalpa or elm",
+        "row": 0,
+        "col": 2,
+        "answer": "TREE"
+      },
+      {
+        "number": 4,
+        "clue": "Blind part",
+        "row": 0,
+        "col": 3,
+        "answer": "SLAT"
+      },
+      {
+        "number": 5,
+        "clue": "Italian peak",
+        "row": 0,
+        "col": 5,
+        "answer": "AMARO"
+      },
+      {
+        "number": 6,
+        "clue": "Smart retort",
+        "row": 0,
+        "col": 6,
+        "answer": "COMEBACK"
+      },
+      {
+        "number": 7,
+        "clue": "Fisk's railroad",
+        "row": 0,
+        "col": 7,
+        "answer": "ERIE"
+      },
+      {
+        "number": 8,
+        "clue": "American Indian",
+        "row": 0,
+        "col": 8,
+        "answer": "REDMAN"
+      },
+      {
+        "number": 9,
+        "clue": "Flourish",
+        "row": 0,
+        "col": 9,
+        "answer": "BLOOM"
+      },
+      {
+        "number": 10,
+        "clue": "Thinking place",
+        "row": 0,
+        "col": 11,
+        "answer": "TANK"
+      },
+      {
+        "number": 11,
+        "clue": "Sheltered",
+        "row": 0,
+        "col": 12,
+        "answer": "ALEE"
+      },
+      {
+        "number": 12,
+        "clue": "Restrain",
+        "row": 0,
+        "col": 13,
+        "answer": "STAY"
+      },
+      {
+        "number": 13,
+        "clue": "Military trenches",
+        "row": 0,
+        "col": 14,
+        "answer": "SAPS"
+      },
+      {
+        "number": 21,
+        "clue": "Initials on a limey's cap",
+        "row": 3,
+        "col": 4,
+        "answer": "HMS"
+      },
+      {
+        "number": 22,
+        "clue": "Nebraska town",
+        "row": 3,
+        "col": 10,
+        "answer": "NAPER"
+      },
+      {
+        "number": 25,
+        "clue": "Wood strips",
+        "row": 5,
+        "col": 0,
+        "answer": "LATHS"
+      },
+      {
+        "number": 26,
+        "clue": "Colorless",
+        "row": 5,
+        "col": 1,
+        "answer": "ASHEN"
+      },
+      {
+        "number": 27,
+        "clue": "Cubic measure",
+        "row": 5,
+        "col": 2,
+        "answer": "STERE"
+      },
+      {
+        "number": 28,
+        "clue": "Sister of Absalom",
+        "row": 5,
+        "col": 3,
+        "answer": "TAMAR"
+      },
+      {
+        "number": 30,
+        "clue": "Seeker's question",
+        "row": 5,
+        "col": 7,
+        "answer": "WHERE"
+      },
+      {
+        "number": 32,
+        "clue": "Adroit",
+        "row": 5,
+        "col": 11,
+        "answer": "ADEPT"
+      },
+      {
+        "number": 33,
+        "clue": "Hindu title",
+        "row": 5,
+        "col": 12,
+        "answer": "RANEE"
+      },
+      {
+        "number": 34,
+        "clue": "Ink, in France",
+        "row": 5,
+        "col": 13,
+        "answer": "ENCRE"
+      },
+      {
+        "number": 35,
+        "clue": "Empyrean",
+        "row": 5,
+        "col": 14,
+        "answer": "ETHER"
+      },
+      {
+        "number": 37,
+        "clue": "Neither Dem. nor Rep.",
+        "row": 6,
+        "col": 5,
+        "answer": "IND"
+      },
+      {
+        "number": 38,
+        "clue": "Depression org.",
+        "row": 6,
+        "col": 9,
+        "answer": "PWA"
+      },
+      {
+        "number": 40,
+        "clue": "Stale joke",
+        "row": 7,
+        "col": 4,
+        "answer": "OLDIE"
+      },
+      {
+        "number": 41,
+        "clue": "Kitten",
+        "row": 7,
+        "col": 8,
+        "answer": "YOUNGCAT"
+      },
+      {
+        "number": 46,
+        "clue": "Scold",
+        "row": 9,
+        "col": 6,
+        "answer": "RAILAT"
+      },
+      {
+        "number": 47,
+        "clue": "Big ___ of Calif.",
+        "row": 9,
+        "col": 10,
+        "answer": "SUR"
+      },
+      {
+        "number": 49,
+        "clue": "Fabric workers",
+        "row": 10,
+        "col": 5,
+        "answer": "DYERS"
+      },
+      {
+        "number": 51,
+        "clue": "Dillon et al.",
+        "row": 10,
+        "col": 9,
+        "answer": "MATTS"
+      },
+      {
+        "number": 52,
+        "clue": "Muffet or America",
+        "row": 11,
+        "col": 0,
+        "answer": "MISS"
+      },
+      {
+        "number": 53,
+        "clue": "Old Greek theaters",
+        "row": 11,
+        "col": 1,
+        "answer": "ODEA"
+      },
+      {
+        "number": 54,
+        "clue": "Approach",
+        "row": 11,
+        "col": 2,
+        "answer": "NEAR"
+      },
+      {
+        "number": 55,
+        "clue": "Caffeine nut",
+        "row": 11,
+        "col": 3,
+        "answer": "KOLA"
+      },
+      {
+        "number": 56,
+        "clue": "Biblical mount",
+        "row": 11,
+        "col": 7,
+        "answer": "NEBO"
+      },
+      {
+        "number": 57,
+        "clue": "Election losers",
+        "row": 11,
+        "col": 11,
+        "answer": "OUTS"
+      },
+      {
+        "number": 58,
+        "clue": "Where Bryce Canyon is",
+        "row": 11,
+        "col": 12,
+        "answer": "UTAH"
+      },
+      {
+        "number": 59,
+        "clue": "Ibsen character",
+        "row": 11,
+        "col": 13,
+        "answer": "NORA"
+      },
+      {
+        "number": 60,
+        "clue": "Small drink",
+        "row": 11,
+        "col": 14,
+        "answer": "DRAM"
+      }
+    ]
+  }
+}

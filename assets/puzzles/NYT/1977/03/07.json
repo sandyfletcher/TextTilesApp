@@ -1,0 +1,599 @@
+{
+  "id": "nyt-1977-03-07",
+  "metadata": {
+    "date": "1977-03-07",
+    "title": "NY TIMES, MON, MAR 07, 1977",
+    "author": "Alfio Micci",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["R", "A", "S", "P", null, "M", "A", "T", "A", null, "S", "W", "A", "M", "I"],
+    ["A", "L", "T", "A", null, "A", "L", "O", "G", null, "T", "A", "P", "E", "R"],
+    ["F", "O", "E", "S", null, "N", "E", "N", "E", null, "E", "X", "E", "R", "T"],
+    ["T", "H", "E", "H", "O", "T", "C", "A", "N", "A", "R", "Y", null, null, null],
+    ["S", "A", "L", "A", "M", "I", null, "L", "A", "D", null, null, "S", "S", "S"],
+    [null, null, null, null, "E", "L", "F", null, null, "S", "A", "P", "P", "H", "O"],
+    ["S", "H", "O", "E", null, "L", "O", "S", "S", null, "R", "E", "L", "I", "C"],
+    ["H", "A", "R", "K", "H", "A", "R", "K", "T", "H", "E", "L", "A", "R", "K"],
+    ["A", "I", "M", "E", "E", null, "M", "I", "L", "E", null, "E", "Y", "E", "S"],
+    ["F", "R", "E", "S", "N", "O", null, null, "O", "L", "M", null, null, null, null],
+    ["T", "Y", "R", null, null, "D", "O", "T", null, "L", "A", "T", "E", "N", "T"],
+    [null, null, null, "B", "Y", "E", "B", "Y", "E", "B", "I", "R", "D", "I", "E"],
+    ["R", "O", "D", "E", "O", null, "O", "R", "L", "E", null, "A", "I", "D", "A"],
+    ["A", "L", "O", "N", "G", null, "L", "O", "I", "N", null, "C", "L", "E", "M"],
+    ["P", "A", "N", "D", "A", null, "S", "L", "A", "T", null, "T", "E", "S", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Grate",
+        "row": 0,
+        "col": 0,
+        "answer": "RASP"
+      },
+      {
+        "number": 5,
+        "clue": "Miss Hari",
+        "row": 0,
+        "col": 5,
+        "answer": "MATA"
+      },
+      {
+        "number": 9,
+        "clue": "Hindu teacher",
+        "row": 0,
+        "col": 10,
+        "answer": "SWAMI"
+      },
+      {
+        "number": 14,
+        "clue": "Can. province",
+        "row": 1,
+        "col": 0,
+        "answer": "ALTA"
+      },
+      {
+        "number": 15,
+        "clue": "Sleep like ___",
+        "row": 1,
+        "col": 5,
+        "answer": "ALOG"
+      },
+      {
+        "number": 16,
+        "clue": "Candle",
+        "row": 1,
+        "col": 10,
+        "answer": "TAPER"
+      },
+      {
+        "number": 17,
+        "clue": "Adversaries",
+        "row": 2,
+        "col": 0,
+        "answer": "FOES"
+      },
+      {
+        "number": 18,
+        "clue": "Hawaiian bird",
+        "row": 2,
+        "col": 5,
+        "answer": "NENE"
+      },
+      {
+        "number": 19,
+        "clue": "Put forth",
+        "row": 2,
+        "col": 10,
+        "answer": "EXERT"
+      },
+      {
+        "number": 20,
+        "clue": "Jazz-fiddler's favorite",
+        "row": 3,
+        "col": 0,
+        "answer": "THEHOTCANARY"
+      },
+      {
+        "number": 23,
+        "clue": "Deli item",
+        "row": 4,
+        "col": 0,
+        "answer": "SALAMI"
+      },
+      {
+        "number": 24,
+        "clue": "Boy",
+        "row": 4,
+        "col": 7,
+        "answer": "LAD"
+      },
+      {
+        "number": 25,
+        "clue": "Draft initials",
+        "row": 4,
+        "col": 12,
+        "answer": "SSS"
+      },
+      {
+        "number": 28,
+        "clue": "Sprite",
+        "row": 5,
+        "col": 4,
+        "answer": "ELF"
+      },
+      {
+        "number": 30,
+        "clue": "Greek poet",
+        "row": 5,
+        "col": 9,
+        "answer": "SAPPHO"
+      },
+      {
+        "number": 33,
+        "clue": "Sabot",
+        "row": 6,
+        "col": 0,
+        "answer": "SHOE"
+      },
+      {
+        "number": 37,
+        "clue": "Forfeiture",
+        "row": 6,
+        "col": 5,
+        "answer": "LOSS"
+      },
+      {
+        "number": 40,
+        "clue": "Memento",
+        "row": 6,
+        "col": 10,
+        "answer": "RELIC"
+      },
+      {
+        "number": 41,
+        "clue": "Schubert song",
+        "row": 7,
+        "col": 0,
+        "answer": "HARKHARKTHELARK"
+      },
+      {
+        "number": 44,
+        "clue": "McPherson",
+        "row": 8,
+        "col": 0,
+        "answer": "AIMEE"
+      },
+      {
+        "number": 45,
+        "clue": "1.6093 km.",
+        "row": 8,
+        "col": 6,
+        "answer": "MILE"
+      },
+      {
+        "number": 46,
+        "clue": "Potato features",
+        "row": 8,
+        "col": 11,
+        "answer": "EYES"
+      },
+      {
+        "number": 47,
+        "clue": "Calif. city",
+        "row": 9,
+        "col": 0,
+        "answer": "FRESNO"
+      },
+      {
+        "number": 49,
+        "clue": "Salamander",
+        "row": 9,
+        "col": 8,
+        "answer": "OLM"
+      },
+      {
+        "number": 51,
+        "clue": "Son of Odin",
+        "row": 10,
+        "col": 0,
+        "answer": "TYR"
+      },
+      {
+        "number": 52,
+        "clue": "Speck",
+        "row": 10,
+        "col": 5,
+        "answer": "DOT"
+      },
+      {
+        "number": 55,
+        "clue": "Concealed",
+        "row": 10,
+        "col": 9,
+        "answer": "LATENT"
+      },
+      {
+        "number": 60,
+        "clue": "Broadway musical",
+        "row": 11,
+        "col": 3,
+        "answer": "BYEBYEBIRDIE"
+      },
+      {
+        "number": 63,
+        "clue": "Western show",
+        "row": 12,
+        "col": 0,
+        "answer": "RODEO"
+      },
+      {
+        "number": 66,
+        "clue": "Shield border",
+        "row": 12,
+        "col": 6,
+        "answer": "ORLE"
+      },
+      {
+        "number": 67,
+        "clue": "Verdi opera",
+        "row": 12,
+        "col": 11,
+        "answer": "AIDA"
+      },
+      {
+        "number": 68,
+        "clue": "Accompanying",
+        "row": 13,
+        "col": 0,
+        "answer": "ALONG"
+      },
+      {
+        "number": 69,
+        "clue": "Meat cut",
+        "row": 13,
+        "col": 6,
+        "answer": "LOIN"
+      },
+      {
+        "number": 70,
+        "clue": "Skelton role",
+        "row": 13,
+        "col": 11,
+        "answer": "CLEM"
+      },
+      {
+        "number": 71,
+        "clue": "Zoo attraction",
+        "row": 14,
+        "col": 0,
+        "answer": "PANDA"
+      },
+      {
+        "number": 72,
+        "clue": "Venetian-blind unit",
+        "row": 14,
+        "col": 6,
+        "answer": "SLAT"
+      },
+      {
+        "number": 73,
+        "clue": "Hardy girl",
+        "row": 14,
+        "col": 11,
+        "answer": "TESS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Floats",
+        "row": 0,
+        "col": 0,
+        "answer": "RAFTS"
+      },
+      {
+        "number": 2,
+        "clue": "Island greeting",
+        "row": 0,
+        "col": 1,
+        "answer": "ALOHA"
+      },
+      {
+        "number": 3,
+        "clue": "Case-harden",
+        "row": 0,
+        "col": 2,
+        "answer": "STEEL"
+      },
+      {
+        "number": 4,
+        "clue": "Turkish title",
+        "row": 0,
+        "col": 3,
+        "answer": "PASHA"
+      },
+      {
+        "number": 5,
+        "clue": "Spanish headpiece",
+        "row": 0,
+        "col": 5,
+        "answer": "MANTILLA"
+      },
+      {
+        "number": 6,
+        "clue": "Guinness",
+        "row": 0,
+        "col": 6,
+        "answer": "ALEC"
+      },
+      {
+        "number": 7,
+        "clue": "Not dissonant",
+        "row": 0,
+        "col": 7,
+        "answer": "TONAL"
+      },
+      {
+        "number": 8,
+        "clue": "Rocket stage",
+        "row": 0,
+        "col": 8,
+        "answer": "AGENA"
+      },
+      {
+        "number": 9,
+        "clue": "Ending for mob or gang",
+        "row": 0,
+        "col": 10,
+        "answer": "STER"
+      },
+      {
+        "number": 10,
+        "clue": "Viscid",
+        "row": 0,
+        "col": 11,
+        "answer": "WAXY"
+      },
+      {
+        "number": 11,
+        "clue": "Simian",
+        "row": 0,
+        "col": 12,
+        "answer": "APE"
+      },
+      {
+        "number": 12,
+        "clue": "Debussy's \"La ___\"",
+        "row": 0,
+        "col": 13,
+        "answer": "MER"
+      },
+      {
+        "number": 13,
+        "clue": "N.Y. subway",
+        "row": 0,
+        "col": 14,
+        "answer": "IRT"
+      },
+      {
+        "number": 21,
+        "clue": "Cockney's abode",
+        "row": 3,
+        "col": 4,
+        "answer": "OME"
+      },
+      {
+        "number": 22,
+        "clue": "Classified items",
+        "row": 3,
+        "col": 9,
+        "answer": "ADS"
+      },
+      {
+        "number": 25,
+        "clue": "Spread out",
+        "row": 4,
+        "col": 12,
+        "answer": "SPLAY"
+      },
+      {
+        "number": 26,
+        "clue": "English county",
+        "row": 4,
+        "col": 13,
+        "answer": "SHIRE"
+      },
+      {
+        "number": 27,
+        "clue": "Hose",
+        "row": 4,
+        "col": 14,
+        "answer": "SOCKS"
+      },
+      {
+        "number": 29,
+        "clue": "Shape",
+        "row": 5,
+        "col": 6,
+        "answer": "FORM"
+      },
+      {
+        "number": 31,
+        "clue": "Land measure",
+        "row": 5,
+        "col": 10,
+        "answer": "ARE"
+      },
+      {
+        "number": 32,
+        "clue": "Soccer great",
+        "row": 5,
+        "col": 11,
+        "answer": "PELE"
+      },
+      {
+        "number": 33,
+        "clue": "Arrow",
+        "row": 6,
+        "col": 0,
+        "answer": "SHAFT"
+      },
+      {
+        "number": 34,
+        "clue": "Hirsute",
+        "row": 6,
+        "col": 1,
+        "answer": "HAIRY"
+      },
+      {
+        "number": 35,
+        "clue": "Abalone",
+        "row": 6,
+        "col": 2,
+        "answer": "ORMER"
+      },
+      {
+        "number": 36,
+        "clue": "Stretches out",
+        "row": 6,
+        "col": 3,
+        "answer": "EKES"
+      },
+      {
+        "number": 38,
+        "clue": "Vail sports item",
+        "row": 6,
+        "col": 7,
+        "answer": "SKI"
+      },
+      {
+        "number": 39,
+        "clue": "French town",
+        "row": 6,
+        "col": 8,
+        "answer": "STLO"
+      },
+      {
+        "number": 42,
+        "clue": "Gossip",
+        "row": 7,
+        "col": 4,
+        "answer": "HEN"
+      },
+      {
+        "number": 43,
+        "clue": "Reckless",
+        "row": 7,
+        "col": 9,
+        "answer": "HELLBENT"
+      },
+      {
+        "number": 48,
+        "clue": "Poem",
+        "row": 9,
+        "col": 5,
+        "answer": "ODE"
+      },
+      {
+        "number": 50,
+        "clue": "French month",
+        "row": 9,
+        "col": 10,
+        "answer": "MAI"
+      },
+      {
+        "number": 53,
+        "clue": "Greek coins",
+        "row": 10,
+        "col": 6,
+        "answer": "OBOLS"
+      },
+      {
+        "number": 54,
+        "clue": "Alpine region",
+        "row": 10,
+        "col": 7,
+        "answer": "TYROL"
+      },
+      {
+        "number": 56,
+        "clue": "Short treatise",
+        "row": 10,
+        "col": 11,
+        "answer": "TRACT"
+      },
+      {
+        "number": 57,
+        "clue": "Roman official",
+        "row": 10,
+        "col": 12,
+        "answer": "EDILE"
+      },
+      {
+        "number": 58,
+        "clue": "Pheasant groups",
+        "row": 10,
+        "col": 13,
+        "answer": "NIDES"
+      },
+      {
+        "number": 59,
+        "clue": "Sporting units",
+        "row": 10,
+        "col": 14,
+        "answer": "TEAMS"
+      },
+      {
+        "number": 60,
+        "clue": "Give way",
+        "row": 11,
+        "col": 3,
+        "answer": "BEND"
+      },
+      {
+        "number": 61,
+        "clue": "Mental discipline",
+        "row": 11,
+        "col": 4,
+        "answer": "YOGA"
+      },
+      {
+        "number": 62,
+        "clue": "Lamb",
+        "row": 11,
+        "col": 8,
+        "answer": "ELIA"
+      },
+      {
+        "number": 63,
+        "clue": "Censure",
+        "row": 12,
+        "col": 0,
+        "answer": "RAP"
+      },
+      {
+        "number": 64,
+        "clue": "Palm leaf",
+        "row": 12,
+        "col": 1,
+        "answer": "OLA"
+      },
+      {
+        "number": 65,
+        "clue": "Oxford figure",
+        "row": 12,
+        "col": 2,
+        "answer": "DON"
+      }
+    ]
+  }
+}

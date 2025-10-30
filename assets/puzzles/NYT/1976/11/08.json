@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-11-08",
+  "metadata": {
+    "date": "1976-11-08",
+    "title": "NY TIMES, MON, NOV 08, 1976",
+    "author": "Jay Spry",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "E", "C", null, null, "I", "R", "S", null, null, "F", "A", "R", null, null],
+    ["A", "P", "O", "D", null, "N", "O", "A", "H", null, "O", "D", "E", "T", "S"],
+    ["M", "I", "L", "E", "S", "T", "O", "N", "E", null, "O", "M", "N", "I", "A"],
+    [null, null, "D", "A", "N", "E", "S", null, "R", "A", "T", "I", "O", "N", "S"],
+    ["R", "A", "F", null, "E", "N", "T", "S", null, "U", "N", "T", "I", "E", "S"],
+    ["A", "B", "E", "L", "E", "S", null, "T", "A", "R", "O", null, "R", "A", "Y"],
+    ["G", "L", "E", "E", null, "E", "D", "U", "C", "A", "T", "E", null, null, null],
+    [null, "E", "T", "A", "L", null, "A", "P", "E", null, "E", "T", "Y", "M", null],
+    [null, null, null, "F", "A", "C", "T", "O", "R", "S", null, "N", "A", "I", "L"],
+    ["A", "S", "K", null, "S", "A", "A", "R", null, "C", "H", "A", "R", "M", "S"],
+    ["S", "T", "A", "R", "T", "S", null, "S", "L", "O", "E", null, "D", "I", "M"],
+    ["C", "O", "L", "I", "M", "A", "S", null, "A", "L", "S", "A", "B", null, null],
+    ["A", "M", "I", "C", "I", null, "Y", "A", "R", "D", "S", "T", "I", "C", "K"],
+    ["P", "A", "N", "E", "L", null, "R", "I", "V", "E", null, "E", "R", "I", "E"],
+    [null, null, "E", "R", "E", null, null, "M", "A", "D", null, null, "D", "A", "Y"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Part of a min.",
+        "row": 0,
+        "col": 0,
+        "answer": "SEC"
+      },
+      {
+        "number": 4,
+        "clue": "April 15 initials",
+        "row": 0,
+        "col": 5,
+        "answer": "IRS"
+      },
+      {
+        "number": 7,
+        "clue": "Dolce ___ niente",
+        "row": 0,
+        "col": 10,
+        "answer": "FAR"
+      },
+      {
+        "number": 10,
+        "clue": "\" . . . two peas in ___\"",
+        "row": 1,
+        "col": 0,
+        "answer": "APOD"
+      },
+      {
+        "number": 12,
+        "clue": "Beery",
+        "row": 1,
+        "col": 5,
+        "answer": "NOAH"
+      },
+      {
+        "number": 14,
+        "clue": "U.S. playwright",
+        "row": 1,
+        "col": 10,
+        "answer": "ODETS"
+      },
+      {
+        "number": 17,
+        "clue": "Significant event",
+        "row": 2,
+        "col": 0,
+        "answer": "MILESTONE"
+      },
+      {
+        "number": 19,
+        "clue": "\"___ vincit amor\"",
+        "row": 2,
+        "col": 10,
+        "answer": "OMNIA"
+      },
+      {
+        "number": 20,
+        "clue": "Tivoli Park visitors",
+        "row": 3,
+        "col": 2,
+        "answer": "DANES"
+      },
+      {
+        "number": 21,
+        "clue": "Mess-kit contents",
+        "row": 3,
+        "col": 8,
+        "answer": "RATIONS"
+      },
+      {
+        "number": 23,
+        "clue": "Brit. fliers",
+        "row": 4,
+        "col": 0,
+        "answer": "RAF"
+      },
+      {
+        "number": 25,
+        "clue": "Noun endings",
+        "row": 4,
+        "col": 4,
+        "answer": "ENTS"
+      },
+      {
+        "number": 27,
+        "clue": "Releases",
+        "row": 4,
+        "col": 9,
+        "answer": "UNTIES"
+      },
+      {
+        "number": 28,
+        "clue": "White poplars",
+        "row": 5,
+        "col": 0,
+        "answer": "ABELES"
+      },
+      {
+        "number": 30,
+        "clue": "Poi ingredient",
+        "row": 5,
+        "col": 7,
+        "answer": "TARO"
+      },
+      {
+        "number": 32,
+        "clue": "Bob's TV partner",
+        "row": 5,
+        "col": 12,
+        "answer": "RAY"
+      },
+      {
+        "number": 33,
+        "clue": "Rejoicing",
+        "row": 6,
+        "col": 0,
+        "answer": "GLEE"
+      },
+      {
+        "number": 34,
+        "clue": "Teach",
+        "row": 6,
+        "col": 5,
+        "answer": "EDUCATE"
+      },
+      {
+        "number": 37,
+        "clue": "Relative of etc.",
+        "row": 7,
+        "col": 1,
+        "answer": "ETAL"
+      },
+      {
+        "number": 39,
+        "clue": "Zoo creature",
+        "row": 7,
+        "col": 6,
+        "answer": "APE"
+      },
+      {
+        "number": 40,
+        "clue": "Word study: Abbr.",
+        "row": 7,
+        "col": 10,
+        "answer": "ETYM"
+      },
+      {
+        "number": 43,
+        "clue": "Causative elements",
+        "row": 8,
+        "col": 3,
+        "answer": "FACTORS"
+      },
+      {
+        "number": 46,
+        "clue": "Tooth's partner",
+        "row": 8,
+        "col": 11,
+        "answer": "NAIL"
+      },
+      {
+        "number": 48,
+        "clue": "\"___ not what your country . . . \"",
+        "row": 9,
+        "col": 0,
+        "answer": "ASK"
+      },
+      {
+        "number": 51,
+        "clue": "German area",
+        "row": 9,
+        "col": 4,
+        "answer": "SAAR"
+      },
+      {
+        "number": 52,
+        "clue": "Bracelet additives",
+        "row": 9,
+        "col": 9,
+        "answer": "CHARMS"
+      },
+      {
+        "number": 54,
+        "clue": "Initiates",
+        "row": 10,
+        "col": 0,
+        "answer": "STARTS"
+      },
+      {
+        "number": 56,
+        "clue": "Gin type",
+        "row": 10,
+        "col": 7,
+        "answer": "SLOE"
+      },
+      {
+        "number": 58,
+        "clue": "Murky",
+        "row": 10,
+        "col": 12,
+        "answer": "DIM"
+      },
+      {
+        "number": 59,
+        "clue": "Wild lime trees",
+        "row": 11,
+        "col": 0,
+        "answer": "COLIMAS"
+      },
+      {
+        "number": 61,
+        "clue": "Preakness winner, 1942",
+        "row": 11,
+        "col": 8,
+        "answer": "ALSAB"
+      },
+      {
+        "number": 63,
+        "clue": "Caesar's friends",
+        "row": 12,
+        "col": 0,
+        "answer": "AMICI"
+      },
+      {
+        "number": 64,
+        "clue": "Criterion",
+        "row": 12,
+        "col": 6,
+        "answer": "YARDSTICK"
+      },
+      {
+        "number": 68,
+        "clue": "Kind of truck",
+        "row": 13,
+        "col": 0,
+        "answer": "PANEL"
+      },
+      {
+        "number": 69,
+        "clue": "Split",
+        "row": 13,
+        "col": 6,
+        "answer": "RIVE"
+      },
+      {
+        "number": 70,
+        "clue": "Indian",
+        "row": 13,
+        "col": 11,
+        "answer": "ERIE"
+      },
+      {
+        "number": 71,
+        "clue": "Before",
+        "row": 14,
+        "col": 2,
+        "answer": "ERE"
+      },
+      {
+        "number": 72,
+        "clue": "Seeing red",
+        "row": 14,
+        "col": 7,
+        "answer": "MAD"
+      },
+      {
+        "number": 73,
+        "clue": "Kind of bed",
+        "row": 14,
+        "col": 12,
+        "answer": "DAY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Ervin or Houston",
+        "row": 0,
+        "col": 0,
+        "answer": "SAM"
+      },
+      {
+        "number": 2,
+        "clue": "Prefix for dermis",
+        "row": 0,
+        "col": 1,
+        "answer": "EPI"
+      },
+      {
+        "number": 3,
+        "clue": "Loss of confidence",
+        "row": 0,
+        "col": 2,
+        "answer": "COLDFEET"
+      },
+      {
+        "number": 4,
+        "clue": "Extreme",
+        "row": 0,
+        "col": 5,
+        "answer": "INTENSE"
+      },
+      {
+        "number": 5,
+        "clue": "Thing to rule",
+        "row": 0,
+        "col": 6,
+        "answer": "ROOST"
+      },
+      {
+        "number": 6,
+        "clue": "___ Diego",
+        "row": 0,
+        "col": 7,
+        "answer": "SAN"
+      },
+      {
+        "number": 7,
+        "clue": "Bit of extra reading",
+        "row": 0,
+        "col": 10,
+        "answer": "FOOTNOTE"
+      },
+      {
+        "number": 8,
+        "clue": "Concede",
+        "row": 0,
+        "col": 11,
+        "answer": "ADMIT"
+      },
+      {
+        "number": 9,
+        "clue": "French painter",
+        "row": 0,
+        "col": 12,
+        "answer": "RENOIR"
+      },
+      {
+        "number": 11,
+        "clue": "Roman goddess",
+        "row": 1,
+        "col": 3,
+        "answer": "DEA"
+      },
+      {
+        "number": 13,
+        "clue": "Possessive",
+        "row": 1,
+        "col": 8,
+        "answer": "HER"
+      },
+      {
+        "number": 15,
+        "clue": "Ringworm",
+        "row": 1,
+        "col": 13,
+        "answer": "TINEA"
+      },
+      {
+        "number": 16,
+        "clue": "Impertinent",
+        "row": 1,
+        "col": 14,
+        "answer": "SASSY"
+      },
+      {
+        "number": 18,
+        "clue": "Dirk",
+        "row": 2,
+        "col": 4,
+        "answer": "SNEE"
+      },
+      {
+        "number": 22,
+        "clue": "Atmosphere",
+        "row": 3,
+        "col": 9,
+        "answer": "AURA"
+      },
+      {
+        "number": 23,
+        "clue": "Kind of time or doll",
+        "row": 4,
+        "col": 0,
+        "answer": "RAG"
+      },
+      {
+        "number": 24,
+        "clue": "Start of a palindrome",
+        "row": 4,
+        "col": 1,
+        "answer": "ABLE"
+      },
+      {
+        "number": 26,
+        "clue": "Apathetic states",
+        "row": 4,
+        "col": 7,
+        "answer": "STUPORS"
+      },
+      {
+        "number": 29,
+        "clue": "Page",
+        "row": 5,
+        "col": 3,
+        "answer": "LEAF"
+      },
+      {
+        "number": 31,
+        "clue": "Maple genus",
+        "row": 5,
+        "col": 8,
+        "answer": "ACER"
+      },
+      {
+        "number": 35,
+        "clue": "Information",
+        "row": 6,
+        "col": 6,
+        "answer": "DATA"
+      },
+      {
+        "number": 36,
+        "clue": "Volcano",
+        "row": 6,
+        "col": 11,
+        "answer": "ETNA"
+      },
+      {
+        "number": 38,
+        "clue": "Condemned-man's route",
+        "row": 7,
+        "col": 4,
+        "answer": "LASTMILE"
+      },
+      {
+        "number": 41,
+        "clue": "Army menial",
+        "row": 7,
+        "col": 12,
+        "answer": "YARDBIRD"
+      },
+      {
+        "number": 42,
+        "clue": "Puccini heroine",
+        "row": 7,
+        "col": 13,
+        "answer": "MIMI"
+      },
+      {
+        "number": 44,
+        "clue": "Mexican dwelling",
+        "row": 8,
+        "col": 5,
+        "answer": "CASA"
+      },
+      {
+        "number": 45,
+        "clue": "Reproved",
+        "row": 8,
+        "col": 9,
+        "answer": "SCOLDED"
+      },
+      {
+        "number": 47,
+        "clue": "Invasion craft: Abbr.",
+        "row": 8,
+        "col": 14,
+        "answer": "LSM"
+      },
+      {
+        "number": 48,
+        "clue": "Songwriters' org.",
+        "row": 9,
+        "col": 0,
+        "answer": "ASCAP"
+      },
+      {
+        "number": 49,
+        "clue": "Leaf orifice",
+        "row": 9,
+        "col": 1,
+        "answer": "STOMA"
+      },
+      {
+        "number": 50,
+        "clue": "Al of Tiger fame",
+        "row": 9,
+        "col": 2,
+        "answer": "KALINE"
+      },
+      {
+        "number": 53,
+        "clue": "Hitler deputy",
+        "row": 9,
+        "col": 10,
+        "answer": "HESS"
+      },
+      {
+        "number": 55,
+        "clue": "Kitchen utensil",
+        "row": 10,
+        "col": 3,
+        "answer": "RICER"
+      },
+      {
+        "number": 57,
+        "clue": "Insect stage",
+        "row": 10,
+        "col": 8,
+        "answer": "LARVA"
+      },
+      {
+        "number": 60,
+        "clue": "Mideast land: Abbr.",
+        "row": 11,
+        "col": 6,
+        "answer": "SYR"
+      },
+      {
+        "number": 62,
+        "clue": "Consumed",
+        "row": 11,
+        "col": 11,
+        "answer": "ATE"
+      },
+      {
+        "number": 65,
+        "clue": "Goal",
+        "row": 12,
+        "col": 7,
+        "answer": "AIM"
+      },
+      {
+        "number": 66,
+        "clue": "U.S. agency",
+        "row": 12,
+        "col": 13,
+        "answer": "CIA"
+      },
+      {
+        "number": 67,
+        "clue": "Essential",
+        "row": 12,
+        "col": 14,
+        "answer": "KEY"
+      }
+    ]
+  }
+}

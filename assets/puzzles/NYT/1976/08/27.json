@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-08-27",
+  "metadata": {
+    "date": "1976-08-27",
+    "title": "NY TIMES, FRI, AUG 27, 1976",
+    "author": "Sophie Fierman",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "H", "A", "M", null, "T", "H", "O", "S", "E", null, "F", "A", "R", "E"],
+    ["P", "I", "S", "A", null, "R", "A", "M", "O", "N", null, "A", "G", "E", "D"],
+    ["A", "V", "E", "R", null, "I", "N", "E", "R", "T", null, "R", "I", "D", "E"],
+    ["R", "E", "A", "C", "H", "F", "O", "R", "T", "H", "E", "M", "O", "O", "N"],
+    [null, null, null, null, "E", "L", "I", null, null, "U", "S", "E", null, null, null],
+    ["S", "E", "R", "E", "N", "E", null, "R", "E", "S", "T", "R", "I", "C", "T"],
+    ["A", "R", "I", "A", "N", null, "T", "A", "R", "E", null, null, "S", "U", "E"],
+    ["T", "I", "L", "T", "A", "T", "W", "I", "N", "D", "M", "I", "L", "L", "S"],
+    ["I", "C", "E", null, null, "R", "I", "N", "E", null, "I", "N", "E", "P", "T"],
+    ["N", "A", "S", "O", "L", "O", "G", "Y", null, "M", "A", "N", "T", "A", "S"],
+    [null, null, null, "R", "A", "W", null, null, "L", "A", "M", null, null, null, null],
+    ["S", "Q", "U", "A", "R", "E", "T", "H", "E", "C", "I", "R", "C", "L", "E"],
+    ["A", "U", "N", "T", null, "L", "E", "A", "V", "E", null, "A", "R", "I", "A"],
+    ["W", "I", "D", "E", null, "E", "L", "D", "E", "R", null, "G", "E", "M", "S"],
+    ["S", "P", "E", "D", null, "D", "E", "A", "L", "S", null, "S", "W", "A", "Y"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Phony",
+        "row": 0,
+        "col": 0,
+        "answer": "SHAM"
+      },
+      {
+        "number": 5,
+        "clue": "\"___ were the days\"",
+        "row": 0,
+        "col": 5,
+        "answer": "THOSE"
+      },
+      {
+        "number": 10,
+        "clue": "Get along",
+        "row": 0,
+        "col": 11,
+        "answer": "FARE"
+      },
+      {
+        "number": 14,
+        "clue": "Tourist spot in Italy",
+        "row": 1,
+        "col": 0,
+        "answer": "PISA"
+      },
+      {
+        "number": 15,
+        "clue": "Actor Novarro",
+        "row": 1,
+        "col": 5,
+        "answer": "RAMON"
+      },
+      {
+        "number": 16,
+        "clue": "Matured",
+        "row": 1,
+        "col": 11,
+        "answer": "AGED"
+      },
+      {
+        "number": 17,
+        "clue": "Insist",
+        "row": 2,
+        "col": 0,
+        "answer": "AVER"
+      },
+      {
+        "number": 18,
+        "clue": "Sluggish",
+        "row": 2,
+        "col": 5,
+        "answer": "INERT"
+      },
+      {
+        "number": 19,
+        "clue": "Lie at anchor",
+        "row": 2,
+        "col": 11,
+        "answer": "RIDE"
+      },
+      {
+        "number": 20,
+        "clue": "Attempt the unattainable",
+        "row": 3,
+        "col": 0,
+        "answer": "REACHFORTHEMOON"
+      },
+      {
+        "number": 23,
+        "clue": "Wallach",
+        "row": 4,
+        "col": 4,
+        "answer": "ELI"
+      },
+      {
+        "number": 24,
+        "clue": "Take advantage of",
+        "row": 4,
+        "col": 9,
+        "answer": "USE"
+      },
+      {
+        "number": 25,
+        "clue": "Kind of highness",
+        "row": 5,
+        "col": 0,
+        "answer": "SERENE"
+      },
+      {
+        "number": 29,
+        "clue": "Limit",
+        "row": 5,
+        "col": 7,
+        "answer": "RESTRICT"
+      },
+      {
+        "number": 34,
+        "clue": "Advocate: Suffix",
+        "row": 6,
+        "col": 0,
+        "answer": "ARIAN"
+      },
+      {
+        "number": 35,
+        "clue": "Biblical weed",
+        "row": 6,
+        "col": 6,
+        "answer": "TARE"
+      },
+      {
+        "number": 36,
+        "clue": "Sweet girl",
+        "row": 6,
+        "col": 12,
+        "answer": "SUE"
+      },
+      {
+        "number": 37,
+        "clue": "Do an exercise in futility",
+        "row": 7,
+        "col": 0,
+        "answer": "TILTATWINDMILLS"
+      },
+      {
+        "number": 41,
+        "clue": "Hot diamonds",
+        "row": 8,
+        "col": 0,
+        "answer": "ICE"
+      },
+      {
+        "number": 42,
+        "clue": "Russian hemp",
+        "row": 8,
+        "col": 5,
+        "answer": "RINE"
+      },
+      {
+        "number": 43,
+        "clue": "Having two left feet",
+        "row": 8,
+        "col": 10,
+        "answer": "INEPT"
+      },
+      {
+        "number": 44,
+        "clue": "Study of a face part",
+        "row": 9,
+        "col": 0,
+        "answer": "NASOLOGY"
+      },
+      {
+        "number": 47,
+        "clue": "Spanish shawls",
+        "row": 9,
+        "col": 9,
+        "answer": "MANTAS"
+      },
+      {
+        "number": 48,
+        "clue": "Like tartar steak",
+        "row": 10,
+        "col": 3,
+        "answer": "RAW"
+      },
+      {
+        "number": 49,
+        "clue": "On the ___ (hiding)",
+        "row": 10,
+        "col": 8,
+        "answer": "LAM"
+      },
+      {
+        "number": 50,
+        "clue": "Accomplish the impossible",
+        "row": 11,
+        "col": 0,
+        "answer": "SQUARETHECIRCLE"
+      },
+      {
+        "number": 59,
+        "clue": "Relative",
+        "row": 12,
+        "col": 0,
+        "answer": "AUNT"
+      },
+      {
+        "number": 60,
+        "clue": "Permission",
+        "row": 12,
+        "col": 5,
+        "answer": "LEAVE"
+      },
+      {
+        "number": 61,
+        "clue": "\"Habanera,\" for one",
+        "row": 12,
+        "col": 11,
+        "answer": "ARIA"
+      },
+      {
+        "number": 62,
+        "clue": "\"Open ___\" (dentist's plea)",
+        "row": 13,
+        "col": 0,
+        "answer": "WIDE"
+      },
+      {
+        "number": 63,
+        "clue": "Churchman",
+        "row": 13,
+        "col": 5,
+        "answer": "ELDER"
+      },
+      {
+        "number": 64,
+        "clue": "Notable quotes",
+        "row": 13,
+        "col": 11,
+        "answer": "GEMS"
+      },
+      {
+        "number": 65,
+        "clue": "Hied",
+        "row": 14,
+        "col": 0,
+        "answer": "SPED"
+      },
+      {
+        "number": 66,
+        "clue": "Transactions",
+        "row": 14,
+        "col": 5,
+        "answer": "DEALS"
+      },
+      {
+        "number": 67,
+        "clue": "Influence",
+        "row": 14,
+        "col": 11,
+        "answer": "SWAY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Prepare for a bout",
+        "row": 0,
+        "col": 0,
+        "answer": "SPAR"
+      },
+      {
+        "number": 2,
+        "clue": "Active place",
+        "row": 0,
+        "col": 1,
+        "answer": "HIVE"
+      },
+      {
+        "number": 3,
+        "clue": "Befuddled",
+        "row": 0,
+        "col": 2,
+        "answer": "ASEA"
+      },
+      {
+        "number": 4,
+        "clue": "Connelly",
+        "row": 0,
+        "col": 3,
+        "answer": "MARC"
+      },
+      {
+        "number": 5,
+        "clue": "Fool around",
+        "row": 0,
+        "col": 5,
+        "answer": "TRIFLE"
+      },
+      {
+        "number": 6,
+        "clue": "Asian capital",
+        "row": 0,
+        "col": 6,
+        "answer": "HANOI"
+      },
+      {
+        "number": 7,
+        "clue": "Hebrew measure",
+        "row": 0,
+        "col": 7,
+        "answer": "OMER"
+      },
+      {
+        "number": 8,
+        "clue": "Arrange",
+        "row": 0,
+        "col": 8,
+        "answer": "SORT"
+      },
+      {
+        "number": 9,
+        "clue": "Really wowed",
+        "row": 0,
+        "col": 9,
+        "answer": "ENTHUSED"
+      },
+      {
+        "number": 10,
+        "clue": "Dell tenant",
+        "row": 0,
+        "col": 11,
+        "answer": "FARMER"
+      },
+      {
+        "number": 11,
+        "clue": "Money-exchange fee",
+        "row": 0,
+        "col": 12,
+        "answer": "AGIO"
+      },
+      {
+        "number": 12,
+        "clue": "Doctor up",
+        "row": 0,
+        "col": 13,
+        "answer": "REDO"
+      },
+      {
+        "number": 13,
+        "clue": "Apple-tree locale",
+        "row": 0,
+        "col": 14,
+        "answer": "EDEN"
+      },
+      {
+        "number": 21,
+        "clue": "Hair rinse",
+        "row": 3,
+        "col": 4,
+        "answer": "HENNA"
+      },
+      {
+        "number": 22,
+        "clue": "The most: Suffix",
+        "row": 3,
+        "col": 10,
+        "answer": "EST"
+      },
+      {
+        "number": 25,
+        "clue": "Joined",
+        "row": 5,
+        "col": 0,
+        "answer": "SATIN"
+      },
+      {
+        "number": 26,
+        "clue": "Heath shrub",
+        "row": 5,
+        "col": 1,
+        "answer": "ERICA"
+      },
+      {
+        "number": 27,
+        "clue": "Rubs the wrong way",
+        "row": 5,
+        "col": 2,
+        "answer": "RILES"
+      },
+      {
+        "number": 28,
+        "clue": "___ up (go for)",
+        "row": 5,
+        "col": 3,
+        "answer": "EAT"
+      },
+      {
+        "number": 29,
+        "clue": "Like some April days",
+        "row": 5,
+        "col": 7,
+        "answer": "RAINY"
+      },
+      {
+        "number": 30,
+        "clue": "Eagle",
+        "row": 5,
+        "col": 8,
+        "answer": "ERNE"
+      },
+      {
+        "number": 31,
+        "clue": "Atoll unit",
+        "row": 5,
+        "col": 12,
+        "answer": "ISLET"
+      },
+      {
+        "number": 32,
+        "clue": "Mea ___",
+        "row": 5,
+        "col": 13,
+        "answer": "CULPA"
+      },
+      {
+        "number": 33,
+        "clue": "Dry runs",
+        "row": 5,
+        "col": 14,
+        "answer": "TESTS"
+      },
+      {
+        "number": 35,
+        "clue": "\"Just as the ___ is bent . . . \"",
+        "row": 6,
+        "col": 6,
+        "answer": "TWIG"
+      },
+      {
+        "number": 38,
+        "clue": "Used a garden tool",
+        "row": 7,
+        "col": 5,
+        "answer": "TROWELED"
+      },
+      {
+        "number": 39,
+        "clue": "U.S. Indian",
+        "row": 7,
+        "col": 10,
+        "answer": "MIAMI"
+      },
+      {
+        "number": 40,
+        "clue": "Stopover spot",
+        "row": 7,
+        "col": 11,
+        "answer": "INN"
+      },
+      {
+        "number": 45,
+        "clue": "Sounded off",
+        "row": 9,
+        "col": 3,
+        "answer": "ORATED"
+      },
+      {
+        "number": 46,
+        "clue": "Roman spirit",
+        "row": 9,
+        "col": 4,
+        "answer": "LAR"
+      },
+      {
+        "number": 47,
+        "clue": "Scottish court officers",
+        "row": 9,
+        "col": 9,
+        "answer": "MACERS"
+      },
+      {
+        "number": 49,
+        "clue": "Come clean",
+        "row": 10,
+        "col": 8,
+        "answer": "LEVEL"
+      },
+      {
+        "number": 50,
+        "clue": "Maxims",
+        "row": 11,
+        "col": 0,
+        "answer": "SAWS"
+      },
+      {
+        "number": 51,
+        "clue": "Witty remark",
+        "row": 11,
+        "col": 1,
+        "answer": "QUIP"
+      },
+      {
+        "number": 52,
+        "clue": "Wavy, in heraldry",
+        "row": 11,
+        "col": 2,
+        "answer": "UNDE"
+      },
+      {
+        "number": 53,
+        "clue": "Prefix for graph",
+        "row": 11,
+        "col": 6,
+        "answer": "TELE"
+      },
+      {
+        "number": 54,
+        "clue": "\"Mary ___ little . . . \"",
+        "row": 11,
+        "col": 7,
+        "answer": "HADA"
+      },
+      {
+        "number": 55,
+        "clue": "Car-washers' aids",
+        "row": 11,
+        "col": 11,
+        "answer": "RAGS"
+      },
+      {
+        "number": 56,
+        "clue": "Work force",
+        "row": 11,
+        "col": 12,
+        "answer": "CREW"
+      },
+      {
+        "number": 57,
+        "clue": "S.A. city",
+        "row": 11,
+        "col": 13,
+        "answer": "LIMA"
+      },
+      {
+        "number": 58,
+        "clue": "This does it",
+        "row": 11,
+        "col": 14,
+        "answer": "EASY"
+      }
+    ]
+  }
+}

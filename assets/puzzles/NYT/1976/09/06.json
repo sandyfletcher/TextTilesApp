@@ -1,0 +1,529 @@
+{
+  "id": "nyt-1976-09-06",
+  "metadata": {
+    "date": "1976-09-06",
+    "title": "NY TIMES, MON, SEP 06, 1976",
+    "author": "William Lutwiniak",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    [null, null, "M", "A", "C", "A", "W", null, "A", "B", "U", "T", "S", null, null],
+    [null, "D", "A", "P", "H", "N", "E", null, "B", "R", "O", "O", "K", "E", null],
+    ["M", "I", "C", "H", "A", "E", "L", null, "L", "I", "M", "P", "I", "N", "G"],
+    ["A", "T", "R", "I", "P", null, "L", "L", "A", "N", "O", null, "J", "A", "R"],
+    ["C", "H", "A", "D", null, "A", "D", "O", "Z", "E", null, "P", "U", "M", "A"],
+    ["H", "E", "M", null, "S", "T", "O", "N", "E", null, "D", "O", "M", "E", "D"],
+    ["E", "R", "E", "C", "T", "I", "N", "G", null, "C", "O", "U", "P", "L", "E"],
+    [null, null, null, "H", "O", "M", "E", "G", "R", "O", "W", "N", null, null, null],
+    ["A", "F", "L", "A", "M", "E", null, "R", "E", "M", "E", "D", "I", "A", "L"],
+    ["G", "R", "A", "T", "A", null, "S", "E", "P", "A", "L", null, "N", "R", "A"],
+    ["L", "I", "T", "S", null, "S", "E", "E", "R", "S", null, "B", "R", "A", "D"],
+    ["E", "V", "E", null, "E", "A", "T", "N", "O", null, "B", "O", "O", "B", "Y"],
+    ["T", "O", "R", "O", "N", "T", "O", null, "A", "D", "O", "N", "A", "I", "S"],
+    [null, "L", "A", "N", "D", "I", "S", null, "C", "A", "N", "A", "D", "A", null],
+    [null, null, "L", "E", "O", "N", "E", null, "H", "O", "E", "R", "S", null, null]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Large parrot",
+        "row": 0,
+        "col": 2,
+        "answer": "MACAW"
+      },
+      {
+        "number": 6,
+        "clue": "Touches on",
+        "row": 0,
+        "col": 8,
+        "answer": "ABUTS"
+      },
+      {
+        "number": 11,
+        "clue": "Nymph beloved by Apollo",
+        "row": 1,
+        "col": 1,
+        "answer": "DAPHNE"
+      },
+      {
+        "number": 12,
+        "clue": "English poet",
+        "row": 1,
+        "col": 8,
+        "answer": "BROOKE"
+      },
+      {
+        "number": 14,
+        "clue": "Prince of the Angels",
+        "row": 2,
+        "col": 0,
+        "answer": "MICHAEL"
+      },
+      {
+        "number": 15,
+        "clue": "Lame",
+        "row": 2,
+        "col": 8,
+        "answer": "LIMPING"
+      },
+      {
+        "number": 17,
+        "clue": "Anchor position",
+        "row": 3,
+        "col": 0,
+        "answer": "ATRIP"
+      },
+      {
+        "number": 18,
+        "clue": "S. A. plain",
+        "row": 3,
+        "col": 6,
+        "answer": "LLANO"
+      },
+      {
+        "number": 20,
+        "clue": "Shake up",
+        "row": 3,
+        "col": 12,
+        "answer": "JAR"
+      },
+      {
+        "number": 21,
+        "clue": "Fort-Lamy's land",
+        "row": 4,
+        "col": 0,
+        "answer": "CHAD"
+      },
+      {
+        "number": 22,
+        "clue": "Nodding",
+        "row": 4,
+        "col": 5,
+        "answer": "ADOZE"
+      },
+      {
+        "number": 23,
+        "clue": "Cougar",
+        "row": 4,
+        "col": 11,
+        "answer": "PUMA"
+      },
+      {
+        "number": 24,
+        "clue": "Skirt feature",
+        "row": 5,
+        "col": 0,
+        "answer": "HEM"
+      },
+      {
+        "number": 25,
+        "clue": "Opal or onyx",
+        "row": 5,
+        "col": 4,
+        "answer": "STONE"
+      },
+      {
+        "number": 26,
+        "clue": "Like the Capitol",
+        "row": 5,
+        "col": 10,
+        "answer": "DOMED"
+      },
+      {
+        "number": 27,
+        "clue": "Putting up",
+        "row": 6,
+        "col": 0,
+        "answer": "ERECTING"
+      },
+      {
+        "number": 29,
+        "clue": "Pair",
+        "row": 6,
+        "col": 9,
+        "answer": "COUPLE"
+      },
+      {
+        "number": 30,
+        "clue": "Best kind of vegetables",
+        "row": 7,
+        "col": 3,
+        "answer": "HOMEGROWN"
+      },
+      {
+        "number": 32,
+        "clue": "Blazing",
+        "row": 8,
+        "col": 0,
+        "answer": "AFLAME"
+      },
+      {
+        "number": 35,
+        "clue": "Correcting",
+        "row": 8,
+        "col": 7,
+        "answer": "REMEDIAL"
+      },
+      {
+        "number": 39,
+        "clue": "Persona ___",
+        "row": 9,
+        "col": 0,
+        "answer": "GRATA"
+      },
+      {
+        "number": 40,
+        "clue": "Flower part",
+        "row": 9,
+        "col": 6,
+        "answer": "SEPAL"
+      },
+      {
+        "number": 41,
+        "clue": "F.D.R. program",
+        "row": 9,
+        "col": 12,
+        "answer": "NRA"
+      },
+      {
+        "number": 42,
+        "clue": "Wagons-___",
+        "row": 10,
+        "col": 0,
+        "answer": "LITS"
+      },
+      {
+        "number": 43,
+        "clue": "Vatic ones",
+        "row": 10,
+        "col": 5,
+        "answer": "SEERS"
+      },
+      {
+        "number": 44,
+        "clue": "Nail",
+        "row": 10,
+        "col": 11,
+        "answer": "BRAD"
+      },
+      {
+        "number": 45,
+        "clue": "Time of day",
+        "row": 11,
+        "col": 0,
+        "answer": "EVE"
+      },
+      {
+        "number": 46,
+        "clue": "\" . . . could ___ fat\"",
+        "row": 11,
+        "col": 4,
+        "answer": "EATNO"
+      },
+      {
+        "number": 47,
+        "clue": "Kind of hatch",
+        "row": 11,
+        "col": 10,
+        "answer": "BOOBY"
+      },
+      {
+        "number": 48,
+        "clue": "Ontario port",
+        "row": 12,
+        "col": 0,
+        "answer": "TORONTO"
+      },
+      {
+        "number": 50,
+        "clue": "Shelley's eulogy to Keats",
+        "row": 12,
+        "col": 8,
+        "answer": "ADONAIS"
+      },
+      {
+        "number": 52,
+        "clue": "First baseball czar",
+        "row": 13,
+        "col": 1,
+        "answer": "LANDIS"
+      },
+      {
+        "number": 53,
+        "clue": "Where the Dubawnt flows",
+        "row": 13,
+        "col": 8,
+        "answer": "CANADA"
+      },
+      {
+        "number": 54,
+        "clue": "Sierra ___",
+        "row": 14,
+        "col": 2,
+        "answer": "LEONE"
+      },
+      {
+        "number": 55,
+        "clue": "Garden workers",
+        "row": 14,
+        "col": 8,
+        "answer": "HOERS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Knotwork",
+        "row": 0,
+        "col": 2,
+        "answer": "MACRAME"
+      },
+      {
+        "number": 2,
+        "clue": "Plant pest",
+        "row": 0,
+        "col": 3,
+        "answer": "APHID"
+      },
+      {
+        "number": 3,
+        "clue": "Fellow",
+        "row": 0,
+        "col": 4,
+        "answer": "CHAP"
+      },
+      {
+        "number": 4,
+        "clue": "Chemical ending",
+        "row": 0,
+        "col": 5,
+        "answer": "ANE"
+      },
+      {
+        "number": 5,
+        "clue": "\"Good work!\"",
+        "row": 0,
+        "col": 6,
+        "answer": "WELLDONE"
+      },
+      {
+        "number": 6,
+        "clue": "Flaming",
+        "row": 0,
+        "col": 8,
+        "answer": "ABLAZE"
+      },
+      {
+        "number": 7,
+        "clue": "Pickling agent",
+        "row": 0,
+        "col": 9,
+        "answer": "BRINE"
+      },
+      {
+        "number": 8,
+        "clue": "Man, in Turin",
+        "row": 0,
+        "col": 10,
+        "answer": "UOMO"
+      },
+      {
+        "number": 9,
+        "clue": "Outdo",
+        "row": 0,
+        "col": 11,
+        "answer": "TOP"
+      },
+      {
+        "number": 10,
+        "clue": "Winter Olympics event",
+        "row": 0,
+        "col": 12,
+        "answer": "SKIJUMP"
+      },
+      {
+        "number": 11,
+        "clue": "Snit",
+        "row": 1,
+        "col": 1,
+        "answer": "DITHER"
+      },
+      {
+        "number": 13,
+        "clue": "Glossy finish",
+        "row": 1,
+        "col": 13,
+        "answer": "ENAMEL"
+      },
+      {
+        "number": 14,
+        "clue": "Papier-___",
+        "row": 2,
+        "col": 0,
+        "answer": "MACHE"
+      },
+      {
+        "number": 16,
+        "clue": "Military rank",
+        "row": 2,
+        "col": 14,
+        "answer": "GRADE"
+      },
+      {
+        "number": 19,
+        "clue": "Currency",
+        "row": 3,
+        "col": 7,
+        "answer": "LONGGREEN"
+      },
+      {
+        "number": 22,
+        "clue": "One at ___",
+        "row": 4,
+        "col": 5,
+        "answer": "ATIME"
+      },
+      {
+        "number": 23,
+        "clue": "Thump",
+        "row": 4,
+        "col": 11,
+        "answer": "POUND"
+      },
+      {
+        "number": 25,
+        "clue": "Small opening",
+        "row": 5,
+        "col": 4,
+        "answer": "STOMA"
+      },
+      {
+        "number": 26,
+        "clue": "Rounded rod",
+        "row": 5,
+        "col": 10,
+        "answer": "DOWEL"
+      },
+      {
+        "number": 28,
+        "clue": "Conversations",
+        "row": 6,
+        "col": 3,
+        "answer": "CHATS"
+      },
+      {
+        "number": 29,
+        "clue": "Stupors",
+        "row": 6,
+        "col": 9,
+        "answer": "COMAS"
+      },
+      {
+        "number": 31,
+        "clue": "Upbraid",
+        "row": 7,
+        "col": 8,
+        "answer": "REPROACH"
+      },
+      {
+        "number": 32,
+        "clue": "Shoelace end",
+        "row": 8,
+        "col": 0,
+        "answer": "AGLET"
+      },
+      {
+        "number": 33,
+        "clue": "Be playful",
+        "row": 8,
+        "col": 1,
+        "answer": "FRIVOL"
+      },
+      {
+        "number": 34,
+        "clue": "Kind of pass",
+        "row": 8,
+        "col": 2,
+        "answer": "LATERAL"
+      },
+      {
+        "number": 36,
+        "clue": "Incursions",
+        "row": 8,
+        "col": 12,
+        "answer": "INROADS"
+      },
+      {
+        "number": 37,
+        "clue": "Asian peninsula",
+        "row": 8,
+        "col": 13,
+        "answer": "ARABIA"
+      },
+      {
+        "number": 38,
+        "clue": "___-slipper",
+        "row": 8,
+        "col": 14,
+        "answer": "LADYS"
+      },
+      {
+        "number": 40,
+        "clue": "Bristly",
+        "row": 9,
+        "col": 6,
+        "answer": "SETOSE"
+      },
+      {
+        "number": 43,
+        "clue": "Lustrous fabric",
+        "row": 10,
+        "col": 5,
+        "answer": "SATIN"
+      },
+      {
+        "number": 44,
+        "clue": "British P.M. Law",
+        "row": 10,
+        "col": 11,
+        "answer": "BONAR"
+      },
+      {
+        "number": 46,
+        "clue": "Within: Prefix",
+        "row": 11,
+        "col": 4,
+        "answer": "ENDO"
+      },
+      {
+        "number": 47,
+        "clue": "Kind of china",
+        "row": 11,
+        "col": 10,
+        "answer": "BONE"
+      },
+      {
+        "number": 49,
+        "clue": "Pronoun",
+        "row": 12,
+        "col": 3,
+        "answer": "ONE"
+      },
+      {
+        "number": 51,
+        "clue": "P.I. tree",
+        "row": 12,
+        "col": 9,
+        "answer": "DAO"
+      }
+    ]
+  }
+}

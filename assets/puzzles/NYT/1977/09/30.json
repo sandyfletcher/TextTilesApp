@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-09-30",
+  "metadata": {
+    "date": "1977-09-30",
+    "title": "NY TIMES, FRI, SEP 30, 1977",
+    "author": "Kathryn Righter",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "C", "T", null, "A", "D", "C", null, null, "S", "M", "E", "L", "T", null],
+    ["S", "H", "E", "A", "R", "E", "R", null, "S", "P", "I", "N", "I", "E", "R"],
+    ["C", "O", "M", "P", "I", "L", "E", null, "O", "R", "D", "E", "R", "L", "Y"],
+    ["A", "S", "P", "I", "D", "I", "S", "T", "R", "A", "S", null, "A", "L", "E"],
+    ["P", "E", "O", "N", null, null, "C", "A", "U", "G", "H", "T", null, null, null],
+    [null, null, null, "G", "A", "V", "E", "L", "S", null, "I", "R", "A", "T", "E"],
+    ["A", "R", "M", null, "N", "I", "N", "E", null, "S", "P", "I", "R", "A", "L"],
+    ["Q", "U", "A", "R", "T", "E", "T", null, "M", "A", "M", "M", "A", "L", "S"],
+    ["U", "N", "S", "A", "I", "D", null, "D", "I", "V", "A", null, "L", "I", "E"],
+    ["A", "T", "T", "I", "C", null, "R", "E", "S", "E", "N", "T", null, null, null],
+    [null, null, null, "N", "I", "C", "H", "E", "S", null, null, "A", "D", "I", "T"],
+    ["H", "O", "E", null, "P", "R", "O", "P", "I", "N", "Q", "U", "I", "T", "Y"],
+    ["A", "B", "S", "T", "A", "I", "N", null, "L", "A", "U", "N", "D", "E", "R"],
+    ["M", "A", "N", "A", "T", "E", "E", null, "E", "P", "I", "T", "O", "M", "E"],
+    [null, "N", "E", "V", "E", "R", null, null, "S", "E", "T", null, "S", "S", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Tread the boards",
+        "row": 0,
+        "col": 0,
+        "answer": "ACT"
+      },
+      {
+        "number": 4,
+        "clue": "General's asst.",
+        "row": 0,
+        "col": 4,
+        "answer": "ADC"
+      },
+      {
+        "number": 7,
+        "clue": "Food fish",
+        "row": 0,
+        "col": 9,
+        "answer": "SMELT"
+      },
+      {
+        "number": 12,
+        "clue": "Norma or Moira",
+        "row": 1,
+        "col": 0,
+        "answer": "SHEARER"
+      },
+      {
+        "number": 14,
+        "clue": "More thorny",
+        "row": 1,
+        "col": 8,
+        "answer": "SPINIER"
+      },
+      {
+        "number": 16,
+        "clue": "Amass",
+        "row": 2,
+        "col": 0,
+        "answer": "COMPILE"
+      },
+      {
+        "number": 17,
+        "clue": "Hospital worker who sounds neat",
+        "row": 2,
+        "col": 8,
+        "answer": "ORDERLY"
+      },
+      {
+        "number": 18,
+        "clue": "Cast-iron plants",
+        "row": 3,
+        "col": 0,
+        "answer": "ASPIDISTRAS"
+      },
+      {
+        "number": 20,
+        "clue": "Pub potable",
+        "row": 3,
+        "col": 12,
+        "answer": "ALE"
+      },
+      {
+        "number": 21,
+        "clue": "Fiesta lover",
+        "row": 4,
+        "col": 0,
+        "answer": "PEON"
+      },
+      {
+        "number": 22,
+        "clue": "Ensnared",
+        "row": 4,
+        "col": 6,
+        "answer": "CAUGHT"
+      },
+      {
+        "number": 24,
+        "clue": "Chairpersons' mallets",
+        "row": 5,
+        "col": 3,
+        "answer": "GAVELS"
+      },
+      {
+        "number": 27,
+        "clue": "Having conniptions",
+        "row": 5,
+        "col": 10,
+        "answer": "IRATE"
+      },
+      {
+        "number": 31,
+        "clue": "Sofa extremity",
+        "row": 6,
+        "col": 0,
+        "answer": "ARM"
+      },
+      {
+        "number": 34,
+        "clue": "Number of Muses",
+        "row": 6,
+        "col": 4,
+        "answer": "NINE"
+      },
+      {
+        "number": 35,
+        "clue": "Helix",
+        "row": 6,
+        "col": 9,
+        "answer": "SPIRAL"
+      },
+      {
+        "number": 36,
+        "clue": "They sing Adeline's praises",
+        "row": 7,
+        "col": 0,
+        "answer": "QUARTET"
+      },
+      {
+        "number": 38,
+        "clue": "Man, mandrill and 60 Across",
+        "row": 7,
+        "col": 8,
+        "answer": "MAMMALS"
+      },
+      {
+        "number": 39,
+        "clue": "Tacit",
+        "row": 8,
+        "col": 0,
+        "answer": "UNSAID"
+      },
+      {
+        "number": 40,
+        "clue": "Met star",
+        "row": 8,
+        "col": 7,
+        "answer": "DIVA"
+      },
+      {
+        "number": 41,
+        "clue": "Trygve ___",
+        "row": 8,
+        "col": 12,
+        "answer": "LIE"
+      },
+      {
+        "number": 42,
+        "clue": "Lofty storage place",
+        "row": 9,
+        "col": 0,
+        "answer": "ATTIC"
+      },
+      {
+        "number": 43,
+        "clue": "Take umbrage",
+        "row": 9,
+        "col": 6,
+        "answer": "RESENT"
+      },
+      {
+        "number": 45,
+        "clue": "Ornamental recesses",
+        "row": 10,
+        "col": 3,
+        "answer": "NICHES"
+      },
+      {
+        "number": 47,
+        "clue": "Mine entrance",
+        "row": 10,
+        "col": 11,
+        "answer": "ADIT"
+      },
+      {
+        "number": 51,
+        "clue": "Tool in Markham poem",
+        "row": 11,
+        "col": 0,
+        "answer": "HOE"
+      },
+      {
+        "number": 54,
+        "clue": "Nearness",
+        "row": 11,
+        "col": 4,
+        "answer": "PROPINQUITY"
+      },
+      {
+        "number": 57,
+        "clue": "Forbear",
+        "row": 12,
+        "col": 0,
+        "answer": "ABSTAIN"
+      },
+      {
+        "number": 59,
+        "clue": "Wash",
+        "row": 12,
+        "col": 8,
+        "answer": "LAUNDER"
+      },
+      {
+        "number": 60,
+        "clue": "Sea cow",
+        "row": 13,
+        "col": 0,
+        "answer": "MANATEE"
+      },
+      {
+        "number": 61,
+        "clue": "Abridgement",
+        "row": 13,
+        "col": 8,
+        "answer": "EPITOME"
+      },
+      {
+        "number": 62,
+        "clue": "\"I'll ___ Smile Again,\" 1939 song",
+        "row": 14,
+        "col": 1,
+        "answer": "NEVER"
+      },
+      {
+        "number": 63,
+        "clue": "Exercise for Evert",
+        "row": 14,
+        "col": 8,
+        "answer": "SET"
+      },
+      {
+        "number": 64,
+        "clue": "Gen. Hershey's post in W.W. II",
+        "row": 14,
+        "col": 12,
+        "answer": "SSS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Tin Pan Alley acronym",
+        "row": 0,
+        "col": 0,
+        "answer": "ASCAP"
+      },
+      {
+        "number": 2,
+        "clue": "Elected",
+        "row": 0,
+        "col": 1,
+        "answer": "CHOSE"
+      },
+      {
+        "number": 3,
+        "clue": "Pace",
+        "row": 0,
+        "col": 2,
+        "answer": "TEMPO"
+      },
+      {
+        "number": 4,
+        "clue": "Like the Spanish Sahara",
+        "row": 0,
+        "col": 4,
+        "answer": "ARID"
+      },
+      {
+        "number": 5,
+        "clue": "Where to get cold cuts",
+        "row": 0,
+        "col": 5,
+        "answer": "DELI"
+      },
+      {
+        "number": 6,
+        "clue": "Emblem of Turkey",
+        "row": 0,
+        "col": 6,
+        "answer": "CRESCENT"
+      },
+      {
+        "number": 7,
+        "clue": "Prop in a mine",
+        "row": 0,
+        "col": 9,
+        "answer": "SPRAG"
+      },
+      {
+        "number": 8,
+        "clue": "U.S.N.A. student",
+        "row": 0,
+        "col": 10,
+        "answer": "MIDSHIPMAN"
+      },
+      {
+        "number": 9,
+        "clue": "Compass reading",
+        "row": 0,
+        "col": 11,
+        "answer": "ENE"
+      },
+      {
+        "number": 10,
+        "clue": "Money, in Naples",
+        "row": 0,
+        "col": 12,
+        "answer": "LIRA"
+      },
+      {
+        "number": 11,
+        "clue": "Marksman who foiled Gessler",
+        "row": 0,
+        "col": 13,
+        "answer": "TELL"
+      },
+      {
+        "number": 13,
+        "clue": "David Frye's forte",
+        "row": 1,
+        "col": 3,
+        "answer": "APING"
+      },
+      {
+        "number": 14,
+        "clue": "Cluster of plant spores",
+        "row": 1,
+        "col": 8,
+        "answer": "SORUS"
+      },
+      {
+        "number": 15,
+        "clue": "Cereal grass",
+        "row": 1,
+        "col": 14,
+        "answer": "RYE"
+      },
+      {
+        "number": 19,
+        "clue": "\"Decameron\" unit",
+        "row": 3,
+        "col": 7,
+        "answer": "TALE"
+      },
+      {
+        "number": 23,
+        "clue": "Shipshape",
+        "row": 4,
+        "col": 11,
+        "answer": "TRIM"
+      },
+      {
+        "number": 25,
+        "clue": "Foretaste",
+        "row": 5,
+        "col": 4,
+        "answer": "ANTICIPATE"
+      },
+      {
+        "number": 26,
+        "clue": "Contended",
+        "row": 5,
+        "col": 5,
+        "answer": "VIED"
+      },
+      {
+        "number": 28,
+        "clue": "Soviet inland sea",
+        "row": 5,
+        "col": 12,
+        "answer": "ARAL"
+      },
+      {
+        "number": 29,
+        "clue": "Anklebones",
+        "row": 5,
+        "col": 13,
+        "answer": "TALI"
+      },
+      {
+        "number": 30,
+        "clue": "Follower of somebody or nobody",
+        "row": 5,
+        "col": 14,
+        "answer": "ELSE"
+      },
+      {
+        "number": 31,
+        "clue": "Greenish-blue",
+        "row": 6,
+        "col": 0,
+        "answer": "AQUA"
+      },
+      {
+        "number": 32,
+        "clue": "Small or stunted animal",
+        "row": 6,
+        "col": 1,
+        "answer": "RUNT"
+      },
+      {
+        "number": 33,
+        "clue": "Gin pole",
+        "row": 6,
+        "col": 2,
+        "answer": "MAST"
+      },
+      {
+        "number": 35,
+        "clue": "Event on a rink",
+        "row": 6,
+        "col": 9,
+        "answer": "SAVE"
+      },
+      {
+        "number": 37,
+        "clue": "Weather word",
+        "row": 7,
+        "col": 3,
+        "answer": "RAIN"
+      },
+      {
+        "number": 38,
+        "clue": "Subject of SALT talks",
+        "row": 7,
+        "col": 8,
+        "answer": "MISSILES"
+      },
+      {
+        "number": 40,
+        "clue": "Profound",
+        "row": 8,
+        "col": 7,
+        "answer": "DEEP"
+      },
+      {
+        "number": 43,
+        "clue": "River at Avignon",
+        "row": 9,
+        "col": 6,
+        "answer": "RHONE"
+      },
+      {
+        "number": 44,
+        "clue": "Mock",
+        "row": 9,
+        "col": 11,
+        "answer": "TAUNT"
+      },
+      {
+        "number": 46,
+        "clue": "Quondam announcer",
+        "row": 10,
+        "col": 5,
+        "answer": "CRIER"
+      },
+      {
+        "number": 48,
+        "clue": "Capers",
+        "row": 10,
+        "col": 12,
+        "answer": "DIDOS"
+      },
+      {
+        "number": 49,
+        "clue": "List components",
+        "row": 10,
+        "col": 13,
+        "answer": "ITEMS"
+      },
+      {
+        "number": 50,
+        "clue": "British radials",
+        "row": 10,
+        "col": 14,
+        "answer": "TYRES"
+      },
+      {
+        "number": 51,
+        "clue": "Tapper in a \"shack\"",
+        "row": 11,
+        "col": 0,
+        "answer": "HAM"
+      },
+      {
+        "number": 52,
+        "clue": "Character in \"The Iceman Cometh\"",
+        "row": 11,
+        "col": 1,
+        "answer": "OBAN"
+      },
+      {
+        "number": 53,
+        "clue": "Anglo-Saxon laborer",
+        "row": 11,
+        "col": 2,
+        "answer": "ESNE"
+      },
+      {
+        "number": 55,
+        "clue": "Nucha",
+        "row": 11,
+        "col": 9,
+        "answer": "NAPE"
+      },
+      {
+        "number": 56,
+        "clue": "Pick up one's marbles",
+        "row": 11,
+        "col": 10,
+        "answer": "QUIT"
+      },
+      {
+        "number": 58,
+        "clue": "Twenty-third Hebrew letter",
+        "row": 12,
+        "col": 3,
+        "answer": "TAV"
+      }
+    ]
+  }
+}

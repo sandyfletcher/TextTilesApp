@@ -1,0 +1,515 @@
+{
+  "id": "nyt-1977-09-10",
+  "metadata": {
+    "date": "1977-09-10",
+    "title": "NY TIMES, SAT, SEP 10, 1977",
+    "author": "Jack Luzzatto",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["C", "A", "B", "A", "N", "A", "S", null, "A", "M", "I", "S", "S", null, null],
+    ["O", "R", "E", "G", "A", "N", "O", null, "N", "O", "M", "A", "N", "S", null],
+    ["M", "O", "N", "E", "Y", "O", "F", "F", "C", "O", "U", "P", "O", "N", "S"],
+    ["M", "U", "D", null, null, "S", "T", "I", "E", "D", null, "S", "O", "A", "K"],
+    ["U", "S", "E", null, "B", "E", "A", "N", "S", null, null, null, "P", "I", "E"],
+    ["T", "E", "R", "R", "A", null, "S", "E", "T", "H", null, "Y", "E", "L", "P"],
+    ["E", "S", "S", "A", "Y", "S", null, "B", "O", "O", "T", "E", "R", "S", null],
+    [null, null, null, "C", "E", "L", "L", "A", "R", "E", "R", "S", null, null, null],
+    [null, "S", "E", "E", "D", "I", "E", "R", null, "S", "E", "N", "O", "R", "A"],
+    ["P", "E", "N", "D", null, "D", "I", "G", "A", null, "S", "O", "R", "E", "R"],
+    ["L", "A", "C", null, null, null, "S", "A", "I", "L", "S", null, "E", "D", "T"],
+    ["A", "G", "O", "G", null, "Q", "U", "I", "R", "E", null, null, "I", "D", "I"],
+    ["N", "O", "R", "E", "T", "U", "R", "N", "B", "O", "T", "T", "L", "E", "S"],
+    [null, "D", "E", "A", "R", "I", "E", null, "A", "N", "N", "U", "L", "E", "T"],
+    [null, null, "D", "R", "I", "P", "S", null, "G", "E", "T", "T", "E", "R", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Beach houses",
+        "row": 0,
+        "col": 0,
+        "answer": "CABANAS"
+      },
+      {
+        "number": 8,
+        "clue": "Improper",
+        "row": 0,
+        "col": 8,
+        "answer": "AMISS"
+      },
+      {
+        "number": 13,
+        "clue": "Seasoning mint",
+        "row": 1,
+        "col": 0,
+        "answer": "OREGANO"
+      },
+      {
+        "number": 14,
+        "clue": "___ land",
+        "row": 1,
+        "col": 8,
+        "answer": "NOMANS"
+      },
+      {
+        "number": 16,
+        "clue": "Discount sources for shoppers",
+        "row": 2,
+        "col": 0,
+        "answer": "MONEYOFFCOUPONS"
+      },
+      {
+        "number": 19,
+        "clue": "Goner's name",
+        "row": 3,
+        "col": 0,
+        "answer": "MUD"
+      },
+      {
+        "number": 20,
+        "clue": "Penned, as pigs",
+        "row": 3,
+        "col": 5,
+        "answer": "STIED"
+      },
+      {
+        "number": 21,
+        "clue": "Drench",
+        "row": 3,
+        "col": 11,
+        "answer": "SOAK"
+      },
+      {
+        "number": 22,
+        "clue": "Benefit from",
+        "row": 4,
+        "col": 0,
+        "answer": "USE"
+      },
+      {
+        "number": 23,
+        "clue": "Franks' accompaniment",
+        "row": 4,
+        "col": 4,
+        "answer": "BEANS"
+      },
+      {
+        "number": 24,
+        "clue": "Pandowdy",
+        "row": 4,
+        "col": 12,
+        "answer": "PIE"
+      },
+      {
+        "number": 25,
+        "clue": "___ incognita",
+        "row": 5,
+        "col": 0,
+        "answer": "TERRA"
+      },
+      {
+        "number": 27,
+        "clue": "One of Adam's boys",
+        "row": 5,
+        "col": 6,
+        "answer": "SETH"
+      },
+      {
+        "number": 29,
+        "clue": "Ki-yi",
+        "row": 5,
+        "col": 11,
+        "answer": "YELP"
+      },
+      {
+        "number": 30,
+        "clue": "Belles-lettres, perhaps",
+        "row": 6,
+        "col": 0,
+        "answer": "ESSAYS"
+      },
+      {
+        "number": 32,
+        "clue": "Soccer players",
+        "row": 6,
+        "col": 7,
+        "answer": "BOOTERS"
+      },
+      {
+        "number": 34,
+        "clue": "Monks for the commissary",
+        "row": 7,
+        "col": 3,
+        "answer": "CELLARERS"
+      },
+      {
+        "number": 36,
+        "clue": "Less prepossessing",
+        "row": 8,
+        "col": 1,
+        "answer": "SEEDIER"
+      },
+      {
+        "number": 38,
+        "clue": "Isabel Per\u00f3n, e.g.",
+        "row": 8,
+        "col": 9,
+        "answer": "SENORA"
+      },
+      {
+        "number": 42,
+        "clue": "Remain unsettled",
+        "row": 9,
+        "col": 0,
+        "answer": "PEND"
+      },
+      {
+        "number": 43,
+        "clue": "Start of a 1928 song title",
+        "row": 9,
+        "col": 5,
+        "answer": "DIGA"
+      },
+      {
+        "number": 45,
+        "clue": "More affronted",
+        "row": 9,
+        "col": 10,
+        "answer": "SORER"
+      },
+      {
+        "number": 46,
+        "clue": "Varnish ingredient",
+        "row": 10,
+        "col": 0,
+        "answer": "LAC"
+      },
+      {
+        "number": 47,
+        "clue": "Lateens and Genoas",
+        "row": 10,
+        "col": 6,
+        "answer": "SAILS"
+      },
+      {
+        "number": 49,
+        "clue": "Summer time: Abbr.",
+        "row": 10,
+        "col": 12,
+        "answer": "EDT"
+      },
+      {
+        "number": 50,
+        "clue": "Excited",
+        "row": 11,
+        "col": 0,
+        "answer": "AGOG"
+      },
+      {
+        "number": 52,
+        "clue": "Twenty-four sheets of paper",
+        "row": 11,
+        "col": 5,
+        "answer": "QUIRE"
+      },
+      {
+        "number": 53,
+        "clue": "Amin",
+        "row": 11,
+        "col": 12,
+        "answer": "IDI"
+      },
+      {
+        "number": 54,
+        "clue": "Containers that create litter",
+        "row": 12,
+        "col": 0,
+        "answer": "NORETURNBOTTLES"
+      },
+      {
+        "number": 58,
+        "clue": "Hon",
+        "row": 13,
+        "col": 1,
+        "answer": "DEARIE"
+      },
+      {
+        "number": 59,
+        "clue": "Little ring",
+        "row": 13,
+        "col": 8,
+        "answer": "ANNULET"
+      },
+      {
+        "number": 60,
+        "clue": "Unpleasant company",
+        "row": 14,
+        "col": 2,
+        "answer": "DRIPS"
+      },
+      {
+        "number": 61,
+        "clue": "Obtainers",
+        "row": 14,
+        "col": 8,
+        "answer": "GETTERS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Travel to and from the job",
+        "row": 0,
+        "col": 0,
+        "answer": "COMMUTE"
+      },
+      {
+        "number": 2,
+        "clue": "Stimulates",
+        "row": 0,
+        "col": 1,
+        "answer": "AROUSES"
+      },
+      {
+        "number": 3,
+        "clue": "Wingdings",
+        "row": 0,
+        "col": 2,
+        "answer": "BENDERS"
+      },
+      {
+        "number": 4,
+        "clue": "Wharton's \"The ___ of Innocence\"",
+        "row": 0,
+        "col": 3,
+        "answer": "AGE"
+      },
+      {
+        "number": 5,
+        "clue": "No",
+        "row": 0,
+        "col": 4,
+        "answer": "NAY"
+      },
+      {
+        "number": 6,
+        "clue": "\"Plain as ___ in a man's face\": Rabelais",
+        "row": 0,
+        "col": 5,
+        "answer": "ANOSE"
+      },
+      {
+        "number": 7,
+        "clue": "As ___ silk",
+        "row": 0,
+        "col": 6,
+        "answer": "SOFTAS"
+      },
+      {
+        "number": 8,
+        "clue": "Kunta Kinte, to Haley",
+        "row": 0,
+        "col": 8,
+        "answer": "ANCESTOR"
+      },
+      {
+        "number": 9,
+        "clue": "Disposition",
+        "row": 0,
+        "col": 9,
+        "answer": "MOOD"
+      },
+      {
+        "number": 10,
+        "clue": "Hawaiian baking pit",
+        "row": 0,
+        "col": 10,
+        "answer": "IMU"
+      },
+      {
+        "number": 11,
+        "clue": "Blackjacks",
+        "row": 0,
+        "col": 11,
+        "answer": "SAPS"
+      },
+      {
+        "number": 12,
+        "clue": "Prying one",
+        "row": 0,
+        "col": 12,
+        "answer": "SNOOPER"
+      },
+      {
+        "number": 15,
+        "clue": "Escargots",
+        "row": 1,
+        "col": 13,
+        "answer": "SNAILS"
+      },
+      {
+        "number": 17,
+        "clue": "A good deal",
+        "row": 2,
+        "col": 7,
+        "answer": "FINEBARGAIN"
+      },
+      {
+        "number": 18,
+        "clue": "Beehive made of straw",
+        "row": 2,
+        "col": 14,
+        "answer": "SKEP"
+      },
+      {
+        "number": 23,
+        "clue": "Howled at the moon",
+        "row": 4,
+        "col": 4,
+        "answer": "BAYED"
+      },
+      {
+        "number": 26,
+        "clue": "Whizzed",
+        "row": 5,
+        "col": 3,
+        "answer": "RACED"
+      },
+      {
+        "number": 28,
+        "clue": "Farm tools",
+        "row": 5,
+        "col": 9,
+        "answer": "HOES"
+      },
+      {
+        "number": 29,
+        "clue": "Hedging on a question",
+        "row": 5,
+        "col": 11,
+        "answer": "YESNO"
+      },
+      {
+        "number": 31,
+        "clue": "Slithered",
+        "row": 6,
+        "col": 5,
+        "answer": "SLID"
+      },
+      {
+        "number": 33,
+        "clue": "Lock of hair",
+        "row": 6,
+        "col": 10,
+        "answer": "TRESS"
+      },
+      {
+        "number": 35,
+        "clue": "Idle hours",
+        "row": 7,
+        "col": 6,
+        "answer": "LEISURES"
+      },
+      {
+        "number": 36,
+        "clue": "Neptune or Poseidon",
+        "row": 8,
+        "col": 1,
+        "answer": "SEAGOD"
+      },
+      {
+        "number": 37,
+        "clue": "Called for another song",
+        "row": 8,
+        "col": 2,
+        "answer": "ENCORED"
+      },
+      {
+        "number": 39,
+        "clue": "Pend ___ (river, peak or lake in Idaho)",
+        "row": 8,
+        "col": 12,
+        "answer": "OREILLE"
+      },
+      {
+        "number": 40,
+        "clue": "Whitetail in summer",
+        "row": 8,
+        "col": 13,
+        "answer": "REDDEER"
+      },
+      {
+        "number": 41,
+        "clue": "Cassatt, Chagall et al.",
+        "row": 8,
+        "col": 14,
+        "answer": "ARTISTS"
+      },
+      {
+        "number": 42,
+        "clue": "Strategy",
+        "row": 9,
+        "col": 0,
+        "answer": "PLAN"
+      },
+      {
+        "number": 44,
+        "clue": "Car safety-device",
+        "row": 9,
+        "col": 8,
+        "answer": "AIRBAG"
+      },
+      {
+        "number": 48,
+        "clue": "Sierra ___",
+        "row": 10,
+        "col": 9,
+        "answer": "LEONE"
+      },
+      {
+        "number": 51,
+        "clue": "Transmission item",
+        "row": 11,
+        "col": 3,
+        "answer": "GEAR"
+      },
+      {
+        "number": 52,
+        "clue": "Witticism",
+        "row": 11,
+        "col": 5,
+        "answer": "QUIP"
+      },
+      {
+        "number": 55,
+        "clue": "Three-way: Prefix",
+        "row": 12,
+        "col": 4,
+        "answer": "TRI"
+      },
+      {
+        "number": 56,
+        "clue": "Blasting material",
+        "row": 12,
+        "col": 10,
+        "answer": "TNT"
+      },
+      {
+        "number": 57,
+        "clue": "Pooh!",
+        "row": 12,
+        "col": 11,
+        "answer": "TUT"
+      }
+    ]
+  }
+}

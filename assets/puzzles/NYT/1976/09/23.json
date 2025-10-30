@@ -1,0 +1,599 @@
+{
+  "id": "nyt-1976-09-23",
+  "metadata": {
+    "date": "1976-09-23",
+    "title": "NY TIMES, THU, SEP 23, 1976",
+    "author": "Paul R. Barnes",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["D", "A", "N", "A", null, "R", "E", "M", "I", "T", null, "C", "A", "P", "S"],
+    ["O", "B", "I", "S", null, "A", "L", "O", "N", "E", null, "A", "L", "E", "E"],
+    ["R", "A", "C", "K", null, "J", "A", "N", "E", "M", "A", "R", "P", "L", "E"],
+    ["A", "S", "K", "E", "W", null, "P", "A", "R", null, "M", "O", "S", "E", "S"],
+    [null, null, "C", "R", "A", "W", "S", null, "T", "R", "I", "M", null, null, null],
+    ["G", "O", "A", null, "G", "E", "E", null, "I", "O", "S", null, "P", "F", "C"],
+    ["U", "N", "R", "E", "E", "L", null, "D", "A", "S", "H", "I", "E", "L", "L"],
+    ["E", "T", "T", "U", null, "C", "O", "A", "L", "S", null, "T", "R", "I", "O"],
+    ["S", "H", "E", "R", "L", "O", "C", "K", null, "I", "M", "A", "R", "E", "T"],
+    ["S", "E", "R", null, "A", "M", "E", null, "A", "N", "I", null, "Y", "R", "S"],
+    [null, null, null, "O", "R", "E", "L", null, "M", "I", "N", "I", "M", null, null],
+    ["S", "O", "B", "I", "G", null, "L", "E", "I", null, "T", "R", "A", "I", "N"],
+    ["P", "H", "I", "L", "O", "V", "A", "N", "C", "E", null, "E", "S", "N", "E"],
+    ["E", "I", "R", "E", null, "O", "T", "T", "E", "R", null, "N", "O", "I", "R"],
+    ["W", "O", "R", "D", null, "R", "E", "E", "S", "E", null, "E", "N", "T", "O"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sea-story writer",
+        "row": 0,
+        "col": 0,
+        "answer": "DANA"
+      },
+      {
+        "number": 5,
+        "clue": "Send payment",
+        "row": 0,
+        "col": 5,
+        "answer": "REMIT"
+      },
+      {
+        "number": 10,
+        "clue": "Ammo for a child's pistol",
+        "row": 0,
+        "col": 11,
+        "answer": "CAPS"
+      },
+      {
+        "number": 14,
+        "clue": "Sashes",
+        "row": 1,
+        "col": 0,
+        "answer": "OBIS"
+      },
+      {
+        "number": 15,
+        "clue": "Unique",
+        "row": 1,
+        "col": 5,
+        "answer": "ALONE"
+      },
+      {
+        "number": 16,
+        "clue": "Nautical position",
+        "row": 1,
+        "col": 11,
+        "answer": "ALEE"
+      },
+      {
+        "number": 17,
+        "clue": "Partner of ruin",
+        "row": 2,
+        "col": 0,
+        "answer": "RACK"
+      },
+      {
+        "number": 18,
+        "clue": "Agatha Christie's nosy lady",
+        "row": 2,
+        "col": 5,
+        "answer": "JANEMARPLE"
+      },
+      {
+        "number": 20,
+        "clue": "Crooked",
+        "row": 3,
+        "col": 0,
+        "answer": "ASKEW"
+      },
+      {
+        "number": 22,
+        "clue": "Kind of boiled",
+        "row": 3,
+        "col": 6,
+        "answer": "PAR"
+      },
+      {
+        "number": 23,
+        "clue": "Grandma of art",
+        "row": 3,
+        "col": 10,
+        "answer": "MOSES"
+      },
+      {
+        "number": 24,
+        "clue": "Bird crops",
+        "row": 4,
+        "col": 2,
+        "answer": "CRAWS"
+      },
+      {
+        "number": 26,
+        "clue": "Adjust, as sails",
+        "row": 4,
+        "col": 8,
+        "answer": "TRIM"
+      },
+      {
+        "number": 28,
+        "clue": "Asian gazelle",
+        "row": 5,
+        "col": 0,
+        "answer": "GOA"
+      },
+      {
+        "number": 30,
+        "clue": "Word with whiz",
+        "row": 5,
+        "col": 4,
+        "answer": "GEE"
+      },
+      {
+        "number": 31,
+        "clue": "Hawks of Hawaii",
+        "row": 5,
+        "col": 8,
+        "answer": "IOS"
+      },
+      {
+        "number": 32,
+        "clue": "Certain G.I.",
+        "row": 5,
+        "col": 12,
+        "answer": "PFC"
+      },
+      {
+        "number": 35,
+        "clue": "Wind off",
+        "row": 6,
+        "col": 0,
+        "answer": "UNREEL"
+      },
+      {
+        "number": 37,
+        "clue": "Creator of Nick of \"Thin Man\"",
+        "row": 6,
+        "col": 7,
+        "answer": "DASHIELL"
+      },
+      {
+        "number": 39,
+        "clue": "\"___, Brute!\"",
+        "row": 7,
+        "col": 0,
+        "answer": "ETTU"
+      },
+      {
+        "number": 40,
+        "clue": "Embers",
+        "row": 7,
+        "col": 5,
+        "answer": "COALS"
+      },
+      {
+        "number": 42,
+        "clue": "Music group",
+        "row": 7,
+        "col": 11,
+        "answer": "TRIO"
+      },
+      {
+        "number": 43,
+        "clue": "Sleuth in the deerstalker hat",
+        "row": 8,
+        "col": 0,
+        "answer": "SHERLOCK"
+      },
+      {
+        "number": 45,
+        "clue": "Turkish inn",
+        "row": 8,
+        "col": 9,
+        "answer": "IMARET"
+      },
+      {
+        "number": 47,
+        "clue": "Indian weight",
+        "row": 9,
+        "col": 0,
+        "answer": "SER"
+      },
+      {
+        "number": 48,
+        "clue": "French soul",
+        "row": 9,
+        "col": 4,
+        "answer": "AME"
+      },
+      {
+        "number": 49,
+        "clue": "Cuckoo",
+        "row": 9,
+        "col": 8,
+        "answer": "ANI"
+      },
+      {
+        "number": 50,
+        "clue": "Time periods: Abbr.",
+        "row": 9,
+        "col": 12,
+        "answer": "YRS"
+      },
+      {
+        "number": 51,
+        "clue": "Russian city",
+        "row": 10,
+        "col": 3,
+        "answer": "OREL"
+      },
+      {
+        "number": 52,
+        "clue": "Least quantity",
+        "row": 10,
+        "col": 8,
+        "answer": "MINIM"
+      },
+      {
+        "number": 54,
+        "clue": "Ferber bestseller",
+        "row": 11,
+        "col": 0,
+        "answer": "SOBIG"
+      },
+      {
+        "number": 57,
+        "clue": "Hula wear",
+        "row": 11,
+        "col": 6,
+        "answer": "LEI"
+      },
+      {
+        "number": 59,
+        "clue": "Get into condition",
+        "row": 11,
+        "col": 10,
+        "answer": "TRAIN"
+      },
+      {
+        "number": 62,
+        "clue": "S.S. Van Dine sleuth",
+        "row": 12,
+        "col": 0,
+        "answer": "PHILOVANCE"
+      },
+      {
+        "number": 65,
+        "clue": "Anglo-Saxon domestic",
+        "row": 12,
+        "col": 11,
+        "answer": "ESNE"
+      },
+      {
+        "number": 66,
+        "clue": "Land of the Dail",
+        "row": 13,
+        "col": 0,
+        "answer": "EIRE"
+      },
+      {
+        "number": 67,
+        "clue": "Fur animal",
+        "row": 13,
+        "col": 5,
+        "answer": "OTTER"
+      },
+      {
+        "number": 68,
+        "clue": "Roulette color",
+        "row": 13,
+        "col": 11,
+        "answer": "NOIR"
+      },
+      {
+        "number": 69,
+        "clue": "Solemn promise",
+        "row": 14,
+        "col": 0,
+        "answer": "WORD"
+      },
+      {
+        "number": 70,
+        "clue": "Della",
+        "row": 14,
+        "col": 5,
+        "answer": "REESE"
+      },
+      {
+        "number": 71,
+        "clue": "Within: Prefix",
+        "row": 14,
+        "col": 11,
+        "answer": "ENTO"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Dumb girl",
+        "row": 0,
+        "col": 0,
+        "answer": "DORA"
+      },
+      {
+        "number": 2,
+        "clue": "Arab cloaks",
+        "row": 0,
+        "col": 1,
+        "answer": "ABAS"
+      },
+      {
+        "number": 3,
+        "clue": "Famous dime-novel sleuth",
+        "row": 0,
+        "col": 2,
+        "answer": "NICKCARTER"
+      },
+      {
+        "number": 4,
+        "clue": "Inquiring one",
+        "row": 0,
+        "col": 3,
+        "answer": "ASKER"
+      },
+      {
+        "number": 5,
+        "clue": "Reign, in India",
+        "row": 0,
+        "col": 5,
+        "answer": "RAJ"
+      },
+      {
+        "number": 6,
+        "clue": "Slip by",
+        "row": 0,
+        "col": 6,
+        "answer": "ELAPSE"
+      },
+      {
+        "number": 7,
+        "clue": "___ Lisa",
+        "row": 0,
+        "col": 7,
+        "answer": "MONA"
+      },
+      {
+        "number": 8,
+        "clue": "Of an immobile state",
+        "row": 0,
+        "col": 8,
+        "answer": "INERTIAL"
+      },
+      {
+        "number": 9,
+        "clue": "Egyptian god",
+        "row": 0,
+        "col": 9,
+        "answer": "TEM"
+      },
+      {
+        "number": 10,
+        "clue": "Billiard shot",
+        "row": 0,
+        "col": 11,
+        "answer": "CAROM"
+      },
+      {
+        "number": 11,
+        "clue": "Zermatt locale",
+        "row": 0,
+        "col": 12,
+        "answer": "ALPS"
+      },
+      {
+        "number": 12,
+        "clue": "Soccer great",
+        "row": 0,
+        "col": 13,
+        "answer": "PELE"
+      },
+      {
+        "number": 13,
+        "clue": "Bishoprics",
+        "row": 0,
+        "col": 14,
+        "answer": "SEES"
+      },
+      {
+        "number": 19,
+        "clue": "Mennonite sect",
+        "row": 2,
+        "col": 10,
+        "answer": "AMISH"
+      },
+      {
+        "number": 21,
+        "clue": "Carry on",
+        "row": 3,
+        "col": 4,
+        "answer": "WAGE"
+      },
+      {
+        "number": 25,
+        "clue": "Kind of wagon",
+        "row": 4,
+        "col": 5,
+        "answer": "WELCOME"
+      },
+      {
+        "number": 27,
+        "clue": "Opera composer",
+        "row": 4,
+        "col": 9,
+        "answer": "ROSSINI"
+      },
+      {
+        "number": 28,
+        "clue": "Join in a parlor game",
+        "row": 5,
+        "col": 0,
+        "answer": "GUESS"
+      },
+      {
+        "number": 29,
+        "clue": "\"___ Road to Mandalay\"",
+        "row": 5,
+        "col": 1,
+        "answer": "ONTHE"
+      },
+      {
+        "number": 32,
+        "clue": "Gardner's legal eagle",
+        "row": 5,
+        "col": 12,
+        "answer": "PERRYMASON"
+      },
+      {
+        "number": 33,
+        "clue": "Ad leaflet",
+        "row": 5,
+        "col": 13,
+        "answer": "FLIER"
+      },
+      {
+        "number": 34,
+        "clue": "Lumps",
+        "row": 5,
+        "col": 14,
+        "answer": "CLOTS"
+      },
+      {
+        "number": 36,
+        "clue": "Continent: Abbr.",
+        "row": 6,
+        "col": 3,
+        "answer": "EUR"
+      },
+      {
+        "number": 37,
+        "clue": "Mail, in India",
+        "row": 6,
+        "col": 7,
+        "answer": "DAK"
+      },
+      {
+        "number": 38,
+        "clue": "Greenland Eskimo",
+        "row": 6,
+        "col": 11,
+        "answer": "ITA"
+      },
+      {
+        "number": 41,
+        "clue": "Having minute eyes",
+        "row": 7,
+        "col": 6,
+        "answer": "OCELLATE"
+      },
+      {
+        "number": 44,
+        "clue": "Slow, in music",
+        "row": 8,
+        "col": 4,
+        "answer": "LARGO"
+      },
+      {
+        "number": 46,
+        "clue": "In ___ condition (good as new)",
+        "row": 8,
+        "col": 10,
+        "answer": "MINT"
+      },
+      {
+        "number": 49,
+        "clue": "Vestments",
+        "row": 9,
+        "col": 8,
+        "answer": "AMICES"
+      },
+      {
+        "number": 51,
+        "clue": "Did a lube job",
+        "row": 10,
+        "col": 3,
+        "answer": "OILED"
+      },
+      {
+        "number": 53,
+        "clue": "Miss Bordoni",
+        "row": 10,
+        "col": 11,
+        "answer": "IRENE"
+      },
+      {
+        "number": 54,
+        "clue": "Pour forth",
+        "row": 11,
+        "col": 0,
+        "answer": "SPEW"
+      },
+      {
+        "number": 55,
+        "clue": "Sister Eileen's state",
+        "row": 11,
+        "col": 1,
+        "answer": "OHIO"
+      },
+      {
+        "number": 56,
+        "clue": "Whirring sound",
+        "row": 11,
+        "col": 2,
+        "answer": "BIRR"
+      },
+      {
+        "number": 58,
+        "clue": "Being, in Spain",
+        "row": 11,
+        "col": 7,
+        "answer": "ENTE"
+      },
+      {
+        "number": 60,
+        "clue": "\"What's ___ for me?\"",
+        "row": 11,
+        "col": 13,
+        "answer": "INIT"
+      },
+      {
+        "number": 61,
+        "clue": "Orchid-loving private eye",
+        "row": 11,
+        "col": 14,
+        "answer": "NERO"
+      },
+      {
+        "number": 63,
+        "clue": "Norse goddess",
+        "row": 12,
+        "col": 5,
+        "answer": "VOR"
+      },
+      {
+        "number": 64,
+        "clue": "Prior to",
+        "row": 12,
+        "col": 9,
+        "answer": "ERE"
+      }
+    ]
+  }
+}

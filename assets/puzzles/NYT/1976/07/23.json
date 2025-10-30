@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-07-23",
+  "metadata": {
+    "date": "1976-07-23",
+    "title": "NY TIMES, FRI, JUL 23, 1976",
+    "author": "Frank Geary",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "M", "A", "H", null, "T", "R", "A", "P", "S", null, "P", "L", "E", "B"],
+    ["B", "A", "R", "E", null, "R", "A", "R", "A", "E", null, "L", "I", "N", "O"],
+    ["A", "S", "E", "A", null, "A", "C", "O", "R", "N", null, "O", "N", "T", "O"],
+    ["S", "H", "A", "D", "Y", "C", "H", "A", "R", "A", "C", "T", "E", "R", "S"],
+    [null, null, null, "R", "A", "K", "E", null, null, "T", "A", "S", "S", "E", "T"],
+    ["C", "A", "M", "E", "L", "S", null, "B", "O", "O", "R", null, null, null, null],
+    ["A", "M", "U", "S", "E", null, "B", "E", "R", "R", "A", null, "B", "S", "A"],
+    ["P", "E", "S", "T", null, "S", "A", "G", "E", "S", null, "P", "R", "O", "D"],
+    ["P", "R", "E", null, "A", "N", "T", "E", "S", null, "A", "R", "I", "S", "E"],
+    [null, null, null, null, "R", "E", "A", "M", null, "O", "R", "E", "G", "O", "N"],
+    ["S", "A", "V", "A", "G", "E", null, null, "O", "T", "U", "S", null, null, null],
+    ["T", "H", "E", "F", "O", "R", "T", "Y", "T", "H", "I", "E", "V", "E", "S"],
+    ["O", "O", "N", "T", null, "I", "R", "A", "T", "E", null, "N", "A", "T", "O"],
+    ["B", "L", "U", "E", null, "N", "E", "V", "E", "R", null, "T", "S", "A", "R"],
+    ["S", "E", "E", "R", null, "G", "E", "A", "R", "S", null, "S", "E", "T", "A"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Oriental nurse",
+        "row": 0,
+        "col": 0,
+        "answer": "AMAH"
+      },
+      {
+        "number": 5,
+        "clue": "Pitfalls",
+        "row": 0,
+        "col": 5,
+        "answer": "TRAPS"
+      },
+      {
+        "number": 10,
+        "clue": "One of the common people",
+        "row": 0,
+        "col": 11,
+        "answer": "PLEB"
+      },
+      {
+        "number": 14,
+        "clue": "Kind of minimum",
+        "row": 1,
+        "col": 0,
+        "answer": "BARE"
+      },
+      {
+        "number": 15,
+        "clue": "___ aves (oners)",
+        "row": 1,
+        "col": 5,
+        "answer": "RARAE"
+      },
+      {
+        "number": 16,
+        "clue": "Old S.A. measure",
+        "row": 1,
+        "col": 11,
+        "answer": "LINO"
+      },
+      {
+        "number": 17,
+        "clue": "Muddled",
+        "row": 2,
+        "col": 0,
+        "answer": "ASEA"
+      },
+      {
+        "number": 18,
+        "clue": "Tree product",
+        "row": 2,
+        "col": 5,
+        "answer": "ACORN"
+      },
+      {
+        "number": 19,
+        "clue": "Hep",
+        "row": 2,
+        "col": 11,
+        "answer": "ONTO"
+      },
+      {
+        "number": 20,
+        "clue": "Awning salesmen, in a way",
+        "row": 3,
+        "col": 0,
+        "answer": "SHADYCHARACTERS"
+      },
+      {
+        "number": 23,
+        "clue": "Lothario",
+        "row": 4,
+        "col": 3,
+        "answer": "RAKE"
+      },
+      {
+        "number": 24,
+        "clue": "Piece of armor plate",
+        "row": 4,
+        "col": 9,
+        "answer": "TASSET"
+      },
+      {
+        "number": 25,
+        "clue": "Mounts for sheiks",
+        "row": 5,
+        "col": 0,
+        "answer": "CAMELS"
+      },
+      {
+        "number": 28,
+        "clue": "Yokel",
+        "row": 5,
+        "col": 7,
+        "answer": "BOOR"
+      },
+      {
+        "number": 30,
+        "clue": "Occupy pleasurably",
+        "row": 6,
+        "col": 0,
+        "answer": "AMUSE"
+      },
+      {
+        "number": 31,
+        "clue": "Yogi",
+        "row": 6,
+        "col": 6,
+        "answer": "BERRA"
+      },
+      {
+        "number": 32,
+        "clue": "Youth org.",
+        "row": 6,
+        "col": 12,
+        "answer": "BSA"
+      },
+      {
+        "number": 35,
+        "clue": "Nuisance",
+        "row": 7,
+        "col": 0,
+        "answer": "PEST"
+      },
+      {
+        "number": 36,
+        "clue": "Solomon et al.",
+        "row": 7,
+        "col": 5,
+        "answer": "SAGES"
+      },
+      {
+        "number": 37,
+        "clue": "Incite",
+        "row": 7,
+        "col": 11,
+        "answer": "PROD"
+      },
+      {
+        "number": 38,
+        "clue": "Prior to: Prefix",
+        "row": 8,
+        "col": 0,
+        "answer": "PRE"
+      },
+      {
+        "number": 39,
+        "clue": "Chips in",
+        "row": 8,
+        "col": 4,
+        "answer": "ANTES"
+      },
+      {
+        "number": 40,
+        "clue": "Rebel",
+        "row": 8,
+        "col": 10,
+        "answer": "ARISE"
+      },
+      {
+        "number": 41,
+        "clue": "Bevel out",
+        "row": 9,
+        "col": 4,
+        "answer": "REAM"
+      },
+      {
+        "number": 42,
+        "clue": "Terminus of a trail",
+        "row": 9,
+        "col": 9,
+        "answer": "OREGON"
+      },
+      {
+        "number": 43,
+        "clue": "Kind of breast soothed by music",
+        "row": 10,
+        "col": 0,
+        "answer": "SAVAGE"
+      },
+      {
+        "number": 47,
+        "clue": "Victim of Apollo",
+        "row": 10,
+        "col": 8,
+        "answer": "OTUS"
+      },
+      {
+        "number": 48,
+        "clue": "Victims of hot oil",
+        "row": 11,
+        "col": 0,
+        "answer": "THEFORTYTHIEVES"
+      },
+      {
+        "number": 54,
+        "clue": "Indian camel",
+        "row": 12,
+        "col": 0,
+        "answer": "OONT"
+      },
+      {
+        "number": 55,
+        "clue": "Incensed",
+        "row": 12,
+        "col": 5,
+        "answer": "IRATE"
+      },
+      {
+        "number": 56,
+        "clue": "Alliance",
+        "row": 12,
+        "col": 11,
+        "answer": "NATO"
+      },
+      {
+        "number": 57,
+        "clue": "True ___",
+        "row": 13,
+        "col": 0,
+        "answer": "BLUE"
+      },
+      {
+        "number": 58,
+        "clue": "\"It ___ happened\"",
+        "row": 13,
+        "col": 5,
+        "answer": "NEVER"
+      },
+      {
+        "number": 59,
+        "clue": "Ruler",
+        "row": 13,
+        "col": 11,
+        "answer": "TSAR"
+      },
+      {
+        "number": 60,
+        "clue": "Tea-leaf reader",
+        "row": 14,
+        "col": 0,
+        "answer": "SEER"
+      },
+      {
+        "number": 61,
+        "clue": "Auto parts",
+        "row": 14,
+        "col": 5,
+        "answer": "GEARS"
+      },
+      {
+        "number": 62,
+        "clue": "Bristle",
+        "row": 14,
+        "col": 11,
+        "answer": "SETA"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Eastern garments",
+        "row": 0,
+        "col": 0,
+        "answer": "ABAS"
+      },
+      {
+        "number": 2,
+        "clue": "Prepare potatoes",
+        "row": 0,
+        "col": 1,
+        "answer": "MASH"
+      },
+      {
+        "number": 3,
+        "clue": "Scope",
+        "row": 0,
+        "col": 2,
+        "answer": "AREA"
+      },
+      {
+        "number": 4,
+        "clue": "Part of a dental chair",
+        "row": 0,
+        "col": 3,
+        "answer": "HEADREST"
+      },
+      {
+        "number": 5,
+        "clue": "Stalks",
+        "row": 0,
+        "col": 5,
+        "answer": "TRACKS"
+      },
+      {
+        "number": 6,
+        "clue": "Hound, in England",
+        "row": 0,
+        "col": 6,
+        "answer": "RACHE"
+      },
+      {
+        "number": 7,
+        "clue": "Venezuelan town",
+        "row": 0,
+        "col": 7,
+        "answer": "AROA"
+      },
+      {
+        "number": 8,
+        "clue": "One of Henry's wives",
+        "row": 0,
+        "col": 8,
+        "answer": "PARR"
+      },
+      {
+        "number": 9,
+        "clue": "Two to a state",
+        "row": 0,
+        "col": 9,
+        "answer": "SENATORS"
+      },
+      {
+        "number": 10,
+        "clue": "Connives",
+        "row": 0,
+        "col": 11,
+        "answer": "PLOTS"
+      },
+      {
+        "number": 11,
+        "clue": "Something read between",
+        "row": 0,
+        "col": 12,
+        "answer": "LINES"
+      },
+      {
+        "number": 12,
+        "clue": "Among, in Paris",
+        "row": 0,
+        "col": 13,
+        "answer": "ENTRE"
+      },
+      {
+        "number": 13,
+        "clue": "Hoist",
+        "row": 0,
+        "col": 14,
+        "answer": "BOOST"
+      },
+      {
+        "number": 21,
+        "clue": "Elihu",
+        "row": 3,
+        "col": 4,
+        "answer": "YALE"
+      },
+      {
+        "number": 22,
+        "clue": "S.A. Indian",
+        "row": 3,
+        "col": 10,
+        "answer": "CARA"
+      },
+      {
+        "number": 25,
+        "clue": "Dogpatch creator",
+        "row": 5,
+        "col": 0,
+        "answer": "CAPP"
+      },
+      {
+        "number": 26,
+        "clue": "New World resident: Abbr.",
+        "row": 5,
+        "col": 1,
+        "answer": "AMER"
+      },
+      {
+        "number": 27,
+        "clue": "Meditate",
+        "row": 5,
+        "col": 2,
+        "answer": "MUSE"
+      },
+      {
+        "number": 28,
+        "clue": "Adorn",
+        "row": 5,
+        "col": 7,
+        "answer": "BEGEM"
+      },
+      {
+        "number": 29,
+        "clue": "Diggings",
+        "row": 5,
+        "col": 8,
+        "answer": "ORES"
+      },
+      {
+        "number": 31,
+        "clue": "P.I. child",
+        "row": 6,
+        "col": 6,
+        "answer": "BATA"
+      },
+      {
+        "number": 32,
+        "clue": "Sailing ship",
+        "row": 6,
+        "col": 12,
+        "answer": "BRIG"
+      },
+      {
+        "number": 33,
+        "clue": "Middling",
+        "row": 6,
+        "col": 13,
+        "answer": "SOSO"
+      },
+      {
+        "number": 34,
+        "clue": "Arabian gulf",
+        "row": 6,
+        "col": 14,
+        "answer": "ADEN"
+      },
+      {
+        "number": 36,
+        "clue": "Showing scorn",
+        "row": 7,
+        "col": 5,
+        "answer": "SNEERING"
+      },
+      {
+        "number": 37,
+        "clue": "Introduces",
+        "row": 7,
+        "col": 11,
+        "answer": "PRESENTS"
+      },
+      {
+        "number": 39,
+        "clue": "Ship of myth",
+        "row": 8,
+        "col": 4,
+        "answer": "ARGO"
+      },
+      {
+        "number": 40,
+        "clue": "African sheep",
+        "row": 8,
+        "col": 10,
+        "answer": "ARUI"
+      },
+      {
+        "number": 42,
+        "clue": "Not us",
+        "row": 9,
+        "col": 9,
+        "answer": "OTHERS"
+      },
+      {
+        "number": 43,
+        "clue": "Short stakes",
+        "row": 10,
+        "col": 0,
+        "answer": "STOBS"
+      },
+      {
+        "number": 44,
+        "clue": "Make ___-in-one",
+        "row": 10,
+        "col": 1,
+        "answer": "AHOLE"
+      },
+      {
+        "number": 45,
+        "clue": "Scene of an action",
+        "row": 10,
+        "col": 2,
+        "answer": "VENUE"
+      },
+      {
+        "number": 46,
+        "clue": "The morning ___",
+        "row": 10,
+        "col": 3,
+        "answer": "AFTER"
+      },
+      {
+        "number": 47,
+        "clue": "Weasel's cousin",
+        "row": 10,
+        "col": 8,
+        "answer": "OTTER"
+      },
+      {
+        "number": 49,
+        "clue": "Ginkgo or ash",
+        "row": 11,
+        "col": 6,
+        "answer": "TREE"
+      },
+      {
+        "number": 50,
+        "clue": "Old Indian weight",
+        "row": 11,
+        "col": 7,
+        "answer": "YAVA"
+      },
+      {
+        "number": 51,
+        "clue": "Container",
+        "row": 11,
+        "col": 12,
+        "answer": "VASE"
+      },
+      {
+        "number": 52,
+        "clue": "Target of a coup",
+        "row": 11,
+        "col": 13,
+        "answer": "ETAT"
+      },
+      {
+        "number": 53,
+        "clue": "Marsh bird",
+        "row": 11,
+        "col": 14,
+        "answer": "SORA"
+      }
+    ]
+  }
+}

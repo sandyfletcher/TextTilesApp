@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-12-03",
+  "metadata": {
+    "date": "1976-12-03",
+    "title": "NY TIMES, FRI, DEC 03, 1976",
+    "author": "George Raventos",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["B", "E", "A", "U", null, null, "I", "D", "E", "A", "L", null, "O", "A", "R"],
+    ["E", "L", "L", "S", null, "S", "T", "R", "A", "D", "A", null, "U", "T", "E"],
+    ["G", "L", "A", "S", "S", "H", "O", "U", "S", "E", "S", null, "T", "O", "E"],
+    ["S", "O", "I", "R", "E", "E", null, null, "T", "R", "E", "F", "O", "I", "L"],
+    [null, null, null, null, "V", "A", "L", null, null, null, "R", "A", "F", null, null],
+    [null, "A", "R", "T", "I", "F", "A", "C", "T", "S", null, "T", "P", "S", null],
+    ["S", "P", "O", "O", "L", null, "S", "H", "O", "O", "T", null, "L", "T", "D"],
+    ["C", "A", "S", "T", "L", "E", "S", "I", "N", "T", "H", "E", "A", "I", "R"],
+    ["I", "C", "E", null, "A", "L", "I", "N", "E", null, "E", "N", "C", "E", "S"],
+    [null, "E", "G", "O", null, "P", "E", "A", "R", "T", "R", "E", "E", "S", null],
+    [null, null, "A", "D", "O", null, null, null, "S", "H", "E", null, null, null, null],
+    ["A", "B", "R", "A", "D", "E", "S", null, null, "A", "T", "O", "N", "E", "S"],
+    ["O", "R", "D", null, "I", "V", "O", "R", "Y", "T", "O", "W", "E", "R", "S"],
+    ["N", "E", "E", null, "S", "E", "R", "I", "E", "S", null, "E", "X", "I", "T"],
+    ["E", "R", "N", null, "T", "R", "A", "P", "S", null, null, "S", "T", "E", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Swain",
+        "row": 0,
+        "col": 0,
+        "answer": "BEAU"
+      },
+      {
+        "number": 5,
+        "clue": "Excellent",
+        "row": 0,
+        "col": 6,
+        "answer": "IDEAL"
+      },
+      {
+        "number": 10,
+        "clue": "Boat blade",
+        "row": 0,
+        "col": 12,
+        "answer": "OAR"
+      },
+      {
+        "number": 13,
+        "clue": "Old measures",
+        "row": 1,
+        "col": 0,
+        "answer": "ELLS"
+      },
+      {
+        "number": 14,
+        "clue": "Fellini's street",
+        "row": 1,
+        "col": 5,
+        "answer": "STRADA"
+      },
+      {
+        "number": 15,
+        "clue": "U.S. Indian",
+        "row": 1,
+        "col": 12,
+        "answer": "UTE"
+      },
+      {
+        "number": 16,
+        "clue": "Homes for nonthrowers",
+        "row": 2,
+        "col": 0,
+        "answer": "GLASSHOUSES"
+      },
+      {
+        "number": 18,
+        "clue": "Shoe part",
+        "row": 2,
+        "col": 12,
+        "answer": "TOE"
+      },
+      {
+        "number": 19,
+        "clue": "Evening party",
+        "row": 3,
+        "col": 0,
+        "answer": "SOIREE"
+      },
+      {
+        "number": 20,
+        "clue": "Clover",
+        "row": 3,
+        "col": 8,
+        "answer": "TREFOIL"
+      },
+      {
+        "number": 22,
+        "clue": "French lace",
+        "row": 4,
+        "col": 4,
+        "answer": "VAL"
+      },
+      {
+        "number": 24,
+        "clue": "Heroes of Battle of Britain",
+        "row": 4,
+        "col": 10,
+        "answer": "RAF"
+      },
+      {
+        "number": 25,
+        "clue": "Museum displays",
+        "row": 5,
+        "col": 1,
+        "answer": "ARTIFACTS"
+      },
+      {
+        "number": 31,
+        "clue": "Cavalry groups: Abbr.",
+        "row": 5,
+        "col": 11,
+        "answer": "TPS"
+      },
+      {
+        "number": 33,
+        "clue": "Thread holder",
+        "row": 6,
+        "col": 0,
+        "answer": "SPOOL"
+      },
+      {
+        "number": 34,
+        "clue": "\"___, if you must, this . . . \"",
+        "row": 6,
+        "col": 6,
+        "answer": "SHOOT"
+      },
+      {
+        "number": 36,
+        "clue": "Inc., in England",
+        "row": 6,
+        "col": 12,
+        "answer": "LTD"
+      },
+      {
+        "number": 38,
+        "clue": "Homes for flighty ones",
+        "row": 7,
+        "col": 0,
+        "answer": "CASTLESINTHEAIR"
+      },
+      {
+        "number": 41,
+        "clue": "Early age",
+        "row": 8,
+        "col": 0,
+        "answer": "ICE"
+      },
+      {
+        "number": 42,
+        "clue": "Put in a row",
+        "row": 8,
+        "col": 4,
+        "answer": "ALINE"
+      },
+      {
+        "number": 43,
+        "clue": "Noun suffixes",
+        "row": 8,
+        "col": 10,
+        "answer": "ENCES"
+      },
+      {
+        "number": 44,
+        "clue": "Self",
+        "row": 9,
+        "col": 1,
+        "answer": "EGO"
+      },
+      {
+        "number": 46,
+        "clue": "Homes for partridges",
+        "row": 9,
+        "col": 5,
+        "answer": "PEARTREES"
+      },
+      {
+        "number": 48,
+        "clue": "Trouble",
+        "row": 10,
+        "col": 2,
+        "answer": "ADO"
+      },
+      {
+        "number": 50,
+        "clue": "Pronoun",
+        "row": 10,
+        "col": 8,
+        "answer": "SHE"
+      },
+      {
+        "number": 51,
+        "clue": "Scrapes away",
+        "row": 11,
+        "col": 0,
+        "answer": "ABRADES"
+      },
+      {
+        "number": 55,
+        "clue": "Makes up for",
+        "row": 11,
+        "col": 9,
+        "answer": "ATONES"
+      },
+      {
+        "number": 60,
+        "clue": "Type of number: Abbr.",
+        "row": 12,
+        "col": 0,
+        "answer": "ORD"
+      },
+      {
+        "number": 61,
+        "clue": "Homes for loners",
+        "row": 12,
+        "col": 4,
+        "answer": "IVORYTOWERS"
+      },
+      {
+        "number": 64,
+        "clue": "Bridal word",
+        "row": 13,
+        "col": 0,
+        "answer": "NEE"
+      },
+      {
+        "number": 65,
+        "clue": "World ___",
+        "row": 13,
+        "col": 4,
+        "answer": "SERIES"
+      },
+      {
+        "number": 66,
+        "clue": "Road sign",
+        "row": 13,
+        "col": 11,
+        "answer": "EXIT"
+      },
+      {
+        "number": 67,
+        "clue": "Sea bird",
+        "row": 14,
+        "col": 0,
+        "answer": "ERN"
+      },
+      {
+        "number": 68,
+        "clue": "Golfers' worries",
+        "row": 14,
+        "col": 4,
+        "answer": "TRAPS"
+      },
+      {
+        "number": 69,
+        "clue": "Marie et al.: Abbr.",
+        "row": 14,
+        "col": 11,
+        "answer": "STES"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Panhandles",
+        "row": 0,
+        "col": 0,
+        "answer": "BEGS"
+      },
+      {
+        "number": 2,
+        "clue": "It, in Spain",
+        "row": 0,
+        "col": 1,
+        "answer": "ELLO"
+      },
+      {
+        "number": 3,
+        "clue": "Jai ___",
+        "row": 0,
+        "col": 2,
+        "answer": "ALAI"
+      },
+      {
+        "number": 4,
+        "clue": "U.N. power",
+        "row": 0,
+        "col": 3,
+        "answer": "USSR"
+      },
+      {
+        "number": 5,
+        "clue": "Japanese statesman",
+        "row": 0,
+        "col": 6,
+        "answer": "ITO"
+      },
+      {
+        "number": 6,
+        "clue": "Actress Joanne",
+        "row": 0,
+        "col": 7,
+        "answer": "DRU"
+      },
+      {
+        "number": 7,
+        "clue": "Lynne or India",
+        "row": 0,
+        "col": 8,
+        "answer": "EAST"
+      },
+      {
+        "number": 8,
+        "clue": "Vein, in Germany",
+        "row": 0,
+        "col": 9,
+        "answer": "ADER"
+      },
+      {
+        "number": 9,
+        "clue": "Powerful beam",
+        "row": 0,
+        "col": 10,
+        "answer": "LASER"
+      },
+      {
+        "number": 10,
+        "clue": "Like jeans at a formal party",
+        "row": 0,
+        "col": 12,
+        "answer": "OUTOFPLACE"
+      },
+      {
+        "number": 11,
+        "clue": "Thine, in France",
+        "row": 0,
+        "col": 13,
+        "answer": "ATOI"
+      },
+      {
+        "number": 12,
+        "clue": "Fisherman's need",
+        "row": 0,
+        "col": 14,
+        "answer": "REEL"
+      },
+      {
+        "number": 14,
+        "clue": "Bundle",
+        "row": 1,
+        "col": 5,
+        "answer": "SHEAF"
+      },
+      {
+        "number": 17,
+        "clue": "City of Espa\u00f1a",
+        "row": 2,
+        "col": 4,
+        "answer": "SEVILLA"
+      },
+      {
+        "number": 21,
+        "clue": "Kind of chance",
+        "row": 3,
+        "col": 11,
+        "answer": "FAT"
+      },
+      {
+        "number": 23,
+        "clue": "Movie dog",
+        "row": 4,
+        "col": 6,
+        "answer": "LASSIE"
+      },
+      {
+        "number": 25,
+        "clue": "Rapidly",
+        "row": 5,
+        "col": 1,
+        "answer": "APACE"
+      },
+      {
+        "number": 26,
+        "clue": "Never-promised place",
+        "row": 5,
+        "col": 2,
+        "answer": "ROSEGARDEN"
+      },
+      {
+        "number": 27,
+        "clue": "Add up",
+        "row": 5,
+        "col": 3,
+        "answer": "TOT"
+      },
+      {
+        "number": 28,
+        "clue": "Dishes, e.g.",
+        "row": 5,
+        "col": 7,
+        "answer": "CHINA"
+      },
+      {
+        "number": 29,
+        "clue": "Photographic acids",
+        "row": 5,
+        "col": 8,
+        "answer": "TONERS"
+      },
+      {
+        "number": 30,
+        "clue": "Drunkard",
+        "row": 5,
+        "col": 9,
+        "answer": "SOT"
+      },
+      {
+        "number": 32,
+        "clue": "Barnyard units",
+        "row": 5,
+        "col": 13,
+        "answer": "STIES"
+      },
+      {
+        "number": 33,
+        "clue": "School subject: Abbr.",
+        "row": 6,
+        "col": 0,
+        "answer": "SCI"
+      },
+      {
+        "number": 35,
+        "clue": "In that place",
+        "row": 6,
+        "col": 10,
+        "answer": "THERETO"
+      },
+      {
+        "number": 37,
+        "clue": "Med. people",
+        "row": 6,
+        "col": 14,
+        "answer": "DRS"
+      },
+      {
+        "number": 39,
+        "clue": "Cockney's cry",
+        "row": 7,
+        "col": 5,
+        "answer": "ELP"
+      },
+      {
+        "number": 40,
+        "clue": "Compass point",
+        "row": 7,
+        "col": 11,
+        "answer": "ENE"
+      },
+      {
+        "number": 45,
+        "clue": "Harem room",
+        "row": 9,
+        "col": 3,
+        "answer": "ODA"
+      },
+      {
+        "number": 47,
+        "clue": "\"___ Entertainment\"",
+        "row": 9,
+        "col": 9,
+        "answer": "THATS"
+      },
+      {
+        "number": 49,
+        "clue": "Certain poet",
+        "row": 10,
+        "col": 4,
+        "answer": "ODIST"
+      },
+      {
+        "number": 51,
+        "clue": "Tops",
+        "row": 11,
+        "col": 0,
+        "answer": "AONE"
+      },
+      {
+        "number": 52,
+        "clue": "Uncle Remus word",
+        "row": 11,
+        "col": 1,
+        "answer": "BRER"
+      },
+      {
+        "number": 53,
+        "clue": "\"Did you ___!\"",
+        "row": 11,
+        "col": 5,
+        "answer": "EVER"
+      },
+      {
+        "number": 54,
+        "clue": "Rail bird",
+        "row": 11,
+        "col": 6,
+        "answer": "SORA"
+      },
+      {
+        "number": 56,
+        "clue": "Faces a dunning",
+        "row": 11,
+        "col": 11,
+        "answer": "OWES"
+      },
+      {
+        "number": 57,
+        "clue": "Teller's word",
+        "row": 11,
+        "col": 12,
+        "answer": "NEXT"
+      },
+      {
+        "number": 58,
+        "clue": "Ontario's neighbor",
+        "row": 11,
+        "col": 13,
+        "answer": "ERIE"
+      },
+      {
+        "number": 59,
+        "clue": "Concorde et al.",
+        "row": 11,
+        "col": 14,
+        "answer": "SSTS"
+      },
+      {
+        "number": 62,
+        "clue": "Actor Torn",
+        "row": 12,
+        "col": 7,
+        "answer": "RIP"
+      },
+      {
+        "number": 63,
+        "clue": "Assent",
+        "row": 12,
+        "col": 8,
+        "answer": "YES"
+      }
+    ]
+  }
+}

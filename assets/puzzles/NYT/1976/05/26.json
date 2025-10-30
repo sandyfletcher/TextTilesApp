@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-05-26",
+  "metadata": {
+    "date": "1976-05-26",
+    "title": "NY TIMES, WED, MAY 26, 1976",
+    "author": "Leonard Goldberg",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "A", "L", "S", null, "T", "A", "P", "E", "S", null, "R", "I", "T", "A"],
+    ["T", "H", "E", "O", "D", "O", "R", "E", "D", "R", "E", "I", "S", "E", "R"],
+    ["D", "A", "S", "H", "I", "E", "L", "L", "H", "A", "M", "M", "E", "T", "T"],
+    ["S", "B", "E", null, "D", "I", "E", "T", "S", null, "S", "E", "R", "R", "A"],
+    [null, null, null, "P", "O", "N", "S", null, null, null, null, "R", "E", "A", "R"],
+    ["A", "C", "R", "O", "S", "S", null, "T", "R", "A", "P", "S", null, null, null],
+    ["L", "O", "O", "N", null, null, "P", "R", "I", "A", "M", null, "G", "A", "P"],
+    ["G", "U", "Y", "D", "E", "M", "A", "U", "P", "A", "S", "S", "A", "N", "T"],
+    ["A", "R", "S", null, "L", "E", "V", "E", "E", null, null, "I", "O", "T", "A"],
+    [null, null, null, "T", "I", "G", "E", "R", null, "C", "A", "L", "L", "A", "S"],
+    ["V", "A", "S", "A", null, null, null, null, "L", "A", "R", "K", null, null, null],
+    ["A", "L", "A", "M", "O", null, "L", "E", "A", "S", "T", null, "O", "C", "A"],
+    ["S", "O", "M", "E", "R", "S", "E", "T", "M", "A", "U", "G", "H", "A", "M"],
+    ["C", "H", "A", "R", "L", "O", "T", "T", "E", "B", "R", "O", "N", "T", "E"],
+    ["O", "A", "R", "S", null, "T", "I", "A", "R", "A", null, "T", "O", "T", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Maglie and Mineo",
+        "row": 0,
+        "col": 0,
+        "answer": "SALS"
+      },
+      {
+        "number": 5,
+        "clue": "Adhesive and red",
+        "row": 0,
+        "col": 5,
+        "answer": "TAPES"
+      },
+      {
+        "number": 10,
+        "clue": "Gam or Moreno",
+        "row": 0,
+        "col": 11,
+        "answer": "RITA"
+      },
+      {
+        "number": 14,
+        "clue": "Jennie Gerhardt's creator",
+        "row": 1,
+        "col": 0,
+        "answer": "THEODOREDREISER"
+      },
+      {
+        "number": 17,
+        "clue": "The Thin Man's creator",
+        "row": 2,
+        "col": 0,
+        "answer": "DASHIELLHAMMETT"
+      },
+      {
+        "number": 18,
+        "clue": "Compass reading",
+        "row": 3,
+        "col": 0,
+        "answer": "SBE"
+      },
+      {
+        "number": 19,
+        "clue": "Certain thinning agents",
+        "row": 3,
+        "col": 4,
+        "answer": "DIETS"
+      },
+      {
+        "number": 20,
+        "clue": "Sawfish's saw",
+        "row": 3,
+        "col": 10,
+        "answer": "SERRA"
+      },
+      {
+        "number": 21,
+        "clue": "Soprano Lily",
+        "row": 4,
+        "col": 3,
+        "answer": "PONS"
+      },
+      {
+        "number": 22,
+        "clue": "Guard or admiral",
+        "row": 4,
+        "col": 11,
+        "answer": "REAR"
+      },
+      {
+        "number": 23,
+        "clue": "___-the-board",
+        "row": 5,
+        "col": 0,
+        "answer": "ACROSS"
+      },
+      {
+        "number": 26,
+        "clue": "Catches",
+        "row": 5,
+        "col": 7,
+        "answer": "TRAPS"
+      },
+      {
+        "number": 30,
+        "clue": "Hendrik Willem van ___",
+        "row": 6,
+        "col": 0,
+        "answer": "LOON"
+      },
+      {
+        "number": 31,
+        "clue": "Trojan king",
+        "row": 6,
+        "col": 6,
+        "answer": "PRIAM"
+      },
+      {
+        "number": 32,
+        "clue": "Generation, for one",
+        "row": 6,
+        "col": 12,
+        "answer": "GAP"
+      },
+      {
+        "number": 35,
+        "clue": "Mlle. Fifi's creator",
+        "row": 7,
+        "col": 0,
+        "answer": "GUYDEMAUPASSANT"
+      },
+      {
+        "number": 39,
+        "clue": "\"___ longa . . . \"",
+        "row": 8,
+        "col": 0,
+        "answer": "ARS"
+      },
+      {
+        "number": 40,
+        "clue": "Reception",
+        "row": 8,
+        "col": 4,
+        "answer": "LEVEE"
+      },
+      {
+        "number": 41,
+        "clue": "Greek letter",
+        "row": 8,
+        "col": 11,
+        "answer": "IOTA"
+      },
+      {
+        "number": 42,
+        "clue": "Type of lily",
+        "row": 9,
+        "col": 3,
+        "answer": "TIGER"
+      },
+      {
+        "number": 43,
+        "clue": "Soprano Maria",
+        "row": 9,
+        "col": 9,
+        "answer": "CALLAS"
+      },
+      {
+        "number": 45,
+        "clue": "Anatomical ducts",
+        "row": 10,
+        "col": 0,
+        "answer": "VASA"
+      },
+      {
+        "number": 48,
+        "clue": "Frolic",
+        "row": 10,
+        "col": 8,
+        "answer": "LARK"
+      },
+      {
+        "number": 49,
+        "clue": "Texas shrine",
+        "row": 11,
+        "col": 0,
+        "answer": "ALAMO"
+      },
+      {
+        "number": 51,
+        "clue": "Fewest",
+        "row": 11,
+        "col": 6,
+        "answer": "LEAST"
+      },
+      {
+        "number": 53,
+        "clue": "Wood sorrel",
+        "row": 11,
+        "col": 12,
+        "answer": "OCA"
+      },
+      {
+        "number": 56,
+        "clue": "Ashenden's creator",
+        "row": 12,
+        "col": 0,
+        "answer": "SOMERSETMAUGHAM"
+      },
+      {
+        "number": 59,
+        "clue": "Jane Eyre's creator",
+        "row": 13,
+        "col": 0,
+        "answer": "CHARLOTTEBRONTE"
+      },
+      {
+        "number": 60,
+        "clue": "Rows",
+        "row": 14,
+        "col": 0,
+        "answer": "OARS"
+      },
+      {
+        "number": 61,
+        "clue": "Crown",
+        "row": 14,
+        "col": 5,
+        "answer": "TIARA"
+      },
+      {
+        "number": 62,
+        "clue": "Toddlers",
+        "row": 14,
+        "col": 11,
+        "answer": "TOTS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Norms: Abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "STDS"
+      },
+      {
+        "number": 2,
+        "clue": "Melville's captain",
+        "row": 0,
+        "col": 1,
+        "answer": "AHAB"
+      },
+      {
+        "number": 3,
+        "clue": "___ majesty",
+        "row": 0,
+        "col": 2,
+        "answer": "LESE"
+      },
+      {
+        "number": 4,
+        "clue": "Cry of surprise",
+        "row": 0,
+        "col": 3,
+        "answer": "SOH"
+      },
+      {
+        "number": 5,
+        "clue": "Auto-wheel alignments",
+        "row": 0,
+        "col": 5,
+        "answer": "TOEINS"
+      },
+      {
+        "number": 6,
+        "clue": "City on the Rhone",
+        "row": 0,
+        "col": 6,
+        "answer": "ARLES"
+      },
+      {
+        "number": 7,
+        "clue": "Trapper's prize",
+        "row": 0,
+        "col": 7,
+        "answer": "PELT"
+      },
+      {
+        "number": 8,
+        "clue": "Anglo-Saxon letters",
+        "row": 0,
+        "col": 8,
+        "answer": "EDHS"
+      },
+      {
+        "number": 9,
+        "clue": "Spanish Mrs.",
+        "row": 0,
+        "col": 9,
+        "answer": "SRA"
+      },
+      {
+        "number": 10,
+        "clue": "Certain poets: Var.",
+        "row": 0,
+        "col": 11,
+        "answer": "RIMERS"
+      },
+      {
+        "number": 11,
+        "clue": "Grenoble's river",
+        "row": 0,
+        "col": 12,
+        "answer": "ISERE"
+      },
+      {
+        "number": 12,
+        "clue": "Four: Prefix",
+        "row": 0,
+        "col": 13,
+        "answer": "TETRA"
+      },
+      {
+        "number": 13,
+        "clue": "African tree",
+        "row": 0,
+        "col": 14,
+        "answer": "ARTAR"
+      },
+      {
+        "number": 15,
+        "clue": "Capers",
+        "row": 1,
+        "col": 4,
+        "answer": "DIDOS"
+      },
+      {
+        "number": 16,
+        "clue": "German spa",
+        "row": 1,
+        "col": 10,
+        "answer": "EMS"
+      },
+      {
+        "number": 21,
+        "clue": "Frog's milieu",
+        "row": 4,
+        "col": 3,
+        "answer": "POND"
+      },
+      {
+        "number": 23,
+        "clue": "Seaweed",
+        "row": 5,
+        "col": 0,
+        "answer": "ALGA"
+      },
+      {
+        "number": 24,
+        "clue": "French yard",
+        "row": 5,
+        "col": 1,
+        "answer": "COUR"
+      },
+      {
+        "number": 25,
+        "clue": "Actor Rogers et al.",
+        "row": 5,
+        "col": 2,
+        "answer": "ROYS"
+      },
+      {
+        "number": 26,
+        "clue": "More faithful",
+        "row": 5,
+        "col": 7,
+        "answer": "TRUER"
+      },
+      {
+        "number": 27,
+        "clue": "Mature",
+        "row": 5,
+        "col": 8,
+        "answer": "RIPE"
+      },
+      {
+        "number": 28,
+        "clue": "Motorists' org.",
+        "row": 5,
+        "col": 9,
+        "answer": "AAA"
+      },
+      {
+        "number": 29,
+        "clue": "Times of day: Abbr.",
+        "row": 5,
+        "col": 10,
+        "answer": "PMS"
+      },
+      {
+        "number": 31,
+        "clue": "___ the way (prepare)",
+        "row": 6,
+        "col": 6,
+        "answer": "PAVE"
+      },
+      {
+        "number": 32,
+        "clue": "\"The Ballad of Reading ___\"",
+        "row": 6,
+        "col": 12,
+        "answer": "GAOL"
+      },
+      {
+        "number": 33,
+        "clue": "Theater group",
+        "row": 6,
+        "col": 13,
+        "answer": "ANTA"
+      },
+      {
+        "number": 34,
+        "clue": "School-org. units",
+        "row": 6,
+        "col": 14,
+        "answer": "PTAS"
+      },
+      {
+        "number": 36,
+        "clue": "Whitney",
+        "row": 7,
+        "col": 4,
+        "answer": "ELI"
+      },
+      {
+        "number": 37,
+        "clue": "A Little Woman",
+        "row": 7,
+        "col": 5,
+        "answer": "MEG"
+      },
+      {
+        "number": 38,
+        "clue": "___ stockings",
+        "row": 7,
+        "col": 11,
+        "answer": "SILK"
+      },
+      {
+        "number": 42,
+        "clue": "Circus people",
+        "row": 9,
+        "col": 3,
+        "answer": "TAMERS"
+      },
+      {
+        "number": 43,
+        "clue": "Winter melon",
+        "row": 9,
+        "col": 9,
+        "answer": "CASABA"
+      },
+      {
+        "number": 44,
+        "clue": "Rubinstein",
+        "row": 9,
+        "col": 10,
+        "answer": "ARTUR"
+      },
+      {
+        "number": 45,
+        "clue": "___ da Gama",
+        "row": 10,
+        "col": 0,
+        "answer": "VASCO"
+      },
+      {
+        "number": 46,
+        "clue": "Hello, in Hilo",
+        "row": 10,
+        "col": 1,
+        "answer": "ALOHA"
+      },
+      {
+        "number": 47,
+        "clue": "Philippine island",
+        "row": 10,
+        "col": 2,
+        "answer": "SAMAR"
+      },
+      {
+        "number": 48,
+        "clue": "More disabled",
+        "row": 10,
+        "col": 8,
+        "answer": "LAMER"
+      },
+      {
+        "number": 50,
+        "clue": "Shipping abbr.",
+        "row": 11,
+        "col": 4,
+        "answer": "ORL"
+      },
+      {
+        "number": 51,
+        "clue": "Islands near Timor",
+        "row": 11,
+        "col": 6,
+        "answer": "LETI"
+      },
+      {
+        "number": 52,
+        "clue": "Miss Kett",
+        "row": 11,
+        "col": 7,
+        "answer": "ETTA"
+      },
+      {
+        "number": 53,
+        "clue": "Words of disbelief",
+        "row": 11,
+        "col": 12,
+        "answer": "OHNO"
+      },
+      {
+        "number": 54,
+        "clue": "Carrie Chapman ___",
+        "row": 11,
+        "col": 13,
+        "answer": "CATT"
+      },
+      {
+        "number": 55,
+        "clue": "Ben ___ Williams",
+        "row": 11,
+        "col": 14,
+        "answer": "AMES"
+      },
+      {
+        "number": 57,
+        "clue": "Toper",
+        "row": 12,
+        "col": 5,
+        "answer": "SOT"
+      },
+      {
+        "number": 58,
+        "clue": "\"I ___ Rhythm!\"",
+        "row": 12,
+        "col": 11,
+        "answer": "GOT"
+      }
+    ]
+  }
+}

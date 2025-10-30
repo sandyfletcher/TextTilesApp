@@ -1,0 +1,599 @@
+{
+  "id": "nyt-1976-06-16",
+  "metadata": {
+    "date": "1976-06-16",
+    "title": "NY TIMES, WED, JUN 16, 1976",
+    "author": "Dennis Listort",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "C", "T", "O", "R", null, "W", "I", "D", "E", null, "L", "O", "T", "I"],
+    ["D", "I", "A", "N", "A", null, "I", "N", "O", "N", null, "I", "R", "O", "N"],
+    ["A", "D", "L", "A", "I", "E", "S", "T", "E", "V", "E", "N", "S", "O", "N"],
+    ["L", "E", "O", "N", null, "T", "E", "E", "S", null, "I", "D", "O", "L", "S"],
+    ["E", "R", "N", null, "D", "O", "R", "R", null, "A", "N", "O", "N", null, null],
+    [null, null, null, "S", "I", "N", null, "N", "I", "L", "E", null, null, null, null],
+    ["E", "S", "S", "E", "N", null, "A", "A", "N", "I", null, "A", "N", "T", "A"],
+    ["T", "H", "E", "C", "O", "N", "S", "T", "I", "T", "U", "T", "I", "O", "N"],
+    ["C", "Y", "S", "T", null, "A", "T", "I", "T", null, "N", "O", "L", "A", "N"],
+    [null, null, null, null, "S", "H", "O", "O", null, "K", "I", "N", null, null, null],
+    [null, null, "A", "S", "K", "A", null, "N", "C", "O", "S", null, "P", "O", "W"],
+    ["S", "P", "R", "A", "Y", null, "G", "A", "O", "L", null, "O", "I", "S", "E"],
+    ["W", "E", "N", "D", "E", "L", "L", "L", "W", "I", "L", "L", "K", "I", "E"],
+    ["A", "R", "O", "A", null, "Y", "U", "L", "E", null, "S", "P", "E", "E", "D"],
+    ["N", "E", "S", "T", null, "E", "M", "Y", "D", null, "T", "E", "R", "R", "Y"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Disciple of Thespis",
+        "row": 0,
+        "col": 0,
+        "answer": "ACTOR"
+      },
+      {
+        "number": 6,
+        "clue": "Far's partner",
+        "row": 0,
+        "col": 6,
+        "answer": "WIDE"
+      },
+      {
+        "number": 10,
+        "clue": "Novelist Pierre",
+        "row": 0,
+        "col": 11,
+        "answer": "LOTI"
+      },
+      {
+        "number": 14,
+        "clue": "Moon goddess",
+        "row": 1,
+        "col": 0,
+        "answer": "DIANA"
+      },
+      {
+        "number": 15,
+        "clue": "Privy to",
+        "row": 1,
+        "col": 6,
+        "answer": "INON"
+      },
+      {
+        "number": 16,
+        "clue": "Golfer's 9 or 5",
+        "row": 1,
+        "col": 11,
+        "answer": "IRON"
+      },
+      {
+        "number": 17,
+        "clue": "Two-time loser to D.D.E.",
+        "row": 2,
+        "col": 0,
+        "answer": "ADLAIESTEVENSON"
+      },
+      {
+        "number": 20,
+        "clue": "Trotsky",
+        "row": 3,
+        "col": 0,
+        "answer": "LEON"
+      },
+      {
+        "number": 21,
+        "clue": "Golfing areas",
+        "row": 3,
+        "col": 5,
+        "answer": "TEES"
+      },
+      {
+        "number": 22,
+        "clue": "Adored ones",
+        "row": 3,
+        "col": 10,
+        "answer": "IDOLS"
+      },
+      {
+        "number": 23,
+        "clue": "Sea eagle",
+        "row": 4,
+        "col": 0,
+        "answer": "ERN"
+      },
+      {
+        "number": 24,
+        "clue": "R.I. rebel of 1842",
+        "row": 4,
+        "col": 4,
+        "answer": "DORR"
+      },
+      {
+        "number": 25,
+        "clue": "Soon",
+        "row": 4,
+        "col": 9,
+        "answer": "ANON"
+      },
+      {
+        "number": 26,
+        "clue": "\"Go and ___ no more\"",
+        "row": 5,
+        "col": 3,
+        "answer": "SIN"
+      },
+      {
+        "number": 27,
+        "clue": "Medit. feeder",
+        "row": 5,
+        "col": 7,
+        "answer": "NILE"
+      },
+      {
+        "number": 29,
+        "clue": "German city",
+        "row": 6,
+        "col": 0,
+        "answer": "ESSEN"
+      },
+      {
+        "number": 32,
+        "clue": "Dog-headed ape",
+        "row": 6,
+        "col": 6,
+        "answer": "AANI"
+      },
+      {
+        "number": 33,
+        "clue": "Theater org.",
+        "row": 6,
+        "col": 11,
+        "answer": "ANTA"
+      },
+      {
+        "number": 37,
+        "clue": "Famous document or frigate",
+        "row": 7,
+        "col": 0,
+        "answer": "THECONSTITUTION"
+      },
+      {
+        "number": 40,
+        "clue": "Sac",
+        "row": 8,
+        "col": 0,
+        "answer": "CYST"
+      },
+      {
+        "number": 41,
+        "clue": "Keep ___ (persevere)",
+        "row": 8,
+        "col": 5,
+        "answer": "ATIT"
+      },
+      {
+        "number": 42,
+        "clue": "Countryless man",
+        "row": 8,
+        "col": 10,
+        "answer": "NOLAN"
+      },
+      {
+        "number": 43,
+        "clue": "Scat!",
+        "row": 9,
+        "col": 4,
+        "answer": "SHOO"
+      },
+      {
+        "number": 44,
+        "clue": "Relatives",
+        "row": 9,
+        "col": 9,
+        "answer": "KIN"
+      },
+      {
+        "number": 45,
+        "clue": "\"___ silly question . . . \"",
+        "row": 10,
+        "col": 2,
+        "answer": "ASKA"
+      },
+      {
+        "number": 47,
+        "clue": "Certain G.I.'s",
+        "row": 10,
+        "col": 7,
+        "answer": "NCOS"
+      },
+      {
+        "number": 49,
+        "clue": "Comic-strip sound",
+        "row": 10,
+        "col": 12,
+        "answer": "POW"
+      },
+      {
+        "number": 52,
+        "clue": "Lawn-hose attachment",
+        "row": 11,
+        "col": 0,
+        "answer": "SPRAY"
+      },
+      {
+        "number": 54,
+        "clue": "British lockup",
+        "row": 11,
+        "col": 6,
+        "answer": "GAOL"
+      },
+      {
+        "number": 55,
+        "clue": "Seine feeder",
+        "row": 11,
+        "col": 11,
+        "answer": "OISE"
+      },
+      {
+        "number": 56,
+        "clue": "One-time loser to F.D.R.",
+        "row": 12,
+        "col": 0,
+        "answer": "WENDELLLWILLKIE"
+      },
+      {
+        "number": 59,
+        "clue": "Venezuelan town",
+        "row": 13,
+        "col": 0,
+        "answer": "AROA"
+      },
+      {
+        "number": 60,
+        "clue": "Seasonal log",
+        "row": 13,
+        "col": 5,
+        "answer": "YULE"
+      },
+      {
+        "number": 61,
+        "clue": "What Farragut ordered",
+        "row": 13,
+        "col": 10,
+        "answer": "SPEED"
+      },
+      {
+        "number": 62,
+        "clue": "Cozy place",
+        "row": 14,
+        "col": 0,
+        "answer": "NEST"
+      },
+      {
+        "number": 63,
+        "clue": "Tortoise family",
+        "row": 14,
+        "col": 5,
+        "answer": "EMYD"
+      },
+      {
+        "number": 64,
+        "clue": "Towel cloth",
+        "row": 14,
+        "col": 10,
+        "answer": "TERRY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Allan ___",
+        "row": 0,
+        "col": 0,
+        "answer": "ADALE"
+      },
+      {
+        "number": 2,
+        "clue": "Fall drink",
+        "row": 0,
+        "col": 1,
+        "answer": "CIDER"
+      },
+      {
+        "number": 3,
+        "clue": "Claw",
+        "row": 0,
+        "col": 2,
+        "answer": "TALON"
+      },
+      {
+        "number": 4,
+        "clue": "___ even keel",
+        "row": 0,
+        "col": 3,
+        "answer": "ONAN"
+      },
+      {
+        "number": 5,
+        "clue": "Siamese measure",
+        "row": 0,
+        "col": 4,
+        "answer": "RAI"
+      },
+      {
+        "number": 6,
+        "clue": "Partner of older",
+        "row": 0,
+        "col": 6,
+        "answer": "WISER"
+      },
+      {
+        "number": 7,
+        "clue": "Word with famous and known",
+        "row": 0,
+        "col": 7,
+        "answer": "INTERNATIONALLY"
+      },
+      {
+        "number": 8,
+        "clue": "Forest animals",
+        "row": 0,
+        "col": 8,
+        "answer": "DOES"
+      },
+      {
+        "number": 9,
+        "clue": "Stationery item: Abbr.",
+        "row": 0,
+        "col": 9,
+        "answer": "ENV"
+      },
+      {
+        "number": 10,
+        "clue": "\"Cielito ___\"",
+        "row": 0,
+        "col": 11,
+        "answer": "LINDO"
+      },
+      {
+        "number": 11,
+        "clue": "Bean or Welles",
+        "row": 0,
+        "col": 12,
+        "answer": "ORSON"
+      },
+      {
+        "number": 12,
+        "clue": "Adz or awl",
+        "row": 0,
+        "col": 13,
+        "answer": "TOOL"
+      },
+      {
+        "number": 13,
+        "clue": "Taverns",
+        "row": 0,
+        "col": 14,
+        "answer": "INNS"
+      },
+      {
+        "number": 18,
+        "clue": "Jacket",
+        "row": 2,
+        "col": 5,
+        "answer": "ETON"
+      },
+      {
+        "number": 19,
+        "clue": "German article",
+        "row": 2,
+        "col": 10,
+        "answer": "EINE"
+      },
+      {
+        "number": 24,
+        "clue": "Singer Martin, to friends",
+        "row": 4,
+        "col": 4,
+        "answer": "DINO"
+      },
+      {
+        "number": 25,
+        "clue": "Dismounted",
+        "row": 4,
+        "col": 9,
+        "answer": "ALIT"
+      },
+      {
+        "number": 26,
+        "clue": "Religious group",
+        "row": 5,
+        "col": 3,
+        "answer": "SECT"
+      },
+      {
+        "number": 28,
+        "clue": "\"We're ___ together\"",
+        "row": 5,
+        "col": 8,
+        "answer": "INIT"
+      },
+      {
+        "number": 29,
+        "clue": "Common abbr.",
+        "row": 6,
+        "col": 0,
+        "answer": "ETC"
+      },
+      {
+        "number": 30,
+        "clue": "Short of",
+        "row": 6,
+        "col": 1,
+        "answer": "SHY"
+      },
+      {
+        "number": 31,
+        "clue": "Its, in Paris",
+        "row": 6,
+        "col": 2,
+        "answer": "SES"
+      },
+      {
+        "number": 32,
+        "clue": "Regarding",
+        "row": 6,
+        "col": 6,
+        "answer": "ASTO"
+      },
+      {
+        "number": 33,
+        "clue": "Weigh ___",
+        "row": 6,
+        "col": 11,
+        "answer": "ATON"
+      },
+      {
+        "number": 34,
+        "clue": "Zilch",
+        "row": 6,
+        "col": 12,
+        "answer": "NIL"
+      },
+      {
+        "number": 35,
+        "clue": "Words after ode",
+        "row": 6,
+        "col": 13,
+        "answer": "TOA"
+      },
+      {
+        "number": 36,
+        "clue": "Miss Harding",
+        "row": 6,
+        "col": 14,
+        "answer": "ANN"
+      },
+      {
+        "number": 38,
+        "clue": "Port of Okinawa",
+        "row": 7,
+        "col": 5,
+        "answer": "NAHA"
+      },
+      {
+        "number": 39,
+        "clue": "Etats ___",
+        "row": 7,
+        "col": 10,
+        "answer": "UNIS"
+      },
+      {
+        "number": 43,
+        "clue": "Terrier",
+        "row": 9,
+        "col": 4,
+        "answer": "SKYE"
+      },
+      {
+        "number": 44,
+        "clue": "Caste of India",
+        "row": 9,
+        "col": 9,
+        "answer": "KOLI"
+      },
+      {
+        "number": 45,
+        "clue": "Peter et al.",
+        "row": 10,
+        "col": 2,
+        "answer": "ARNOS"
+      },
+      {
+        "number": 46,
+        "clue": "Cairo leader",
+        "row": 10,
+        "col": 3,
+        "answer": "SADAT"
+      },
+      {
+        "number": 48,
+        "clue": "Daunted",
+        "row": 10,
+        "col": 8,
+        "answer": "COWED"
+      },
+      {
+        "number": 49,
+        "clue": "Nickel-nurser",
+        "row": 10,
+        "col": 12,
+        "answer": "PIKER"
+      },
+      {
+        "number": 50,
+        "clue": "Willow",
+        "row": 10,
+        "col": 13,
+        "answer": "OSIER"
+      },
+      {
+        "number": 51,
+        "clue": "Like a neglected lawn",
+        "row": 10,
+        "col": 14,
+        "answer": "WEEDY"
+      },
+      {
+        "number": 52,
+        "clue": "Dive or song",
+        "row": 11,
+        "col": 0,
+        "answer": "SWAN"
+      },
+      {
+        "number": 53,
+        "clue": "___ Marquette",
+        "row": 11,
+        "col": 1,
+        "answer": "PERE"
+      },
+      {
+        "number": 54,
+        "clue": "Moody",
+        "row": 11,
+        "col": 6,
+        "answer": "GLUM"
+      },
+      {
+        "number": 55,
+        "clue": "Wine pitcher",
+        "row": 11,
+        "col": 11,
+        "answer": "OLPE"
+      },
+      {
+        "number": 57,
+        "clue": "Strong solution",
+        "row": 12,
+        "col": 5,
+        "answer": "LYE"
+      },
+      {
+        "number": 58,
+        "clue": "Craft of W.W. II",
+        "row": 12,
+        "col": 10,
+        "answer": "LST"
+      }
+    ]
+  }
+}

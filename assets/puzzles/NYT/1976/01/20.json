@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-01-20",
+  "metadata": {
+    "date": "1976-01-20",
+    "title": "NY TIMES, TUE, JAN 20, 1976",
+    "author": "Bert Beaman",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["L", "O", "S", "E", null, "S", "M", "A", "S", "H", null, "C", "H", "I", "P"],
+    ["A", "M", "A", "N", null, "P", "I", "G", "E", "O", "N", "H", "O", "L", "E"],
+    ["H", "O", "L", "D", "S", "O", "N", "E", "S", "C", "O", "U", "R", "S", "E"],
+    ["R", "O", "E", null, "E", "R", "I", "S", null, null, "I", "N", "N", "E", "R"],
+    [null, null, "S", "P", "E", "T", "S", null, "F", "O", "R", "K", null, null, null],
+    ["L", "A", "C", "I", "S", null, "T", "H", "O", "S", "E", null, "C", "H", "I"],
+    ["I", "S", "L", "E", "T", null, "E", "A", "R", "L", null, "S", "H", "E", "D"],
+    ["T", "H", "E", "C", "O", "U", "R", "S", "E", "O", "F", "T", "I", "M", "E"],
+    ["H", "E", "R", "E", null, "S", "S", "T", "S", null, "L", "A", "N", "E", "S"],
+    ["E", "S", "K", null, "G", "E", "T", "A", "T", null, "U", "L", "E", "N", "T"],
+    [null, null, null, "P", "E", "D", "O", null, "F", "L", "O", "E", "S", null, null],
+    ["I", "B", "S", "E", "N", null, null, "L", "I", "A", "R", null, "E", "A", "T"],
+    ["T", "A", "K", "E", "T", "H", "E", "I", "R", "C", "O", "U", "R", "S", "E"],
+    ["T", "R", "A", "N", "S", "F", "E", "R", "E", "E", null, "N", "E", "E", "R"],
+    ["O", "A", "T", "S", null, "C", "L", "A", "S", "S", null, "E", "D", "A", "M"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "___ ground (regress)",
+        "row": 0,
+        "col": 0,
+        "answer": "LOSE"
+      },
+      {
+        "number": 5,
+        "clue": "Big success",
+        "row": 0,
+        "col": 5,
+        "answer": "SMASH"
+      },
+      {
+        "number": 10,
+        "clue": "Blue or poker",
+        "row": 0,
+        "col": 11,
+        "answer": "CHIP"
+      },
+      {
+        "number": 14,
+        "clue": "To ___",
+        "row": 1,
+        "col": 0,
+        "answer": "AMAN"
+      },
+      {
+        "number": 15,
+        "clue": "Put aside",
+        "row": 1,
+        "col": 5,
+        "answer": "PIGEONHOLE"
+      },
+      {
+        "number": 17,
+        "clue": "Proceeds steadily",
+        "row": 2,
+        "col": 0,
+        "answer": "HOLDSONESCOURSE"
+      },
+      {
+        "number": 19,
+        "clue": "Seafood delicacy",
+        "row": 3,
+        "col": 0,
+        "answer": "ROE"
+      },
+      {
+        "number": 20,
+        "clue": "Greek goddess",
+        "row": 3,
+        "col": 4,
+        "answer": "ERIS"
+      },
+      {
+        "number": 21,
+        "clue": "Kind of tube",
+        "row": 3,
+        "col": 10,
+        "answer": "INNER"
+      },
+      {
+        "number": 22,
+        "clue": "Barracudas",
+        "row": 4,
+        "col": 2,
+        "answer": "SPETS"
+      },
+      {
+        "number": 24,
+        "clue": "___ out (spend)",
+        "row": 4,
+        "col": 8,
+        "answer": "FORK"
+      },
+      {
+        "number": 26,
+        "clue": "Network",
+        "row": 5,
+        "col": 0,
+        "answer": "LACIS"
+      },
+      {
+        "number": 28,
+        "clue": "\"___ were the days\"",
+        "row": 5,
+        "col": 6,
+        "answer": "THOSE"
+      },
+      {
+        "number": 30,
+        "clue": "Greek letter",
+        "row": 5,
+        "col": 12,
+        "answer": "CHI"
+      },
+      {
+        "number": 33,
+        "clue": "Key",
+        "row": 6,
+        "col": 0,
+        "answer": "ISLET"
+      },
+      {
+        "number": 34,
+        "clue": "Fatha Hines",
+        "row": 6,
+        "col": 6,
+        "answer": "EARL"
+      },
+      {
+        "number": 35,
+        "clue": "Hangar",
+        "row": 6,
+        "col": 11,
+        "answer": "SHED"
+      },
+      {
+        "number": 36,
+        "clue": "In ___ (eventually)",
+        "row": 7,
+        "col": 0,
+        "answer": "THECOURSEOFTIME"
+      },
+      {
+        "number": 39,
+        "clue": "Present",
+        "row": 8,
+        "col": 0,
+        "answer": "HERE"
+      },
+      {
+        "number": 40,
+        "clue": "Jets",
+        "row": 8,
+        "col": 5,
+        "answer": "SSTS"
+      },
+      {
+        "number": 41,
+        "clue": "Where strikes are appreciated",
+        "row": 8,
+        "col": 10,
+        "answer": "LANES"
+      },
+      {
+        "number": 42,
+        "clue": "Arctic native: Abbr.",
+        "row": 9,
+        "col": 0,
+        "answer": "ESK"
+      },
+      {
+        "number": 43,
+        "clue": "Influence",
+        "row": 9,
+        "col": 4,
+        "answer": "GETAT"
+      },
+      {
+        "number": 44,
+        "clue": "Abounding in: Suffix",
+        "row": 9,
+        "col": 10,
+        "answer": "ULENT"
+      },
+      {
+        "number": 45,
+        "clue": "Foot: Prefix",
+        "row": 10,
+        "col": 3,
+        "answer": "PEDO"
+      },
+      {
+        "number": 46,
+        "clue": "Arctic sights",
+        "row": 10,
+        "col": 8,
+        "answer": "FLOES"
+      },
+      {
+        "number": 48,
+        "clue": "Nora's creator",
+        "row": 11,
+        "col": 0,
+        "answer": "IBSEN"
+      },
+      {
+        "number": 51,
+        "clue": "Tale-teller",
+        "row": 11,
+        "col": 7,
+        "answer": "LIAR"
+      },
+      {
+        "number": 52,
+        "clue": "___ up (delight in)",
+        "row": 11,
+        "col": 12,
+        "answer": "EAT"
+      },
+      {
+        "number": 55,
+        "clue": "Let things ___ (leave alone)",
+        "row": 12,
+        "col": 0,
+        "answer": "TAKETHEIRCOURSE"
+      },
+      {
+        "number": 59,
+        "clue": "One shifted to a new post",
+        "row": 13,
+        "col": 0,
+        "answer": "TRANSFEREE"
+      },
+      {
+        "number": 60,
+        "clue": "___-do-well",
+        "row": 13,
+        "col": 11,
+        "answer": "NEER"
+      },
+      {
+        "number": 61,
+        "clue": "Stable-owner's purchase",
+        "row": 14,
+        "col": 0,
+        "answer": "OATS"
+      },
+      {
+        "number": 62,
+        "clue": "Kind of conscious",
+        "row": 14,
+        "col": 5,
+        "answer": "CLASS"
+      },
+      {
+        "number": 63,
+        "clue": "Cheese",
+        "row": 14,
+        "col": 11,
+        "answer": "EDAM"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Memorable comic",
+        "row": 0,
+        "col": 0,
+        "answer": "LAHR"
+      },
+      {
+        "number": 2,
+        "clue": "Melville creation",
+        "row": 0,
+        "col": 1,
+        "answer": "OMOO"
+      },
+      {
+        "number": 3,
+        "clue": "Store employee",
+        "row": 0,
+        "col": 2,
+        "answer": "SALESCLERK"
+      },
+      {
+        "number": 4,
+        "clue": "Result",
+        "row": 0,
+        "col": 3,
+        "answer": "END"
+      },
+      {
+        "number": 5,
+        "clue": "Kind of shirt",
+        "row": 0,
+        "col": 5,
+        "answer": "SPORT"
+      },
+      {
+        "number": 6,
+        "clue": "Cares for",
+        "row": 0,
+        "col": 6,
+        "answer": "MINISTERSTO"
+      },
+      {
+        "number": 7,
+        "clue": "Stone et al.",
+        "row": 0,
+        "col": 7,
+        "answer": "AGES"
+      },
+      {
+        "number": 8,
+        "clue": "His, in Le Mans",
+        "row": 0,
+        "col": 8,
+        "answer": "SES"
+      },
+      {
+        "number": 9,
+        "clue": "Ad ___",
+        "row": 0,
+        "col": 9,
+        "answer": "HOC"
+      },
+      {
+        "number": 10,
+        "clue": "Piece",
+        "row": 0,
+        "col": 11,
+        "answer": "CHUNK"
+      },
+      {
+        "number": 11,
+        "clue": "___ in (interfere)",
+        "row": 0,
+        "col": 12,
+        "answer": "HORN"
+      },
+      {
+        "number": 12,
+        "clue": "Girl's name in Bonn",
+        "row": 0,
+        "col": 13,
+        "answer": "ILSE"
+      },
+      {
+        "number": 13,
+        "clue": "Titled one",
+        "row": 0,
+        "col": 14,
+        "answer": "PEER"
+      },
+      {
+        "number": 16,
+        "clue": "Black, in France",
+        "row": 1,
+        "col": 10,
+        "answer": "NOIRE"
+      },
+      {
+        "number": 18,
+        "clue": "Looks after",
+        "row": 2,
+        "col": 4,
+        "answer": "SEESTO"
+      },
+      {
+        "number": 23,
+        "clue": "Word with work or meal",
+        "row": 4,
+        "col": 3,
+        "answer": "PIECE"
+      },
+      {
+        "number": 24,
+        "clue": "Rangers' concerns",
+        "row": 4,
+        "col": 8,
+        "answer": "FORESTFIRES"
+      },
+      {
+        "number": 25,
+        "clue": "European capital",
+        "row": 4,
+        "col": 9,
+        "answer": "OSLO"
+      },
+      {
+        "number": 26,
+        "clue": "Supple",
+        "row": 5,
+        "col": 0,
+        "answer": "LITHE"
+      },
+      {
+        "number": 27,
+        "clue": "Residue",
+        "row": 5,
+        "col": 1,
+        "answer": "ASHES"
+      },
+      {
+        "number": 29,
+        "clue": "___ luego (good-by)",
+        "row": 5,
+        "col": 7,
+        "answer": "HASTA"
+      },
+      {
+        "number": 30,
+        "clue": "Color",
+        "row": 5,
+        "col": 12,
+        "answer": "CHINESERED"
+      },
+      {
+        "number": 31,
+        "clue": "Virile ones",
+        "row": 5,
+        "col": 13,
+        "answer": "HEMEN"
+      },
+      {
+        "number": 32,
+        "clue": "Common Latin phrase",
+        "row": 5,
+        "col": 14,
+        "answer": "IDEST"
+      },
+      {
+        "number": 35,
+        "clue": "Like some jokes",
+        "row": 6,
+        "col": 11,
+        "answer": "STALE"
+      },
+      {
+        "number": 37,
+        "clue": "Put into practice",
+        "row": 7,
+        "col": 5,
+        "answer": "USED"
+      },
+      {
+        "number": 38,
+        "clue": "Chemical prefix",
+        "row": 7,
+        "col": 10,
+        "answer": "FLUORO"
+      },
+      {
+        "number": 43,
+        "clue": "Chaps",
+        "row": 9,
+        "col": 4,
+        "answer": "GENTS"
+      },
+      {
+        "number": 45,
+        "clue": "Hammer parts",
+        "row": 10,
+        "col": 3,
+        "answer": "PEENS"
+      },
+      {
+        "number": 47,
+        "clue": "Spikes the punch",
+        "row": 10,
+        "col": 9,
+        "answer": "LACES"
+      },
+      {
+        "number": 48,
+        "clue": "\"Tell ___ the Marines\"",
+        "row": 11,
+        "col": 0,
+        "answer": "ITTO"
+      },
+      {
+        "number": 49,
+        "clue": "Theda",
+        "row": 11,
+        "col": 1,
+        "answer": "BARA"
+      },
+      {
+        "number": 50,
+        "clue": "Card game",
+        "row": 11,
+        "col": 2,
+        "answer": "SKAT"
+      },
+      {
+        "number": 51,
+        "clue": "European money",
+        "row": 11,
+        "col": 7,
+        "answer": "LIRA"
+      },
+      {
+        "number": 53,
+        "clue": "Bewildered",
+        "row": 11,
+        "col": 13,
+        "answer": "ASEA"
+      },
+      {
+        "number": 54,
+        "clue": "Duration",
+        "row": 11,
+        "col": 14,
+        "answer": "TERM"
+      },
+      {
+        "number": 56,
+        "clue": "Electrical abbr.",
+        "row": 12,
+        "col": 5,
+        "answer": "HFC"
+      },
+      {
+        "number": 57,
+        "clue": "Slippery one",
+        "row": 12,
+        "col": 6,
+        "answer": "EEL"
+      },
+      {
+        "number": 58,
+        "clue": "French article",
+        "row": 12,
+        "col": 11,
+        "answer": "UNE"
+      }
+    ]
+  }
+}

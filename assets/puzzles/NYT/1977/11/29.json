@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-11-29",
+  "metadata": {
+    "date": "1977-11-29",
+    "title": "NY TIMES, TUE, NOV 29, 1977",
+    "author": "Jordan S. Lasher",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["R", "E", "A", "L", "I", "S", "T", null, "D", "E", "A", "R", "E", "S", "T"],
+    ["E", "X", "C", "U", "S", "E", "R", null, "E", "X", "P", "A", "R", "T", "E"],
+    ["D", "O", "C", "T", "O", "R", "O", "F", "L", "E", "T", "T", "E", "R", "S"],
+    ["S", "T", "E", "E", "L", null, "L", "I", "L", "T", null, "E", "M", "I", "T"],
+    ["K", "I", "D", null, "D", "I", "L", "L", null, "E", "N", "D", "I", "V", "E"],
+    ["I", "C", "E", "M", "E", "N", null, "E", "U", "R", "E", null, "T", "E", "R"],
+    ["N", "A", "S", "A", null, "C", "O", "S", "T", null, "A", "M", "E", "N", "S"],
+    [null, null, null, "S", "W", "A", "P", null, "A", "S", "T", "O", null, null, null],
+    ["D", "E", "P", "T", "H", null, "E", "C", "H", "O", null, "O", "M", "A", "R"],
+    ["I", "M", "A", null, "I", "N", "C", "H", null, "A", "S", "T", "E", "R", "O"],
+    ["P", "I", "L", "A", "T", "E", null, "O", "K", "R", "A", null, "R", "A", "S"],
+    ["O", "N", "E", "S", null, "A", "U", "R", "A", null, "B", "R", "I", "B", "E"],
+    ["L", "E", "T", "T", "E", "R", "S", "O", "F", "C", "R", "E", "D", "I", "T"],
+    ["E", "N", "T", "E", "N", "T", "E", null, "K", "E", "E", "N", "E", "S", "T"],
+    ["S", "T", "E", "R", "E", "O", "S", null, "A", "N", "D", "A", "N", "T", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Down-to-earth one",
+        "row": 0,
+        "col": 0,
+        "answer": "REALIST"
+      },
+      {
+        "number": 8,
+        "clue": "Word in a letter",
+        "row": 0,
+        "col": 8,
+        "answer": "DEAREST"
+      },
+      {
+        "number": 15,
+        "clue": "Permissive one",
+        "row": 1,
+        "col": 0,
+        "answer": "EXCUSER"
+      },
+      {
+        "number": 16,
+        "clue": "One-sided",
+        "row": 1,
+        "col": 8,
+        "answer": "EXPARTE"
+      },
+      {
+        "number": 17,
+        "clue": "Correspondence specialist?",
+        "row": 2,
+        "col": 0,
+        "answer": "DOCTOROFLETTERS"
+      },
+      {
+        "number": 19,
+        "clue": "Iron-carbon alloy",
+        "row": 3,
+        "col": 0,
+        "answer": "STEEL"
+      },
+      {
+        "number": 20,
+        "clue": "Air",
+        "row": 3,
+        "col": 6,
+        "answer": "LILT"
+      },
+      {
+        "number": 21,
+        "clue": "Discharge",
+        "row": 3,
+        "col": 11,
+        "answer": "EMIT"
+      },
+      {
+        "number": 22,
+        "clue": "Josh",
+        "row": 4,
+        "col": 0,
+        "answer": "KID"
+      },
+      {
+        "number": 23,
+        "clue": "Gherkin's relative",
+        "row": 4,
+        "col": 4,
+        "answer": "DILL"
+      },
+      {
+        "number": 25,
+        "clue": "Salad herb",
+        "row": 4,
+        "col": 9,
+        "answer": "ENDIVE"
+      },
+      {
+        "number": 27,
+        "clue": "They cameth and wenteth",
+        "row": 5,
+        "col": 0,
+        "answer": "ICEMEN"
+      },
+      {
+        "number": 29,
+        "clue": "River to the Seine",
+        "row": 5,
+        "col": 7,
+        "answer": "EURE"
+      },
+      {
+        "number": 31,
+        "clue": "Thrice: Prefix",
+        "row": 5,
+        "col": 12,
+        "answer": "TER"
+      },
+      {
+        "number": 32,
+        "clue": "Man-on-the-moon agcy.",
+        "row": 6,
+        "col": 0,
+        "answer": "NASA"
+      },
+      {
+        "number": 33,
+        "clue": "Expense",
+        "row": 6,
+        "col": 5,
+        "answer": "COST"
+      },
+      {
+        "number": 35,
+        "clue": "Prayer closings",
+        "row": 6,
+        "col": 10,
+        "answer": "AMENS"
+      },
+      {
+        "number": 37,
+        "clue": "Trade",
+        "row": 7,
+        "col": 3,
+        "answer": "SWAP"
+      },
+      {
+        "number": 39,
+        "clue": "Concerning",
+        "row": 7,
+        "col": 8,
+        "answer": "ASTO"
+      },
+      {
+        "number": 41,
+        "clue": "Profundity",
+        "row": 8,
+        "col": 0,
+        "answer": "DEPTH"
+      },
+      {
+        "number": 44,
+        "clue": "Parrot",
+        "row": 8,
+        "col": 6,
+        "answer": "ECHO"
+      },
+      {
+        "number": 46,
+        "clue": "Khayy\u00e1m",
+        "row": 8,
+        "col": 11,
+        "answer": "OMAR"
+      },
+      {
+        "number": 50,
+        "clue": "Hogg or Dodo",
+        "row": 9,
+        "col": 0,
+        "answer": "IMA"
+      },
+      {
+        "number": 51,
+        "clue": "2.54 centimeters",
+        "row": 9,
+        "col": 4,
+        "answer": "INCH"
+      },
+      {
+        "number": 53,
+        "clue": "Star: Comb. form",
+        "row": 9,
+        "col": 9,
+        "answer": "ASTERO"
+      },
+      {
+        "number": 55,
+        "clue": "He said: \"What is truth?\"",
+        "row": 10,
+        "col": 0,
+        "answer": "PILATE"
+      },
+      {
+        "number": 57,
+        "clue": "Soup green",
+        "row": 10,
+        "col": 7,
+        "answer": "OKRA"
+      },
+      {
+        "number": 59,
+        "clue": "Ethiopian prince",
+        "row": 10,
+        "col": 12,
+        "answer": "RAS"
+      },
+      {
+        "number": 60,
+        "clue": "Digits in eleven",
+        "row": 11,
+        "col": 0,
+        "answer": "ONES"
+      },
+      {
+        "number": 61,
+        "clue": "Subtly pervasive quality",
+        "row": 11,
+        "col": 5,
+        "answer": "AURA"
+      },
+      {
+        "number": 63,
+        "clue": "Sop",
+        "row": 11,
+        "col": 10,
+        "answer": "BRIBE"
+      },
+      {
+        "number": 65,
+        "clue": "C, D, E, I, R, T",
+        "row": 12,
+        "col": 0,
+        "answer": "LETTERSOFCREDIT"
+      },
+      {
+        "number": 68,
+        "clue": "Cold-war palliative",
+        "row": 13,
+        "col": 0,
+        "answer": "ENTENTE"
+      },
+      {
+        "number": 69,
+        "clue": "Most insightful",
+        "row": 13,
+        "col": 8,
+        "answer": "KEENEST"
+      },
+      {
+        "number": 70,
+        "clue": "Music buffs' equipment",
+        "row": 14,
+        "col": 0,
+        "answer": "STEREOS"
+      },
+      {
+        "number": 71,
+        "clue": "Musical movement",
+        "row": 14,
+        "col": 8,
+        "answer": "ANDANTE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "R.F.K. Stadium player",
+        "row": 0,
+        "col": 0,
+        "answer": "REDSKIN"
+      },
+      {
+        "number": 2,
+        "clue": "Collection of strange plants",
+        "row": 0,
+        "col": 1,
+        "answer": "EXOTICA"
+      },
+      {
+        "number": 3,
+        "clue": "Gives approval",
+        "row": 0,
+        "col": 2,
+        "answer": "ACCEDES"
+      },
+      {
+        "number": 4,
+        "clue": "Guitar's predecessor",
+        "row": 0,
+        "col": 3,
+        "answer": "LUTE"
+      },
+      {
+        "number": 5,
+        "clue": "Wagner's \"Tristan und ___\"",
+        "row": 0,
+        "col": 4,
+        "answer": "ISOLDE"
+      },
+      {
+        "number": 6,
+        "clue": "To be: Sp.",
+        "row": 0,
+        "col": 5,
+        "answer": "SER"
+      },
+      {
+        "number": 7,
+        "clue": "Dwarf of folklore",
+        "row": 0,
+        "col": 6,
+        "answer": "TROLL"
+      },
+      {
+        "number": 8,
+        "clue": "Farmer's milieu",
+        "row": 0,
+        "col": 8,
+        "answer": "DELL"
+      },
+      {
+        "number": 9,
+        "clue": "Early N.H. capital",
+        "row": 0,
+        "col": 9,
+        "answer": "EXETER"
+      },
+      {
+        "number": 10,
+        "clue": "Likely",
+        "row": 0,
+        "col": 10,
+        "answer": "APT"
+      },
+      {
+        "number": 11,
+        "clue": "X-___",
+        "row": 0,
+        "col": 11,
+        "answer": "RATED"
+      },
+      {
+        "number": 12,
+        "clue": "Recluse",
+        "row": 0,
+        "col": 12,
+        "answer": "EREMITE"
+      },
+      {
+        "number": 13,
+        "clue": "Anagram for inverts",
+        "row": 0,
+        "col": 13,
+        "answer": "STRIVEN"
+      },
+      {
+        "number": 14,
+        "clue": "Laboratory people",
+        "row": 0,
+        "col": 14,
+        "answer": "TESTERS"
+      },
+      {
+        "number": 18,
+        "clue": "Office accumulation",
+        "row": 2,
+        "col": 7,
+        "answer": "FILES"
+      },
+      {
+        "number": 24,
+        "clue": "Atahualpa was one",
+        "row": 4,
+        "col": 5,
+        "answer": "INCA"
+      },
+      {
+        "number": 26,
+        "clue": "Shipshape",
+        "row": 4,
+        "col": 10,
+        "answer": "NEAT"
+      },
+      {
+        "number": 28,
+        "clue": "Acorns on a forest floor",
+        "row": 5,
+        "col": 3,
+        "answer": "MAST"
+      },
+      {
+        "number": 30,
+        "clue": "Beehive State",
+        "row": 5,
+        "col": 8,
+        "answer": "UTAH"
+      },
+      {
+        "number": 34,
+        "clue": "Acronym for an oil-rich group",
+        "row": 6,
+        "col": 6,
+        "answer": "OPEC"
+      },
+      {
+        "number": 36,
+        "clue": "Debatable",
+        "row": 6,
+        "col": 11,
+        "answer": "MOOT"
+      },
+      {
+        "number": 38,
+        "clue": "Iota",
+        "row": 7,
+        "col": 4,
+        "answer": "WHIT"
+      },
+      {
+        "number": 40,
+        "clue": "Go gliding",
+        "row": 7,
+        "col": 9,
+        "answer": "SOAR"
+      },
+      {
+        "number": 41,
+        "clue": "TV antennas with pairs of equal rods",
+        "row": 8,
+        "col": 0,
+        "answer": "DIPOLES"
+      },
+      {
+        "number": 42,
+        "clue": "Renowned",
+        "row": 8,
+        "col": 1,
+        "answer": "EMINENT"
+      },
+      {
+        "number": 43,
+        "clue": "Board for Breughel",
+        "row": 8,
+        "col": 2,
+        "answer": "PALETTE"
+      },
+      {
+        "number": 45,
+        "clue": "Brazilian band",
+        "row": 8,
+        "col": 7,
+        "answer": "CHORO"
+      },
+      {
+        "number": 47,
+        "clue": "Silverware center near New Haven",
+        "row": 8,
+        "col": 12,
+        "answer": "MERIDEN"
+      },
+      {
+        "number": 48,
+        "clue": "Certain Mideast scholar",
+        "row": 8,
+        "col": 13,
+        "answer": "ARABIST"
+      },
+      {
+        "number": 49,
+        "clue": "Ornamental badge",
+        "row": 8,
+        "col": 14,
+        "answer": "ROSETTE"
+      },
+      {
+        "number": 52,
+        "clue": "\" . . . so very ___ God\": Paget",
+        "row": 9,
+        "col": 5,
+        "answer": "NEARTO"
+      },
+      {
+        "number": 54,
+        "clue": "Wielded a sword",
+        "row": 9,
+        "col": 10,
+        "answer": "SABRED"
+      },
+      {
+        "number": 56,
+        "clue": "Autumn bloomer",
+        "row": 10,
+        "col": 3,
+        "answer": "ASTER"
+      },
+      {
+        "number": 58,
+        "clue": "\"The Trial\" author",
+        "row": 10,
+        "col": 8,
+        "answer": "KAFKA"
+      },
+      {
+        "number": 62,
+        "clue": "Purposes",
+        "row": 11,
+        "col": 6,
+        "answer": "USES"
+      },
+      {
+        "number": 64,
+        "clue": "Sand, in Sicilia",
+        "row": 11,
+        "col": 11,
+        "answer": "RENA"
+      },
+      {
+        "number": 66,
+        "clue": "Dir. of Rennes from Paris",
+        "row": 12,
+        "col": 4,
+        "answer": "ENE"
+      },
+      {
+        "number": 67,
+        "clue": "Time period: Abbr.",
+        "row": 12,
+        "col": 9,
+        "answer": "CEN"
+      }
+    ]
+  }
+}

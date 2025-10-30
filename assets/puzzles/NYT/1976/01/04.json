@@ -1,0 +1,997 @@
+{
+  "id": "nyt-1976-01-04",
+  "metadata": {
+    "date": "1976-01-04",
+    "title": "AFTER 200 YEARS",
+    "author": "Stanley Glass",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 21,
+    "rows": 21
+  },
+  "grid": [
+    ["O", "P", "A", null, null, null, "E", "R", "S", "A", "T", "Z", null, "T", "S", "A", "R", null, "S", "E", "T"],
+    ["D", "A", "S", null, null, "B", "R", "E", "A", "T", "H", "E", null, "R", "A", "V", "E", null, "A", "P", "E"],
+    ["E", "S", "S", null, "D", "E", "R", "A", "I", "L", "E", "D", null, "E", "T", "O", "N", null, "R", "I", "D"],
+    ["S", "T", "E", "P", "I", "N", null, "S", "L", "A", "B", null, null, "N", "E", "W", "D", "E", "A", "L", null],
+    ["S", "O", "R", "R", "E", "N", "T", "O", null, "S", "A", "M", "I", "T", "E", null, null, "A", "T", "O", "M"],
+    ["A", "R", "T", "E", "S", "I", "A", "N", null, null, "T", "I", "C", "O", "N", "D", "E", "R", "O", "G", "A"],
+    [null, null, null, "S", "E", "N", "T", null, "C", "O", "T", "T", "O", "N", null, "O", "N", "E", "G", "U", "N"],
+    ["P", "A", "P", "S", null, "G", "E", "F", "A", "L", "L", "E", "N", null, "S", "U", "N", "D", "A", "E", "S"],
+    ["O", "C", "T", null, "S", "T", "R", "A", "N", "D", "E", "R", null, "H", "O", "R", "A", null, null, null, null],
+    ["S", "T", "E", "R", "E", "O", null, "C", "A", "T", "O", null, "R", "A", "W", null, null, "A", "B", "B", "E"],
+    ["S", "U", "R", "R", "E", "N", "D", "E", "R", "O", "F", "C", "O", "R", "N", "W", "A", "L", "L", "I", "S"],
+    ["E", "P", "O", "S", null, null, "E", "R", "Y", null, "B", "O", "U", "E", null, "A", "R", "D", "E", "N", "T"],
+    [null, null, null, null, "S", "P", "A", "S", null, "S", "U", "N", "G", "M", "A", "S", "S", null, "A", "G", "O"],
+    ["L", "E", "O", "P", "A", "R", "D", null, "W", "I", "N", "D", "I", "S", "C", "H", null, "A", "T", "O", "P"],
+    ["A", "V", "I", "A", "T", "E", null, "C", "A", "N", "K", "E", "R", null, "T", "I", "A", "S", null, null, null],
+    ["V", "A", "L", "L", "E", "Y", "F", "O", "R", "G", "E", null, null, "M", "O", "N", "M", "O", "U", "T", "H"],
+    ["A", "N", "T", "E", null, null, "I", "N", "T", "E", "R", "N", null, "A", "R", "G", "E", "N", "T", "I", "A"],
+    [null, "S", "A", "R", "A", "N", "A", "C", null, null, "H", "A", "R", "D", null, "T", "E", "E", "T", "E", "R"],
+    ["C", "T", "N", null, "L", "O", "C", "O", null, "C", "I", "T", "E", "D", "F", "O", "R", null, "E", "R", "A"],
+    ["R", "O", "K", null, "T", "E", "R", "R", null, "P", "L", "A", "T", "O", "O", "N", null, null, "R", "C", "S"],
+    ["I", "N", "S", null, "S", "L", "E", "D", null, "A", "L", "L", "E", "G", "E", null, null, null, "S", "E", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "W. W. II org.",
+        "row": 0,
+        "col": 0,
+        "answer": "OPA"
+      },
+      {
+        "number": 4,
+        "clue": "Synthetic",
+        "row": 0,
+        "col": 6,
+        "answer": "ERSATZ"
+      },
+      {
+        "number": 10,
+        "clue": "Nicholas, e.g.",
+        "row": 0,
+        "col": 13,
+        "answer": "TSAR"
+      },
+      {
+        "number": 14,
+        "clue": "Bridge mishap",
+        "row": 0,
+        "col": 18,
+        "answer": "SET"
+      },
+      {
+        "number": 17,
+        "clue": "\"___ Kapital\"",
+        "row": 1,
+        "col": 0,
+        "answer": "DAS"
+      },
+      {
+        "number": 18,
+        "clue": "Fresh-air fiend's advice",
+        "row": 1,
+        "col": 5,
+        "answer": "BREATHE"
+      },
+      {
+        "number": 19,
+        "clue": "Go on about",
+        "row": 1,
+        "col": 13,
+        "answer": "RAVE"
+      },
+      {
+        "number": 20,
+        "clue": "Imitate",
+        "row": 1,
+        "col": 18,
+        "answer": "APE"
+      },
+      {
+        "number": 21,
+        "clue": "Feminine suffix",
+        "row": 2,
+        "col": 0,
+        "answer": "ESS"
+      },
+      {
+        "number": 22,
+        "clue": "Threw off course",
+        "row": 2,
+        "col": 4,
+        "answer": "DERAILED"
+      },
+      {
+        "number": 23,
+        "clue": "Thames landmark",
+        "row": 2,
+        "col": 13,
+        "answer": "ETON"
+      },
+      {
+        "number": 24,
+        "clue": "Disencumber",
+        "row": 2,
+        "col": 18,
+        "answer": "RID"
+      },
+      {
+        "number": 25,
+        "clue": "Become involved",
+        "row": 3,
+        "col": 0,
+        "answer": "STEPIN"
+      },
+      {
+        "number": 27,
+        "clue": "Concrete strip",
+        "row": 3,
+        "col": 7,
+        "answer": "SLAB"
+      },
+      {
+        "number": 28,
+        "clue": "F.D.R. program",
+        "row": 3,
+        "col": 13,
+        "answer": "NEWDEAL"
+      },
+      {
+        "number": 30,
+        "clue": "Neighbor of Naples",
+        "row": 4,
+        "col": 0,
+        "answer": "SORRENTO"
+      },
+      {
+        "number": 32,
+        "clue": "Rich fabric",
+        "row": 4,
+        "col": 9,
+        "answer": "SAMITE"
+      },
+      {
+        "number": 35,
+        "clue": "Particle",
+        "row": 4,
+        "col": 17,
+        "answer": "ATOM"
+      },
+      {
+        "number": 37,
+        "clue": "Type of well",
+        "row": 5,
+        "col": 0,
+        "answer": "ARTESIAN"
+      },
+      {
+        "number": 38,
+        "clue": "Ethan Allen's conquest",
+        "row": 5,
+        "col": 10,
+        "answer": "TICONDEROGA"
+      },
+      {
+        "number": 41,
+        "clue": "Dispatched",
+        "row": 6,
+        "col": 3,
+        "answer": "SENT"
+      },
+      {
+        "number": 42,
+        "clue": "King of the old South",
+        "row": 6,
+        "col": 8,
+        "answer": "COTTON"
+      },
+      {
+        "number": 44,
+        "clue": "Piddling salute",
+        "row": 6,
+        "col": 15,
+        "answer": "ONEGUN"
+      },
+      {
+        "number": 45,
+        "clue": "Soft foods",
+        "row": 7,
+        "col": 0,
+        "answer": "PAPS"
+      },
+      {
+        "number": 48,
+        "clue": "Please, in Bonn",
+        "row": 7,
+        "col": 5,
+        "answer": "GEFALLEN"
+      },
+      {
+        "number": 50,
+        "clue": "Fountain specialties",
+        "row": 7,
+        "col": 14,
+        "answer": "SUNDAES"
+      },
+      {
+        "number": 51,
+        "clue": "Month: Abbr.",
+        "row": 8,
+        "col": 0,
+        "answer": "OCT"
+      },
+      {
+        "number": 52,
+        "clue": "Cable-making machine",
+        "row": 8,
+        "col": 4,
+        "answer": "STRANDER"
+      },
+      {
+        "number": 53,
+        "clue": "Lively dance",
+        "row": 8,
+        "col": 13,
+        "answer": "HORA"
+      },
+      {
+        "number": 54,
+        "clue": "Recording system",
+        "row": 9,
+        "col": 0,
+        "answer": "STEREO"
+      },
+      {
+        "number": 56,
+        "clue": "Roman statesman",
+        "row": 9,
+        "col": 7,
+        "answer": "CATO"
+      },
+      {
+        "number": 57,
+        "clue": "Undeveloped",
+        "row": 9,
+        "col": 12,
+        "answer": "RAW"
+      },
+      {
+        "number": 58,
+        "clue": "French cleric",
+        "row": 9,
+        "col": 17,
+        "answer": "ABBE"
+      },
+      {
+        "number": 62,
+        "clue": "Final confrontation",
+        "row": 10,
+        "col": 0,
+        "answer": "SURRENDEROFCORNWALLIS"
+      },
+      {
+        "number": 67,
+        "clue": "Major poem",
+        "row": 11,
+        "col": 0,
+        "answer": "EPOS"
+      },
+      {
+        "number": 68,
+        "clue": "Noun suffix",
+        "row": 11,
+        "col": 6,
+        "answer": "ERY"
+      },
+      {
+        "number": 69,
+        "clue": "Mud, in France",
+        "row": 11,
+        "col": 10,
+        "answer": "BOUE"
+      },
+      {
+        "number": 70,
+        "clue": "Zealous",
+        "row": 11,
+        "col": 15,
+        "answer": "ARDENT"
+      },
+      {
+        "number": 71,
+        "clue": "Resorts",
+        "row": 12,
+        "col": 4,
+        "answer": "SPAS"
+      },
+      {
+        "number": 73,
+        "clue": "Church musical rite",
+        "row": 12,
+        "col": 9,
+        "answer": "SUNGMASS"
+      },
+      {
+        "number": 75,
+        "clue": "Long ___",
+        "row": 12,
+        "col": 18,
+        "answer": "AGO"
+      },
+      {
+        "number": 76,
+        "clue": "Spotted cat",
+        "row": 13,
+        "col": 0,
+        "answer": "LEOPARD"
+      },
+      {
+        "number": 80,
+        "clue": "Swiss town",
+        "row": 13,
+        "col": 8,
+        "answer": "WINDISCH"
+      },
+      {
+        "number": 81,
+        "clue": "At the peak",
+        "row": 13,
+        "col": 17,
+        "answer": "ATOP"
+      },
+      {
+        "number": 82,
+        "clue": "Fly",
+        "row": 14,
+        "col": 0,
+        "answer": "AVIATE"
+      },
+      {
+        "number": 83,
+        "clue": "Sore",
+        "row": 14,
+        "col": 7,
+        "answer": "CANKER"
+      },
+      {
+        "number": 84,
+        "clue": "Aunts, in Spain",
+        "row": 14,
+        "col": 14,
+        "answer": "TIAS"
+      },
+      {
+        "number": 86,
+        "clue": "The low point",
+        "row": 15,
+        "col": 0,
+        "answer": "VALLEYFORGE"
+      },
+      {
+        "number": 88,
+        "clue": "New Jersey battle",
+        "row": 15,
+        "col": 13,
+        "answer": "MONMOUTH"
+      },
+      {
+        "number": 92,
+        "clue": "Stake",
+        "row": 16,
+        "col": 0,
+        "answer": "ANTE"
+      },
+      {
+        "number": 93,
+        "clue": "Confine",
+        "row": 16,
+        "col": 6,
+        "answer": "INTERN"
+      },
+      {
+        "number": 95,
+        "clue": "Site of U.S. base in Canada",
+        "row": 16,
+        "col": 13,
+        "answer": "ARGENTIA"
+      },
+      {
+        "number": 96,
+        "clue": "Adirondack river",
+        "row": 17,
+        "col": 1,
+        "answer": "SARANAC"
+      },
+      {
+        "number": 99,
+        "clue": "Times or tack",
+        "row": 17,
+        "col": 10,
+        "answer": "HARD"
+      },
+      {
+        "number": 101,
+        "clue": "Wobble",
+        "row": 17,
+        "col": 15,
+        "answer": "TEETER"
+      },
+      {
+        "number": 102,
+        "clue": "Packing unit: Abbr.",
+        "row": 18,
+        "col": 0,
+        "answer": "CTN"
+      },
+      {
+        "number": 103,
+        "clue": "Batty",
+        "row": 18,
+        "col": 4,
+        "answer": "LOCO"
+      },
+      {
+        "number": 104,
+        "clue": "___ contempt (accused in court)",
+        "row": 18,
+        "col": 9,
+        "answer": "CITEDFOR"
+      },
+      {
+        "number": 106,
+        "clue": "Period",
+        "row": 18,
+        "col": 18,
+        "answer": "ERA"
+      },
+      {
+        "number": 107,
+        "clue": "Korean soldier",
+        "row": 19,
+        "col": 0,
+        "answer": "ROK"
+      },
+      {
+        "number": 108,
+        "clue": "Region: Abbr.",
+        "row": 19,
+        "col": 4,
+        "answer": "TERR"
+      },
+      {
+        "number": 109,
+        "clue": "Offensive or defensive",
+        "row": 19,
+        "col": 9,
+        "answer": "PLATOON"
+      },
+      {
+        "number": 110,
+        "clue": "British medical org.",
+        "row": 19,
+        "col": 18,
+        "answer": "RCS"
+      },
+      {
+        "number": 111,
+        "clue": "Office holders",
+        "row": 20,
+        "col": 0,
+        "answer": "INS"
+      },
+      {
+        "number": 112,
+        "clue": "Vehicle",
+        "row": 20,
+        "col": 4,
+        "answer": "SLED"
+      },
+      {
+        "number": 113,
+        "clue": "Aver",
+        "row": 20,
+        "col": 9,
+        "answer": "ALLEGE"
+      },
+      {
+        "number": 114,
+        "clue": "Its, in Paris",
+        "row": 20,
+        "col": 18,
+        "answer": "SES"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Black Sea port",
+        "row": 0,
+        "col": 0,
+        "answer": "ODESSA"
+      },
+      {
+        "number": 2,
+        "clue": "Pulpit occupant",
+        "row": 0,
+        "col": 1,
+        "answer": "PASTOR"
+      },
+      {
+        "number": 3,
+        "clue": "Declare",
+        "row": 0,
+        "col": 2,
+        "answer": "ASSERT"
+      },
+      {
+        "number": 4,
+        "clue": "Goof",
+        "row": 0,
+        "col": 6,
+        "answer": "ERR"
+      },
+      {
+        "number": 5,
+        "clue": "Subject of Kant critique",
+        "row": 0,
+        "col": 7,
+        "answer": "REASON"
+      },
+      {
+        "number": 6,
+        "clue": "Move easily",
+        "row": 0,
+        "col": 8,
+        "answer": "SAIL"
+      },
+      {
+        "number": 7,
+        "clue": "Titan with a burden",
+        "row": 0,
+        "col": 9,
+        "answer": "ATLAS"
+      },
+      {
+        "number": 8,
+        "clue": "Early confrontation",
+        "row": 0,
+        "col": 10,
+        "answer": "THEBATTLEOFBUNKERHILL"
+      },
+      {
+        "number": 9,
+        "clue": "British letter",
+        "row": 0,
+        "col": 11,
+        "answer": "ZED"
+      },
+      {
+        "number": 10,
+        "clue": "Hessians' Waterloo",
+        "row": 0,
+        "col": 13,
+        "answer": "TRENTON"
+      },
+      {
+        "number": 11,
+        "clue": "Shiny fabric",
+        "row": 0,
+        "col": 14,
+        "answer": "SATEEN"
+      },
+      {
+        "number": 12,
+        "clue": "Swear",
+        "row": 0,
+        "col": 15,
+        "answer": "AVOW"
+      },
+      {
+        "number": 13,
+        "clue": "Tear",
+        "row": 0,
+        "col": 16,
+        "answer": "REND"
+      },
+      {
+        "number": 14,
+        "clue": "Site of the turning point",
+        "row": 0,
+        "col": 18,
+        "answer": "SARATOGA"
+      },
+      {
+        "number": 15,
+        "clue": "Postscript to a play",
+        "row": 0,
+        "col": 19,
+        "answer": "EPILOGUE"
+      },
+      {
+        "number": 16,
+        "clue": "Kennedy",
+        "row": 0,
+        "col": 20,
+        "answer": "TED"
+      },
+      {
+        "number": 18,
+        "clue": "Vermont battle",
+        "row": 1,
+        "col": 5,
+        "answer": "BENNINGTON"
+      },
+      {
+        "number": 22,
+        "clue": "This: Ger.",
+        "row": 2,
+        "col": 4,
+        "answer": "DIESE"
+      },
+      {
+        "number": 26,
+        "clue": "Journalism",
+        "row": 3,
+        "col": 3,
+        "answer": "PRESS"
+      },
+      {
+        "number": 29,
+        "clue": "Like an otary",
+        "row": 3,
+        "col": 17,
+        "answer": "EARED"
+      },
+      {
+        "number": 31,
+        "clue": "Spud",
+        "row": 4,
+        "col": 6,
+        "answer": "TATER"
+      },
+      {
+        "number": 33,
+        "clue": "Clerical headwear",
+        "row": 4,
+        "col": 11,
+        "answer": "MITER"
+      },
+      {
+        "number": 34,
+        "clue": "Religious picture",
+        "row": 4,
+        "col": 12,
+        "answer": "ICON"
+      },
+      {
+        "number": 36,
+        "clue": "France's Le ___",
+        "row": 4,
+        "col": 20,
+        "answer": "MANS"
+      },
+      {
+        "number": 39,
+        "clue": "Unsmiling",
+        "row": 5,
+        "col": 15,
+        "answer": "DOUR"
+      },
+      {
+        "number": 40,
+        "clue": "Sicilian city",
+        "row": 5,
+        "col": 16,
+        "answer": "ENNA"
+      },
+      {
+        "number": 42,
+        "clue": "Atlantic islands",
+        "row": 6,
+        "col": 8,
+        "answer": "CANARY"
+      },
+      {
+        "number": 43,
+        "clue": "\" . . . grow too ___ dream\"",
+        "row": 6,
+        "col": 9,
+        "answer": "OLDTO"
+      },
+      {
+        "number": 45,
+        "clue": "Nemesis of bad guys",
+        "row": 7,
+        "col": 0,
+        "answer": "POSSE"
+      },
+      {
+        "number": 46,
+        "clue": "Misbehave",
+        "row": 7,
+        "col": 1,
+        "answer": "ACTUP"
+      },
+      {
+        "number": 47,
+        "clue": "Feather: Prefix",
+        "row": 7,
+        "col": 2,
+        "answer": "PTERO"
+      },
+      {
+        "number": 49,
+        "clue": "Sharp setbacks",
+        "row": 7,
+        "col": 7,
+        "answer": "FACERS"
+      },
+      {
+        "number": 50,
+        "clue": "Disseminated",
+        "row": 7,
+        "col": 14,
+        "answer": "SOWN"
+      },
+      {
+        "number": 52,
+        "clue": "Holy ___",
+        "row": 8,
+        "col": 4,
+        "answer": "SEE"
+      },
+      {
+        "number": 53,
+        "clue": "Sultans' collections",
+        "row": 8,
+        "col": 13,
+        "answer": "HAREMS"
+      },
+      {
+        "number": 55,
+        "clue": "B. &amp; O., etc.",
+        "row": 9,
+        "col": 3,
+        "answer": "RRS"
+      },
+      {
+        "number": 57,
+        "clue": "Redden, in Paris",
+        "row": 9,
+        "col": 12,
+        "answer": "ROUGIR"
+      },
+      {
+        "number": 58,
+        "clue": "City official: Abbr.",
+        "row": 9,
+        "col": 17,
+        "answer": "ALD"
+      },
+      {
+        "number": 59,
+        "clue": "Goat's cry",
+        "row": 9,
+        "col": 18,
+        "answer": "BLEAT"
+      },
+      {
+        "number": 60,
+        "clue": "Church fund-raiser",
+        "row": 9,
+        "col": 19,
+        "answer": "BINGO"
+      },
+      {
+        "number": 61,
+        "clue": "Bar legally",
+        "row": 9,
+        "col": 20,
+        "answer": "ESTOP"
+      },
+      {
+        "number": 63,
+        "clue": "___ Sea scrolls",
+        "row": 10,
+        "col": 6,
+        "answer": "DEAD"
+      },
+      {
+        "number": 64,
+        "clue": "Vogue's Nast",
+        "row": 10,
+        "col": 11,
+        "answer": "CONDE"
+      },
+      {
+        "number": 65,
+        "clue": "The C.I.C.",
+        "row": 10,
+        "col": 15,
+        "answer": "WASHINGTON"
+      },
+      {
+        "number": 66,
+        "clue": "___ gratia artis",
+        "row": 10,
+        "col": 16,
+        "answer": "ARS"
+      },
+      {
+        "number": 71,
+        "clue": "Glut",
+        "row": 12,
+        "col": 4,
+        "answer": "SATE"
+      },
+      {
+        "number": 72,
+        "clue": "Victim",
+        "row": 12,
+        "col": 5,
+        "answer": "PREY"
+      },
+      {
+        "number": 73,
+        "clue": "Scorch",
+        "row": 12,
+        "col": 9,
+        "answer": "SINGE"
+      },
+      {
+        "number": 74,
+        "clue": "Expert on lines",
+        "row": 12,
+        "col": 14,
+        "answer": "ACTOR"
+      },
+      {
+        "number": 76,
+        "clue": "Footing at Mauna Loa",
+        "row": 13,
+        "col": 0,
+        "answer": "LAVA"
+      },
+      {
+        "number": 77,
+        "clue": "Northwestern's home",
+        "row": 13,
+        "col": 1,
+        "answer": "EVANSTON"
+      },
+      {
+        "number": 78,
+        "clue": "Bayonne, N.J., sights",
+        "row": 13,
+        "col": 2,
+        "answer": "OILTANKS"
+      },
+      {
+        "number": 79,
+        "clue": "More feeble",
+        "row": 13,
+        "col": 3,
+        "answer": "PALER"
+      },
+      {
+        "number": 80,
+        "clue": "Kind of hog",
+        "row": 13,
+        "col": 8,
+        "answer": "WART"
+      },
+      {
+        "number": 81,
+        "clue": "In unison",
+        "row": 13,
+        "col": 17,
+        "answer": "ASONE"
+      },
+      {
+        "number": 83,
+        "clue": "Site of a widely-heard shot",
+        "row": 14,
+        "col": 7,
+        "answer": "CONCORD"
+      },
+      {
+        "number": 85,
+        "clue": "Eastern ruler",
+        "row": 14,
+        "col": 16,
+        "answer": "AMEER"
+      },
+      {
+        "number": 87,
+        "clue": "Small coach",
+        "row": 15,
+        "col": 6,
+        "answer": "FIACRE"
+      },
+      {
+        "number": 88,
+        "clue": "Midday-sun sharer",
+        "row": 15,
+        "col": 13,
+        "answer": "MADDOG"
+      },
+      {
+        "number": 89,
+        "clue": "Says",
+        "row": 15,
+        "col": 18,
+        "answer": "UTTERS"
+      },
+      {
+        "number": 90,
+        "clue": "Wine measure",
+        "row": 15,
+        "col": 19,
+        "answer": "TIERCE"
+      },
+      {
+        "number": 91,
+        "clue": "Worry",
+        "row": 15,
+        "col": 20,
+        "answer": "HARASS"
+      },
+      {
+        "number": 94,
+        "clue": "Port of Brazil",
+        "row": 16,
+        "col": 11,
+        "answer": "NATAL"
+      },
+      {
+        "number": 97,
+        "clue": "Heights: Abbr.",
+        "row": 17,
+        "col": 4,
+        "answer": "ALTS"
+      },
+      {
+        "number": 98,
+        "clue": "Mr. Coward",
+        "row": 17,
+        "col": 5,
+        "answer": "NOEL"
+      },
+      {
+        "number": 100,
+        "clue": "Network",
+        "row": 17,
+        "col": 12,
+        "answer": "RETE"
+      },
+      {
+        "number": 102,
+        "clue": "Dernier ___",
+        "row": 18,
+        "col": 0,
+        "answer": "CRI"
+      },
+      {
+        "number": 104,
+        "clue": "Auditor: Abbr.",
+        "row": 18,
+        "col": 9,
+        "answer": "CPA"
+      },
+      {
+        "number": 105,
+        "clue": "Adversary",
+        "row": 18,
+        "col": 14,
+        "answer": "FOE"
+      }
+    ]
+  }
+}

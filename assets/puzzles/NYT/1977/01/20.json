@@ -1,0 +1,543 @@
+{
+  "id": "nyt-1977-01-20",
+  "metadata": {
+    "date": "1977-01-20",
+    "title": "NY TIMES, THU, JAN 20, 1977",
+    "author": "Tap Osborn",
+    "editor": "Will Weng",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["B", "E", "D", "S", null, "S", "T", "R", "U", "M", null, "B", "A", "I", "T"],
+    ["A", "L", "I", "T", null, "T", "R", "O", "N", "A", null, "A", "T", "N", "O"],
+    ["J", "A", "M", "E", "S", "E", "A", "R", "L", "C", "A", "R", "T", "E", "R"],
+    ["U", "N", "S", "T", "E", "A", "D", "Y", null, "A", "L", "T", "A", "R", "S"],
+    [null, null, null, "S", "A", "M", "E", null, "P", "R", "I", "O", "R", "T", "O"],
+    ["G", "L", "O", "O", "M", "Y", null, "B", "R", "O", "O", "K", null, null, null],
+    ["L", "I", "M", "N", null, null, "G", "R", "A", "N", "T", null, "E", "R", "N"],
+    ["I", "N", "A", "U", "G", "U", "R", "A", "T", "I", "O", "N", "D", "A", "Y"],
+    ["B", "A", "R", null, "A", "N", "E", "N", "T", null, null, "E", "D", "I", "E"],
+    [null, null, null, "A", "R", "M", "E", "D", null, "T", "R", "U", "A", "N", "T"],
+    ["I", "T", "A", "L", "I", "A", "N", null, "B", "H", "I", "R", null, null, null],
+    ["N", "O", "R", "I", "S", "K", null, "A", "I", "R", "P", "O", "W", "E", "R"],
+    ["T", "H", "E", "C", "H", "I", "E", "F", "J", "U", "S", "T", "I", "C", "E"],
+    ["R", "I", "T", "E", null, "N", "E", "R", "O", "S", null, "I", "R", "O", "N"],
+    ["O", "S", "E", "S", null, "G", "R", "O", "U", "T", null, "C", "E", "N", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Flower and water",
+        "row": 0,
+        "col": 0,
+        "answer": "BEDS"
+      },
+      {
+        "number": 5,
+        "clue": "Play a banjo",
+        "row": 0,
+        "col": 5,
+        "answer": "STRUM"
+      },
+      {
+        "number": 10,
+        "clue": "Come-on",
+        "row": 0,
+        "col": 11,
+        "answer": "BAIT"
+      },
+      {
+        "number": 14,
+        "clue": "Settled down",
+        "row": 1,
+        "col": 0,
+        "answer": "ALIT"
+      },
+      {
+        "number": 15,
+        "clue": "Mineral from lake beds",
+        "row": 1,
+        "col": 5,
+        "answer": "TRONA"
+      },
+      {
+        "number": 16,
+        "clue": "\"___ extra cost\"",
+        "row": 1,
+        "col": 11,
+        "answer": "ATNO"
+      },
+      {
+        "number": 17,
+        "clue": "Man of the hour",
+        "row": 2,
+        "col": 0,
+        "answer": "JAMESEARLCARTER"
+      },
+      {
+        "number": 20,
+        "clue": "Shaky",
+        "row": 3,
+        "col": 0,
+        "answer": "UNSTEADY"
+      },
+      {
+        "number": 21,
+        "clue": "Places of worship",
+        "row": 3,
+        "col": 9,
+        "answer": "ALTARS"
+      },
+      {
+        "number": 22,
+        "clue": "Corresponding",
+        "row": 4,
+        "col": 3,
+        "answer": "SAME"
+      },
+      {
+        "number": 23,
+        "clue": "Before",
+        "row": 4,
+        "col": 8,
+        "answer": "PRIORTO"
+      },
+      {
+        "number": 24,
+        "clue": "Pessimistic",
+        "row": 5,
+        "col": 0,
+        "answer": "GLOOMY"
+      },
+      {
+        "number": 27,
+        "clue": "Put up with",
+        "row": 5,
+        "col": 7,
+        "answer": "BROOK"
+      },
+      {
+        "number": 28,
+        "clue": "Depict",
+        "row": 6,
+        "col": 0,
+        "answer": "LIMN"
+      },
+      {
+        "number": 29,
+        "clue": "U.S. ___",
+        "row": 6,
+        "col": 6,
+        "answer": "GRANT"
+      },
+      {
+        "number": 30,
+        "clue": "Bird",
+        "row": 6,
+        "col": 12,
+        "answer": "ERN"
+      },
+      {
+        "number": 33,
+        "clue": "Significant time for 17 Across",
+        "row": 7,
+        "col": 0,
+        "answer": "INAUGURATIONDAY"
+      },
+      {
+        "number": 37,
+        "clue": "Refuse",
+        "row": 8,
+        "col": 0,
+        "answer": "BAR"
+      },
+      {
+        "number": 38,
+        "clue": "Concerning",
+        "row": 8,
+        "col": 4,
+        "answer": "ANENT"
+      },
+      {
+        "number": 39,
+        "clue": "Miss Adams",
+        "row": 8,
+        "col": 11,
+        "answer": "EDIE"
+      },
+      {
+        "number": 40,
+        "clue": "Fortified",
+        "row": 9,
+        "col": 3,
+        "answer": "ARMED"
+      },
+      {
+        "number": 41,
+        "clue": "Hooky player",
+        "row": 9,
+        "col": 9,
+        "answer": "TRUANT"
+      },
+      {
+        "number": 43,
+        "clue": "Kind of bread or sonnet",
+        "row": 10,
+        "col": 0,
+        "answer": "ITALIAN"
+      },
+      {
+        "number": 46,
+        "clue": "Hyderabad town",
+        "row": 10,
+        "col": 8,
+        "answer": "BHIR"
+      },
+      {
+        "number": 47,
+        "clue": "\" . . . a worth that brings ___\"",
+        "row": 11,
+        "col": 0,
+        "answer": "NORISK"
+      },
+      {
+        "number": 48,
+        "clue": "Key to modern warfare",
+        "row": 11,
+        "col": 7,
+        "answer": "AIRPOWER"
+      },
+      {
+        "number": 52,
+        "clue": "Key figure of 33 Across",
+        "row": 12,
+        "col": 0,
+        "answer": "THECHIEFJUSTICE"
+      },
+      {
+        "number": 54,
+        "clue": "Baptism, e.g.",
+        "row": 13,
+        "col": 0,
+        "answer": "RITE"
+      },
+      {
+        "number": 55,
+        "clue": "Emperor and Peter",
+        "row": 13,
+        "col": 5,
+        "answer": "NEROS"
+      },
+      {
+        "number": 56,
+        "clue": "Age or horse",
+        "row": 13,
+        "col": 11,
+        "answer": "IRON"
+      },
+      {
+        "number": 57,
+        "clue": "Monosaccharides",
+        "row": 14,
+        "col": 0,
+        "answer": "OSES"
+      },
+      {
+        "number": 58,
+        "clue": "Mortar for joints",
+        "row": 14,
+        "col": 5,
+        "answer": "GROUT"
+      },
+      {
+        "number": 59,
+        "clue": "Money unit",
+        "row": 14,
+        "col": 11,
+        "answer": "CENT"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Malay jacket",
+        "row": 0,
+        "col": 0,
+        "answer": "BAJU"
+      },
+      {
+        "number": 2,
+        "clue": "Verve",
+        "row": 0,
+        "col": 1,
+        "answer": "ELAN"
+      },
+      {
+        "number": 3,
+        "clue": "Grows faint",
+        "row": 0,
+        "col": 2,
+        "answer": "DIMS"
+      },
+      {
+        "number": 4,
+        "clue": "DeLand, Fla., campus",
+        "row": 0,
+        "col": 3,
+        "answer": "STETSONU"
+      },
+      {
+        "number": 5,
+        "clue": "Like laundry air",
+        "row": 0,
+        "col": 5,
+        "answer": "STEAMY"
+      },
+      {
+        "number": 6,
+        "clue": "Clientele",
+        "row": 0,
+        "col": 6,
+        "answer": "TRADE"
+      },
+      {
+        "number": 7,
+        "clue": "Calhoun",
+        "row": 0,
+        "col": 7,
+        "answer": "RORY"
+      },
+      {
+        "number": 8,
+        "clue": "Infinite: Abbr.",
+        "row": 0,
+        "col": 8,
+        "answer": "UNL"
+      },
+      {
+        "number": 9,
+        "clue": "\" . . . and called it ___\"",
+        "row": 0,
+        "col": 9,
+        "answer": "MACARONI"
+      },
+      {
+        "number": 10,
+        "clue": "Composer B\u00e9la",
+        "row": 0,
+        "col": 11,
+        "answer": "BARTOK"
+      },
+      {
+        "number": 11,
+        "clue": "Perfume",
+        "row": 0,
+        "col": 12,
+        "answer": "ATTAR"
+      },
+      {
+        "number": 12,
+        "clue": "Lifeless",
+        "row": 0,
+        "col": 13,
+        "answer": "INERT"
+      },
+      {
+        "number": 13,
+        "clue": "Trunk",
+        "row": 0,
+        "col": 14,
+        "answer": "TORSO"
+      },
+      {
+        "number": 18,
+        "clue": "Sew together",
+        "row": 2,
+        "col": 4,
+        "answer": "SEAM"
+      },
+      {
+        "number": 19,
+        "clue": "West Coast mayor",
+        "row": 2,
+        "col": 10,
+        "answer": "ALIOTO"
+      },
+      {
+        "number": 23,
+        "clue": "Brooklyn institute",
+        "row": 4,
+        "col": 8,
+        "answer": "PRATT"
+      },
+      {
+        "number": 24,
+        "clue": "Verbose",
+        "row": 5,
+        "col": 0,
+        "answer": "GLIB"
+      },
+      {
+        "number": 25,
+        "clue": "Director Wertmuller",
+        "row": 5,
+        "col": 1,
+        "answer": "LINA"
+      },
+      {
+        "number": 26,
+        "clue": "Bradley",
+        "row": 5,
+        "col": 2,
+        "answer": "OMAR"
+      },
+      {
+        "number": 27,
+        "clue": "Kind of new",
+        "row": 5,
+        "col": 7,
+        "answer": "BRAND"
+      },
+      {
+        "number": 29,
+        "clue": "Back or horn",
+        "row": 6,
+        "col": 6,
+        "answer": "GREEN"
+      },
+      {
+        "number": 30,
+        "clue": "Norse saga",
+        "row": 6,
+        "col": 12,
+        "answer": "EDDA"
+      },
+      {
+        "number": 31,
+        "clue": "Weather word",
+        "row": 6,
+        "col": 13,
+        "answer": "RAIN"
+      },
+      {
+        "number": 32,
+        "clue": "U.N. veto",
+        "row": 6,
+        "col": 14,
+        "answer": "NYET"
+      },
+      {
+        "number": 34,
+        "clue": "Ostentatious",
+        "row": 7,
+        "col": 4,
+        "answer": "GARISH"
+      },
+      {
+        "number": 35,
+        "clue": "Ruination",
+        "row": 7,
+        "col": 5,
+        "answer": "UNMAKING"
+      },
+      {
+        "number": 36,
+        "clue": "Full of anxieties",
+        "row": 7,
+        "col": 11,
+        "answer": "NEUROTIC"
+      },
+      {
+        "number": 40,
+        "clue": "Marble and Faye",
+        "row": 9,
+        "col": 3,
+        "answer": "ALICES"
+      },
+      {
+        "number": 41,
+        "clue": "Pushing force",
+        "row": 9,
+        "col": 9,
+        "answer": "THRUST"
+      },
+      {
+        "number": 42,
+        "clue": "Turgid waters",
+        "row": 9,
+        "col": 10,
+        "answer": "RIPS"
+      },
+      {
+        "number": 43,
+        "clue": "Emcee's chore",
+        "row": 10,
+        "col": 0,
+        "answer": "INTRO"
+      },
+      {
+        "number": 44,
+        "clue": "African reedbucks",
+        "row": 10,
+        "col": 1,
+        "answer": "TOHIS"
+      },
+      {
+        "number": 45,
+        "clue": "Mountain ridge",
+        "row": 10,
+        "col": 2,
+        "answer": "ARETE"
+      },
+      {
+        "number": 46,
+        "clue": "Jewel",
+        "row": 10,
+        "col": 8,
+        "answer": "BIJOU"
+      },
+      {
+        "number": 48,
+        "clue": "Hair style",
+        "row": 11,
+        "col": 7,
+        "answer": "AFRO"
+      },
+      {
+        "number": 49,
+        "clue": "Chicken or live",
+        "row": 11,
+        "col": 12,
+        "answer": "WIRE"
+      },
+      {
+        "number": 50,
+        "clue": "Financial: Abbr.",
+        "row": 11,
+        "col": 13,
+        "answer": "ECON"
+      },
+      {
+        "number": 51,
+        "clue": "Sublease",
+        "row": 11,
+        "col": 14,
+        "answer": "RENT"
+      },
+      {
+        "number": 53,
+        "clue": "Always, in poems",
+        "row": 12,
+        "col": 6,
+        "answer": "EER"
+      }
+    ]
+  }
+}

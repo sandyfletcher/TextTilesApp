@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-08-04",
+  "metadata": {
+    "date": "1977-08-04",
+    "title": "NY TIMES, THU, AUG 04, 1977",
+    "author": "Barbara Lunder Gillis",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["D", "E", "L", "I", null, "A", "J", "A", "R", null, "A", "D", "O", "B", "E"],
+    ["E", "X", "O", "N", "E", "R", "A", "T", "E", null, "H", "O", "V", "E", "R"],
+    ["S", "I", "N", "C", "E", "R", "I", "T", "Y", null, "A", "N", "E", "L", "E"],
+    [null, "T", "E", "A", "R", null, null, "A", "N", "A", null, "E", "R", "I", "C"],
+    [null, null, null, null, "I", "T", "E", "R", "A", "T", "E", null, "P", "E", "T"],
+    [null, "M", "O", "D", "E", "R", "N", null, "U", "T", "T", "E", "R", null, null],
+    ["C", "O", "V", "E", "R", "E", "D", null, "D", "A", "H", "L", "I", "A", "S"],
+    ["A", "V", "E", "R", null, null, null, null, null, null, null, "A", "C", "I", "D"],
+    ["T", "E", "R", "R", "A", "C", "E", null, "R", "O", "S", "T", "E", "R", "S"],
+    [null, null, "S", "Y", "R", "I", "A", null, "C", "R", "E", "E", "D", "S", null],
+    ["A", "R", "T", null, "C", "O", "R", "D", "A", "G", "E", null, null, null, null],
+    ["T", "O", "R", "Y", null, "N", "N", "E", null, null, "M", "E", "G", "A", null],
+    ["I", "D", "I", "O", "T", null, "E", "B", "U", "L", "L", "I", "E", "N", "T"],
+    ["M", "I", "C", "R", "O", null, "S", "A", "L", "L", "Y", "R", "A", "N", "D"],
+    ["E", "N", "T", "E", "R", null, "T", "R", "O", "D", null, "E", "R", "O", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Place to buy cold cuts",
+        "row": 0,
+        "col": 0,
+        "answer": "DELI"
+      },
+      {
+        "number": 5,
+        "clue": "Slightly open",
+        "row": 0,
+        "col": 5,
+        "answer": "AJAR"
+      },
+      {
+        "number": 9,
+        "clue": "House of clay",
+        "row": 0,
+        "col": 10,
+        "answer": "ADOBE"
+      },
+      {
+        "number": 14,
+        "clue": "Clear from blame",
+        "row": 1,
+        "col": 0,
+        "answer": "EXONERATE"
+      },
+      {
+        "number": 16,
+        "clue": "Stay suspended",
+        "row": 1,
+        "col": 10,
+        "answer": "HOVER"
+      },
+      {
+        "number": 17,
+        "clue": "What hypocrites lack",
+        "row": 2,
+        "col": 0,
+        "answer": "SINCERITY"
+      },
+      {
+        "number": 18,
+        "clue": "Anoint, old style",
+        "row": 2,
+        "col": 10,
+        "answer": "ANELE"
+      },
+      {
+        "number": 19,
+        "clue": "Briny droplet",
+        "row": 3,
+        "col": 1,
+        "answer": "TEAR"
+      },
+      {
+        "number": 20,
+        "clue": "Literary collection",
+        "row": 3,
+        "col": 7,
+        "answer": "ANA"
+      },
+      {
+        "number": 22,
+        "clue": "Sevareid",
+        "row": 3,
+        "col": 11,
+        "answer": "ERIC"
+      },
+      {
+        "number": 23,
+        "clue": "Battologize",
+        "row": 4,
+        "col": 4,
+        "answer": "ITERATE"
+      },
+      {
+        "number": 27,
+        "clue": "Fondle",
+        "row": 4,
+        "col": 12,
+        "answer": "PET"
+      },
+      {
+        "number": 28,
+        "clue": "Neoteric",
+        "row": 5,
+        "col": 1,
+        "answer": "MODERN"
+      },
+      {
+        "number": 31,
+        "clue": "Absolute",
+        "row": 5,
+        "col": 8,
+        "answer": "UTTER"
+      },
+      {
+        "number": 33,
+        "clue": "Like a Conestoga wagon",
+        "row": 6,
+        "col": 0,
+        "answer": "COVERED"
+      },
+      {
+        "number": 34,
+        "clue": "Flowers or purple shades",
+        "row": 6,
+        "col": 8,
+        "answer": "DAHLIAS"
+      },
+      {
+        "number": 37,
+        "clue": "Avouch",
+        "row": 7,
+        "col": 0,
+        "answer": "AVER"
+      },
+      {
+        "number": 38,
+        "clue": "Sour; biting",
+        "row": 7,
+        "col": 11,
+        "answer": "ACID"
+      },
+      {
+        "number": 39,
+        "clue": "Balcony",
+        "row": 8,
+        "col": 0,
+        "answer": "TERRACE"
+      },
+      {
+        "number": 43,
+        "clue": "Lists, as of teams",
+        "row": 8,
+        "col": 8,
+        "answer": "ROSTERS"
+      },
+      {
+        "number": 46,
+        "clue": "Neighbor of Lebanon",
+        "row": 9,
+        "col": 2,
+        "answer": "SYRIA"
+      },
+      {
+        "number": 47,
+        "clue": "Beliefs",
+        "row": 9,
+        "col": 8,
+        "answer": "CREEDS"
+      },
+      {
+        "number": 48,
+        "clue": "Talent",
+        "row": 10,
+        "col": 0,
+        "answer": "ART"
+      },
+      {
+        "number": 50,
+        "clue": "Wood measure",
+        "row": 10,
+        "col": 4,
+        "answer": "CORDAGE"
+      },
+      {
+        "number": 52,
+        "clue": "Conservative",
+        "row": 11,
+        "col": 0,
+        "answer": "TORY"
+      },
+      {
+        "number": 54,
+        "clue": "Wind dir.",
+        "row": 11,
+        "col": 5,
+        "answer": "NNE"
+      },
+      {
+        "number": 55,
+        "clue": "Prefix for cycle",
+        "row": 11,
+        "col": 10,
+        "answer": "MEGA"
+      },
+      {
+        "number": 59,
+        "clue": "Foolish person",
+        "row": 12,
+        "col": 0,
+        "answer": "IDIOT"
+      },
+      {
+        "number": 61,
+        "clue": "Overflowing with fervor",
+        "row": 12,
+        "col": 6,
+        "answer": "EBULLIENT"
+      },
+      {
+        "number": 65,
+        "clue": "Opposite of 55 Across",
+        "row": 13,
+        "col": 0,
+        "answer": "MICRO"
+      },
+      {
+        "number": 66,
+        "clue": "Dancer who has very few fans",
+        "row": 13,
+        "col": 6,
+        "answer": "SALLYRAND"
+      },
+      {
+        "number": 67,
+        "clue": "Penetrate",
+        "row": 14,
+        "col": 0,
+        "answer": "ENTER"
+      },
+      {
+        "number": 68,
+        "clue": "Trample",
+        "row": 14,
+        "col": 6,
+        "answer": "TROD"
+      },
+      {
+        "number": 69,
+        "clue": "Topic of Plato's \"Symposium\"",
+        "row": 14,
+        "col": 11,
+        "answer": "EROS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "___ Moines, Iowa",
+        "row": 0,
+        "col": 0,
+        "answer": "DES"
+      },
+      {
+        "number": 2,
+        "clue": "Sign in a theater",
+        "row": 0,
+        "col": 1,
+        "answer": "EXIT"
+      },
+      {
+        "number": 3,
+        "clue": "Isolated",
+        "row": 0,
+        "col": 2,
+        "answer": "LONE"
+      },
+      {
+        "number": 4,
+        "clue": "Andean sun-worshiper",
+        "row": 0,
+        "col": 3,
+        "answer": "INCA"
+      },
+      {
+        "number": 5,
+        "clue": "Timetable abbr.",
+        "row": 0,
+        "col": 5,
+        "answer": "ARR"
+      },
+      {
+        "number": 6,
+        "clue": "___ alai",
+        "row": 0,
+        "col": 6,
+        "answer": "JAI"
+      },
+      {
+        "number": 7,
+        "clue": "Perfume from flowers",
+        "row": 0,
+        "col": 7,
+        "answer": "ATTAR"
+      },
+      {
+        "number": 8,
+        "clue": "French Premier in 1940",
+        "row": 0,
+        "col": 8,
+        "answer": "REYNAUD"
+      },
+      {
+        "number": 9,
+        "clue": "Villain's cry",
+        "row": 0,
+        "col": 10,
+        "answer": "AHA"
+      },
+      {
+        "number": 10,
+        "clue": "Finished",
+        "row": 0,
+        "col": 11,
+        "answer": "DONE"
+      },
+      {
+        "number": 11,
+        "clue": "Too costly",
+        "row": 0,
+        "col": 12,
+        "answer": "OVERPRICED"
+      },
+      {
+        "number": 12,
+        "clue": "Prove false",
+        "row": 0,
+        "col": 13,
+        "answer": "BELIE"
+      },
+      {
+        "number": 13,
+        "clue": "Build",
+        "row": 0,
+        "col": 14,
+        "answer": "ERECT"
+      },
+      {
+        "number": 15,
+        "clue": "More phantasmal",
+        "row": 1,
+        "col": 4,
+        "answer": "EERIER"
+      },
+      {
+        "number": 21,
+        "clue": "\"___ boy!\"",
+        "row": 3,
+        "col": 9,
+        "answer": "ATTA"
+      },
+      {
+        "number": 24,
+        "clue": "Three, in Torino",
+        "row": 4,
+        "col": 5,
+        "answer": "TRE"
+      },
+      {
+        "number": 25,
+        "clue": "Remnant",
+        "row": 4,
+        "col": 6,
+        "answer": "END"
+      },
+      {
+        "number": 26,
+        "clue": "Numerical suffix",
+        "row": 4,
+        "col": 10,
+        "answer": "ETH"
+      },
+      {
+        "number": 28,
+        "clue": "Stir",
+        "row": 5,
+        "col": 1,
+        "answer": "MOVE"
+      },
+      {
+        "number": 29,
+        "clue": "Too rigorous",
+        "row": 5,
+        "col": 2,
+        "answer": "OVERSTRICT"
+      },
+      {
+        "number": 30,
+        "clue": "Irish county, for short",
+        "row": 5,
+        "col": 3,
+        "answer": "DERRY"
+      },
+      {
+        "number": 32,
+        "clue": "Lift up one's spirits",
+        "row": 5,
+        "col": 11,
+        "answer": "ELATE"
+      },
+      {
+        "number": 33,
+        "clue": "Japanese bobtail",
+        "row": 6,
+        "col": 0,
+        "answer": "CAT"
+      },
+      {
+        "number": 35,
+        "clue": "Ventilates",
+        "row": 6,
+        "col": 13,
+        "answer": "AIRS"
+      },
+      {
+        "number": 36,
+        "clue": "Campus militants: Abbr.",
+        "row": 6,
+        "col": 14,
+        "answer": "SDS"
+      },
+      {
+        "number": 40,
+        "clue": "Parabola",
+        "row": 8,
+        "col": 4,
+        "answer": "ARC"
+      },
+      {
+        "number": 41,
+        "clue": "Shoot cut for grafting",
+        "row": 8,
+        "col": 5,
+        "answer": "CION"
+      },
+      {
+        "number": 42,
+        "clue": "Far from flippant",
+        "row": 8,
+        "col": 6,
+        "answer": "EARNEST"
+      },
+      {
+        "number": 43,
+        "clue": "Letters on N.Y.C. skyline",
+        "row": 8,
+        "col": 8,
+        "answer": "RCA"
+      },
+      {
+        "number": 44,
+        "clue": "OPEC is one: Abbr.",
+        "row": 8,
+        "col": 9,
+        "answer": "ORG"
+      },
+      {
+        "number": 45,
+        "clue": "Becoming",
+        "row": 8,
+        "col": 10,
+        "answer": "SEEMLY"
+      },
+      {
+        "number": 48,
+        "clue": "One at ___ (singly)",
+        "row": 10,
+        "col": 0,
+        "answer": "ATIME"
+      },
+      {
+        "number": 49,
+        "clue": "Sculptor of \"Le Penseur\"",
+        "row": 10,
+        "col": 1,
+        "answer": "RODIN"
+      },
+      {
+        "number": 51,
+        "clue": "Exclude",
+        "row": 10,
+        "col": 7,
+        "answer": "DEBAR"
+      },
+      {
+        "number": 53,
+        "clue": "Long ago",
+        "row": 11,
+        "col": 3,
+        "answer": "YORE"
+      },
+      {
+        "number": 56,
+        "clue": "Republic since 1949",
+        "row": 11,
+        "col": 11,
+        "answer": "EIRE"
+      },
+      {
+        "number": 57,
+        "clue": "Equipment",
+        "row": 11,
+        "col": 12,
+        "answer": "GEAR"
+      },
+      {
+        "number": 58,
+        "clue": "Part of A.D.",
+        "row": 11,
+        "col": 13,
+        "answer": "ANNO"
+      },
+      {
+        "number": 60,
+        "clue": "Rocky hill",
+        "row": 12,
+        "col": 4,
+        "answer": "TOR"
+      },
+      {
+        "number": 62,
+        "clue": "Relating to gums: Comb. form",
+        "row": 12,
+        "col": 8,
+        "answer": "ULO"
+      },
+      {
+        "number": 63,
+        "clue": "Law degree",
+        "row": 12,
+        "col": 9,
+        "answer": "LLD"
+      },
+      {
+        "number": 64,
+        "clue": "Football scores: Abbr.",
+        "row": 12,
+        "col": 14,
+        "answer": "TDS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-09-07",
+  "metadata": {
+    "date": "1977-09-07",
+    "title": "NY TIMES, WED, SEP 07, 1977",
+    "author": "Maura B. Jacobson",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "U", "B", "J", null, "S", "C", "A", "D", "S", null, "A", "C", "M", "E"],
+    ["A", "R", "L", "O", null, "P", "A", "U", "L", "A", null, "S", "H", "O", "R"],
+    ["U", "S", "E", "S", null, "R", "U", "B", "I", "N", "S", "T", "E", "I", "N"],
+    ["L", "I", "B", "E", "R", "A", "C", "E", null, "D", "M", "I", "T", "R", "I"],
+    [null, null, null, "I", "O", "T", "A", null, "P", "B", "A", null, "S", "E", "E"],
+    ["H", "I", "A", "T", "U", "S", null, "C", "L", "A", "S", "P", null, null, null],
+    ["U", "N", "D", "U", "E", null, "F", "O", "U", "R", "H", "A", "N", "D", "S"],
+    ["L", "E", "A", "R", null, "F", "O", "R", "M", "S", null, "D", "O", "I", "T"],
+    ["K", "E", "Y", "B", "O", "A", "R", "D", "S", null, "N", "E", "R", "V", "E"],
+    [null, null, null, "I", "N", "C", "A", "S", null, "G", "E", "R", "M", "A", "N"],
+    ["C", "P", "O", null, "E", "E", "N", null, "B", "A", "R", "E", null, null, null],
+    ["A", "E", "R", "I", "A", "L", null, "H", "O", "R", "O", "W", "I", "T", "Z"],
+    ["V", "A", "N", "C", "L", "I", "B", "U", "R", "N", null, "S", "O", "H", "O"],
+    ["I", "L", "I", "E", null, "F", "O", "R", "G", "E", null, "K", "N", "E", "E"],
+    ["L", "E", "S", "S", null, "T", "Y", "L", "E", "R", null, "I", "S", "M", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Theme: Abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "SUBJ"
+      },
+      {
+        "number": 5,
+        "clue": "Oodles",
+        "row": 0,
+        "col": 5,
+        "answer": "SCADS"
+      },
+      {
+        "number": 10,
+        "clue": "Zenith",
+        "row": 0,
+        "col": 11,
+        "answer": "ACME"
+      },
+      {
+        "number": 14,
+        "clue": "Guthrie",
+        "row": 1,
+        "col": 0,
+        "answer": "ARLO"
+      },
+      {
+        "number": 15,
+        "clue": "Actress Prentiss",
+        "row": 1,
+        "col": 5,
+        "answer": "PAULA"
+      },
+      {
+        "number": 16,
+        "clue": "Restaurateur Toots",
+        "row": 1,
+        "col": 11,
+        "answer": "SHOR"
+      },
+      {
+        "number": 17,
+        "clue": "\"Sweet are the ___ of adversity\"",
+        "row": 2,
+        "col": 0,
+        "answer": "USES"
+      },
+      {
+        "number": 18,
+        "clue": "Pianist",
+        "row": 2,
+        "col": 5,
+        "answer": "RUBINSTEIN"
+      },
+      {
+        "number": 20,
+        "clue": "Pianist",
+        "row": 3,
+        "col": 0,
+        "answer": "LIBERACE"
+      },
+      {
+        "number": 22,
+        "clue": "Shostakovich",
+        "row": 3,
+        "col": 9,
+        "answer": "DMITRI"
+      },
+      {
+        "number": 23,
+        "clue": "After theta",
+        "row": 4,
+        "col": 3,
+        "answer": "IOTA"
+      },
+      {
+        "number": 24,
+        "clue": "N.Y.C. police organization",
+        "row": 4,
+        "col": 8,
+        "answer": "PBA"
+      },
+      {
+        "number": 25,
+        "clue": "Bishopric",
+        "row": 4,
+        "col": 12,
+        "answer": "SEE"
+      },
+      {
+        "number": 26,
+        "clue": "Break",
+        "row": 5,
+        "col": 0,
+        "answer": "HIATUS"
+      },
+      {
+        "number": 29,
+        "clue": "Necklace fastening",
+        "row": 5,
+        "col": 7,
+        "answer": "CLASP"
+      },
+      {
+        "number": 31,
+        "clue": "Improper",
+        "row": 6,
+        "col": 0,
+        "answer": "UNDUE"
+      },
+      {
+        "number": 32,
+        "clue": "Two pianists, in musicians' argot",
+        "row": 6,
+        "col": 6,
+        "answer": "FOURHANDS"
+      },
+      {
+        "number": 36,
+        "clue": "Regan's father",
+        "row": 7,
+        "col": 0,
+        "answer": "LEAR"
+      },
+      {
+        "number": 37,
+        "clue": "Application blanks",
+        "row": 7,
+        "col": 5,
+        "answer": "FORMS"
+      },
+      {
+        "number": 38,
+        "clue": "\"Let George ___\"",
+        "row": 7,
+        "col": 11,
+        "answer": "DOIT"
+      },
+      {
+        "number": 39,
+        "clue": "Pianists' black-and-white rows",
+        "row": 8,
+        "col": 0,
+        "answer": "KEYBOARDS"
+      },
+      {
+        "number": 41,
+        "clue": "Audacity",
+        "row": 8,
+        "col": 10,
+        "answer": "NERVE"
+      },
+      {
+        "number": 42,
+        "clue": "Cuzco natives",
+        "row": 9,
+        "col": 3,
+        "answer": "INCAS"
+      },
+      {
+        "number": 43,
+        "clue": "Language of \"Lohengrin\"",
+        "row": 9,
+        "col": 9,
+        "answer": "GERMAN"
+      },
+      {
+        "number": 44,
+        "clue": "Sharkey's rating on TV",
+        "row": 10,
+        "col": 0,
+        "answer": "CPO"
+      },
+      {
+        "number": 47,
+        "clue": "Poetic dusk",
+        "row": 10,
+        "col": 4,
+        "answer": "EEN"
+      },
+      {
+        "number": 48,
+        "clue": "Unfurnished",
+        "row": 10,
+        "col": 8,
+        "answer": "BARE"
+      },
+      {
+        "number": 49,
+        "clue": "TV adjunct",
+        "row": 11,
+        "col": 0,
+        "answer": "AERIAL"
+      },
+      {
+        "number": 51,
+        "clue": "Pianist",
+        "row": 11,
+        "col": 7,
+        "answer": "HOROWITZ"
+      },
+      {
+        "number": 55,
+        "clue": "Pianist",
+        "row": 12,
+        "col": 0,
+        "answer": "VANCLIBURN"
+      },
+      {
+        "number": 57,
+        "clue": "Bohemian quarter",
+        "row": 12,
+        "col": 11,
+        "answer": "SOHO"
+      },
+      {
+        "number": 58,
+        "clue": "Netman Nastase",
+        "row": 13,
+        "col": 0,
+        "answer": "ILIE"
+      },
+      {
+        "number": 59,
+        "clue": "Smithy",
+        "row": 13,
+        "col": 5,
+        "answer": "FORGE"
+      },
+      {
+        "number": 60,
+        "clue": "Place for \"Sonny Boy\"",
+        "row": 13,
+        "col": 11,
+        "answer": "KNEE"
+      },
+      {
+        "number": 61,
+        "clue": "Minus",
+        "row": 14,
+        "col": 0,
+        "answer": "LESS"
+      },
+      {
+        "number": 62,
+        "clue": "President before Polk",
+        "row": 14,
+        "col": 5,
+        "answer": "TYLER"
+      },
+      {
+        "number": 63,
+        "clue": "Doctrines",
+        "row": 14,
+        "col": 11,
+        "answer": "ISMS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Author Bellow",
+        "row": 0,
+        "col": 0,
+        "answer": "SAUL"
+      },
+      {
+        "number": 2,
+        "clue": "Bears: Lat.",
+        "row": 0,
+        "col": 1,
+        "answer": "URSI"
+      },
+      {
+        "number": 3,
+        "clue": "Small blister",
+        "row": 0,
+        "col": 2,
+        "answer": "BLEB"
+      },
+      {
+        "number": 4,
+        "clue": "Pianist",
+        "row": 0,
+        "col": 3,
+        "answer": "JOSEITURBI"
+      },
+      {
+        "number": 5,
+        "clue": "Nursery-rhyme mates",
+        "row": 0,
+        "col": 5,
+        "answer": "SPRATS"
+      },
+      {
+        "number": 6,
+        "clue": "River of Colombia",
+        "row": 0,
+        "col": 6,
+        "answer": "CAUCA"
+      },
+      {
+        "number": 7,
+        "clue": "Troyes's department",
+        "row": 0,
+        "col": 7,
+        "answer": "AUBE"
+      },
+      {
+        "number": 8,
+        "clue": "Caesar's 551",
+        "row": 0,
+        "col": 8,
+        "answer": "DLI"
+      },
+      {
+        "number": 9,
+        "clue": "Shoals",
+        "row": 0,
+        "col": 9,
+        "answer": "SANDBARS"
+      },
+      {
+        "number": 10,
+        "clue": "Italian wine city",
+        "row": 0,
+        "col": 11,
+        "answer": "ASTI"
+      },
+      {
+        "number": 11,
+        "clue": "Huntley and Atkins",
+        "row": 0,
+        "col": 12,
+        "answer": "CHETS"
+      },
+      {
+        "number": 12,
+        "clue": "Watered silk",
+        "row": 0,
+        "col": 13,
+        "answer": "MOIRE"
+      },
+      {
+        "number": 13,
+        "clue": "Kovacs",
+        "row": 0,
+        "col": 14,
+        "answer": "ERNIE"
+      },
+      {
+        "number": 19,
+        "clue": "Kind of hit",
+        "row": 2,
+        "col": 10,
+        "answer": "SMASH"
+      },
+      {
+        "number": 21,
+        "clue": "Dissipated one",
+        "row": 3,
+        "col": 4,
+        "answer": "ROUE"
+      },
+      {
+        "number": 24,
+        "clue": "Windfalls",
+        "row": 4,
+        "col": 8,
+        "answer": "PLUMS"
+      },
+      {
+        "number": 26,
+        "clue": "Wrecked ship",
+        "row": 5,
+        "col": 0,
+        "answer": "HULK"
+      },
+      {
+        "number": 27,
+        "clue": "Relative of curare",
+        "row": 5,
+        "col": 1,
+        "answer": "INEE"
+      },
+      {
+        "number": 28,
+        "clue": "\"An apple ___ . . . \"",
+        "row": 5,
+        "col": 2,
+        "answer": "ADAY"
+      },
+      {
+        "number": 29,
+        "clue": "Silver and spinal",
+        "row": 5,
+        "col": 7,
+        "answer": "CORDS"
+      },
+      {
+        "number": 30,
+        "clue": "Pianist",
+        "row": 5,
+        "col": 11,
+        "answer": "PADEREWSKI"
+      },
+      {
+        "number": 32,
+        "clue": "\" . . . lie down ___ aeon or two\": Kipling",
+        "row": 6,
+        "col": 6,
+        "answer": "FORAN"
+      },
+      {
+        "number": 33,
+        "clue": "Par",
+        "row": 6,
+        "col": 12,
+        "answer": "NORM"
+      },
+      {
+        "number": 34,
+        "clue": "La Scala V.I.P.",
+        "row": 6,
+        "col": 13,
+        "answer": "DIVA"
+      },
+      {
+        "number": 35,
+        "clue": "Machine gun",
+        "row": 6,
+        "col": 14,
+        "answer": "STEN"
+      },
+      {
+        "number": 37,
+        "clue": "Cosmetic surgery",
+        "row": 7,
+        "col": 5,
+        "answer": "FACELIFT"
+      },
+      {
+        "number": 40,
+        "clue": "Actor Ryan",
+        "row": 8,
+        "col": 4,
+        "answer": "ONEAL"
+      },
+      {
+        "number": 41,
+        "clue": "Pianist",
+        "row": 8,
+        "col": 10,
+        "answer": "NERO"
+      },
+      {
+        "number": 43,
+        "clue": "Pianist",
+        "row": 9,
+        "col": 9,
+        "answer": "GARNER"
+      },
+      {
+        "number": 44,
+        "clue": "Quibble",
+        "row": 10,
+        "col": 0,
+        "answer": "CAVIL"
+      },
+      {
+        "number": 45,
+        "clue": "Norman Vincent",
+        "row": 10,
+        "col": 1,
+        "answer": "PEALE"
+      },
+      {
+        "number": 46,
+        "clue": "Avifauna",
+        "row": 10,
+        "col": 2,
+        "answer": "ORNIS"
+      },
+      {
+        "number": 48,
+        "clue": "Pianist",
+        "row": 10,
+        "col": 8,
+        "answer": "BORGE"
+      },
+      {
+        "number": 50,
+        "clue": "Does a bakery chore",
+        "row": 11,
+        "col": 3,
+        "answer": "ICES"
+      },
+      {
+        "number": 51,
+        "clue": "Practice pitching",
+        "row": 11,
+        "col": 7,
+        "answer": "HURL"
+      },
+      {
+        "number": 52,
+        "clue": "Atomic particles",
+        "row": 11,
+        "col": 12,
+        "answer": "IONS"
+      },
+      {
+        "number": 53,
+        "clue": "\"Let ___ eat cake\"",
+        "row": 11,
+        "col": 13,
+        "answer": "THEM"
+      },
+      {
+        "number": 54,
+        "clue": "Caldwell and Akins",
+        "row": 11,
+        "col": 14,
+        "answer": "ZOES"
+      },
+      {
+        "number": 56,
+        "clue": "Behan's \"Borstal ___\"",
+        "row": 12,
+        "col": 6,
+        "answer": "BOY"
+      }
+    ]
+  }
+}

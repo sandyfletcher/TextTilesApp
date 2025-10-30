@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-04-16",
+  "metadata": {
+    "date": "1976-04-16",
+    "title": "NY TIMES, FRI, APR 16, 1976",
+    "author": "Dorothy Cannan",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "A", "Y", "S", null, "U", "K", "A", "S", "E", null, "S", "P", "A", "S"],
+    ["A", "L", "O", "P", null, "N", "O", "M", "A", "N", null, "T", "A", "R", "T"],
+    ["T", "O", "Y", "R", "A", "B", "B", "I", "T", "S", null, "A", "L", "M", "A"],
+    ["E", "T", "O", "I", "L", "E", "S", null, "S", "L", "A", "M", "M", "E", "R"],
+    [null, null, null, "N", "O", "N", null, null, null, "A", "S", "I", "S", null, null],
+    ["R", "A", "G", "G", "E", "D", "Y", null, "A", "V", "E", "N", "U", "E", "S"],
+    ["A", "M", "O", "S", null, "S", "I", "E", "V", "E", null, "A", "N", "N", "E"],
+    ["T", "I", "O", null, null, null, "E", "M", "E", null, null, null, "D", "O", "T"],
+    ["E", "N", "D", "S", null, "B", "L", "U", "R", "B", null, "F", "A", "C", "T"],
+    ["D", "E", "F", "I", "L", "E", "D", null, "T", "A", "L", "L", "Y", "H", "O"],
+    [null, null, "R", "A", "I", "D", null, null, null, "S", "A", "O", null, null, null],
+    ["P", "R", "I", "M", "E", "R", "S", null, "S", "K", "I", "R", "T", "E", "D"],
+    ["R", "O", "D", "E", null, "E", "A", "S", "T", "E", "R", "E", "G", "G", "S"],
+    ["O", "S", "A", "S", null, "S", "K", "E", "E", "T", null, "A", "T", "A", "T"],
+    ["D", "A", "Y", "E", null, "T", "E", "E", "N", "S", null, "L", "S", "D", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"___ who!\"",
+        "row": 0,
+        "col": 0,
+        "answer": "SAYS"
+      },
+      {
+        "number": 5,
+        "clue": "Proclamation",
+        "row": 0,
+        "col": 5,
+        "answer": "UKASE"
+      },
+      {
+        "number": 10,
+        "clue": "Springs",
+        "row": 0,
+        "col": 11,
+        "answer": "SPAS"
+      },
+      {
+        "number": 14,
+        "clue": "Drooping",
+        "row": 1,
+        "col": 0,
+        "answer": "ALOP"
+      },
+      {
+        "number": 15,
+        "clue": "\"___ is an island\"",
+        "row": 1,
+        "col": 5,
+        "answer": "NOMAN"
+      },
+      {
+        "number": 16,
+        "clue": "Piquant",
+        "row": 1,
+        "col": 11,
+        "answer": "TART"
+      },
+      {
+        "number": 17,
+        "clue": "Seasonal gifts",
+        "row": 2,
+        "col": 0,
+        "answer": "TOYRABBITS"
+      },
+      {
+        "number": 19,
+        "clue": "Gluck",
+        "row": 2,
+        "col": 11,
+        "answer": "ALMA"
+      },
+      {
+        "number": 20,
+        "clue": "French stars",
+        "row": 3,
+        "col": 0,
+        "answer": "ETOILES"
+      },
+      {
+        "number": 21,
+        "clue": "Name for a heavy hitter",
+        "row": 3,
+        "col": 8,
+        "answer": "SLAMMER"
+      },
+      {
+        "number": 23,
+        "clue": "After sine qua",
+        "row": 4,
+        "col": 3,
+        "answer": "NON"
+      },
+      {
+        "number": 24,
+        "clue": "Condition of sale",
+        "row": 4,
+        "col": 9,
+        "answer": "ASIS"
+      },
+      {
+        "number": 25,
+        "clue": "Tattered",
+        "row": 5,
+        "col": 0,
+        "answer": "RAGGEDY"
+      },
+      {
+        "number": 29,
+        "clue": "Park and Fifth",
+        "row": 5,
+        "col": 8,
+        "answer": "AVENUES"
+      },
+      {
+        "number": 32,
+        "clue": "Biblical book",
+        "row": 6,
+        "col": 0,
+        "answer": "AMOS"
+      },
+      {
+        "number": 33,
+        "clue": "Leaky utensil",
+        "row": 6,
+        "col": 5,
+        "answer": "SIEVE"
+      },
+      {
+        "number": 35,
+        "clue": "Furniture-style queen",
+        "row": 6,
+        "col": 11,
+        "answer": "ANNE"
+      },
+      {
+        "number": 36,
+        "clue": "Spanish uncle",
+        "row": 7,
+        "col": 0,
+        "answer": "TIO"
+      },
+      {
+        "number": 37,
+        "clue": "Relative, in Glasgow",
+        "row": 7,
+        "col": 6,
+        "answer": "EME"
+      },
+      {
+        "number": 38,
+        "clue": "Feature of Swiss muslin",
+        "row": 7,
+        "col": 12,
+        "answer": "DOT"
+      },
+      {
+        "number": 39,
+        "clue": "Make ___ meet",
+        "row": 8,
+        "col": 0,
+        "answer": "ENDS"
+      },
+      {
+        "number": 41,
+        "clue": "Book-jacket ad",
+        "row": 8,
+        "col": 5,
+        "answer": "BLURB"
+      },
+      {
+        "number": 43,
+        "clue": "Actuality",
+        "row": 8,
+        "col": 11,
+        "answer": "FACT"
+      },
+      {
+        "number": 44,
+        "clue": "Impure",
+        "row": 9,
+        "col": 0,
+        "answer": "DEFILED"
+      },
+      {
+        "number": 46,
+        "clue": "Fox-hunter's cry",
+        "row": 9,
+        "col": 8,
+        "answer": "TALLYHO"
+      },
+      {
+        "number": 48,
+        "clue": "Harpers Ferry event",
+        "row": 10,
+        "col": 2,
+        "answer": "RAID"
+      },
+      {
+        "number": 49,
+        "clue": "___ Paulo",
+        "row": 10,
+        "col": 9,
+        "answer": "SAO"
+      },
+      {
+        "number": 50,
+        "clue": "Schoolbooks",
+        "row": 11,
+        "col": 0,
+        "answer": "PRIMERS"
+      },
+      {
+        "number": 53,
+        "clue": "Took the long way round",
+        "row": 11,
+        "col": 8,
+        "answer": "SKIRTED"
+      },
+      {
+        "number": 57,
+        "clue": "Took the bus",
+        "row": 12,
+        "col": 0,
+        "answer": "RODE"
+      },
+      {
+        "number": 58,
+        "clue": "Seasonal lawn findings",
+        "row": 12,
+        "col": 5,
+        "answer": "EASTEREGGS"
+      },
+      {
+        "number": 60,
+        "clue": "Explorer Johnson et al.",
+        "row": 13,
+        "col": 0,
+        "answer": "OSAS"
+      },
+      {
+        "number": 61,
+        "clue": "Trapshooting",
+        "row": 13,
+        "col": 5,
+        "answer": "SKEET"
+      },
+      {
+        "number": 62,
+        "clue": "Rat-___",
+        "row": 13,
+        "col": 11,
+        "answer": "ATAT"
+      },
+      {
+        "number": 63,
+        "clue": "First colonial printer",
+        "row": 14,
+        "col": 0,
+        "answer": "DAYE"
+      },
+      {
+        "number": 64,
+        "clue": "Age group",
+        "row": 14,
+        "col": 5,
+        "answer": "TEENS"
+      },
+      {
+        "number": 65,
+        "clue": "Mind drugs: Abbr.",
+        "row": 14,
+        "col": 11,
+        "answer": "LSDS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Gorge",
+        "row": 0,
+        "col": 0,
+        "answer": "SATE"
+      },
+      {
+        "number": 2,
+        "clue": "\"That's ___ of baloney\"",
+        "row": 0,
+        "col": 1,
+        "answer": "ALOT"
+      },
+      {
+        "number": 3,
+        "clue": "Relative of a top",
+        "row": 0,
+        "col": 2,
+        "answer": "YOYO"
+      },
+      {
+        "number": 4,
+        "clue": "Saratoga or Silver",
+        "row": 0,
+        "col": 3,
+        "answer": "SPRINGS"
+      },
+      {
+        "number": 5,
+        "clue": "Relaxes",
+        "row": 0,
+        "col": 5,
+        "answer": "UNBENDS"
+      },
+      {
+        "number": 6,
+        "clue": "African antelopes",
+        "row": 0,
+        "col": 6,
+        "answer": "KOBS"
+      },
+      {
+        "number": 7,
+        "clue": "\"Where ___?\"",
+        "row": 0,
+        "col": 7,
+        "answer": "AMI"
+      },
+      {
+        "number": 8,
+        "clue": "Mat. days",
+        "row": 0,
+        "col": 8,
+        "answer": "SATS"
+      },
+      {
+        "number": 9,
+        "clue": "Subjugate",
+        "row": 0,
+        "col": 9,
+        "answer": "ENSLAVE"
+      },
+      {
+        "number": 10,
+        "clue": "Endurance",
+        "row": 0,
+        "col": 11,
+        "answer": "STAMINA"
+      },
+      {
+        "number": 11,
+        "clue": "Frond-carrying time",
+        "row": 0,
+        "col": 12,
+        "answer": "PALMSUNDAY"
+      },
+      {
+        "number": 12,
+        "clue": "French weapon",
+        "row": 0,
+        "col": 13,
+        "answer": "ARME"
+      },
+      {
+        "number": 13,
+        "clue": "Evening or dog",
+        "row": 0,
+        "col": 14,
+        "answer": "STAR"
+      },
+      {
+        "number": 18,
+        "clue": "Drug plant",
+        "row": 2,
+        "col": 4,
+        "answer": "ALOE"
+      },
+      {
+        "number": 22,
+        "clue": "Ibsen character",
+        "row": 3,
+        "col": 10,
+        "answer": "ASE"
+      },
+      {
+        "number": 25,
+        "clue": "Estimated",
+        "row": 5,
+        "col": 0,
+        "answer": "RATED"
+      },
+      {
+        "number": 26,
+        "clue": "Chemical compound",
+        "row": 5,
+        "col": 1,
+        "answer": "AMINE"
+      },
+      {
+        "number": 27,
+        "clue": "Seasonal time",
+        "row": 5,
+        "col": 2,
+        "answer": "GOODFRIDAY"
+      },
+      {
+        "number": 28,
+        "clue": "Road-entrance sign",
+        "row": 5,
+        "col": 6,
+        "answer": "YIELD"
+      },
+      {
+        "number": 29,
+        "clue": "Ward off",
+        "row": 5,
+        "col": 8,
+        "answer": "AVERT"
+      },
+      {
+        "number": 30,
+        "clue": "Arden",
+        "row": 5,
+        "col": 13,
+        "answer": "ENOCH"
+      },
+      {
+        "number": 31,
+        "clue": "Brawl",
+        "row": 5,
+        "col": 14,
+        "answer": "SETTO"
+      },
+      {
+        "number": 34,
+        "clue": "Rhea's relative",
+        "row": 6,
+        "col": 7,
+        "answer": "EMU"
+      },
+      {
+        "number": 40,
+        "clue": "Cat or twin",
+        "row": 8,
+        "col": 3,
+        "answer": "SIAMESE"
+      },
+      {
+        "number": 41,
+        "clue": "Doctor's order",
+        "row": 8,
+        "col": 5,
+        "answer": "BEDREST"
+      },
+      {
+        "number": 42,
+        "clue": "Containers for 58 Across",
+        "row": 8,
+        "col": 9,
+        "answer": "BASKETS"
+      },
+      {
+        "number": 43,
+        "clue": "French Revolutionary month",
+        "row": 8,
+        "col": 11,
+        "answer": "FLOREAL"
+      },
+      {
+        "number": 45,
+        "clue": "___ at anchor",
+        "row": 9,
+        "col": 4,
+        "answer": "LIE"
+      },
+      {
+        "number": 47,
+        "clue": "Hiding place",
+        "row": 9,
+        "col": 10,
+        "answer": "LAIR"
+      },
+      {
+        "number": 50,
+        "clue": "Urge",
+        "row": 11,
+        "col": 0,
+        "answer": "PROD"
+      },
+      {
+        "number": 51,
+        "clue": "Bonheur",
+        "row": 11,
+        "col": 1,
+        "answer": "ROSA"
+      },
+      {
+        "number": 52,
+        "clue": "\"For Pete's ___!\"",
+        "row": 11,
+        "col": 6,
+        "answer": "SAKE"
+      },
+      {
+        "number": 53,
+        "clue": "British gun",
+        "row": 11,
+        "col": 8,
+        "answer": "STEN"
+      },
+      {
+        "number": 54,
+        "clue": "Archery items: Abbr.",
+        "row": 11,
+        "col": 12,
+        "answer": "TGTS"
+      },
+      {
+        "number": 55,
+        "clue": "Old oath",
+        "row": 11,
+        "col": 13,
+        "answer": "EGAD"
+      },
+      {
+        "number": 56,
+        "clue": "Summer-time initials",
+        "row": 11,
+        "col": 14,
+        "answer": "DSTS"
+      },
+      {
+        "number": 59,
+        "clue": "Understand",
+        "row": 12,
+        "col": 7,
+        "answer": "SEE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1025 @@
+{
+  "id": "nyt-1976-01-18",
+  "metadata": {
+    "date": "1976-01-18",
+    "title": "REINING IN",
+    "author": "Nancy W. Atkinson",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Sunday"
+  },
+  "size": {
+    "cols": 21,
+    "rows": 21
+  },
+  "grid": [
+    ["C", "H", "E", "K", "H", "O", "V", null, "M", "E", "C", "C", "A", null, "T", "R", "O", "U", "S", "E", "R"],
+    ["I", "O", "N", "E", "S", "C", "O", null, "A", "T", "H", "O", "S", null, "R", "A", "P", "T", "U", "R", "E"],
+    ["C", "L", "A", "Y", "M", "E", "N", null, "C", "H", "E", "C", "K", "O", "U", "T", "T", "I", "M", "E", "S"],
+    ["A", "I", "M", "S", null, "A", "N", "T", "S", null, "C", "H", "E", "C", "K", "S", null, "L", "A", "C", "T"],
+    ["D", "E", "O", null, null, "N", "E", "O", null, "S", "K", "I", "R", "T", null, null, "S", "E", "C", "T", "S"],
+    ["A", "R", "R", "A", null, null, "G", "A", "W", "A", "I", "N", null, "O", "T", "E", "A", null, null, null, null],
+    [null, null, null, "B", "E", "A", "U", null, "E", "R", "N", null, null, "B", "E", "L", "T", null, "O", "L", "A"],
+    ["C", "H", "E", "C", "K", "S", "T", "O", "N", "E", null, "C", "H", "E", "C", "K", "S", "U", "P", "O", "N"],
+    ["H", "A", "N", "S", "E", "L", null, "S", "T", "E", "A", "L", "E", "R", null, null, "U", "S", "A", "G", "E"],
+    ["E", "T", "C", null, null, "A", "R", "E", "A", null, "L", "A", "A", null, "S", "O", "M", "A", "L", "I", null],
+    [null, "C", "H", "E", "C", "K", "E", "R", "B", "O", "A", "R", "D", "S", "Q", "U", "A", "R", "E", "S", null],
+    [null, "H", "A", "M", "L", "E", "T", null, "O", "R", "S", null, "C", "A", "S", "T", null, null, "S", "T", "D"],
+    ["R", "E", "N", "E", "E", null, null, "A", "U", "C", "T", "I", "O", "N", null, "S", "P", "E", "C", "I", "E"],
+    ["A", "C", "T", "U", "A", "L", "I", "S", "T", "S", null, "B", "L", "A", "N", "K", "C", "H", "E", "C", "K"],
+    ["P", "K", "S", null, "R", "U", "F", "F", null, null, "H", "A", "D", null, "O", "I", "S", "E", null, null, null],
+    [null, null, null, null, "E", "G", "E", "R", null, "S", "E", "N", "S", "U", "M", null, null, "H", "A", "T", "H"],
+    ["E", "G", "G", "A", "R", null, null, "E", "T", "T", "A", "S", null, "V", "I", "A", null, null, "B", "R", "O"],
+    ["D", "E", "R", "M", null, "D", "A", "S", "H", "E", "R", null, "G", "A", "S", "P", null, "B", "R", "I", "T"],
+    ["D", "O", "U", "B", "L", "E", "C", "H", "E", "C", "K", "E", "R", null, "T", "I", "D", "I", "E", "S", "T"],
+    ["A", "D", "E", "L", "I", "N", "E", null, "T", "H", "E", "M", "E", null, "I", "S", "O", "L", "A", "T", "E"],
+    ["S", "E", "L", "E", "C", "T", "S", null, "A", "S", "N", "E", "W", null, "C", "H", "E", "K", "K", "E", "R"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"Uncle Vanya\" author",
+        "row": 0,
+        "col": 0,
+        "answer": "CHEKHOV"
+      },
+      {
+        "number": 8,
+        "clue": "Holy city",
+        "row": 0,
+        "col": 8,
+        "answer": "MECCA"
+      },
+      {
+        "number": 13,
+        "clue": "Word with legs or cuffs",
+        "row": 0,
+        "col": 14,
+        "answer": "TROUSER"
+      },
+      {
+        "number": 20,
+        "clue": "Dramatist of the absurd",
+        "row": 1,
+        "col": 0,
+        "answer": "IONESCO"
+      },
+      {
+        "number": 21,
+        "clue": "One of a French trio",
+        "row": 1,
+        "col": 8,
+        "answer": "ATHOS"
+      },
+      {
+        "number": 22,
+        "clue": "Great joy",
+        "row": 1,
+        "col": 14,
+        "answer": "RAPTURE"
+      },
+      {
+        "number": 23,
+        "clue": "Potters",
+        "row": 2,
+        "col": 0,
+        "answer": "CLAYMEN"
+      },
+      {
+        "number": 24,
+        "clue": "Hotel-desk postings",
+        "row": 2,
+        "col": 8,
+        "answer": "CHECKOUTTIMES"
+      },
+      {
+        "number": 26,
+        "clue": "Intends",
+        "row": 3,
+        "col": 0,
+        "answer": "AIMS"
+      },
+      {
+        "number": 27,
+        "clue": "Aardvark food",
+        "row": 3,
+        "col": 5,
+        "answer": "ANTS"
+      },
+      {
+        "number": 29,
+        "clue": "Contents of certain books",
+        "row": 3,
+        "col": 10,
+        "answer": "CHECKS"
+      },
+      {
+        "number": 30,
+        "clue": "Milk: Prefix",
+        "row": 3,
+        "col": 17,
+        "answer": "LACT"
+      },
+      {
+        "number": 31,
+        "clue": "___ volente",
+        "row": 4,
+        "col": 0,
+        "answer": "DEO"
+      },
+      {
+        "number": 32,
+        "clue": "Recent: Prefix",
+        "row": 4,
+        "col": 5,
+        "answer": "NEO"
+      },
+      {
+        "number": 33,
+        "clue": "Bypass closely",
+        "row": 4,
+        "col": 9,
+        "answer": "SKIRT"
+      },
+      {
+        "number": 34,
+        "clue": "Factions",
+        "row": 4,
+        "col": 16,
+        "answer": "SECTS"
+      },
+      {
+        "number": 35,
+        "clue": "Irish cry",
+        "row": 5,
+        "col": 0,
+        "answer": "ARRA"
+      },
+      {
+        "number": 37,
+        "clue": "Arthur's nephew",
+        "row": 5,
+        "col": 6,
+        "answer": "GAWAIN"
+      },
+      {
+        "number": 39,
+        "clue": "Great Barrier Island",
+        "row": 5,
+        "col": 13,
+        "answer": "OTEA"
+      },
+      {
+        "number": 42,
+        "clue": "Geste or Nash",
+        "row": 6,
+        "col": 3,
+        "answer": "BEAU"
+      },
+      {
+        "number": 45,
+        "clue": "Sea flier",
+        "row": 6,
+        "col": 8,
+        "answer": "ERN"
+      },
+      {
+        "number": 46,
+        "clue": "Sing loudly, with \"out\"",
+        "row": 6,
+        "col": 13,
+        "answer": "BELT"
+      },
+      {
+        "number": 47,
+        "clue": "Palm leaf: Var.",
+        "row": 6,
+        "col": 18,
+        "answer": "OLA"
+      },
+      {
+        "number": 50,
+        "clue": "English game pebble",
+        "row": 7,
+        "col": 0,
+        "answer": "CHECKSTONE"
+      },
+      {
+        "number": 54,
+        "clue": "Makes inquiries",
+        "row": 7,
+        "col": 11,
+        "answer": "CHECKSUPON"
+      },
+      {
+        "number": 57,
+        "clue": "Humperdinck boy",
+        "row": 8,
+        "col": 0,
+        "answer": "HANSEL"
+      },
+      {
+        "number": 58,
+        "clue": "Base runner, at times",
+        "row": 8,
+        "col": 7,
+        "answer": "STEALER"
+      },
+      {
+        "number": 60,
+        "clue": "Treatment",
+        "row": 8,
+        "col": 16,
+        "answer": "USAGE"
+      },
+      {
+        "number": 61,
+        "clue": "Common abbr.",
+        "row": 9,
+        "col": 0,
+        "answer": "ETC"
+      },
+      {
+        "number": 62,
+        "clue": "___ code",
+        "row": 9,
+        "col": 5,
+        "answer": "AREA"
+      },
+      {
+        "number": 64,
+        "clue": "Ground defense: Abbr.",
+        "row": 9,
+        "col": 10,
+        "answer": "LAA"
+      },
+      {
+        "number": 65,
+        "clue": "African native",
+        "row": 9,
+        "col": 14,
+        "answer": "SOMALI"
+      },
+      {
+        "number": 67,
+        "clue": "Stopovers for game pieces",
+        "row": 10,
+        "col": 1,
+        "answer": "CHECKERBOARDSQUARES"
+      },
+      {
+        "number": 72,
+        "clue": "Whistle stop",
+        "row": 11,
+        "col": 1,
+        "answer": "HAMLET"
+      },
+      {
+        "number": 73,
+        "clue": "Gold tinctures",
+        "row": 11,
+        "col": 8,
+        "answer": "ORS"
+      },
+      {
+        "number": 74,
+        "clue": "Plaster item",
+        "row": 11,
+        "col": 12,
+        "answer": "CAST"
+      },
+      {
+        "number": 75,
+        "clue": "Rockefeller's oil: Abbr.",
+        "row": 11,
+        "col": 18,
+        "answer": "STD"
+      },
+      {
+        "number": 77,
+        "clue": "Miss Adoree",
+        "row": 12,
+        "col": 0,
+        "answer": "RENEE"
+      },
+      {
+        "number": 78,
+        "clue": "Contract's predecessor",
+        "row": 12,
+        "col": 7,
+        "answer": "AUCTION"
+      },
+      {
+        "number": 80,
+        "clue": "Coin",
+        "row": 12,
+        "col": 15,
+        "answer": "SPECIE"
+      },
+      {
+        "number": 83,
+        "clue": "Realists",
+        "row": 13,
+        "col": 0,
+        "answer": "ACTUALISTS"
+      },
+      {
+        "number": 86,
+        "clue": "Full go-ahead",
+        "row": 13,
+        "col": 11,
+        "answer": "BLANKCHECK"
+      },
+      {
+        "number": 88,
+        "clue": "Estes and Menlo: Abbr.",
+        "row": 14,
+        "col": 0,
+        "answer": "PKS"
+      },
+      {
+        "number": 89,
+        "clue": "Bird plumage",
+        "row": 14,
+        "col": 4,
+        "answer": "RUFF"
+      },
+      {
+        "number": 90,
+        "clue": "Owned",
+        "row": 14,
+        "col": 10,
+        "answer": "HAD"
+      },
+      {
+        "number": 91,
+        "clue": "Creil's river",
+        "row": 14,
+        "col": 14,
+        "answer": "OISE"
+      },
+      {
+        "number": 92,
+        "clue": "Elbe tributary",
+        "row": 15,
+        "col": 4,
+        "answer": "EGER"
+      },
+      {
+        "number": 93,
+        "clue": "Object of perception",
+        "row": 15,
+        "col": 9,
+        "answer": "SENSUM"
+      },
+      {
+        "number": 95,
+        "clue": "\"What ___ God wrought!\"",
+        "row": 15,
+        "col": 17,
+        "answer": "HATH"
+      },
+      {
+        "number": 99,
+        "clue": "Samantha",
+        "row": 16,
+        "col": 0,
+        "answer": "EGGAR"
+      },
+      {
+        "number": 103,
+        "clue": "Miss Kett et al.",
+        "row": 16,
+        "col": 7,
+        "answer": "ETTAS"
+      },
+      {
+        "number": 105,
+        "clue": "Roman way",
+        "row": 16,
+        "col": 13,
+        "answer": "VIA"
+      },
+      {
+        "number": 107,
+        "clue": "Relative: Abbr.",
+        "row": 16,
+        "col": 18,
+        "answer": "BRO"
+      },
+      {
+        "number": 108,
+        "clue": "Skin",
+        "row": 17,
+        "col": 0,
+        "answer": "DERM"
+      },
+      {
+        "number": 109,
+        "clue": "Sleigh puller",
+        "row": 17,
+        "col": 5,
+        "answer": "DASHER"
+      },
+      {
+        "number": 111,
+        "clue": "Show surprise",
+        "row": 17,
+        "col": 12,
+        "answer": "GASP"
+      },
+      {
+        "number": 112,
+        "clue": "Small herring",
+        "row": 17,
+        "col": 17,
+        "answer": "BRIT"
+      },
+      {
+        "number": 113,
+        "clue": "Accurate one",
+        "row": 18,
+        "col": 0,
+        "answer": "DOUBLECHECKER"
+      },
+      {
+        "number": 116,
+        "clue": "Most trim",
+        "row": 18,
+        "col": 14,
+        "answer": "TIDIEST"
+      },
+      {
+        "number": 118,
+        "clue": "Harmonizers' girl",
+        "row": 19,
+        "col": 0,
+        "answer": "ADELINE"
+      },
+      {
+        "number": 119,
+        "clue": "Type of song",
+        "row": 19,
+        "col": 8,
+        "answer": "THEME"
+      },
+      {
+        "number": 120,
+        "clue": "Set apart",
+        "row": 19,
+        "col": 14,
+        "answer": "ISOLATE"
+      },
+      {
+        "number": 121,
+        "clue": "Picks",
+        "row": 20,
+        "col": 0,
+        "answer": "SELECTS"
+      },
+      {
+        "number": 122,
+        "clue": "As good ___",
+        "row": 20,
+        "col": 8,
+        "answer": "ASNEW"
+      },
+      {
+        "number": 123,
+        "clue": "Early stringed instrument",
+        "row": 20,
+        "col": 14,
+        "answer": "CHEKKER"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Large insect",
+        "row": 0,
+        "col": 0,
+        "answer": "CICADA"
+      },
+      {
+        "number": 2,
+        "clue": "\"___ than thou\"",
+        "row": 0,
+        "col": 1,
+        "answer": "HOLIER"
+      },
+      {
+        "number": 3,
+        "clue": "Charm",
+        "row": 0,
+        "col": 2,
+        "answer": "ENAMOR"
+      },
+      {
+        "number": 4,
+        "clue": "Florida sights",
+        "row": 0,
+        "col": 3,
+        "answer": "KEYS"
+      },
+      {
+        "number": 5,
+        "clue": "Royal initials",
+        "row": 0,
+        "col": 4,
+        "answer": "HSM"
+      },
+      {
+        "number": 6,
+        "clue": "Kind of ography",
+        "row": 0,
+        "col": 5,
+        "answer": "OCEAN"
+      },
+      {
+        "number": 7,
+        "clue": "Author Kurt",
+        "row": 0,
+        "col": 6,
+        "answer": "VONNEGUT"
+      },
+      {
+        "number": 8,
+        "clue": "Raincoats, for short",
+        "row": 0,
+        "col": 8,
+        "answer": "MACS"
+      },
+      {
+        "number": 9,
+        "clue": "Moral: Abbr.",
+        "row": 0,
+        "col": 9,
+        "answer": "ETH"
+      },
+      {
+        "number": 10,
+        "clue": "Begin a hotel visit",
+        "row": 0,
+        "col": 10,
+        "answer": "CHECKIN"
+      },
+      {
+        "number": 11,
+        "clue": "Chinese fowl",
+        "row": 0,
+        "col": 11,
+        "answer": "COCHIN"
+      },
+      {
+        "number": 12,
+        "clue": "Suppliant",
+        "row": 0,
+        "col": 12,
+        "answer": "ASKER"
+      },
+      {
+        "number": 13,
+        "clue": "Japanese bastion of W.W. II",
+        "row": 0,
+        "col": 14,
+        "answer": "TRUK"
+      },
+      {
+        "number": 14,
+        "clue": "Zounds!",
+        "row": 0,
+        "col": 15,
+        "answer": "RATS"
+      },
+      {
+        "number": 15,
+        "clue": "Decide",
+        "row": 0,
+        "col": 16,
+        "answer": "OPT"
+      },
+      {
+        "number": 16,
+        "clue": "Practical",
+        "row": 0,
+        "col": 17,
+        "answer": "UTILE"
+      },
+      {
+        "number": 17,
+        "clue": "Common field plant",
+        "row": 0,
+        "col": 18,
+        "answer": "SUMAC"
+      },
+      {
+        "number": 18,
+        "clue": "Establish",
+        "row": 0,
+        "col": 19,
+        "answer": "ERECT"
+      },
+      {
+        "number": 19,
+        "clue": "Shelters or hostels",
+        "row": 0,
+        "col": 20,
+        "answer": "RESTS"
+      },
+      {
+        "number": 25,
+        "clue": "1905 manifesto",
+        "row": 2,
+        "col": 13,
+        "answer": "OCTOBER"
+      },
+      {
+        "number": 28,
+        "clue": "___ tee",
+        "row": 3,
+        "col": 7,
+        "answer": "TOA"
+      },
+      {
+        "number": 33,
+        "clue": "Hindu garment",
+        "row": 4,
+        "col": 9,
+        "answer": "SAREE"
+      },
+      {
+        "number": 34,
+        "clue": "Japanese orange",
+        "row": 4,
+        "col": 16,
+        "answer": "SATSUMA"
+      },
+      {
+        "number": 36,
+        "clue": "Fundamentals",
+        "row": 5,
+        "col": 3,
+        "answer": "ABCS"
+      },
+      {
+        "number": 38,
+        "clue": "Traveled widely",
+        "row": 5,
+        "col": 8,
+        "answer": "WENTABOUT"
+      },
+      {
+        "number": 40,
+        "clue": "Flatfoot's relative",
+        "row": 5,
+        "col": 14,
+        "answer": "TEC"
+      },
+      {
+        "number": 41,
+        "clue": "Social-club member",
+        "row": 5,
+        "col": 15,
+        "answer": "ELK"
+      },
+      {
+        "number": 43,
+        "clue": "Squeeze out",
+        "row": 6,
+        "col": 4,
+        "answer": "EKE"
+      },
+      {
+        "number": 44,
+        "clue": "Abate, old style",
+        "row": 6,
+        "col": 5,
+        "answer": "ASLAKE"
+      },
+      {
+        "number": 47,
+        "clue": "Give out iridescence",
+        "row": 6,
+        "col": 18,
+        "answer": "OPALESCE"
+      },
+      {
+        "number": 48,
+        "clue": "Of a military science",
+        "row": 6,
+        "col": 19,
+        "answer": "LOGISTIC"
+      },
+      {
+        "number": 49,
+        "clue": "Carbon: Suffix",
+        "row": 6,
+        "col": 20,
+        "answer": "ANE"
+      },
+      {
+        "number": 50,
+        "clue": "Guevara",
+        "row": 7,
+        "col": 0,
+        "answer": "CHE"
+      },
+      {
+        "number": 51,
+        "clue": "Kind of girl",
+        "row": 7,
+        "col": 1,
+        "answer": "HATCHECK"
+      },
+      {
+        "number": 52,
+        "clue": "Delights",
+        "row": 7,
+        "col": 2,
+        "answer": "ENCHANTS"
+      },
+      {
+        "number": 53,
+        "clue": "Dare: Fr.",
+        "row": 7,
+        "col": 7,
+        "answer": "OSER"
+      },
+      {
+        "number": 54,
+        "clue": "Goodman's instr.",
+        "row": 7,
+        "col": 11,
+        "answer": "CLAR"
+      },
+      {
+        "number": 55,
+        "clue": "Sniffles",
+        "row": 7,
+        "col": 12,
+        "answer": "HEADCOLDS"
+      },
+      {
+        "number": 56,
+        "clue": "Asian grass",
+        "row": 7,
+        "col": 17,
+        "answer": "USAR"
+      },
+      {
+        "number": 59,
+        "clue": "As ___ resort",
+        "row": 8,
+        "col": 10,
+        "answer": "ALAST"
+      },
+      {
+        "number": 63,
+        "clue": "Soak",
+        "row": 9,
+        "col": 6,
+        "answer": "RET"
+      },
+      {
+        "number": 65,
+        "clue": "Trafalgar and Times: Abbr.",
+        "row": 9,
+        "col": 14,
+        "answer": "SQS"
+      },
+      {
+        "number": 66,
+        "clue": "Excel in the slalom",
+        "row": 9,
+        "col": 15,
+        "answer": "OUTSKI"
+      },
+      {
+        "number": 68,
+        "clue": "Tall bird",
+        "row": 10,
+        "col": 3,
+        "answer": "EMEU"
+      },
+      {
+        "number": 69,
+        "clue": "Less smoggy",
+        "row": 10,
+        "col": 4,
+        "answer": "CLEARER"
+      },
+      {
+        "number": 70,
+        "clue": "Grampuses",
+        "row": 10,
+        "col": 9,
+        "answer": "ORCS"
+      },
+      {
+        "number": 71,
+        "clue": "Arabian capital",
+        "row": 10,
+        "col": 13,
+        "answer": "SANA"
+      },
+      {
+        "number": 76,
+        "clue": "Ten: Prefix",
+        "row": 11,
+        "col": 20,
+        "answer": "DEK"
+      },
+      {
+        "number": 77,
+        "clue": "Door sound",
+        "row": 12,
+        "col": 0,
+        "answer": "RAP"
+      },
+      {
+        "number": 78,
+        "clue": "___ as a daisy",
+        "row": 12,
+        "col": 7,
+        "answer": "ASFRESH"
+      },
+      {
+        "number": 79,
+        "clue": "Borneo natives",
+        "row": 12,
+        "col": 11,
+        "answer": "IBANS"
+      },
+      {
+        "number": 81,
+        "clue": "Portions: Abbr.",
+        "row": 12,
+        "col": 16,
+        "answer": "PCS"
+      },
+      {
+        "number": 82,
+        "clue": "Querying sounds",
+        "row": 12,
+        "col": 17,
+        "answer": "EHEH"
+      },
+      {
+        "number": 84,
+        "clue": "Haul",
+        "row": 13,
+        "col": 5,
+        "answer": "LUG"
+      },
+      {
+        "number": 85,
+        "clue": "Bowstring hemp",
+        "row": 13,
+        "col": 6,
+        "answer": "IFE"
+      },
+      {
+        "number": 87,
+        "clue": "Based on moral law",
+        "row": 13,
+        "col": 14,
+        "answer": "NOMISTIC"
+      },
+      {
+        "number": 90,
+        "clue": "Listen carefully",
+        "row": 14,
+        "col": 10,
+        "answer": "HEARKEN"
+      },
+      {
+        "number": 93,
+        "clue": "Crams, in Scotland",
+        "row": 15,
+        "col": 9,
+        "answer": "STECHS"
+      },
+      {
+        "number": 94,
+        "clue": "Grape",
+        "row": 15,
+        "col": 13,
+        "answer": "UVA"
+      },
+      {
+        "number": 96,
+        "clue": "Take ___ (rest)",
+        "row": 15,
+        "col": 18,
+        "answer": "ABREAK"
+      },
+      {
+        "number": 97,
+        "clue": "Sad, in Dijon",
+        "row": 15,
+        "col": 19,
+        "answer": "TRISTE"
+      },
+      {
+        "number": 98,
+        "clue": "More biting",
+        "row": 15,
+        "col": 20,
+        "answer": "HOTTER"
+      },
+      {
+        "number": 99,
+        "clue": "Norse tales",
+        "row": 16,
+        "col": 0,
+        "answer": "EDDAS"
+      },
+      {
+        "number": 100,
+        "clue": "Hollow stone",
+        "row": 16,
+        "col": 1,
+        "answer": "GEODE"
+      },
+      {
+        "number": 101,
+        "clue": "Thin cereal",
+        "row": 16,
+        "col": 2,
+        "answer": "GRUEL"
+      },
+      {
+        "number": 102,
+        "clue": "Stroll along",
+        "row": 16,
+        "col": 3,
+        "answer": "AMBLE"
+      },
+      {
+        "number": 104,
+        "clue": "Greek letter",
+        "row": 16,
+        "col": 8,
+        "answer": "THETA"
+      },
+      {
+        "number": 106,
+        "clue": "Clownlike",
+        "row": 16,
+        "col": 15,
+        "answer": "APISH"
+      },
+      {
+        "number": 109,
+        "clue": "Parking-lot hazard",
+        "row": 17,
+        "col": 5,
+        "answer": "DENT"
+      },
+      {
+        "number": 110,
+        "clue": "Honor cards",
+        "row": 17,
+        "col": 6,
+        "answer": "ACES"
+      },
+      {
+        "number": 111,
+        "clue": "Expanded",
+        "row": 17,
+        "col": 12,
+        "answer": "GREW"
+      },
+      {
+        "number": 112,
+        "clue": "Swindle",
+        "row": 17,
+        "col": 17,
+        "answer": "BILK"
+      },
+      {
+        "number": 114,
+        "clue": "Auto plate: Abbr.",
+        "row": 18,
+        "col": 4,
+        "answer": "LIC"
+      },
+      {
+        "number": 115,
+        "clue": "Uncle, in Perth",
+        "row": 18,
+        "col": 11,
+        "answer": "EME"
+      },
+      {
+        "number": 117,
+        "clue": "Deer",
+        "row": 18,
+        "col": 16,
+        "answer": "DOE"
+      }
+    ]
+  }
+}

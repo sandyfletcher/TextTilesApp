@@ -1,0 +1,543 @@
+{
+  "id": "nyt-1977-09-17",
+  "metadata": {
+    "date": "1977-09-17",
+    "title": "NY TIMES, SAT, SEP 17, 1977",
+    "author": "Samuel K. Fliegner",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["G", "A", "R", "B", null, null, "O", "L", "D", "E", null, "D", "A", "M", "P"],
+    ["R", "O", "U", "E", null, "T", "R", "A", "I", "N", null, "R", "E", "A", "R"],
+    ["I", "N", "N", "S", null, "H", "A", "Y", "E", "S", null, "A", "R", "L", "O"],
+    ["P", "E", "T", "E", "R", "A", "N", "D", "T", "H", "E", "W", "O", "L", "F"],
+    [null, null, null, "T", "O", "N", "T", "O", null, "R", "E", "A", null, null, null],
+    ["B", "R", "O", "W", "S", "E", null, "W", "E", "I", "R", "D", "O", "S", null],
+    ["L", "A", "V", "I", "E", null, "A", "N", "O", "N", null, "E", "R", "I", "E"],
+    ["A", "B", "E", "T", null, "P", "R", "O", "N", "E", null, "E", "A", "R", "N"],
+    ["B", "A", "T", "H", null, "H", "A", "N", "S", null, "O", "P", "T", "E", "D"],
+    [null, "T", "A", "D", "P", "O", "L", "E", null, "A", "B", "B", "E", "S", "S"],
+    [null, null, null, "A", "P", "T", null, "S", "A", "V", "O", "R", null, null, null],
+    ["H", "O", "R", "N", "S", "O", "F", "A", "D", "I", "L", "E", "M", "M", "A"],
+    ["A", "G", "O", "G", null, "M", "A", "R", "I", "A", null, "A", "O", "U", "T"],
+    ["I", "L", "L", "E", null, "A", "M", "M", "O", "N", null, "T", "R", "I", "M"],
+    ["L", "E", "E", "R", null, "P", "A", "S", "S", null, null, "H", "E", "R", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Apparel",
+        "row": 0,
+        "col": 0,
+        "answer": "GARB"
+      },
+      {
+        "number": 5,
+        "clue": "Ye ___ tea shoppe",
+        "row": 0,
+        "col": 6,
+        "answer": "OLDE"
+      },
+      {
+        "number": 9,
+        "clue": "Clammy",
+        "row": 0,
+        "col": 11,
+        "answer": "DAMP"
+      },
+      {
+        "number": 13,
+        "clue": "Libertine",
+        "row": 1,
+        "col": 0,
+        "answer": "ROUE"
+      },
+      {
+        "number": 14,
+        "clue": "The late Orient Express",
+        "row": 1,
+        "col": 5,
+        "answer": "TRAIN"
+      },
+      {
+        "number": 15,
+        "clue": "Place for a caboose",
+        "row": 1,
+        "col": 11,
+        "answer": "REAR"
+      },
+      {
+        "number": 16,
+        "clue": "British ___ of Court",
+        "row": 2,
+        "col": 0,
+        "answer": "INNS"
+      },
+      {
+        "number": 17,
+        "clue": "Grant's successor",
+        "row": 2,
+        "col": 5,
+        "answer": "HAYES"
+      },
+      {
+        "number": 18,
+        "clue": "Guthrie",
+        "row": 2,
+        "col": 11,
+        "answer": "ARLO"
+      },
+      {
+        "number": 19,
+        "clue": "Prokofiev orchestral fairy tale",
+        "row": 3,
+        "col": 0,
+        "answer": "PETERANDTHEWOLF"
+      },
+      {
+        "number": 22,
+        "clue": "Radio role of Jay Silverheels",
+        "row": 4,
+        "col": 3,
+        "answer": "TONTO"
+      },
+      {
+        "number": 23,
+        "clue": "Agcy. that electrified rural America",
+        "row": 4,
+        "col": 9,
+        "answer": "REA"
+      },
+      {
+        "number": 24,
+        "clue": "Sample the library",
+        "row": 5,
+        "col": 0,
+        "answer": "BROWSE"
+      },
+      {
+        "number": 27,
+        "clue": "Kooks",
+        "row": 5,
+        "col": 7,
+        "answer": "WEIRDOS"
+      },
+      {
+        "number": 31,
+        "clue": "\"C'est ___!\"",
+        "row": 6,
+        "col": 0,
+        "answer": "LAVIE"
+      },
+      {
+        "number": 32,
+        "clue": "Unsigned, for short",
+        "row": 6,
+        "col": 6,
+        "answer": "ANON"
+      },
+      {
+        "number": 33,
+        "clue": "Iroquoian",
+        "row": 6,
+        "col": 11,
+        "answer": "ERIE"
+      },
+      {
+        "number": 35,
+        "clue": "Conspire, in a way",
+        "row": 7,
+        "col": 0,
+        "answer": "ABET"
+      },
+      {
+        "number": 36,
+        "clue": "Recumbent",
+        "row": 7,
+        "col": 5,
+        "answer": "PRONE"
+      },
+      {
+        "number": 37,
+        "clue": "Attain justly",
+        "row": 7,
+        "col": 11,
+        "answer": "EARN"
+      },
+      {
+        "number": 38,
+        "clue": "Darkroom receptacle",
+        "row": 8,
+        "col": 0,
+        "answer": "BATH"
+      },
+      {
+        "number": 39,
+        "clue": "Brinker of fiction",
+        "row": 8,
+        "col": 5,
+        "answer": "HANS"
+      },
+      {
+        "number": 40,
+        "clue": "Chose",
+        "row": 8,
+        "col": 10,
+        "answer": "OPTED"
+      },
+      {
+        "number": 41,
+        "clue": "Polliwog",
+        "row": 9,
+        "col": 1,
+        "answer": "TADPOLE"
+      },
+      {
+        "number": 43,
+        "clue": "Religious superior",
+        "row": 9,
+        "col": 9,
+        "answer": "ABBESS"
+      },
+      {
+        "number": 44,
+        "clue": "Fitting",
+        "row": 10,
+        "col": 3,
+        "answer": "APT"
+      },
+      {
+        "number": 45,
+        "clue": "Relish",
+        "row": 10,
+        "col": 7,
+        "answer": "SAVOR"
+      },
+      {
+        "number": 47,
+        "clue": "Two difficult alternatives",
+        "row": 11,
+        "col": 0,
+        "answer": "HORNSOFADILEMMA"
+      },
+      {
+        "number": 54,
+        "clue": "Keyed up",
+        "row": 12,
+        "col": 0,
+        "answer": "AGOG"
+      },
+      {
+        "number": 55,
+        "clue": "Callas or Tallchief",
+        "row": 12,
+        "col": 5,
+        "answer": "MARIA"
+      },
+      {
+        "number": 56,
+        "clue": "August, in Paris",
+        "row": 12,
+        "col": 11,
+        "answer": "AOUT"
+      },
+      {
+        "number": 57,
+        "clue": "He, to Hadrian",
+        "row": 13,
+        "col": 0,
+        "answer": "ILLE"
+      },
+      {
+        "number": 58,
+        "clue": "Biblical land, east of the Jordan",
+        "row": 13,
+        "col": 5,
+        "answer": "AMMON"
+      },
+      {
+        "number": 59,
+        "clue": "Svelte",
+        "row": 13,
+        "col": 11,
+        "answer": "TRIM"
+      },
+      {
+        "number": 60,
+        "clue": "Glance askance",
+        "row": 14,
+        "col": 0,
+        "answer": "LEER"
+      },
+      {
+        "number": 61,
+        "clue": "Khyber or Donner",
+        "row": 14,
+        "col": 5,
+        "answer": "PASS"
+      },
+      {
+        "number": 62,
+        "clue": "Start of an epitaph",
+        "row": 14,
+        "col": 11,
+        "answer": "HERE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Stagehand",
+        "row": 0,
+        "col": 0,
+        "answer": "GRIP"
+      },
+      {
+        "number": 2,
+        "clue": "Topflight",
+        "row": 0,
+        "col": 1,
+        "answer": "AONE"
+      },
+      {
+        "number": 3,
+        "clue": "Smallest of a litter",
+        "row": 0,
+        "col": 2,
+        "answer": "RUNT"
+      },
+      {
+        "number": 4,
+        "clue": "Perilous",
+        "row": 0,
+        "col": 3,
+        "answer": "BESETWITHDANGER"
+      },
+      {
+        "number": 5,
+        "clue": "Praying female figure",
+        "row": 0,
+        "col": 6,
+        "answer": "ORANT"
+      },
+      {
+        "number": 6,
+        "clue": "Surrender",
+        "row": 0,
+        "col": 7,
+        "answer": "LAYDOWNONESARMS"
+      },
+      {
+        "number": 7,
+        "clue": "Bantingize",
+        "row": 0,
+        "col": 8,
+        "answer": "DIET"
+      },
+      {
+        "number": 8,
+        "clue": "Cherish as sacred",
+        "row": 0,
+        "col": 9,
+        "answer": "ENSHRINE"
+      },
+      {
+        "number": 9,
+        "clue": "Sigh with relief",
+        "row": 0,
+        "col": 11,
+        "answer": "DRAWADEEPBREATH"
+      },
+      {
+        "number": 10,
+        "clue": "Prefix with sol or stat",
+        "row": 0,
+        "col": 12,
+        "answer": "AERO"
+      },
+      {
+        "number": 11,
+        "clue": "Suburban shopping center",
+        "row": 0,
+        "col": 13,
+        "answer": "MALL"
+      },
+      {
+        "number": 12,
+        "clue": "One of the prexy's staff",
+        "row": 0,
+        "col": 14,
+        "answer": "PROF"
+      },
+      {
+        "number": 14,
+        "clue": "Banquo, for one",
+        "row": 1,
+        "col": 5,
+        "answer": "THANE"
+      },
+      {
+        "number": 20,
+        "clue": "Kind of wine",
+        "row": 3,
+        "col": 4,
+        "answer": "ROSE"
+      },
+      {
+        "number": 21,
+        "clue": "\"All that wealth ___ gave\": Gray",
+        "row": 3,
+        "col": 10,
+        "answer": "EER"
+      },
+      {
+        "number": 24,
+        "clue": "Spill the beans",
+        "row": 5,
+        "col": 0,
+        "answer": "BLAB"
+      },
+      {
+        "number": 25,
+        "clue": "Moroccan capital",
+        "row": 5,
+        "col": 1,
+        "answer": "RABAT"
+      },
+      {
+        "number": 26,
+        "clue": "___ Culp Hobby",
+        "row": 5,
+        "col": 2,
+        "answer": "OVETA"
+      },
+      {
+        "number": 28,
+        "clue": "Cosmic cycles",
+        "row": 5,
+        "col": 8,
+        "answer": "EONS"
+      },
+      {
+        "number": 29,
+        "clue": "Hold forth",
+        "row": 5,
+        "col": 12,
+        "answer": "ORATE"
+      },
+      {
+        "number": 30,
+        "clue": "Progenitors",
+        "row": 5,
+        "col": 13,
+        "answer": "SIRES"
+      },
+      {
+        "number": 32,
+        "clue": "Russian sea",
+        "row": 6,
+        "col": 6,
+        "answer": "ARAL"
+      },
+      {
+        "number": 34,
+        "clue": "At loose ___",
+        "row": 6,
+        "col": 14,
+        "answer": "ENDS"
+      },
+      {
+        "number": 36,
+        "clue": "Aerial mosaic",
+        "row": 7,
+        "col": 5,
+        "answer": "PHOTOMAP"
+      },
+      {
+        "number": 40,
+        "clue": "One-sixth of a drachma",
+        "row": 8,
+        "col": 10,
+        "answer": "OBOL"
+      },
+      {
+        "number": 42,
+        "clue": "Afterthought No. 2 on a letter",
+        "row": 9,
+        "col": 4,
+        "answer": "PPS"
+      },
+      {
+        "number": 43,
+        "clue": "Of doves, hawks, etc.",
+        "row": 9,
+        "col": 9,
+        "answer": "AVIAN"
+      },
+      {
+        "number": 46,
+        "clue": "Barrio farewell",
+        "row": 10,
+        "col": 8,
+        "answer": "ADIOS"
+      },
+      {
+        "number": 47,
+        "clue": "\"___ to thee, blithe spirit!\": Shelley",
+        "row": 11,
+        "col": 0,
+        "answer": "HAIL"
+      },
+      {
+        "number": 48,
+        "clue": "Give the once-over",
+        "row": 11,
+        "col": 1,
+        "answer": "OGLE"
+      },
+      {
+        "number": 49,
+        "clue": "Gremio or Grumio",
+        "row": 11,
+        "col": 2,
+        "answer": "ROLE"
+      },
+      {
+        "number": 50,
+        "clue": "Rumor personified",
+        "row": 11,
+        "col": 6,
+        "answer": "FAMA"
+      },
+      {
+        "number": 51,
+        "clue": "\"Utopia\" visionary",
+        "row": 11,
+        "col": 12,
+        "answer": "MORE"
+      },
+      {
+        "number": 52,
+        "clue": "Glacier in Alaska",
+        "row": 11,
+        "col": 13,
+        "answer": "MUIR"
+      },
+      {
+        "number": 53,
+        "clue": "\"Ma, He's Making Eyes ___\"",
+        "row": 11,
+        "col": 14,
+        "answer": "ATME"
+      }
+    ]
+  }
+}

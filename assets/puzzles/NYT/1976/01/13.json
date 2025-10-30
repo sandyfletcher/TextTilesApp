@@ -1,0 +1,543 @@
+{
+  "id": "nyt-1976-01-13",
+  "metadata": {
+    "date": "1976-01-13",
+    "title": "NY TIMES, TUE, JAN 13, 1976",
+    "author": "George Madrid",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "P", "L", null, "R", "E", "H", "A", "B", null, "S", "W", "O", "O", "P"],
+    ["N", "R", "A", null, "A", "T", "O", "N", "E", null, "W", "H", "A", "L", "E"],
+    ["D", "A", "D", null, "T", "U", "N", "I", "C", null, "E", "A", "T", "E", "N"],
+    ["I", "W", "I", "S", "H", "I", "D", "S", "A", "I", "D", "T", "H", "A", "T"],
+    [null, "N", "E", "T", null, null, null, "E", "L", "L", "E", "N", null, null, null],
+    [null, null, "S", "I", "L", "O", "S", null, "M", "A", "S", "O", "N", "I", "C"],
+    ["B", "A", "C", "C", "A", "R", "A", "T", null, null, null, "N", "O", "N", "O"],
+    ["A", "L", "L", "K", "I", "D", "D", "I", "N", "G", "A", "S", "I", "D", "E"],
+    ["L", "O", "U", "T", null, null, null, "L", "O", "O", "S", "E", "S", "O", "D"],
+    ["D", "E", "B", "O", "R", "A", "H", null, "B", "O", "O", "N", "E", null, null],
+    [null, null, null, "I", "O", "N", "I", "C", null, null, null, "S", "M", "U", null],
+    ["L", "A", "S", "T", "B", "U", "T", "N", "O", "T", "L", "E", "A", "S", "T"],
+    ["A", "V", "A", "I", "L", null, "F", "O", "L", "I", "O", null, "K", "U", "I"],
+    ["V", "A", "L", "V", "E", null, "O", "T", "E", "L", "S", null, "E", "R", "R"],
+    ["A", "N", "T", "E", "S", null, "R", "E", "S", "E", "T", null, "R", "Y", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Calendar abbr.",
+        "row": 0,
+        "col": 0,
+        "answer": "APL"
+      },
+      {
+        "number": 4,
+        "clue": "Therapy program, for short",
+        "row": 0,
+        "col": 4,
+        "answer": "REHAB"
+      },
+      {
+        "number": 9,
+        "clue": "Fly like a bat",
+        "row": 0,
+        "col": 10,
+        "answer": "SWOOP"
+      },
+      {
+        "number": 14,
+        "clue": "Depression org.",
+        "row": 1,
+        "col": 0,
+        "answer": "NRA"
+      },
+      {
+        "number": 15,
+        "clue": "Expiate",
+        "row": 1,
+        "col": 4,
+        "answer": "ATONE"
+      },
+      {
+        "number": 16,
+        "clue": "Killer or gray",
+        "row": 1,
+        "col": 10,
+        "answer": "WHALE"
+      },
+      {
+        "number": 17,
+        "clue": "Annual honoree",
+        "row": 2,
+        "col": 0,
+        "answer": "DAD"
+      },
+      {
+        "number": 18,
+        "clue": "Garment for Socrates",
+        "row": 2,
+        "col": 4,
+        "answer": "TUNIC"
+      },
+      {
+        "number": 19,
+        "clue": "Worn away",
+        "row": 2,
+        "col": 10,
+        "answer": "EATEN"
+      },
+      {
+        "number": 20,
+        "clue": "Envious listener's thought",
+        "row": 3,
+        "col": 0,
+        "answer": "IWISHIDSAIDTHAT"
+      },
+      {
+        "number": 23,
+        "clue": "Court barrier",
+        "row": 4,
+        "col": 1,
+        "answer": "NET"
+      },
+      {
+        "number": 24,
+        "clue": "Actress Terry",
+        "row": 4,
+        "col": 7,
+        "answer": "ELLEN"
+      },
+      {
+        "number": 25,
+        "clue": "Farm sights",
+        "row": 5,
+        "col": 2,
+        "answer": "SILOS"
+      },
+      {
+        "number": 29,
+        "clue": "Of a fraternal order",
+        "row": 5,
+        "col": 8,
+        "answer": "MASONIC"
+      },
+      {
+        "number": 33,
+        "clue": "Monte Carlo game",
+        "row": 6,
+        "col": 0,
+        "answer": "BACCARAT"
+      },
+      {
+        "number": 36,
+        "clue": "Minor prohibition",
+        "row": 6,
+        "col": 11,
+        "answer": "NONO"
+      },
+      {
+        "number": 37,
+        "clue": "Speaker's clich\u00e9",
+        "row": 7,
+        "col": 0,
+        "answer": "ALLKIDDINGASIDE"
+      },
+      {
+        "number": 41,
+        "clue": "Clumsy one",
+        "row": 8,
+        "col": 0,
+        "answer": "LOUT"
+      },
+      {
+        "number": 42,
+        "clue": "Golf hacker's leavings",
+        "row": 8,
+        "col": 7,
+        "answer": "LOOSESOD"
+      },
+      {
+        "number": 43,
+        "clue": "Miss Kerr",
+        "row": 9,
+        "col": 0,
+        "answer": "DEBORAH"
+      },
+      {
+        "number": 47,
+        "clue": "Daniel or Pat",
+        "row": 9,
+        "col": 8,
+        "answer": "BOONE"
+      },
+      {
+        "number": 48,
+        "clue": "Greek-column type",
+        "row": 10,
+        "col": 3,
+        "answer": "IONIC"
+      },
+      {
+        "number": 50,
+        "clue": "Texas campus",
+        "row": 10,
+        "col": 11,
+        "answer": "SMU"
+      },
+      {
+        "number": 52,
+        "clue": "Emcee's clich\u00e9",
+        "row": 11,
+        "col": 0,
+        "answer": "LASTBUTNOTLEAST"
+      },
+      {
+        "number": 59,
+        "clue": "Help",
+        "row": 12,
+        "col": 0,
+        "answer": "AVAIL"
+      },
+      {
+        "number": 60,
+        "clue": "Page number",
+        "row": 12,
+        "col": 6,
+        "answer": "FOLIO"
+      },
+      {
+        "number": 61,
+        "clue": "Asian language",
+        "row": 12,
+        "col": 12,
+        "answer": "KUI"
+      },
+      {
+        "number": 62,
+        "clue": "Trombone part",
+        "row": 13,
+        "col": 0,
+        "answer": "VALVE"
+      },
+      {
+        "number": 63,
+        "clue": "Inns, in Soho",
+        "row": 13,
+        "col": 6,
+        "answer": "OTELS"
+      },
+      {
+        "number": 64,
+        "clue": "Slip up",
+        "row": 13,
+        "col": 12,
+        "answer": "ERR"
+      },
+      {
+        "number": 65,
+        "clue": "TV's Johnson et al.",
+        "row": 14,
+        "col": 0,
+        "answer": "ANTES"
+      },
+      {
+        "number": 66,
+        "clue": "Correct a dial",
+        "row": 14,
+        "col": 6,
+        "answer": "RESET"
+      },
+      {
+        "number": 67,
+        "clue": "Bar order",
+        "row": 14,
+        "col": 12,
+        "answer": "RYE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "\"The Egg ___\"",
+        "row": 0,
+        "col": 0,
+        "answer": "ANDI"
+      },
+      {
+        "number": 2,
+        "clue": "Large shrimp",
+        "row": 0,
+        "col": 1,
+        "answer": "PRAWN"
+      },
+      {
+        "number": 3,
+        "clue": "D.A.R., for one",
+        "row": 0,
+        "col": 2,
+        "answer": "LADIESCLUB"
+      },
+      {
+        "number": 4,
+        "clue": "Cave temple in India",
+        "row": 0,
+        "col": 4,
+        "answer": "RATH"
+      },
+      {
+        "number": 5,
+        "clue": "Fancy case",
+        "row": 0,
+        "col": 5,
+        "answer": "ETUI"
+      },
+      {
+        "number": 6,
+        "clue": "Neighbor of Guatemala: Abbr.",
+        "row": 0,
+        "col": 6,
+        "answer": "HOND"
+      },
+      {
+        "number": 7,
+        "clue": "Flavoring",
+        "row": 0,
+        "col": 7,
+        "answer": "ANISE"
+      },
+      {
+        "number": 8,
+        "clue": "Deprive of sail wind",
+        "row": 0,
+        "col": 8,
+        "answer": "BECALM"
+      },
+      {
+        "number": 9,
+        "clue": "Finns' neighbors",
+        "row": 0,
+        "col": 10,
+        "answer": "SWEDES"
+      },
+      {
+        "number": 10,
+        "clue": "Cynical remark",
+        "row": 0,
+        "col": 11,
+        "answer": "WHATNONSENSE"
+      },
+      {
+        "number": 11,
+        "clue": "Inauguration detail",
+        "row": 0,
+        "col": 12,
+        "answer": "OATH"
+      },
+      {
+        "number": 12,
+        "clue": "Olive genus",
+        "row": 0,
+        "col": 13,
+        "answer": "OLEA"
+      },
+      {
+        "number": 13,
+        "clue": "Shut in",
+        "row": 0,
+        "col": 14,
+        "answer": "PENT"
+      },
+      {
+        "number": 21,
+        "clue": "Persevering",
+        "row": 3,
+        "col": 3,
+        "answer": "STICKTOITIVE"
+      },
+      {
+        "number": 22,
+        "clue": "Dock-workers' org.",
+        "row": 3,
+        "col": 9,
+        "answer": "ILA"
+      },
+      {
+        "number": 26,
+        "clue": "Medieval tale",
+        "row": 5,
+        "col": 4,
+        "answer": "LAI"
+      },
+      {
+        "number": 27,
+        "clue": "Calif. fort",
+        "row": 5,
+        "col": 5,
+        "answer": "ORD"
+      },
+      {
+        "number": 28,
+        "clue": "Kind of sack",
+        "row": 5,
+        "col": 6,
+        "answer": "SAD"
+      },
+      {
+        "number": 30,
+        "clue": "New Year's Eve gadget",
+        "row": 5,
+        "col": 12,
+        "answer": "NOISEMAKER"
+      },
+      {
+        "number": 31,
+        "clue": "Asian prefix",
+        "row": 5,
+        "col": 13,
+        "answer": "INDO"
+      },
+      {
+        "number": 32,
+        "clue": "Certain student",
+        "row": 5,
+        "col": 14,
+        "answer": "COED"
+      },
+      {
+        "number": 33,
+        "clue": "Plain",
+        "row": 6,
+        "col": 0,
+        "answer": "BALD"
+      },
+      {
+        "number": 34,
+        "clue": "Century plant",
+        "row": 6,
+        "col": 1,
+        "answer": "ALOE"
+      },
+      {
+        "number": 35,
+        "clue": "Sesame",
+        "row": 6,
+        "col": 7,
+        "answer": "TIL"
+      },
+      {
+        "number": 38,
+        "clue": "Hill of S.F.",
+        "row": 7,
+        "col": 8,
+        "answer": "NOB"
+      },
+      {
+        "number": 39,
+        "clue": "Sweet talk",
+        "row": 7,
+        "col": 9,
+        "answer": "GOO"
+      },
+      {
+        "number": 40,
+        "clue": "Japanese park",
+        "row": 7,
+        "col": 10,
+        "answer": "ASO"
+      },
+      {
+        "number": 44,
+        "clue": "Paso ___, Calif. town",
+        "row": 9,
+        "col": 4,
+        "answer": "ROBLES"
+      },
+      {
+        "number": 45,
+        "clue": "Babylonian god",
+        "row": 9,
+        "col": 5,
+        "answer": "ANU"
+      },
+      {
+        "number": 46,
+        "clue": "Do a pinch-batting job",
+        "row": 9,
+        "col": 6,
+        "answer": "HITFOR"
+      },
+      {
+        "number": 49,
+        "clue": "Tenth of a big one",
+        "row": 10,
+        "col": 7,
+        "answer": "CNOTE"
+      },
+      {
+        "number": 51,
+        "clue": "Loan-shark's game",
+        "row": 10,
+        "col": 13,
+        "answer": "USURY"
+      },
+      {
+        "number": 52,
+        "clue": "Pelee product",
+        "row": 11,
+        "col": 0,
+        "answer": "LAVA"
+      },
+      {
+        "number": 53,
+        "clue": "Caucasian language",
+        "row": 11,
+        "col": 1,
+        "answer": "AVAN"
+      },
+      {
+        "number": 54,
+        "clue": "Wit",
+        "row": 11,
+        "col": 2,
+        "answer": "SALT"
+      },
+      {
+        "number": 55,
+        "clue": "Corrida cries",
+        "row": 11,
+        "col": 8,
+        "answer": "OLES"
+      },
+      {
+        "number": 56,
+        "clue": "Building material",
+        "row": 11,
+        "col": 9,
+        "answer": "TILE"
+      },
+      {
+        "number": 57,
+        "clue": "Confused",
+        "row": 11,
+        "col": 10,
+        "answer": "LOST"
+      },
+      {
+        "number": 58,
+        "clue": "Exasperate",
+        "row": 11,
+        "col": 14,
+        "answer": "TIRE"
+      }
+    ]
+  }
+}

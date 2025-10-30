@@ -1,0 +1,599 @@
+{
+  "id": "nyt-1976-12-24",
+  "metadata": {
+    "date": "1976-12-24",
+    "title": "NY TIMES, FRI, DEC 24, 1976",
+    "author": "Sophie Fierman",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "C", "A", "B", null, "R", "E", "H", "A", "N", null, "S", "M", "U", "G"],
+    ["I", "O", "T", "A", null, "E", "M", "I", "L", "E", null, "T", "I", "M", "E"],
+    ["X", "M", "A", "S", "S", "P", "I", "R", "I", "T", null, "A", "S", "E", "A"],
+    ["E", "E", "L", null, "A", "A", "R", "E", null, null, "A", "L", "T", "A", "R"],
+    ["S", "T", "E", "A", "D", "Y", null, "D", "I", "S", "P", "E", "L", null, null],
+    [null, null, null, "L", "I", "S", "T", null, "C", "O", "R", "R", "E", "C", "T"],
+    ["G", "I", "F", "T", "S", null, "I", "D", "E", "S", null, null, "T", "O", "R"],
+    ["A", "D", "R", "E", "M", null, "R", "O", "B", null, "S", "P", "O", "R", "E"],
+    ["M", "O", "U", null, null, "P", "I", "C", "A", null, "T", "R", "E", "E", "S"],
+    ["B", "L", "I", "T", "Z", "E", "N", null, "G", "L", "E", "E", null, null, null],
+    [null, null, "T", "H", "I", "N", "G", "S", null, "A", "P", "P", "E", "A", "R"],
+    ["R", "E", "C", "A", "P", null, null, "A", "B", "I", "U", null, "L", "I", "E"],
+    ["A", "D", "A", "M", null, "S", "U", "G", "A", "R", "P", "L", "U", "M", "S"],
+    ["B", "I", "K", "E", null, "A", "N", "E", "N", "D", null, "I", "D", "E", "E"],
+    ["I", "T", "E", "S", null, "D", "I", "R", "K", "S", null, "P", "E", "R", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Aftermath of a scrape",
+        "row": 0,
+        "col": 0,
+        "answer": "SCAB"
+      },
+      {
+        "number": 5,
+        "clue": "Ada of stage",
+        "row": 0,
+        "col": 5,
+        "answer": "REHAN"
+      },
+      {
+        "number": 10,
+        "clue": "Self-satisfied",
+        "row": 0,
+        "col": 11,
+        "answer": "SMUG"
+      },
+      {
+        "number": 14,
+        "clue": "Particle",
+        "row": 1,
+        "col": 0,
+        "answer": "IOTA"
+      },
+      {
+        "number": 15,
+        "clue": "Zola",
+        "row": 1,
+        "col": 5,
+        "answer": "EMILE"
+      },
+      {
+        "number": 16,
+        "clue": "\"The ___ Machine\"",
+        "row": 1,
+        "col": 11,
+        "answer": "TIME"
+      },
+      {
+        "number": 17,
+        "clue": "Wassail or eggnog, e.g.",
+        "row": 2,
+        "col": 0,
+        "answer": "XMASSPIRIT"
+      },
+      {
+        "number": 19,
+        "clue": "Confused",
+        "row": 2,
+        "col": 11,
+        "answer": "ASEA"
+      },
+      {
+        "number": 20,
+        "clue": "Slippery one",
+        "row": 3,
+        "col": 0,
+        "answer": "EEL"
+      },
+      {
+        "number": 21,
+        "clue": "Swiss river",
+        "row": 3,
+        "col": 4,
+        "answer": "AARE"
+      },
+      {
+        "number": 22,
+        "clue": "Place of worship",
+        "row": 3,
+        "col": 10,
+        "answer": "ALTAR"
+      },
+      {
+        "number": 23,
+        "clue": "Unwavering",
+        "row": 4,
+        "col": 0,
+        "answer": "STEADY"
+      },
+      {
+        "number": 25,
+        "clue": "Scatter",
+        "row": 4,
+        "col": 7,
+        "answer": "DISPEL"
+      },
+      {
+        "number": 28,
+        "clue": "Catalogue",
+        "row": 5,
+        "col": 3,
+        "answer": "LIST"
+      },
+      {
+        "number": 30,
+        "clue": "According to Hoyle",
+        "row": 5,
+        "col": 8,
+        "answer": "CORRECT"
+      },
+      {
+        "number": 33,
+        "clue": "Holiday exchanges",
+        "row": 6,
+        "col": 0,
+        "answer": "GIFTS"
+      },
+      {
+        "number": 36,
+        "clue": "Brutus's D-Day",
+        "row": 6,
+        "col": 6,
+        "answer": "IDES"
+      },
+      {
+        "number": 38,
+        "clue": "Rocky hill",
+        "row": 6,
+        "col": 12,
+        "answer": "TOR"
+      },
+      {
+        "number": 39,
+        "clue": "Relevant",
+        "row": 7,
+        "col": 0,
+        "answer": "ADREM"
+      },
+      {
+        "number": 40,
+        "clue": "___ Roy",
+        "row": 7,
+        "col": 6,
+        "answer": "ROB"
+      },
+      {
+        "number": 41,
+        "clue": "Germ cell",
+        "row": 7,
+        "col": 10,
+        "answer": "SPORE"
+      },
+      {
+        "number": 43,
+        "clue": "Persian measure",
+        "row": 8,
+        "col": 0,
+        "answer": "MOU"
+      },
+      {
+        "number": 44,
+        "clue": "Type size",
+        "row": 8,
+        "col": 5,
+        "answer": "PICA"
+      },
+      {
+        "number": 45,
+        "clue": "Christmas and shoe",
+        "row": 8,
+        "col": 10,
+        "answer": "TREES"
+      },
+      {
+        "number": 46,
+        "clue": "One of Santa's reindeer",
+        "row": 9,
+        "col": 0,
+        "answer": "BLITZEN"
+      },
+      {
+        "number": 49,
+        "clue": "Mirth",
+        "row": 9,
+        "col": 8,
+        "answer": "GLEE"
+      },
+      {
+        "number": 51,
+        "clue": "\"All ___ bright and beautiful\"",
+        "row": 10,
+        "col": 2,
+        "answer": "THINGS"
+      },
+      {
+        "number": 53,
+        "clue": "Show up",
+        "row": 10,
+        "col": 9,
+        "answer": "APPEAR"
+      },
+      {
+        "number": 57,
+        "clue": "Certain tire",
+        "row": 11,
+        "col": 0,
+        "answer": "RECAP"
+      },
+      {
+        "number": 59,
+        "clue": "Douay Bible name",
+        "row": 11,
+        "col": 7,
+        "answer": "ABIU"
+      },
+      {
+        "number": 61,
+        "clue": "Trygve of U.N.",
+        "row": 11,
+        "col": 12,
+        "answer": "LIE"
+      },
+      {
+        "number": 62,
+        "clue": "Bede or Smith",
+        "row": 12,
+        "col": 0,
+        "answer": "ADAM"
+      },
+      {
+        "number": 63,
+        "clue": "\"Visions of ___ danced in . . . \"",
+        "row": 12,
+        "col": 5,
+        "answer": "SUGARPLUMS"
+      },
+      {
+        "number": 66,
+        "clue": "Gift for a teen-ager",
+        "row": 13,
+        "col": 0,
+        "answer": "BIKE"
+      },
+      {
+        "number": 67,
+        "clue": "Put ___ to (finish)",
+        "row": 13,
+        "col": 5,
+        "answer": "ANEND"
+      },
+      {
+        "number": 68,
+        "clue": "___ fixe",
+        "row": 13,
+        "col": 11,
+        "answer": "IDEE"
+      },
+      {
+        "number": 69,
+        "clue": "Natives: Suffix",
+        "row": 14,
+        "col": 0,
+        "answer": "ITES"
+      },
+      {
+        "number": 70,
+        "clue": "Daggers",
+        "row": 14,
+        "col": 5,
+        "answer": "DIRKS"
+      },
+      {
+        "number": 71,
+        "clue": "Saucy",
+        "row": 14,
+        "col": 11,
+        "answer": "PERT"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "___ and sevens",
+        "row": 0,
+        "col": 0,
+        "answer": "SIXES"
+      },
+      {
+        "number": 2,
+        "clue": "One of Santa's reindeer",
+        "row": 0,
+        "col": 1,
+        "answer": "COMET"
+      },
+      {
+        "number": 3,
+        "clue": "\"___ of Two Cities\"",
+        "row": 0,
+        "col": 2,
+        "answer": "ATALE"
+      },
+      {
+        "number": 4,
+        "clue": "Stocking, in France",
+        "row": 0,
+        "col": 3,
+        "answer": "BAS"
+      },
+      {
+        "number": 5,
+        "clue": "Wipes out a debt",
+        "row": 0,
+        "col": 5,
+        "answer": "REPAYS"
+      },
+      {
+        "number": 6,
+        "clue": "Eastern ruler",
+        "row": 0,
+        "col": 6,
+        "answer": "EMIR"
+      },
+      {
+        "number": 7,
+        "clue": "Took on",
+        "row": 0,
+        "col": 7,
+        "answer": "HIRED"
+      },
+      {
+        "number": 8,
+        "clue": "Heavyweight name",
+        "row": 0,
+        "col": 8,
+        "answer": "ALI"
+      },
+      {
+        "number": 9,
+        "clue": "N.Y. cager",
+        "row": 0,
+        "col": 9,
+        "answer": "NET"
+      },
+      {
+        "number": 10,
+        "clue": "More corny",
+        "row": 0,
+        "col": 11,
+        "answer": "STALER"
+      },
+      {
+        "number": 11,
+        "clue": "Buss-catcher",
+        "row": 0,
+        "col": 12,
+        "answer": "MISTLETOE"
+      },
+      {
+        "number": 12,
+        "clue": "Swedish city",
+        "row": 0,
+        "col": 13,
+        "answer": "UMEA"
+      },
+      {
+        "number": 13,
+        "clue": "Equipment",
+        "row": 0,
+        "col": 14,
+        "answer": "GEAR"
+      },
+      {
+        "number": 18,
+        "clue": "Cruelty",
+        "row": 2,
+        "col": 4,
+        "answer": "SADISM"
+      },
+      {
+        "number": 22,
+        "clue": "Spring month: Abbr.",
+        "row": 3,
+        "col": 10,
+        "answer": "APR"
+      },
+      {
+        "number": 24,
+        "clue": "German senior citizen",
+        "row": 4,
+        "col": 3,
+        "answer": "ALTE"
+      },
+      {
+        "number": 26,
+        "clue": "Morning-after wear",
+        "row": 4,
+        "col": 8,
+        "answer": "ICEBAG"
+      },
+      {
+        "number": 27,
+        "clue": "Sea call",
+        "row": 4,
+        "col": 9,
+        "answer": "SOS"
+      },
+      {
+        "number": 29,
+        "clue": "Becoming boresome",
+        "row": 5,
+        "col": 6,
+        "answer": "TIRING"
+      },
+      {
+        "number": 31,
+        "clue": "Gist",
+        "row": 5,
+        "col": 13,
+        "answer": "CORE"
+      },
+      {
+        "number": 32,
+        "clue": "___ bien",
+        "row": 5,
+        "col": 14,
+        "answer": "TRES"
+      },
+      {
+        "number": 33,
+        "clue": "Leg, in heraldry",
+        "row": 6,
+        "col": 0,
+        "answer": "GAMB"
+      },
+      {
+        "number": 34,
+        "clue": "Admired one",
+        "row": 6,
+        "col": 1,
+        "answer": "IDOL"
+      },
+      {
+        "number": 35,
+        "clue": "Holiday dessert",
+        "row": 6,
+        "col": 2,
+        "answer": "FRUITCAKE"
+      },
+      {
+        "number": 37,
+        "clue": "\"What's up, ___?\"",
+        "row": 6,
+        "col": 7,
+        "answer": "DOC"
+      },
+      {
+        "number": 41,
+        "clue": "Come forward",
+        "row": 7,
+        "col": 10,
+        "answer": "STEPUP"
+      },
+      {
+        "number": 42,
+        "clue": "Kind of school",
+        "row": 7,
+        "col": 11,
+        "answer": "PREP"
+      },
+      {
+        "number": 44,
+        "clue": "Sword's rival",
+        "row": 8,
+        "col": 5,
+        "answer": "PEN"
+      },
+      {
+        "number": 47,
+        "clue": "Tower Bridge's crossing",
+        "row": 9,
+        "col": 3,
+        "answer": "THAMES"
+      },
+      {
+        "number": 48,
+        "clue": "Code on a letter",
+        "row": 9,
+        "col": 4,
+        "answer": "ZIP"
+      },
+      {
+        "number": 50,
+        "clue": "Scottish landowners",
+        "row": 9,
+        "col": 9,
+        "answer": "LAIRDS"
+      },
+      {
+        "number": 52,
+        "clue": "More shrewd",
+        "row": 10,
+        "col": 7,
+        "answer": "SAGER"
+      },
+      {
+        "number": 54,
+        "clue": "Sidestep",
+        "row": 10,
+        "col": 12,
+        "answer": "ELUDE"
+      },
+      {
+        "number": 55,
+        "clue": "Gunsight user",
+        "row": 10,
+        "col": 13,
+        "answer": "AIMER"
+      },
+      {
+        "number": 56,
+        "clue": "Replace a ring gem",
+        "row": 10,
+        "col": 14,
+        "answer": "RESET"
+      },
+      {
+        "number": 57,
+        "clue": "Nobel physicist",
+        "row": 11,
+        "col": 0,
+        "answer": "RABI"
+      },
+      {
+        "number": 58,
+        "clue": "Do newsroom work",
+        "row": 11,
+        "col": 1,
+        "answer": "EDIT"
+      },
+      {
+        "number": 60,
+        "clue": "Target for Bonnie and Clyde",
+        "row": 11,
+        "col": 8,
+        "answer": "BANK"
+      },
+      {
+        "number": 63,
+        "clue": "Downhearted",
+        "row": 12,
+        "col": 5,
+        "answer": "SAD"
+      },
+      {
+        "number": 64,
+        "clue": "One: Prefix",
+        "row": 12,
+        "col": 6,
+        "answer": "UNI"
+      },
+      {
+        "number": 65,
+        "clue": "Sass",
+        "row": 12,
+        "col": 11,
+        "answer": "LIP"
+      }
+    ]
+  }
+}

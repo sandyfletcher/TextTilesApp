@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-08-25",
+  "metadata": {
+    "date": "1976-08-25",
+    "title": "NY TIMES, WED, AUG 25, 1976",
+    "author": "Bert Beaman",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["C", "A", "R", "P", null, "P", "I", "C", "O", "T", null, "S", "C", "A", "B"],
+    ["A", "B", "E", "L", null, "A", "L", "L", "T", "H", "E", "S", "A", "M", "E"],
+    ["J", "A", "V", "A", null, "T", "E", "E", "T", "O", "T", "A", "L", "E", "R"],
+    ["O", "L", "E", "N", "T", null, null, "M", "E", "S", "A", null, "I", "R", "A"],
+    ["L", "O", "N", "E", "R", null, "B", "E", "R", "E", "T", null, "B", "I", "T"],
+    ["E", "N", "G", null, "E", "L", "O", "N", null, null, "S", "T", "A", "G", "E"],
+    ["D", "E", "E", "P", "S", "E", "A", "T", "E", "D", null, "E", "N", "O", "S"],
+    [null, null, null, "A", "S", "I", "S", null, "L", "I", "S", "T", null, null, null],
+    ["O", "C", "A", "S", null, "S", "T", "R", "I", "K", "E", "H", "O", "M", "E"],
+    ["C", "O", "L", "T", "S", null, null, "O", "D", "E", "R", null, "N", "I", "X"],
+    ["E", "R", "A", null, "C", "R", "A", "P", "E", null, "G", "H", "E", "N", "T"],
+    ["L", "O", "B", null, "A", "U", "N", "E", null, null, "E", "A", "T", "E", "R"],
+    ["O", "N", "A", "L", "L", "S", "I", "D", "E", "S", null, "S", "I", "R", "E"],
+    ["T", "E", "M", "P", "E", "S", "T", "I", "N", "A", null, "I", "M", "A", "M"],
+    ["S", "T", "A", "S", null, "E", "A", "N", "E", "D", null, "T", "E", "L", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Complain",
+        "row": 0,
+        "col": 0,
+        "answer": "CARP"
+      },
+      {
+        "number": 5,
+        "clue": "Embroidery loop",
+        "row": 0,
+        "col": 5,
+        "answer": "PICOT"
+      },
+      {
+        "number": 10,
+        "clue": "Strike-breaker",
+        "row": 0,
+        "col": 11,
+        "answer": "SCAB"
+      },
+      {
+        "number": 14,
+        "clue": "Biblical character",
+        "row": 1,
+        "col": 0,
+        "answer": "ABEL"
+      },
+      {
+        "number": 15,
+        "clue": "Notwithstanding",
+        "row": 1,
+        "col": 5,
+        "answer": "ALLTHESAME"
+      },
+      {
+        "number": 17,
+        "clue": "Coffee",
+        "row": 2,
+        "col": 0,
+        "answer": "JAVA"
+      },
+      {
+        "number": 18,
+        "clue": "Sober one",
+        "row": 2,
+        "col": 5,
+        "answer": "TEETOTALER"
+      },
+      {
+        "number": 19,
+        "clue": "Odorous",
+        "row": 3,
+        "col": 0,
+        "answer": "OLENT"
+      },
+      {
+        "number": 21,
+        "clue": "Tableland",
+        "row": 3,
+        "col": 7,
+        "answer": "MESA"
+      },
+      {
+        "number": 22,
+        "clue": "Gershwin",
+        "row": 3,
+        "col": 12,
+        "answer": "IRA"
+      },
+      {
+        "number": 23,
+        "clue": "Hermit",
+        "row": 4,
+        "col": 0,
+        "answer": "LONER"
+      },
+      {
+        "number": 24,
+        "clue": "Headwear",
+        "row": 4,
+        "col": 6,
+        "answer": "BERET"
+      },
+      {
+        "number": 25,
+        "clue": "Cameo part",
+        "row": 4,
+        "col": 12,
+        "answer": "BIT"
+      },
+      {
+        "number": 26,
+        "clue": "Eur. country",
+        "row": 5,
+        "col": 0,
+        "answer": "ENG"
+      },
+      {
+        "number": 27,
+        "clue": "N.C. college",
+        "row": 5,
+        "col": 4,
+        "answer": "ELON"
+      },
+      {
+        "number": 29,
+        "clue": "Kind of fright",
+        "row": 5,
+        "col": 10,
+        "answer": "STAGE"
+      },
+      {
+        "number": 31,
+        "clue": "Entrenched",
+        "row": 6,
+        "col": 0,
+        "answer": "DEEPSEATED"
+      },
+      {
+        "number": 35,
+        "clue": "Genesis character",
+        "row": 6,
+        "col": 11,
+        "answer": "ENOS"
+      },
+      {
+        "number": 36,
+        "clue": "Store-counter sign",
+        "row": 7,
+        "col": 3,
+        "answer": "ASIS"
+      },
+      {
+        "number": 37,
+        "clue": "Tilt",
+        "row": 7,
+        "col": 8,
+        "answer": "LIST"
+      },
+      {
+        "number": 39,
+        "clue": "Edible tubers",
+        "row": 8,
+        "col": 0,
+        "answer": "OCAS"
+      },
+      {
+        "number": 42,
+        "clue": "Make an impression",
+        "row": 8,
+        "col": 5,
+        "answer": "STRIKEHOME"
+      },
+      {
+        "number": 47,
+        "clue": "Derby entries",
+        "row": 9,
+        "col": 0,
+        "answer": "COLTS"
+      },
+      {
+        "number": 49,
+        "clue": "River to the Baltic",
+        "row": 9,
+        "col": 7,
+        "answer": "ODER"
+      },
+      {
+        "number": 50,
+        "clue": "No soap",
+        "row": 9,
+        "col": 12,
+        "answer": "NIX"
+      },
+      {
+        "number": 51,
+        "clue": "Age",
+        "row": 10,
+        "col": 0,
+        "answer": "ERA"
+      },
+      {
+        "number": 52,
+        "clue": "Kind of hanger",
+        "row": 10,
+        "col": 4,
+        "answer": "CRAPE"
+      },
+      {
+        "number": 55,
+        "clue": "Belgian port",
+        "row": 10,
+        "col": 10,
+        "answer": "GHENT"
+      },
+      {
+        "number": 57,
+        "clue": "Return for Ashe",
+        "row": 11,
+        "col": 0,
+        "answer": "LOB"
+      },
+      {
+        "number": 58,
+        "clue": "Old French measure",
+        "row": 11,
+        "col": 4,
+        "answer": "AUNE"
+      },
+      {
+        "number": 59,
+        "clue": "Restaurant customer",
+        "row": 11,
+        "col": 10,
+        "answer": "EATER"
+      },
+      {
+        "number": 60,
+        "clue": "Extensively",
+        "row": 12,
+        "col": 0,
+        "answer": "ONALLSIDES"
+      },
+      {
+        "number": 64,
+        "clue": "Father",
+        "row": 12,
+        "col": 11,
+        "answer": "SIRE"
+      },
+      {
+        "number": 65,
+        "clue": "___ teapot",
+        "row": 13,
+        "col": 0,
+        "answer": "TEMPESTINA"
+      },
+      {
+        "number": 66,
+        "clue": "Moslem priest",
+        "row": 13,
+        "col": 11,
+        "answer": "IMAM"
+      },
+      {
+        "number": 67,
+        "clue": "Depots: Abbr.",
+        "row": 14,
+        "col": 0,
+        "answer": "STAS"
+      },
+      {
+        "number": 68,
+        "clue": "Bore lambs",
+        "row": 14,
+        "col": 5,
+        "answer": "EANED"
+      },
+      {
+        "number": 69,
+        "clue": "Distant: Prefix",
+        "row": 14,
+        "col": 11,
+        "answer": "TELE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Wheedled",
+        "row": 0,
+        "col": 0,
+        "answer": "CAJOLED"
+      },
+      {
+        "number": 2,
+        "clue": "Mother-of-Pearl source",
+        "row": 0,
+        "col": 1,
+        "answer": "ABALONE"
+      },
+      {
+        "number": 3,
+        "clue": "Tit for tat",
+        "row": 0,
+        "col": 2,
+        "answer": "REVENGE"
+      },
+      {
+        "number": 4,
+        "clue": "Jet",
+        "row": 0,
+        "col": 3,
+        "answer": "PLANE"
+      },
+      {
+        "number": 5,
+        "clue": "Stand ___",
+        "row": 0,
+        "col": 5,
+        "answer": "PAT"
+      },
+      {
+        "number": 6,
+        "clue": "Martinique, for one",
+        "row": 0,
+        "col": 6,
+        "answer": "ILE"
+      },
+      {
+        "number": 7,
+        "clue": "Mild",
+        "row": 0,
+        "col": 7,
+        "answer": "CLEMENT"
+      },
+      {
+        "number": 8,
+        "clue": "Playful animal",
+        "row": 0,
+        "col": 8,
+        "answer": "OTTER"
+      },
+      {
+        "number": 9,
+        "clue": "\"___ were the days\"",
+        "row": 0,
+        "col": 9,
+        "answer": "THOSE"
+      },
+      {
+        "number": 10,
+        "clue": "Senior-citizens' org.",
+        "row": 0,
+        "col": 11,
+        "answer": "SSA"
+      },
+      {
+        "number": 11,
+        "clue": "Shakespearean slave",
+        "row": 0,
+        "col": 12,
+        "answer": "CALIBAN"
+      },
+      {
+        "number": 12,
+        "clue": "Vespucci",
+        "row": 0,
+        "col": 13,
+        "answer": "AMERIGO"
+      },
+      {
+        "number": 13,
+        "clue": "Chides",
+        "row": 0,
+        "col": 14,
+        "answer": "BERATES"
+      },
+      {
+        "number": 16,
+        "clue": "___ Unis",
+        "row": 1,
+        "col": 10,
+        "answer": "ETATS"
+      },
+      {
+        "number": 20,
+        "clue": "Lock",
+        "row": 3,
+        "col": 4,
+        "answer": "TRESS"
+      },
+      {
+        "number": 24,
+        "clue": "Show one's vanity",
+        "row": 4,
+        "col": 6,
+        "answer": "BOAST"
+      },
+      {
+        "number": 28,
+        "clue": "Hawaiian drapings",
+        "row": 5,
+        "col": 5,
+        "answer": "LEIS"
+      },
+      {
+        "number": 30,
+        "clue": "Hebrew letter",
+        "row": 5,
+        "col": 11,
+        "answer": "TETH"
+      },
+      {
+        "number": 32,
+        "clue": "Beyond",
+        "row": 6,
+        "col": 3,
+        "answer": "PAST"
+      },
+      {
+        "number": 33,
+        "clue": "Shorten",
+        "row": 6,
+        "col": 8,
+        "answer": "ELIDE"
+      },
+      {
+        "number": 34,
+        "clue": "Holland feature",
+        "row": 6,
+        "col": 9,
+        "answer": "DIKE"
+      },
+      {
+        "number": 38,
+        "clue": "Suiting",
+        "row": 7,
+        "col": 10,
+        "answer": "SERGE"
+      },
+      {
+        "number": 39,
+        "clue": "Cats",
+        "row": 8,
+        "col": 0,
+        "answer": "OCELOTS"
+      },
+      {
+        "number": 40,
+        "clue": "Ornamental headband",
+        "row": 8,
+        "col": 1,
+        "answer": "CORONET"
+      },
+      {
+        "number": 41,
+        "clue": "Mobile home",
+        "row": 8,
+        "col": 2,
+        "answer": "ALABAMA"
+      },
+      {
+        "number": 43,
+        "clue": "Enticed",
+        "row": 8,
+        "col": 7,
+        "answer": "ROPEDIN"
+      },
+      {
+        "number": 44,
+        "clue": "Former",
+        "row": 8,
+        "col": 12,
+        "answer": "ONETIME"
+      },
+      {
+        "number": 45,
+        "clue": "Kind of water",
+        "row": 8,
+        "col": 13,
+        "answer": "MINERAL"
+      },
+      {
+        "number": 46,
+        "clue": "Ultra",
+        "row": 8,
+        "col": 14,
+        "answer": "EXTREME"
+      },
+      {
+        "number": 48,
+        "clue": "Climb",
+        "row": 9,
+        "col": 4,
+        "answer": "SCALE"
+      },
+      {
+        "number": 53,
+        "clue": "Charlotte ___",
+        "row": 10,
+        "col": 5,
+        "answer": "RUSSE"
+      },
+      {
+        "number": 54,
+        "clue": "Santa ___",
+        "row": 10,
+        "col": 6,
+        "answer": "ANITA"
+      },
+      {
+        "number": 56,
+        "clue": "___ made (succeeds)",
+        "row": 10,
+        "col": 11,
+        "answer": "HASIT"
+      },
+      {
+        "number": 61,
+        "clue": "Certain records",
+        "row": 12,
+        "col": 3,
+        "answer": "LPS"
+      },
+      {
+        "number": 62,
+        "clue": "Wind dir.",
+        "row": 12,
+        "col": 8,
+        "answer": "ENE"
+      },
+      {
+        "number": 63,
+        "clue": "Kind of sack",
+        "row": 12,
+        "col": 9,
+        "answer": "SAD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1977-09-12",
+  "metadata": {
+    "date": "1977-09-12",
+    "title": "NY TIMES, MON, SEP 12, 1977",
+    "author": "Herb L. Risteen",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["W", "I", "G", null, null, "T", "A", "B", "L", "E", null, "S", "W", "A", "B"],
+    ["A", "C", "R", "E", null, "R", "I", "L", "E", "Y", null, "A", "H", "O", "Y"],
+    ["S", "E", "E", "N", null, "E", "L", "U", "D", "E", null, "M", "I", "N", "E"],
+    ["P", "R", "E", "T", "E", "N", "S", "E", null, null, "T", "O", "T", "E", "S"],
+    [null, null, "N", "A", "R", "D", null, "B", "E", "M", "U", "S", "E", null, null],
+    ["C", "A", "B", "I", "N", "S", null, "O", "D", "E", "R", null, "D", "A", "M"],
+    ["O", "V", "A", "L", "S", null, "H", "O", "G", "A", "N", null, "S", "S", "E"],
+    ["B", "O", "Y", "S", null, "F", "A", "K", "E", "D", null, "M", "E", "S", "A"],
+    ["R", "I", "P", null, "H", "U", "R", "L", "S", null, "C", "A", "P", "E", "D"],
+    ["A", "D", "A", null, "A", "N", "T", "I", null, "C", "A", "N", "U", "T", "E"],
+    [null, null, "C", "H", "I", "D", "E", "S", null, "A", "R", "I", "L", null, null],
+    ["Y", "O", "K", "E", "L", null, null, "T", "E", "R", "R", "A", "C", "E", "S"],
+    ["O", "M", "E", "R", null, "A", "R", "I", "A", "N", null, "C", "H", "I", "N"],
+    ["W", "O", "R", "D", null, "R", "I", "N", "S", "E", null, "S", "E", "R", "A"],
+    ["L", "O", "S", "S", null, "C", "A", "G", "E", "Y", null, null, "R", "E", "P"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Item worn by a British judge",
+        "row": 0,
+        "col": 0,
+        "answer": "WIG"
+      },
+      {
+        "number": 4,
+        "clue": "___ tennis",
+        "row": 0,
+        "col": 5,
+        "answer": "TABLE"
+      },
+      {
+        "number": 9,
+        "clue": "Mop",
+        "row": 0,
+        "col": 11,
+        "answer": "SWAB"
+      },
+      {
+        "number": 13,
+        "clue": "Israeli port",
+        "row": 1,
+        "col": 0,
+        "answer": "ACRE"
+      },
+      {
+        "number": 15,
+        "clue": "Hoosier poet",
+        "row": 1,
+        "col": 5,
+        "answer": "RILEY"
+      },
+      {
+        "number": 16,
+        "clue": "Nautical greeting",
+        "row": 1,
+        "col": 11,
+        "answer": "AHOY"
+      },
+      {
+        "number": 17,
+        "clue": "Witnessed",
+        "row": 2,
+        "col": 0,
+        "answer": "SEEN"
+      },
+      {
+        "number": 18,
+        "clue": "Baffle",
+        "row": 2,
+        "col": 5,
+        "answer": "ELUDE"
+      },
+      {
+        "number": 19,
+        "clue": "Explosive charge",
+        "row": 2,
+        "col": 11,
+        "answer": "MINE"
+      },
+      {
+        "number": 20,
+        "clue": "Make-believe",
+        "row": 3,
+        "col": 0,
+        "answer": "PRETENSE"
+      },
+      {
+        "number": 22,
+        "clue": "Hauls",
+        "row": 3,
+        "col": 10,
+        "answer": "TOTES"
+      },
+      {
+        "number": 23,
+        "clue": "Fragrant ointment",
+        "row": 4,
+        "col": 2,
+        "answer": "NARD"
+      },
+      {
+        "number": 24,
+        "clue": "Induce a state of reverie",
+        "row": 4,
+        "col": 7,
+        "answer": "BEMUSE"
+      },
+      {
+        "number": 27,
+        "clue": "Frontier abodes",
+        "row": 5,
+        "col": 0,
+        "answer": "CABINS"
+      },
+      {
+        "number": 29,
+        "clue": "Breslau's river",
+        "row": 5,
+        "col": 7,
+        "answer": "ODER"
+      },
+      {
+        "number": 30,
+        "clue": "Block up",
+        "row": 5,
+        "col": 12,
+        "answer": "DAM"
+      },
+      {
+        "number": 33,
+        "clue": "Face shapes",
+        "row": 6,
+        "col": 0,
+        "answer": "OVALS"
+      },
+      {
+        "number": 34,
+        "clue": "Navajo abode",
+        "row": 6,
+        "col": 6,
+        "answer": "HOGAN"
+      },
+      {
+        "number": 35,
+        "clue": "Compass point",
+        "row": 6,
+        "col": 12,
+        "answer": "SSE"
+      },
+      {
+        "number": 36,
+        "clue": "Kahn's \"The ___ of Summer\"",
+        "row": 7,
+        "col": 0,
+        "answer": "BOYS"
+      },
+      {
+        "number": 37,
+        "clue": "Practiced deception",
+        "row": 7,
+        "col": 5,
+        "answer": "FAKED"
+      },
+      {
+        "number": 38,
+        "clue": "Arizona city",
+        "row": 7,
+        "col": 11,
+        "answer": "MESA"
+      },
+      {
+        "number": 39,
+        "clue": "Torn place",
+        "row": 8,
+        "col": 0,
+        "answer": "RIP"
+      },
+      {
+        "number": 40,
+        "clue": "Flings",
+        "row": 8,
+        "col": 4,
+        "answer": "HURLS"
+      },
+      {
+        "number": 41,
+        "clue": "Attired like Sherlock Holmes",
+        "row": 8,
+        "col": 10,
+        "answer": "CAPED"
+      },
+      {
+        "number": 42,
+        "clue": "Oklahoma city",
+        "row": 9,
+        "col": 0,
+        "answer": "ADA"
+      },
+      {
+        "number": 43,
+        "clue": "Uncooperative one",
+        "row": 9,
+        "col": 4,
+        "answer": "ANTI"
+      },
+      {
+        "number": 44,
+        "clue": "Early English king",
+        "row": 9,
+        "col": 9,
+        "answer": "CANUTE"
+      },
+      {
+        "number": 45,
+        "clue": "Reproaches",
+        "row": 10,
+        "col": 2,
+        "answer": "CHIDES"
+      },
+      {
+        "number": 47,
+        "clue": "Seed casing",
+        "row": 10,
+        "col": 9,
+        "answer": "ARIL"
+      },
+      {
+        "number": 48,
+        "clue": "Rustic",
+        "row": 11,
+        "col": 0,
+        "answer": "YOKEL"
+      },
+      {
+        "number": 50,
+        "clue": "Landscaping features",
+        "row": 11,
+        "col": 7,
+        "answer": "TERRACES"
+      },
+      {
+        "number": 54,
+        "clue": "Hebrew measure",
+        "row": 12,
+        "col": 0,
+        "answer": "OMER"
+      },
+      {
+        "number": 55,
+        "clue": "Early Christian",
+        "row": 12,
+        "col": 5,
+        "answer": "ARIAN"
+      },
+      {
+        "number": 57,
+        "clue": "Gossip or gab",
+        "row": 12,
+        "col": 11,
+        "answer": "CHIN"
+      },
+      {
+        "number": 58,
+        "clue": "News",
+        "row": 13,
+        "col": 0,
+        "answer": "WORD"
+      },
+      {
+        "number": 59,
+        "clue": "Lave",
+        "row": 13,
+        "col": 5,
+        "answer": "RINSE"
+      },
+      {
+        "number": 60,
+        "clue": "Immunizing agents",
+        "row": 13,
+        "col": 11,
+        "answer": "SERA"
+      },
+      {
+        "number": 61,
+        "clue": "___ leader",
+        "row": 14,
+        "col": 0,
+        "answer": "LOSS"
+      },
+      {
+        "number": 62,
+        "clue": "Shrewd",
+        "row": 14,
+        "col": 5,
+        "answer": "CAGEY"
+      },
+      {
+        "number": 63,
+        "clue": "Twilled fabric",
+        "row": 14,
+        "col": 12,
+        "answer": "REP"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Hornet",
+        "row": 0,
+        "col": 0,
+        "answer": "WASP"
+      },
+      {
+        "number": 2,
+        "clue": "Refrigerator",
+        "row": 0,
+        "col": 1,
+        "answer": "ICER"
+      },
+      {
+        "number": 3,
+        "clue": "Gridiron team from Wis.",
+        "row": 0,
+        "col": 2,
+        "answer": "GREENBAYPACKERS"
+      },
+      {
+        "number": 4,
+        "clue": "Courses",
+        "row": 0,
+        "col": 5,
+        "answer": "TRENDS"
+      },
+      {
+        "number": 5,
+        "clue": "Troubles",
+        "row": 0,
+        "col": 6,
+        "answer": "AILS"
+      },
+      {
+        "number": 6,
+        "clue": "Social climber's goal",
+        "row": 0,
+        "col": 7,
+        "answer": "BLUEBOOKLISTING"
+      },
+      {
+        "number": 7,
+        "clue": "Influenced",
+        "row": 0,
+        "col": 8,
+        "answer": "LED"
+      },
+      {
+        "number": 8,
+        "clue": "Kind of lash or wash",
+        "row": 0,
+        "col": 9,
+        "answer": "EYE"
+      },
+      {
+        "number": 9,
+        "clue": "Aegean island",
+        "row": 0,
+        "col": 11,
+        "answer": "SAMOS"
+      },
+      {
+        "number": 10,
+        "clue": "Hypocrite",
+        "row": 0,
+        "col": 12,
+        "answer": "WHITEDSEPULCHER"
+      },
+      {
+        "number": 11,
+        "clue": "Excellent",
+        "row": 0,
+        "col": 13,
+        "answer": "AONE"
+      },
+      {
+        "number": 12,
+        "clue": "Tournament draws",
+        "row": 0,
+        "col": 14,
+        "answer": "BYES"
+      },
+      {
+        "number": 14,
+        "clue": "Involves necessarily",
+        "row": 1,
+        "col": 3,
+        "answer": "ENTAILS"
+      },
+      {
+        "number": 21,
+        "clue": "White-tailed sea eagles",
+        "row": 3,
+        "col": 4,
+        "answer": "ERNS"
+      },
+      {
+        "number": 22,
+        "clue": "Change color",
+        "row": 3,
+        "col": 10,
+        "answer": "TURN"
+      },
+      {
+        "number": 25,
+        "clue": "Noses out",
+        "row": 4,
+        "col": 8,
+        "answer": "EDGES"
+      },
+      {
+        "number": 26,
+        "clue": "Hoover Dam lake",
+        "row": 4,
+        "col": 9,
+        "answer": "MEAD"
+      },
+      {
+        "number": 27,
+        "clue": "Poisonous snake",
+        "row": 5,
+        "col": 0,
+        "answer": "COBRA"
+      },
+      {
+        "number": 28,
+        "clue": "Keep away from",
+        "row": 5,
+        "col": 1,
+        "answer": "AVOID"
+      },
+      {
+        "number": 31,
+        "clue": "Plus factor",
+        "row": 5,
+        "col": 13,
+        "answer": "ASSET"
+      },
+      {
+        "number": 32,
+        "clue": "Gettysburg general",
+        "row": 5,
+        "col": 14,
+        "answer": "MEADE"
+      },
+      {
+        "number": 34,
+        "clue": "\"Roaring Camp\" writer",
+        "row": 6,
+        "col": 6,
+        "answer": "HARTE"
+      },
+      {
+        "number": 37,
+        "clue": "Sinking ___",
+        "row": 7,
+        "col": 5,
+        "answer": "FUND"
+      },
+      {
+        "number": 38,
+        "clue": "Wild ones",
+        "row": 7,
+        "col": 11,
+        "answer": "MANIACS"
+      },
+      {
+        "number": 40,
+        "clue": "Greet",
+        "row": 8,
+        "col": 4,
+        "answer": "HAIL"
+      },
+      {
+        "number": 41,
+        "clue": "Singer Vikki",
+        "row": 8,
+        "col": 10,
+        "answer": "CARR"
+      },
+      {
+        "number": 44,
+        "clue": "Norton of  \"The Honeymooners\"",
+        "row": 9,
+        "col": 9,
+        "answer": "CARNEY"
+      },
+      {
+        "number": 46,
+        "clue": "Packs of camels",
+        "row": 10,
+        "col": 3,
+        "answer": "HERDS"
+      },
+      {
+        "number": 48,
+        "clue": "Dismal cry",
+        "row": 11,
+        "col": 0,
+        "answer": "YOWL"
+      },
+      {
+        "number": 49,
+        "clue": "Melville novel",
+        "row": 11,
+        "col": 1,
+        "answer": "OMOO"
+      },
+      {
+        "number": 51,
+        "clue": "___ off (lessen)",
+        "row": 11,
+        "col": 8,
+        "answer": "EASE"
+      },
+      {
+        "number": 52,
+        "clue": "Where Sligo is",
+        "row": 11,
+        "col": 13,
+        "answer": "EIRE"
+      },
+      {
+        "number": 53,
+        "clue": "Crisp cookie",
+        "row": 11,
+        "col": 14,
+        "answer": "SNAP"
+      },
+      {
+        "number": 55,
+        "clue": "Spark stream",
+        "row": 12,
+        "col": 5,
+        "answer": "ARC"
+      },
+      {
+        "number": 56,
+        "clue": "Narrow inlet",
+        "row": 12,
+        "col": 6,
+        "answer": "RIA"
+      }
+    ]
+  }
+}

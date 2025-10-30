@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-04-22",
+  "metadata": {
+    "date": "1976-04-22",
+    "title": "NY TIMES, THU, APR 22, 1976",
+    "author": "Sidney Nelson",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "Z", "O", "V", null, "S", "I", "M", "A", "S", null, "A", "M", "O", "S"],
+    ["R", "I", "M", "E", null, "C", "R", "I", "M", "P", null, "M", "A", "T", "E"],
+    ["M", "O", "O", "N", "S", "H", "I", "N", "E", "R", null, "A", "R", "O", "W"],
+    ["S", "N", "O", "U", "T", null, "S", "U", "N", "Y", "A", "T", "S", "E", "N"],
+    [null, null, null, "S", "I", "G", "H", "T", null, "E", "D", "I", "E", null, null],
+    ["H", "O", "M", "B", "R", "E", null, "E", "T", "R", "E", null, "I", "L", "L"],
+    ["A", "R", "O", "E", null, "R", "O", "S", "A", null, "P", "E", "L", "E", "E"],
+    ["S", "C", "O", "R", "P", "I", "O", null, "C", "A", "T", "A", "L", "A", "N"],
+    ["T", "A", "N", "G", "O", null, "N", "C", "O", "S", null, "R", "E", "S", "T"],
+    ["E", "S", "S", null, "I", "V", "A", "R", null, "S", "E", "T", "S", "T", "O"],
+    [null, null, "T", "A", "L", "E", null, "E", "P", "O", "C", "H", null, null, null],
+    ["M", "E", "R", "C", "U", "R", "I", "A", "L", null, "O", "D", "E", "T", "S"],
+    ["A", "L", "U", "M", null, "S", "A", "T", "U", "R", "N", "A", "L", "I", "A"],
+    ["R", "I", "C", "E", null, "E", "L", "E", "M", "I", null, "Y", "O", "R", "K"],
+    ["Y", "A", "K", "S", null, "D", "U", "D", "E", "S", null, "S", "N", "E", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Russian sea",
+        "row": 0,
+        "col": 0,
+        "answer": "AZOV"
+      },
+      {
+        "number": 5,
+        "clue": "Igneous rocks",
+        "row": 0,
+        "col": 5,
+        "answer": "SIMAS"
+      },
+      {
+        "number": 10,
+        "clue": "Book after Joel",
+        "row": 0,
+        "col": 11,
+        "answer": "AMOS"
+      },
+      {
+        "number": 14,
+        "clue": "Frost",
+        "row": 1,
+        "col": 0,
+        "answer": "RIME"
+      },
+      {
+        "number": 15,
+        "clue": "Use a hair-curler",
+        "row": 1,
+        "col": 5,
+        "answer": "CRIMP"
+      },
+      {
+        "number": 16,
+        "clue": "Check or first",
+        "row": 1,
+        "col": 11,
+        "answer": "MATE"
+      },
+      {
+        "number": 17,
+        "clue": "Revenuer's quarry",
+        "row": 2,
+        "col": 0,
+        "answer": "MOONSHINER"
+      },
+      {
+        "number": 19,
+        "clue": "In a line",
+        "row": 2,
+        "col": 11,
+        "answer": "AROW"
+      },
+      {
+        "number": 20,
+        "clue": "Tapir's feature",
+        "row": 3,
+        "col": 0,
+        "answer": "SNOUT"
+      },
+      {
+        "number": 21,
+        "clue": "Kuomintang founder",
+        "row": 3,
+        "col": 6,
+        "answer": "SUNYATSEN"
+      },
+      {
+        "number": 23,
+        "clue": "Kind of seer",
+        "row": 4,
+        "col": 3,
+        "answer": "SIGHT"
+      },
+      {
+        "number": 25,
+        "clue": "Miss Adams",
+        "row": 4,
+        "col": 9,
+        "answer": "EDIE"
+      },
+      {
+        "number": 26,
+        "clue": "Man on a rancho",
+        "row": 5,
+        "col": 0,
+        "answer": "HOMBRE"
+      },
+      {
+        "number": 29,
+        "clue": "Raison d'___",
+        "row": 5,
+        "col": 7,
+        "answer": "ETRE"
+      },
+      {
+        "number": 31,
+        "clue": "State: Abbr.",
+        "row": 5,
+        "col": 12,
+        "answer": "ILL"
+      },
+      {
+        "number": 34,
+        "clue": "Indonesian islands",
+        "row": 6,
+        "col": 0,
+        "answer": "AROE"
+      },
+      {
+        "number": 35,
+        "clue": "Bonheur",
+        "row": 6,
+        "col": 5,
+        "answer": "ROSA"
+      },
+      {
+        "number": 37,
+        "clue": "Martinique mount",
+        "row": 6,
+        "col": 10,
+        "answer": "PELEE"
+      },
+      {
+        "number": 39,
+        "clue": "Zodiac sign",
+        "row": 7,
+        "col": 0,
+        "answer": "SCORPIO"
+      },
+      {
+        "number": 41,
+        "clue": "Language of Barcelona",
+        "row": 7,
+        "col": 8,
+        "answer": "CATALAN"
+      },
+      {
+        "number": 43,
+        "clue": "Valentino specialty",
+        "row": 8,
+        "col": 0,
+        "answer": "TANGO"
+      },
+      {
+        "number": 44,
+        "clue": "Sgts.",
+        "row": 8,
+        "col": 6,
+        "answer": "NCOS"
+      },
+      {
+        "number": 46,
+        "clue": "Take five",
+        "row": 8,
+        "col": 11,
+        "answer": "REST"
+      },
+      {
+        "number": 47,
+        "clue": "Curve",
+        "row": 9,
+        "col": 0,
+        "answer": "ESS"
+      },
+      {
+        "number": 48,
+        "clue": "Match-king Kreuger",
+        "row": 9,
+        "col": 4,
+        "answer": "IVAR"
+      },
+      {
+        "number": 50,
+        "clue": "Begins",
+        "row": 9,
+        "col": 9,
+        "answer": "SETSTO"
+      },
+      {
+        "number": 52,
+        "clue": "___ bearer",
+        "row": 10,
+        "col": 2,
+        "answer": "TALE"
+      },
+      {
+        "number": 54,
+        "clue": "Period",
+        "row": 10,
+        "col": 7,
+        "answer": "EPOCH"
+      },
+      {
+        "number": 56,
+        "clue": "Fickle",
+        "row": 11,
+        "col": 0,
+        "answer": "MERCURIAL"
+      },
+      {
+        "number": 59,
+        "clue": "U.S. playwright",
+        "row": 11,
+        "col": 10,
+        "answer": "ODETS"
+      },
+      {
+        "number": 63,
+        "clue": "Astringent",
+        "row": 12,
+        "col": 0,
+        "answer": "ALUM"
+      },
+      {
+        "number": 64,
+        "clue": "Wild revelry",
+        "row": 12,
+        "col": 5,
+        "answer": "SATURNALIA"
+      },
+      {
+        "number": 66,
+        "clue": "Oriental staple",
+        "row": 13,
+        "col": 0,
+        "answer": "RICE"
+      },
+      {
+        "number": 67,
+        "clue": "Resin",
+        "row": 13,
+        "col": 5,
+        "answer": "ELEMI"
+      },
+      {
+        "number": 68,
+        "clue": "Penna. city",
+        "row": 13,
+        "col": 11,
+        "answer": "YORK"
+      },
+      {
+        "number": 69,
+        "clue": "Tibetan animals",
+        "row": 14,
+        "col": 0,
+        "answer": "YAKS"
+      },
+      {
+        "number": 70,
+        "clue": "Dressy ones",
+        "row": 14,
+        "col": 5,
+        "answer": "DUDES"
+      },
+      {
+        "number": 71,
+        "clue": "Snicker-___",
+        "row": 14,
+        "col": 11,
+        "answer": "SNEE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Prepares for battle",
+        "row": 0,
+        "col": 0,
+        "answer": "ARMS"
+      },
+      {
+        "number": 2,
+        "clue": "Jerusalem hill",
+        "row": 0,
+        "col": 1,
+        "answer": "ZION"
+      },
+      {
+        "number": 3,
+        "clue": "Melville novel",
+        "row": 0,
+        "col": 2,
+        "answer": "OMOO"
+      },
+      {
+        "number": 4,
+        "clue": "Where Tannh\u00e4user dallied",
+        "row": 0,
+        "col": 3,
+        "answer": "VENUSBERG"
+      },
+      {
+        "number": 5,
+        "clue": "Educ. place",
+        "row": 0,
+        "col": 5,
+        "answer": "SCH"
+      },
+      {
+        "number": 6,
+        "clue": "Stew or setter",
+        "row": 0,
+        "col": 6,
+        "answer": "IRISH"
+      },
+      {
+        "number": 7,
+        "clue": "Club-secretary's reading",
+        "row": 0,
+        "col": 7,
+        "answer": "MINUTES"
+      },
+      {
+        "number": 8,
+        "clue": "Church corner",
+        "row": 0,
+        "col": 8,
+        "answer": "AMEN"
+      },
+      {
+        "number": 9,
+        "clue": "More nimble",
+        "row": 0,
+        "col": 9,
+        "answer": "SPRYER"
+      },
+      {
+        "number": 10,
+        "clue": "Violin",
+        "row": 0,
+        "col": 11,
+        "answer": "AMATI"
+      },
+      {
+        "number": 11,
+        "clue": "France's oldest city",
+        "row": 0,
+        "col": 12,
+        "answer": "MARSEILLES"
+      },
+      {
+        "number": 12,
+        "clue": "Indian of West",
+        "row": 0,
+        "col": 13,
+        "answer": "OTOE"
+      },
+      {
+        "number": 13,
+        "clue": "Stitched",
+        "row": 0,
+        "col": 14,
+        "answer": "SEWN"
+      },
+      {
+        "number": 18,
+        "clue": "Poky",
+        "row": 2,
+        "col": 4,
+        "answer": "STIR"
+      },
+      {
+        "number": 22,
+        "clue": "Expert",
+        "row": 3,
+        "col": 10,
+        "answer": "ADEPT"
+      },
+      {
+        "number": 24,
+        "clue": "Odin's wolf",
+        "row": 4,
+        "col": 5,
+        "answer": "GERI"
+      },
+      {
+        "number": 26,
+        "clue": "\"Marry in ___ . . . \"",
+        "row": 5,
+        "col": 0,
+        "answer": "HASTE"
+      },
+      {
+        "number": 27,
+        "clue": "Killer whales",
+        "row": 5,
+        "col": 1,
+        "answer": "ORCAS"
+      },
+      {
+        "number": 28,
+        "clue": "Sentimental",
+        "row": 5,
+        "col": 2,
+        "answer": "MOONSTRUCK"
+      },
+      {
+        "number": 30,
+        "clue": "Mexican dish",
+        "row": 5,
+        "col": 8,
+        "answer": "TACO"
+      },
+      {
+        "number": 32,
+        "clue": "Minimal",
+        "row": 5,
+        "col": 13,
+        "answer": "LEAST"
+      },
+      {
+        "number": 33,
+        "clue": "Slow, in music",
+        "row": 5,
+        "col": 14,
+        "answer": "LENTO"
+      },
+      {
+        "number": 36,
+        "clue": "Chaplin",
+        "row": 6,
+        "col": 6,
+        "answer": "OONA"
+      },
+      {
+        "number": 38,
+        "clue": "Ecological happenings",
+        "row": 6,
+        "col": 11,
+        "answer": "EARTHDAYS"
+      },
+      {
+        "number": 40,
+        "clue": "French G.I.",
+        "row": 7,
+        "col": 4,
+        "answer": "POILU"
+      },
+      {
+        "number": 42,
+        "clue": "\"___ often happens\"",
+        "row": 7,
+        "col": 9,
+        "answer": "ASSO"
+      },
+      {
+        "number": 45,
+        "clue": "\" . . . all men are ___ equal\"",
+        "row": 8,
+        "col": 7,
+        "answer": "CREATED"
+      },
+      {
+        "number": 49,
+        "clue": "Skilled",
+        "row": 9,
+        "col": 5,
+        "answer": "VERSED"
+      },
+      {
+        "number": 51,
+        "clue": "Coll. course",
+        "row": 9,
+        "col": 10,
+        "answer": "ECON"
+      },
+      {
+        "number": 53,
+        "clue": "Peaks",
+        "row": 10,
+        "col": 3,
+        "answer": "ACMES"
+      },
+      {
+        "number": 55,
+        "clue": "Feather",
+        "row": 10,
+        "col": 8,
+        "answer": "PLUME"
+      },
+      {
+        "number": 56,
+        "clue": "Poppins or Astor",
+        "row": 11,
+        "col": 0,
+        "answer": "MARY"
+      },
+      {
+        "number": 57,
+        "clue": "Kazan",
+        "row": 11,
+        "col": 1,
+        "answer": "ELIA"
+      },
+      {
+        "number": 58,
+        "clue": "Abode of the dead",
+        "row": 11,
+        "col": 6,
+        "answer": "IALU"
+      },
+      {
+        "number": 60,
+        "clue": "N.C. college",
+        "row": 11,
+        "col": 12,
+        "answer": "ELON"
+      },
+      {
+        "number": 61,
+        "clue": "Spare or flat",
+        "row": 11,
+        "col": 13,
+        "answer": "TIRE"
+      },
+      {
+        "number": 62,
+        "clue": "Japanese drink",
+        "row": 11,
+        "col": 14,
+        "answer": "SAKE"
+      },
+      {
+        "number": 65,
+        "clue": "___ de veau",
+        "row": 12,
+        "col": 9,
+        "answer": "RIS"
+      }
+    ]
+  }
+}

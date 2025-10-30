@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-05-10",
+  "metadata": {
+    "date": "1977-05-10",
+    "title": "NY TIMES, TUE, MAY 10, 1977",
+    "author": "Maura B. Jacobson",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["G", "A", "L", "S", null, "G", "L", "A", "D", "S", null, "C", "A", "S", "K"],
+    ["I", "G", "O", "T", null, "R", "E", "L", "E", "E", null, "O", "N", "E", "A"],
+    ["S", "E", "C", "U", "R", "I", "T", "Y", "B", "L", "A", "N", "K", "E", "T"],
+    ["T", "R", "I", "D", "E", "N", "T", "S", null, "E", "S", "C", "A", "P", "E"],
+    [null, null, null, "P", "A", "D", "S", null, "A", "C", "T", "H", null, null, null],
+    ["A", "B", "H", "O", "R", "S", null, "R", "I", "T", "A", null, "A", "B", "C"],
+    ["Q", "U", "A", "K", "E", null, "M", "I", "R", "O", null, "I", "N", "R", "O"],
+    ["U", "N", "D", "E", "R", "C", "O", "V", "E", "R", "G", "R", "O", "U", "P"],
+    ["A", "C", "O", "R", null, "O", "V", "E", "R", null, "O", "R", "A", "T", "E"],
+    ["S", "O", "N", null, "S", "M", "I", "T", null, "I", "R", "I", "S", "E", "S"],
+    [null, null, null, "S", "U", "P", "E", null, "U", "N", "I", "T", null, null, null],
+    ["A", "F", "F", "A", "I", "R", null, "A", "P", "P", "E", "A", "L", "T", "O"],
+    ["Q", "U", "I", "L", "T", "I", "N", "G", "P", "A", "R", "T", "I", "E", "S"],
+    ["U", "N", "D", "O", null, "S", "O", "R", "E", "R", null, "E", "R", "A", "S"],
+    ["I", "T", "O", "N", null, "E", "W", "A", "R", "T", null, "D", "E", "L", "A"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Guys' partners",
+        "row": 0,
+        "col": 0,
+        "answer": "GALS"
+      },
+      {
+        "number": 5,
+        "clue": "Flowers, for short",
+        "row": 0,
+        "col": 5,
+        "answer": "GLADS"
+      },
+      {
+        "number": 10,
+        "clue": "Vessel for amontillado",
+        "row": 0,
+        "col": 11,
+        "answer": "CASK"
+      },
+      {
+        "number": 14,
+        "clue": "\"___ plenty of . . . \"",
+        "row": 1,
+        "col": 0,
+        "answer": "IGOT"
+      },
+      {
+        "number": 15,
+        "clue": "Book by D. S. Freeman",
+        "row": 1,
+        "col": 5,
+        "answer": "RELEE"
+      },
+      {
+        "number": 16,
+        "clue": "Draft status",
+        "row": 1,
+        "col": 11,
+        "answer": "ONEA"
+      },
+      {
+        "number": 17,
+        "clue": "Comforter of a sort",
+        "row": 2,
+        "col": 0,
+        "answer": "SECURITYBLANKET"
+      },
+      {
+        "number": 20,
+        "clue": "Spears for Neptune",
+        "row": 3,
+        "col": 0,
+        "answer": "TRIDENTS"
+      },
+      {
+        "number": 21,
+        "clue": "Break free",
+        "row": 3,
+        "col": 9,
+        "answer": "ESCAPE"
+      },
+      {
+        "number": 22,
+        "clue": "Hippie dwellings",
+        "row": 4,
+        "col": 3,
+        "answer": "PADS"
+      },
+      {
+        "number": 23,
+        "clue": "Drug acronym",
+        "row": 4,
+        "col": 8,
+        "answer": "ACTH"
+      },
+      {
+        "number": 24,
+        "clue": "Execrates",
+        "row": 5,
+        "col": 0,
+        "answer": "ABHORS"
+      },
+      {
+        "number": 27,
+        "clue": "Soprano Hunter of the Met",
+        "row": 5,
+        "col": 7,
+        "answer": "RITA"
+      },
+      {
+        "number": 28,
+        "clue": "Basic principle",
+        "row": 5,
+        "col": 12,
+        "answer": "ABC"
+      },
+      {
+        "number": 31,
+        "clue": "Seismologist's concern",
+        "row": 6,
+        "col": 0,
+        "answer": "QUAKE"
+      },
+      {
+        "number": 32,
+        "clue": "Spanish surrealist",
+        "row": 6,
+        "col": 6,
+        "answer": "MIRO"
+      },
+      {
+        "number": 33,
+        "clue": "Obi accessory",
+        "row": 6,
+        "col": 11,
+        "answer": "INRO"
+      },
+      {
+        "number": 34,
+        "clue": "C.I.A., for one",
+        "row": 7,
+        "col": 0,
+        "answer": "UNDERCOVERGROUP"
+      },
+      {
+        "number": 37,
+        "clue": "Abdominal acidity",
+        "row": 8,
+        "col": 0,
+        "answer": "ACOR"
+      },
+      {
+        "number": 38,
+        "clue": "Done with",
+        "row": 8,
+        "col": 5,
+        "answer": "OVER"
+      },
+      {
+        "number": 39,
+        "clue": "Speechify",
+        "row": 8,
+        "col": 10,
+        "answer": "ORATE"
+      },
+      {
+        "number": 40,
+        "clue": "\"Dombey and ___\"",
+        "row": 9,
+        "col": 0,
+        "answer": "SON"
+      },
+      {
+        "number": 41,
+        "clue": "Struck, in days of yore",
+        "row": 9,
+        "col": 4,
+        "answer": "SMIT"
+      },
+      {
+        "number": 42,
+        "clue": "Spring blooms",
+        "row": 9,
+        "col": 9,
+        "answer": "IRISES"
+      },
+      {
+        "number": 43,
+        "clue": "Film extra, for short",
+        "row": 10,
+        "col": 3,
+        "answer": "SUPE"
+      },
+      {
+        "number": 44,
+        "clue": "Basic quantity",
+        "row": 10,
+        "col": 8,
+        "answer": "UNIT"
+      },
+      {
+        "number": 45,
+        "clue": "Two-timer's liaison",
+        "row": 11,
+        "col": 0,
+        "answer": "AFFAIR"
+      },
+      {
+        "number": 48,
+        "clue": "Arouse approval in",
+        "row": 11,
+        "col": 7,
+        "answer": "APPEALTO"
+      },
+      {
+        "number": 52,
+        "clue": "Kinds of bees",
+        "row": 12,
+        "col": 0,
+        "answer": "QUILTINGPARTIES"
+      },
+      {
+        "number": 54,
+        "clue": "Open knots",
+        "row": 13,
+        "col": 0,
+        "answer": "UNDO"
+      },
+      {
+        "number": 55,
+        "clue": "More inflamed",
+        "row": 13,
+        "col": 5,
+        "answer": "SORER"
+      },
+      {
+        "number": 56,
+        "clue": "Mayan and Mundane",
+        "row": 13,
+        "col": 11,
+        "answer": "ERAS"
+      },
+      {
+        "number": 57,
+        "clue": "Take ___ the lam (flee)",
+        "row": 14,
+        "col": 0,
+        "answer": "ITON"
+      },
+      {
+        "number": 58,
+        "clue": "William ___ Gladstone",
+        "row": 14,
+        "col": 5,
+        "answer": "EWART"
+      },
+      {
+        "number": 59,
+        "clue": "Between Walter and Mare",
+        "row": 14,
+        "col": 11,
+        "answer": "DELA"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "The heart of the matter",
+        "row": 0,
+        "col": 0,
+        "answer": "GIST"
+      },
+      {
+        "number": 2,
+        "clue": "Antiquing device",
+        "row": 0,
+        "col": 1,
+        "answer": "AGER"
+      },
+      {
+        "number": 3,
+        "clue": "Places",
+        "row": 0,
+        "col": 2,
+        "answer": "LOCI"
+      },
+      {
+        "number": 4,
+        "clue": "Card game",
+        "row": 0,
+        "col": 3,
+        "answer": "STUDPOKER"
+      },
+      {
+        "number": 5,
+        "clue": "Uses a millstone",
+        "row": 0,
+        "col": 5,
+        "answer": "GRINDS"
+      },
+      {
+        "number": 6,
+        "clue": "Riga natives",
+        "row": 0,
+        "col": 6,
+        "answer": "LETTS"
+      },
+      {
+        "number": 7,
+        "clue": "Khan et al.",
+        "row": 0,
+        "col": 7,
+        "answer": "ALYS"
+      },
+      {
+        "number": 8,
+        "clue": "Junior Leaguer",
+        "row": 0,
+        "col": 8,
+        "answer": "DEB"
+      },
+      {
+        "number": 9,
+        "clue": "Part of a radio set",
+        "row": 0,
+        "col": 9,
+        "answer": "SELECTOR"
+      },
+      {
+        "number": 10,
+        "clue": "Relative of a whelk",
+        "row": 0,
+        "col": 11,
+        "answer": "CONCH"
+      },
+      {
+        "number": 11,
+        "clue": "Singer Paul",
+        "row": 0,
+        "col": 12,
+        "answer": "ANKA"
+      },
+      {
+        "number": 12,
+        "clue": "Trickle through",
+        "row": 0,
+        "col": 13,
+        "answer": "SEEP"
+      },
+      {
+        "number": 13,
+        "clue": "Higham's book on Hepburn",
+        "row": 0,
+        "col": 14,
+        "answer": "KATE"
+      },
+      {
+        "number": 18,
+        "clue": "Skittish steed",
+        "row": 2,
+        "col": 4,
+        "answer": "REARER"
+      },
+      {
+        "number": 19,
+        "clue": "Dog star",
+        "row": 2,
+        "col": 10,
+        "answer": "ASTA"
+      },
+      {
+        "number": 23,
+        "clue": "Frame for drying clothes",
+        "row": 4,
+        "col": 8,
+        "answer": "AIRER"
+      },
+      {
+        "number": 24,
+        "clue": "Greenish blues",
+        "row": 5,
+        "col": 0,
+        "answer": "AQUAS"
+      },
+      {
+        "number": 25,
+        "clue": "Con man's game",
+        "row": 5,
+        "col": 1,
+        "answer": "BUNCO"
+      },
+      {
+        "number": 26,
+        "clue": "Wore",
+        "row": 5,
+        "col": 2,
+        "answer": "HADON"
+      },
+      {
+        "number": 27,
+        "clue": "Metal bolt",
+        "row": 5,
+        "col": 7,
+        "answer": "RIVET"
+      },
+      {
+        "number": 28,
+        "clue": "Celebes oxen",
+        "row": 5,
+        "col": 12,
+        "answer": "ANOAS"
+      },
+      {
+        "number": 29,
+        "clue": "Beastly one",
+        "row": 5,
+        "col": 13,
+        "answer": "BRUTE"
+      },
+      {
+        "number": 30,
+        "clue": "Handles successfully",
+        "row": 5,
+        "col": 14,
+        "answer": "COPES"
+      },
+      {
+        "number": 32,
+        "clue": "Bergman product",
+        "row": 6,
+        "col": 6,
+        "answer": "MOVIE"
+      },
+      {
+        "number": 33,
+        "clue": "Nettled",
+        "row": 6,
+        "col": 11,
+        "answer": "IRRITATED"
+      },
+      {
+        "number": 35,
+        "clue": "Include or contain",
+        "row": 7,
+        "col": 5,
+        "answer": "COMPRISE"
+      },
+      {
+        "number": 36,
+        "clue": "More gruesome",
+        "row": 7,
+        "col": 10,
+        "answer": "GORIER"
+      },
+      {
+        "number": 41,
+        "clue": "Deuce to ace",
+        "row": 9,
+        "col": 4,
+        "answer": "SUIT"
+      },
+      {
+        "number": 42,
+        "clue": "To a certain extent",
+        "row": 9,
+        "col": 9,
+        "answer": "INPART"
+      },
+      {
+        "number": 43,
+        "clue": "Drawing room",
+        "row": 10,
+        "col": 3,
+        "answer": "SALON"
+      },
+      {
+        "number": 44,
+        "clue": "Kind of cut or crust",
+        "row": 10,
+        "col": 8,
+        "answer": "UPPER"
+      },
+      {
+        "number": 45,
+        "clue": "Here, in Honduras",
+        "row": 11,
+        "col": 0,
+        "answer": "AQUI"
+      },
+      {
+        "number": 46,
+        "clue": "\"Candid\" cameraman",
+        "row": 11,
+        "col": 1,
+        "answer": "FUNT"
+      },
+      {
+        "number": 47,
+        "clue": "Rover's colleague",
+        "row": 11,
+        "col": 2,
+        "answer": "FIDO"
+      },
+      {
+        "number": 48,
+        "clue": "Taj Mahal city",
+        "row": 11,
+        "col": 7,
+        "answer": "AGRA"
+      },
+      {
+        "number": 49,
+        "clue": "Cambio money",
+        "row": 11,
+        "col": 12,
+        "answer": "LIRE"
+      },
+      {
+        "number": 50,
+        "clue": "River duck",
+        "row": 11,
+        "col": 13,
+        "answer": "TEAL"
+      },
+      {
+        "number": 51,
+        "clue": "Pelion's legendary supporter",
+        "row": 11,
+        "col": 14,
+        "answer": "OSSA"
+      },
+      {
+        "number": 53,
+        "clue": "At present",
+        "row": 12,
+        "col": 6,
+        "answer": "NOW"
+      }
+    ]
+  }
+}

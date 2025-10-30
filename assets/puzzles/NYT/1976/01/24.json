@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-01-24",
+  "metadata": {
+    "date": "1976-01-24",
+    "title": "NY TIMES, SAT, JAN 24, 1976",
+    "author": "Sidney Nelson",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["T", "O", "P", "I", null, "T", "R", "I", "C", "K", null, "A", "P", "S", "E"],
+    ["E", "L", "O", "N", null, "E", "A", "G", "R", "E", null, "C", "H", "U", "M"],
+    ["S", "E", "L", "F", "E", "X", "P", "L", "A", "N", "A", "T", "O", "R", "Y"],
+    ["T", "O", "Y", "E", "D", null, "T", "U", "B", null, "L", "O", "T", "A", "S"],
+    [null, null, "U", "R", "I", "M", null, null, null, "M", "I", "R", "O", null, null],
+    ["F", "I", "N", null, "T", "A", "L", "I", "P", "O", "T", null, "J", "A", "B"],
+    ["A", "L", "S", "O", null, "N", "O", "M", "A", "D", null, "T", "O", "U", "R"],
+    ["R", "I", "A", "L", null, "A", "G", "A", "V", "E", null, "R", "U", "D", "E"],
+    ["C", "U", "T", "E", null, "T", "O", "G", "A", "S", null, "E", "R", "I", "A"],
+    ["E", "M", "U", null, "R", "E", "S", "E", "N", "T", "S", null, "N", "O", "D"],
+    [null, null, "R", "O", "U", "E", null, null, null, "Y", "O", "G", "A", null, null],
+    ["R", "O", "A", "C", "H", null, "S", "H", "A", null, "M", "I", "L", "A", "N"],
+    ["A", "N", "T", "H", "R", "O", "P", "O", "P", "H", "A", "G", "I", "T", "E"],
+    ["I", "T", "E", "R", null, "P", "U", "R", "I", "M", null, "O", "S", "L", "O"],
+    ["L", "O", "D", "E", null, "A", "N", "N", "A", "S", null, "T", "M", "E", "N"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pith helmet",
+        "row": 0,
+        "col": 0,
+        "answer": "TOPI"
+      },
+      {
+        "number": 5,
+        "clue": "Halloween choice",
+        "row": 0,
+        "col": 5,
+        "answer": "TRICK"
+      },
+      {
+        "number": 10,
+        "clue": "Church area",
+        "row": 0,
+        "col": 11,
+        "answer": "APSE"
+      },
+      {
+        "number": 14,
+        "clue": "N.C. College",
+        "row": 1,
+        "col": 0,
+        "answer": "ELON"
+      },
+      {
+        "number": 15,
+        "clue": "Tidal wave",
+        "row": 1,
+        "col": 5,
+        "answer": "EAGRE"
+      },
+      {
+        "number": 16,
+        "clue": "Fish bait",
+        "row": 1,
+        "col": 11,
+        "answer": "CHUM"
+      },
+      {
+        "number": 17,
+        "clue": "Obvious",
+        "row": 2,
+        "col": 0,
+        "answer": "SELFEXPLANATORY"
+      },
+      {
+        "number": 20,
+        "clue": "Trifled",
+        "row": 3,
+        "col": 0,
+        "answer": "TOYED"
+      },
+      {
+        "number": 21,
+        "clue": "Awkward boat",
+        "row": 3,
+        "col": 6,
+        "answer": "TUB"
+      },
+      {
+        "number": 22,
+        "clue": "Water pots of India",
+        "row": 3,
+        "col": 10,
+        "answer": "LOTAS"
+      },
+      {
+        "number": 23,
+        "clue": "___ and Thummim",
+        "row": 4,
+        "col": 2,
+        "answer": "URIM"
+      },
+      {
+        "number": 25,
+        "clue": "Spanish painter",
+        "row": 4,
+        "col": 9,
+        "answer": "MIRO"
+      },
+      {
+        "number": 26,
+        "clue": "Newspaper section: Abbr.",
+        "row": 5,
+        "col": 0,
+        "answer": "FIN"
+      },
+      {
+        "number": 28,
+        "clue": "Asian palm",
+        "row": 5,
+        "col": 4,
+        "answer": "TALIPOT"
+      },
+      {
+        "number": 32,
+        "clue": "Prod",
+        "row": 5,
+        "col": 12,
+        "answer": "JAB"
+      },
+      {
+        "number": 35,
+        "clue": "Besides",
+        "row": 6,
+        "col": 0,
+        "answer": "ALSO"
+      },
+      {
+        "number": 37,
+        "clue": "Wanderer",
+        "row": 6,
+        "col": 5,
+        "answer": "NOMAD"
+      },
+      {
+        "number": 38,
+        "clue": "___ de force",
+        "row": 6,
+        "col": 11,
+        "answer": "TOUR"
+      },
+      {
+        "number": 39,
+        "clue": "Coin of Iran",
+        "row": 7,
+        "col": 0,
+        "answer": "RIAL"
+      },
+      {
+        "number": 40,
+        "clue": "Century plant",
+        "row": 7,
+        "col": 5,
+        "answer": "AGAVE"
+      },
+      {
+        "number": 41,
+        "clue": "Rough",
+        "row": 7,
+        "col": 11,
+        "answer": "RUDE"
+      },
+      {
+        "number": 42,
+        "clue": "Attractive",
+        "row": 8,
+        "col": 0,
+        "answer": "CUTE"
+      },
+      {
+        "number": 43,
+        "clue": "Roman menswear",
+        "row": 8,
+        "col": 5,
+        "answer": "TOGAS"
+      },
+      {
+        "number": 44,
+        "clue": "Silkworm",
+        "row": 8,
+        "col": 11,
+        "answer": "ERIA"
+      },
+      {
+        "number": 45,
+        "clue": "Ostrich's relative",
+        "row": 9,
+        "col": 0,
+        "answer": "EMU"
+      },
+      {
+        "number": 46,
+        "clue": "Takes umbrage",
+        "row": 9,
+        "col": 4,
+        "answer": "RESENTS"
+      },
+      {
+        "number": 48,
+        "clue": "Land of ___",
+        "row": 9,
+        "col": 12,
+        "answer": "NOD"
+      },
+      {
+        "number": 49,
+        "clue": "Dissolute one",
+        "row": 10,
+        "col": 2,
+        "answer": "ROUE"
+      },
+      {
+        "number": 51,
+        "clue": "Mental discipline",
+        "row": 10,
+        "col": 9,
+        "answer": "YOGA"
+      },
+      {
+        "number": 53,
+        "clue": "Freshwater fish",
+        "row": 11,
+        "col": 0,
+        "answer": "ROACH"
+      },
+      {
+        "number": 55,
+        "clue": "Shinto temple",
+        "row": 11,
+        "col": 6,
+        "answer": "SHA"
+      },
+      {
+        "number": 58,
+        "clue": "La Scala's locale",
+        "row": 11,
+        "col": 10,
+        "answer": "MILAN"
+      },
+      {
+        "number": 61,
+        "clue": "Cannibal",
+        "row": 12,
+        "col": 0,
+        "answer": "ANTHROPOPHAGITE"
+      },
+      {
+        "number": 64,
+        "clue": "Brain passage",
+        "row": 13,
+        "col": 0,
+        "answer": "ITER"
+      },
+      {
+        "number": 65,
+        "clue": "Jewish festival",
+        "row": 13,
+        "col": 5,
+        "answer": "PURIM"
+      },
+      {
+        "number": 66,
+        "clue": "One of Ibsen's homes",
+        "row": 13,
+        "col": 11,
+        "answer": "OSLO"
+      },
+      {
+        "number": 67,
+        "clue": "Ore deposit",
+        "row": 14,
+        "col": 0,
+        "answer": "LODE"
+      },
+      {
+        "number": 68,
+        "clue": "Indian coins",
+        "row": 14,
+        "col": 5,
+        "answer": "ANNAS"
+      },
+      {
+        "number": 69,
+        "clue": "Feds",
+        "row": 14,
+        "col": 11,
+        "answer": "TMEN"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Exam",
+        "row": 0,
+        "col": 0,
+        "answer": "TEST"
+      },
+      {
+        "number": 2,
+        "clue": "Toast additive",
+        "row": 0,
+        "col": 1,
+        "answer": "OLEO"
+      },
+      {
+        "number": 3,
+        "clue": "Like 2 Down",
+        "row": 0,
+        "col": 2,
+        "answer": "POLYUNSATURATED"
+      },
+      {
+        "number": 4,
+        "clue": "Conclude",
+        "row": 0,
+        "col": 3,
+        "answer": "INFER"
+      },
+      {
+        "number": 5,
+        "clue": "Ritter or Antoine",
+        "row": 0,
+        "col": 5,
+        "answer": "TEX"
+      },
+      {
+        "number": 6,
+        "clue": "Transported",
+        "row": 0,
+        "col": 6,
+        "answer": "RAPT"
+      },
+      {
+        "number": 7,
+        "clue": "Eskimo hut",
+        "row": 0,
+        "col": 7,
+        "answer": "IGLU"
+      },
+      {
+        "number": 8,
+        "clue": "Curmudgeon",
+        "row": 0,
+        "col": 8,
+        "answer": "CRAB"
+      },
+      {
+        "number": 9,
+        "clue": "Understanding",
+        "row": 0,
+        "col": 9,
+        "answer": "KEN"
+      },
+      {
+        "number": 10,
+        "clue": "Performer",
+        "row": 0,
+        "col": 11,
+        "answer": "ACTOR"
+      },
+      {
+        "number": 11,
+        "clue": "Special type of reporting",
+        "row": 0,
+        "col": 12,
+        "answer": "PHOTOJOURNALISM"
+      },
+      {
+        "number": 12,
+        "clue": "Koran chapter",
+        "row": 0,
+        "col": 13,
+        "answer": "SURA"
+      },
+      {
+        "number": 13,
+        "clue": "Tortoise genus",
+        "row": 0,
+        "col": 14,
+        "answer": "EMYS"
+      },
+      {
+        "number": 18,
+        "clue": "Work on copy",
+        "row": 2,
+        "col": 4,
+        "answer": "EDIT"
+      },
+      {
+        "number": 19,
+        "clue": "Landed",
+        "row": 2,
+        "col": 10,
+        "answer": "ALIT"
+      },
+      {
+        "number": 24,
+        "clue": "Sea cow",
+        "row": 4,
+        "col": 5,
+        "answer": "MANATEE"
+      },
+      {
+        "number": 25,
+        "clue": "Decorum",
+        "row": 4,
+        "col": 9,
+        "answer": "MODESTY"
+      },
+      {
+        "number": 26,
+        "clue": "Moli\u00e8re's forte",
+        "row": 5,
+        "col": 0,
+        "answer": "FARCE"
+      },
+      {
+        "number": 27,
+        "clue": "Troy, to Caesar",
+        "row": 5,
+        "col": 1,
+        "answer": "ILIUM"
+      },
+      {
+        "number": 29,
+        "clue": "Philosophic reason",
+        "row": 5,
+        "col": 6,
+        "answer": "LOGOS"
+      },
+      {
+        "number": 30,
+        "clue": "Reflection",
+        "row": 5,
+        "col": 7,
+        "answer": "IMAGE"
+      },
+      {
+        "number": 31,
+        "clue": "Stately dance",
+        "row": 5,
+        "col": 8,
+        "answer": "PAVAN"
+      },
+      {
+        "number": 33,
+        "clue": "Video's counterpart",
+        "row": 5,
+        "col": 13,
+        "answer": "AUDIO"
+      },
+      {
+        "number": 34,
+        "clue": "Long green",
+        "row": 5,
+        "col": 14,
+        "answer": "BREAD"
+      },
+      {
+        "number": 36,
+        "clue": "Bullring yell",
+        "row": 6,
+        "col": 3,
+        "answer": "OLE"
+      },
+      {
+        "number": 38,
+        "clue": "Italian numeral",
+        "row": 6,
+        "col": 11,
+        "answer": "TRE"
+      },
+      {
+        "number": 46,
+        "clue": "German area",
+        "row": 9,
+        "col": 4,
+        "answer": "RUHR"
+      },
+      {
+        "number": 47,
+        "clue": "Body: Suffix",
+        "row": 9,
+        "col": 10,
+        "answer": "SOMA"
+      },
+      {
+        "number": 50,
+        "clue": "Yellow earth",
+        "row": 10,
+        "col": 3,
+        "answer": "OCHRE"
+      },
+      {
+        "number": 52,
+        "clue": "Leg of lamb",
+        "row": 10,
+        "col": 11,
+        "answer": "GIGOT"
+      },
+      {
+        "number": 53,
+        "clue": "Marsh bird",
+        "row": 11,
+        "col": 0,
+        "answer": "RAIL"
+      },
+      {
+        "number": 54,
+        "clue": "Hep",
+        "row": 11,
+        "col": 1,
+        "answer": "ONTO"
+      },
+      {
+        "number": 55,
+        "clue": "Kind of sugar or silk",
+        "row": 11,
+        "col": 6,
+        "answer": "SPUN"
+      },
+      {
+        "number": 56,
+        "clue": "Trumpet",
+        "row": 11,
+        "col": 7,
+        "answer": "HORN"
+      },
+      {
+        "number": 57,
+        "clue": "Samoan port",
+        "row": 11,
+        "col": 8,
+        "answer": "APIA"
+      },
+      {
+        "number": 59,
+        "clue": "Salt tree",
+        "row": 11,
+        "col": 13,
+        "answer": "ATLE"
+      },
+      {
+        "number": 60,
+        "clue": "Sign",
+        "row": 11,
+        "col": 14,
+        "answer": "NEON"
+      },
+      {
+        "number": 62,
+        "clue": "Agency under F.D.R.",
+        "row": 12,
+        "col": 5,
+        "answer": "OPA"
+      },
+      {
+        "number": 63,
+        "clue": "\"___ Pinafore\"",
+        "row": 12,
+        "col": 9,
+        "answer": "HMS"
+      }
+    ]
+  }
+}

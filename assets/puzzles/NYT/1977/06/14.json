@@ -1,0 +1,543 @@
+{
+  "id": "nyt-1977-06-14",
+  "metadata": {
+    "date": "1977-06-14",
+    "title": "NY TIMES, TUE, JUN 14, 1977",
+    "author": "A. J. Santora",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "R", "A", "B", null, "P", "A", "P", "A", null, "A", "C", "U", "P", null],
+    ["P", "O", "L", "A", "R", "I", "S", "A", "N", "D", "M", "A", "R", "I", "S"],
+    ["L", "A", "S", "S", "I", "E", "A", "N", "D", "M", "A", "S", "S", "E", "Y"],
+    [null, "D", "O", "E", "G", null, "B", "E", "A", "S", "T", null, "I", "T", "S"],
+    [null, null, null, null, "H", "A", "U", "L", null, null, null, "G", "N", "A", "T"],
+    ["A", "M", "A", null, "T", "U", "G", null, null, "W", "A", "L", "E", "S", null],
+    ["N", "O", "T", "A", "S", "B", "I", "G", null, "I", "R", "E", null, null, null],
+    ["N", "A", "L", "D", "I", "A", "N", "D", "T", "E", "B", "A", "L", "D", "I"],
+    [null, null, null, "A", "D", "D", null, "S", "O", "N", "I", "N", "L", "A", "W"],
+    [null, "C", "I", "T", "E", "E", null, null, "L", "I", "T", null, "B", "R", "O"],
+    ["R", "A", "S", "E", null, null, null, "S", "E", "E", "R", null, null, null, null],
+    ["O", "U", "R", null, "A", "M", "E", "E", "R", null, "A", "M", "B", "I", null],
+    ["B", "L", "A", "I", "R", "A", "N", "D", "A", "S", "T", "A", "I", "R", "E"],
+    ["S", "K", "E", "L", "T", "O", "N", "A", "N", "D", "E", "L", "T", "O", "N"],
+    [null, "S", "L", "O", "E", null, "A", "N", "T", "S", null, "T", "E", "N", "D"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Man of Amman",
+        "row": 0,
+        "col": 0,
+        "answer": "ARAB"
+      },
+      {
+        "number": 5,
+        "clue": "One of the Bears",
+        "row": 0,
+        "col": 5,
+        "answer": "PAPA"
+      },
+      {
+        "number": 9,
+        "clue": "We'll tak ___ o' kindness . . . \"",
+        "row": 0,
+        "col": 10,
+        "answer": "ACUP"
+      },
+      {
+        "number": 13,
+        "clue": "Star with home-run star",
+        "row": 1,
+        "col": 0,
+        "answer": "POLARISANDMARIS"
+      },
+      {
+        "number": 17,
+        "clue": "Dog star with Canadian star",
+        "row": 2,
+        "col": 0,
+        "answer": "LASSIEANDMASSEY"
+      },
+      {
+        "number": 18,
+        "clue": "Saul's herdsman",
+        "row": 3,
+        "col": 1,
+        "answer": "DOEG"
+      },
+      {
+        "number": 19,
+        "clue": "Animal",
+        "row": 3,
+        "col": 6,
+        "answer": "BEAST"
+      },
+      {
+        "number": 20,
+        "clue": "\"___ in the bag!\"",
+        "row": 3,
+        "col": 12,
+        "answer": "ITS"
+      },
+      {
+        "number": 21,
+        "clue": "Do trucking",
+        "row": 4,
+        "col": 4,
+        "answer": "HAUL"
+      },
+      {
+        "number": 23,
+        "clue": "Midge",
+        "row": 4,
+        "col": 11,
+        "answer": "GNAT"
+      },
+      {
+        "number": 24,
+        "clue": "Doctors' org.",
+        "row": 5,
+        "col": 0,
+        "answer": "AMA"
+      },
+      {
+        "number": 27,
+        "clue": "Towboat",
+        "row": 5,
+        "col": 4,
+        "answer": "TUG"
+      },
+      {
+        "number": 28,
+        "clue": "Burton's homeland",
+        "row": 5,
+        "col": 9,
+        "answer": "WALES"
+      },
+      {
+        "number": 30,
+        "clue": "Smaller",
+        "row": 6,
+        "col": 0,
+        "answer": "NOTASBIG"
+      },
+      {
+        "number": 33,
+        "clue": "Fury",
+        "row": 6,
+        "col": 9,
+        "answer": "IRE"
+      },
+      {
+        "number": 34,
+        "clue": "Silent star with opera star",
+        "row": 7,
+        "col": 0,
+        "answer": "NALDIANDTEBALDI"
+      },
+      {
+        "number": 39,
+        "clue": "Do figuring",
+        "row": 8,
+        "col": 3,
+        "answer": "ADD"
+      },
+      {
+        "number": 40,
+        "clue": "Family member",
+        "row": 8,
+        "col": 7,
+        "answer": "SONINLAW"
+      },
+      {
+        "number": 41,
+        "clue": "One being decorated",
+        "row": 9,
+        "col": 1,
+        "answer": "CITEE"
+      },
+      {
+        "number": 43,
+        "clue": "Ignited",
+        "row": 9,
+        "col": 8,
+        "answer": "LIT"
+      },
+      {
+        "number": 44,
+        "clue": "Sibling of dau.",
+        "row": 9,
+        "col": 12,
+        "answer": "BRO"
+      },
+      {
+        "number": 45,
+        "clue": "Form by carving",
+        "row": 10,
+        "col": 0,
+        "answer": "RASE"
+      },
+      {
+        "number": 46,
+        "clue": "He has a \"prophetable\" job",
+        "row": 10,
+        "col": 7,
+        "answer": "SEER"
+      },
+      {
+        "number": 47,
+        "clue": "\"___ Gang\" comedies",
+        "row": 11,
+        "col": 0,
+        "answer": "OUR"
+      },
+      {
+        "number": 48,
+        "clue": "Afghan bigwig",
+        "row": 11,
+        "col": 4,
+        "answer": "AMEER"
+      },
+      {
+        "number": 51,
+        "clue": "Word form with dextrous",
+        "row": 11,
+        "col": 10,
+        "answer": "AMBI"
+      },
+      {
+        "number": 55,
+        "clue": "Two movie stars",
+        "row": 12,
+        "col": 0,
+        "answer": "BLAIRANDASTAIRE"
+      },
+      {
+        "number": 59,
+        "clue": "Red and John",
+        "row": 13,
+        "col": 0,
+        "answer": "SKELTONANDELTON"
+      },
+      {
+        "number": 60,
+        "clue": "Plumlike fruit",
+        "row": 14,
+        "col": 1,
+        "answer": "SLOE"
+      },
+      {
+        "number": 61,
+        "clue": "Hill insects",
+        "row": 14,
+        "col": 6,
+        "answer": "ANTS"
+      },
+      {
+        "number": 62,
+        "clue": "Wait on",
+        "row": 14,
+        "col": 11,
+        "answer": "TEND"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Spring mo.",
+        "row": 0,
+        "col": 0,
+        "answer": "APL"
+      },
+      {
+        "number": 2,
+        "clue": "Highway",
+        "row": 0,
+        "col": 1,
+        "answer": "ROAD"
+      },
+      {
+        "number": 3,
+        "clue": "In addition",
+        "row": 0,
+        "col": 2,
+        "answer": "ALSO"
+      },
+      {
+        "number": 4,
+        "clue": "Unrefined",
+        "row": 0,
+        "col": 3,
+        "answer": "BASE"
+      },
+      {
+        "number": 5,
+        "clue": "Jack's snack",
+        "row": 0,
+        "col": 5,
+        "answer": "PIE"
+      },
+      {
+        "number": 6,
+        "clue": "As snug ___ . . .",
+        "row": 0,
+        "col": 6,
+        "answer": "ASABUGIN"
+      },
+      {
+        "number": 7,
+        "clue": "Cover, as den walls",
+        "row": 0,
+        "col": 7,
+        "answer": "PANEL"
+      },
+      {
+        "number": 8,
+        "clue": "A year ___ day",
+        "row": 0,
+        "col": 8,
+        "answer": "ANDA"
+      },
+      {
+        "number": 9,
+        "clue": "Amo, amas, ___",
+        "row": 0,
+        "col": 10,
+        "answer": "AMAT"
+      },
+      {
+        "number": 10,
+        "clue": "En tout ___ (vanity case)",
+        "row": 0,
+        "col": 11,
+        "answer": "CAS"
+      },
+      {
+        "number": 11,
+        "clue": "Of bears",
+        "row": 0,
+        "col": 12,
+        "answer": "URSINE"
+      },
+      {
+        "number": 12,
+        "clue": "Some holy paintings",
+        "row": 0,
+        "col": 13,
+        "answer": "PIETAS"
+      },
+      {
+        "number": 14,
+        "clue": "Location of a British driver's seat",
+        "row": 1,
+        "col": 4,
+        "answer": "RIGHTSIDE"
+      },
+      {
+        "number": 15,
+        "clue": "Med. degree",
+        "row": 1,
+        "col": 9,
+        "answer": "DMS"
+      },
+      {
+        "number": 16,
+        "clue": "Org.",
+        "row": 1,
+        "col": 14,
+        "answer": "SYST"
+      },
+      {
+        "number": 22,
+        "clue": "Morning song",
+        "row": 4,
+        "col": 5,
+        "answer": "AUBADE"
+      },
+      {
+        "number": 23,
+        "clue": "Gather the leftovers",
+        "row": 4,
+        "col": 11,
+        "answer": "GLEAN"
+      },
+      {
+        "number": 24,
+        "clue": "Harding or Arbor",
+        "row": 5,
+        "col": 0,
+        "answer": "ANN"
+      },
+      {
+        "number": 25,
+        "clue": "Flightless bird of yore",
+        "row": 5,
+        "col": 1,
+        "answer": "MOA"
+      },
+      {
+        "number": 26,
+        "clue": "An ocean: Abbr.",
+        "row": 5,
+        "col": 2,
+        "answer": "ATL"
+      },
+      {
+        "number": 28,
+        "clue": "Hot dog",
+        "row": 5,
+        "col": 9,
+        "answer": "WIENIE"
+      },
+      {
+        "number": 29,
+        "clue": "Be a referee",
+        "row": 5,
+        "col": 10,
+        "answer": "ARBITRATE"
+      },
+      {
+        "number": 31,
+        "clue": "\"___ which will live in infamy\"",
+        "row": 6,
+        "col": 3,
+        "answer": "ADATE"
+      },
+      {
+        "number": 32,
+        "clue": "Mdse.",
+        "row": 6,
+        "col": 7,
+        "answer": "GDS"
+      },
+      {
+        "number": 35,
+        "clue": "Broad-minded",
+        "row": 7,
+        "col": 8,
+        "answer": "TOLERANT"
+      },
+      {
+        "number": 36,
+        "clue": "Law-school grad",
+        "row": 7,
+        "col": 12,
+        "answer": "LLB"
+      },
+      {
+        "number": 37,
+        "clue": "Novel by Nabokov",
+        "row": 7,
+        "col": 13,
+        "answer": "DAR"
+      },
+      {
+        "number": 38,
+        "clue": "___ Jima",
+        "row": 7,
+        "col": 14,
+        "answer": "IWO"
+      },
+      {
+        "number": 41,
+        "clue": "Seals cracks",
+        "row": 9,
+        "col": 1,
+        "answer": "CAULKS"
+      },
+      {
+        "number": 42,
+        "clue": "Begin's concern",
+        "row": 9,
+        "col": 2,
+        "answer": "ISRAEL"
+      },
+      {
+        "number": 45,
+        "clue": "Hijacks",
+        "row": 10,
+        "col": 0,
+        "answer": "ROBS"
+      },
+      {
+        "number": 46,
+        "clue": "Type of automobile",
+        "row": 10,
+        "col": 7,
+        "answer": "SEDAN"
+      },
+      {
+        "number": 48,
+        "clue": "Johnson of TV",
+        "row": 11,
+        "col": 4,
+        "answer": "ARTE"
+      },
+      {
+        "number": 49,
+        "clue": "Peking name",
+        "row": 11,
+        "col": 5,
+        "answer": "MAO"
+      },
+      {
+        "number": 50,
+        "clue": "Town in Sicily",
+        "row": 11,
+        "col": 6,
+        "answer": "ENNA"
+      },
+      {
+        "number": 52,
+        "clue": "Soda-fountain drink",
+        "row": 11,
+        "col": 11,
+        "answer": "MALT"
+      },
+      {
+        "number": 53,
+        "clue": "Fall for a trick",
+        "row": 11,
+        "col": 12,
+        "answer": "BITE"
+      },
+      {
+        "number": 54,
+        "clue": "Dietary need",
+        "row": 11,
+        "col": 13,
+        "answer": "IRON"
+      },
+      {
+        "number": 56,
+        "clue": "Labor org.",
+        "row": 12,
+        "col": 3,
+        "answer": "ILO"
+      },
+      {
+        "number": 57,
+        "clue": "Student radical org.",
+        "row": 12,
+        "col": 9,
+        "answer": "SDS"
+      },
+      {
+        "number": 58,
+        "clue": "Terminate",
+        "row": 12,
+        "col": 14,
+        "answer": "END"
+      }
+    ]
+  }
+}

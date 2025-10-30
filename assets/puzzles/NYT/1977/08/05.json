@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1977-08-05",
+  "metadata": {
+    "date": "1977-08-05",
+    "title": "NY TIMES, FRI, AUG 05, 1977",
+    "author": "Hal R. Hollinger",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Friday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "R", "I", "S", "E", null, "E", "L", "B", "A", null, "G", "N", "A", "W"],
+    ["S", "A", "M", "O", "A", null, "R", "E", "A", "C", "T", "U", "A", "T", "E"],
+    ["S", "T", "A", "R", "S", "A", "N", "D", "S", "T", "R", "I", "P", "E", "S"],
+    ["T", "E", "N", "T", "E", "D", null, null, "K", "O", "A", "L", "A", "S", null],
+    [null, null, null, null, "D", "A", "L", "E", null, "F", "I", "T", null, null, null],
+    ["M", "O", "S", "S", null, "M", "U", "N", null, null, "N", "Y", "M", "P", "H"],
+    ["O", "C", "T", "O", null, "A", "N", "S", "A", "T", "E", null, "A", "L", "A"],
+    ["T", "H", "E", "S", "U", "N", "A", "L", "S", "O", "R", "I", "S", "E", "S"],
+    ["I", "R", "E", null, "S", "T", "R", "A", "T", "O", null, "S", "O", "A", "P"],
+    ["F", "E", "N", "C", "E", null, null, "V", "A", "L", null, "A", "N", "T", "S"],
+    [null, null, null, "O", "D", "D", null, "E", "B", "B", "S", null, null, null, null],
+    [null, "P", "R", "I", "C", "E", "D", null, null, "O", "U", "T", "I", "N", "G"],
+    ["M", "O", "O", "N", "A", "N", "D", "S", "I", "X", "P", "E", "N", "C", "E"],
+    ["A", "P", "P", "E", "R", "T", "A", "I", "N", null, "E", "L", "T", "O", "N"],
+    ["D", "E", "E", "D", null, "S", "Y", "N", "C", null, "R", "O", "O", "S", "T"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Crop up",
+        "row": 0,
+        "col": 0,
+        "answer": "ARISE"
+      },
+      {
+        "number": 6,
+        "clue": "Island of exile",
+        "row": 0,
+        "col": 6,
+        "answer": "ELBA"
+      },
+      {
+        "number": 10,
+        "clue": "Nibble at",
+        "row": 0,
+        "col": 11,
+        "answer": "GNAW"
+      },
+      {
+        "number": 14,
+        "clue": "Where Pago Pago is",
+        "row": 1,
+        "col": 0,
+        "answer": "SAMOA"
+      },
+      {
+        "number": 15,
+        "clue": "Put into motion again",
+        "row": 1,
+        "col": 6,
+        "answer": "REACTUATE"
+      },
+      {
+        "number": 17,
+        "clue": "Old Glory",
+        "row": 2,
+        "col": 0,
+        "answer": "STARSANDSTRIPES"
+      },
+      {
+        "number": 19,
+        "clue": "Bivouacked",
+        "row": 3,
+        "col": 0,
+        "answer": "TENTED"
+      },
+      {
+        "number": 20,
+        "clue": "Living \"teddy bears\"",
+        "row": 3,
+        "col": 8,
+        "answer": "KOALAS"
+      },
+      {
+        "number": 21,
+        "clue": "Hill's partner",
+        "row": 4,
+        "col": 4,
+        "answer": "DALE"
+      },
+      {
+        "number": 24,
+        "clue": "Trim",
+        "row": 4,
+        "col": 9,
+        "answer": "FIT"
+      },
+      {
+        "number": 25,
+        "clue": "Caribou's food",
+        "row": 5,
+        "col": 0,
+        "answer": "MOSS"
+      },
+      {
+        "number": 29,
+        "clue": "Town or city: Abbr.",
+        "row": 5,
+        "col": 5,
+        "answer": "MUN"
+      },
+      {
+        "number": 30,
+        "clue": "Dryad or naiad",
+        "row": 5,
+        "col": 10,
+        "answer": "NYMPH"
+      },
+      {
+        "number": 34,
+        "clue": "Eight: Comb. form",
+        "row": 6,
+        "col": 0,
+        "answer": "OCTO"
+      },
+      {
+        "number": 35,
+        "clue": "Having a handle",
+        "row": 6,
+        "col": 5,
+        "answer": "ANSATE"
+      },
+      {
+        "number": 38,
+        "clue": "In the manner of",
+        "row": 6,
+        "col": 12,
+        "answer": "ALA"
+      },
+      {
+        "number": 39,
+        "clue": "Hemingway novel",
+        "row": 7,
+        "col": 0,
+        "answer": "THESUNALSORISES"
+      },
+      {
+        "number": 42,
+        "clue": "Choler",
+        "row": 8,
+        "col": 0,
+        "answer": "IRE"
+      },
+      {
+        "number": 43,
+        "clue": "Prefix with cruiser or sphere",
+        "row": 8,
+        "col": 4,
+        "answer": "STRATO"
+      },
+      {
+        "number": 44,
+        "clue": "Washstand item",
+        "row": 8,
+        "col": 11,
+        "answer": "SOAP"
+      },
+      {
+        "number": 45,
+        "clue": "His goods are \"hot\"",
+        "row": 9,
+        "col": 0,
+        "answer": "FENCE"
+      },
+      {
+        "number": 47,
+        "clue": "Kind of lace",
+        "row": 9,
+        "col": 7,
+        "answer": "VAL"
+      },
+      {
+        "number": 48,
+        "clue": "Formicary occupants",
+        "row": 9,
+        "col": 11,
+        "answer": "ANTS"
+      },
+      {
+        "number": 49,
+        "clue": "Kind of ball or Fellow",
+        "row": 10,
+        "col": 3,
+        "answer": "ODD"
+      },
+      {
+        "number": 51,
+        "clue": "Dwindles",
+        "row": 10,
+        "col": 7,
+        "answer": "EBBS"
+      },
+      {
+        "number": 53,
+        "clue": "Determined the value of",
+        "row": 11,
+        "col": 1,
+        "answer": "PRICED"
+      },
+      {
+        "number": 56,
+        "clue": "Picnic or junket",
+        "row": 11,
+        "col": 9,
+        "answer": "OUTING"
+      },
+      {
+        "number": 61,
+        "clue": "Maugham novel (with \"The\")",
+        "row": 12,
+        "col": 0,
+        "answer": "MOONANDSIXPENCE"
+      },
+      {
+        "number": 64,
+        "clue": "Have relevance",
+        "row": 13,
+        "col": 0,
+        "answer": "APPERTAIN"
+      },
+      {
+        "number": 65,
+        "clue": "Pop-singer John",
+        "row": 13,
+        "col": 10,
+        "answer": "ELTON"
+      },
+      {
+        "number": 66,
+        "clue": "Exploit",
+        "row": 14,
+        "col": 0,
+        "answer": "DEED"
+      },
+      {
+        "number": 67,
+        "clue": "Film dubber's concern, for short",
+        "row": 14,
+        "col": 5,
+        "answer": "SYNC"
+      },
+      {
+        "number": 68,
+        "clue": "Chanticleer's domain",
+        "row": 14,
+        "col": 10,
+        "answer": "ROOST"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Type of prof",
+        "row": 0,
+        "col": 0,
+        "answer": "ASST"
+      },
+      {
+        "number": 2,
+        "clue": "Deserve",
+        "row": 0,
+        "col": 1,
+        "answer": "RATE"
+      },
+      {
+        "number": 3,
+        "clue": "\"___ Old Cowhand\"",
+        "row": 0,
+        "col": 2,
+        "answer": "IMAN"
+      },
+      {
+        "number": 4,
+        "clue": "Get the laundry ready",
+        "row": 0,
+        "col": 3,
+        "answer": "SORT"
+      },
+      {
+        "number": 5,
+        "clue": "Facilitated",
+        "row": 0,
+        "col": 4,
+        "answer": "EASED"
+      },
+      {
+        "number": 6,
+        "clue": "Sea eagle",
+        "row": 0,
+        "col": 6,
+        "answer": "ERN"
+      },
+      {
+        "number": 7,
+        "clue": "Guided",
+        "row": 0,
+        "col": 7,
+        "answer": "LED"
+      },
+      {
+        "number": 8,
+        "clue": "Take the sun",
+        "row": 0,
+        "col": 8,
+        "answer": "BASK"
+      },
+      {
+        "number": 9,
+        "clue": "Phrase with God or Congress",
+        "row": 0,
+        "col": 9,
+        "answer": "ACTOF"
+      },
+      {
+        "number": 10,
+        "clue": "Bench decree",
+        "row": 0,
+        "col": 11,
+        "answer": "GUILTY"
+      },
+      {
+        "number": 11,
+        "clue": "Valley in California (famed for wine)",
+        "row": 0,
+        "col": 12,
+        "answer": "NAPA"
+      },
+      {
+        "number": 12,
+        "clue": "Roscoe, the stutterer",
+        "row": 0,
+        "col": 13,
+        "answer": "ATES"
+      },
+      {
+        "number": 13,
+        "clue": "Westrum of baseball",
+        "row": 0,
+        "col": 14,
+        "answer": "WES"
+      },
+      {
+        "number": 16,
+        "clue": "Billy Turner, to Seattle Slew",
+        "row": 1,
+        "col": 10,
+        "answer": "TRAINER"
+      },
+      {
+        "number": 18,
+        "clue": "Utterly unyielding",
+        "row": 2,
+        "col": 5,
+        "answer": "ADAMANT"
+      },
+      {
+        "number": 22,
+        "clue": "Of the moon",
+        "row": 4,
+        "col": 6,
+        "answer": "LUNAR"
+      },
+      {
+        "number": 23,
+        "clue": "Subjugate",
+        "row": 4,
+        "col": 7,
+        "answer": "ENSLAVE"
+      },
+      {
+        "number": 25,
+        "clue": "Central theme",
+        "row": 5,
+        "col": 0,
+        "answer": "MOTIF"
+      },
+      {
+        "number": 26,
+        "clue": "Earthy color",
+        "row": 5,
+        "col": 1,
+        "answer": "OCHRE"
+      },
+      {
+        "number": 27,
+        "clue": "Dutch genre painter: 17th century",
+        "row": 5,
+        "col": 2,
+        "answer": "STEEN"
+      },
+      {
+        "number": 28,
+        "clue": "Signal from the Titanic: April, 1912",
+        "row": 5,
+        "col": 3,
+        "answer": "SOS"
+      },
+      {
+        "number": 31,
+        "clue": "Construction worker",
+        "row": 5,
+        "col": 12,
+        "answer": "MASON"
+      },
+      {
+        "number": 32,
+        "clue": "Fold, of a kind",
+        "row": 5,
+        "col": 13,
+        "answer": "PLEAT"
+      },
+      {
+        "number": 33,
+        "clue": "Lid fasteners",
+        "row": 5,
+        "col": 14,
+        "answer": "HASPS"
+      },
+      {
+        "number": 36,
+        "clue": "Take ___ at (try)",
+        "row": 6,
+        "col": 8,
+        "answer": "ASTAB"
+      },
+      {
+        "number": 37,
+        "clue": "Plumber's chest",
+        "row": 6,
+        "col": 9,
+        "answer": "TOOLBOX"
+      },
+      {
+        "number": 40,
+        "clue": "Kind of lot",
+        "row": 7,
+        "col": 4,
+        "answer": "USEDCAR"
+      },
+      {
+        "number": 41,
+        "clue": "\"The Lady ___ Tramp\"",
+        "row": 7,
+        "col": 11,
+        "answer": "ISA"
+      },
+      {
+        "number": 46,
+        "clue": "Originated a word",
+        "row": 9,
+        "col": 3,
+        "answer": "COINED"
+      },
+      {
+        "number": 50,
+        "clue": "Car owners' headaches",
+        "row": 10,
+        "col": 5,
+        "answer": "DENTS"
+      },
+      {
+        "number": 52,
+        "clue": "Part of SST",
+        "row": 10,
+        "col": 10,
+        "answer": "SUPER"
+      },
+      {
+        "number": 53,
+        "clue": "\"Wicked Wasp of Twickenham\"",
+        "row": 11,
+        "col": 1,
+        "answer": "POPE"
+      },
+      {
+        "number": 54,
+        "clue": "Manila, for one",
+        "row": 11,
+        "col": 2,
+        "answer": "ROPE"
+      },
+      {
+        "number": 55,
+        "clue": "June 6, 1944",
+        "row": 11,
+        "col": 6,
+        "answer": "DDAY"
+      },
+      {
+        "number": 57,
+        "clue": "Distant: Comb. form",
+        "row": 11,
+        "col": 11,
+        "answer": "TELO"
+      },
+      {
+        "number": 58,
+        "clue": "Two prepositions in one",
+        "row": 11,
+        "col": 12,
+        "answer": "INTO"
+      },
+      {
+        "number": 59,
+        "clue": "Sgt. and cpl.",
+        "row": 11,
+        "col": 13,
+        "answer": "NCOS"
+      },
+      {
+        "number": 60,
+        "clue": "Courteous bloke",
+        "row": 11,
+        "col": 14,
+        "answer": "GENT"
+      },
+      {
+        "number": 61,
+        "clue": "Like Carroll's Hatter",
+        "row": 12,
+        "col": 0,
+        "answer": "MAD"
+      },
+      {
+        "number": 62,
+        "clue": "Theologian's concern",
+        "row": 12,
+        "col": 7,
+        "answer": "SIN"
+      },
+      {
+        "number": 63,
+        "clue": "Business abbr.",
+        "row": 12,
+        "col": 8,
+        "answer": "INC"
+      }
+    ]
+  }
+}

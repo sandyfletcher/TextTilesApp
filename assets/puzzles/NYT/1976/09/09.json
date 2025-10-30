@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-09-09",
+  "metadata": {
+    "date": "1976-09-09",
+    "title": "NY TIMES, THU, SEP 09, 1976",
+    "author": "George Raventos",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["T", "A", "G", "U", "S", null, "A", "R", "M", "E", null, "S", "P", "A", "R"],
+    ["S", "C", "A", "L", "E", null, "D", "U", "E", "T", null, "O", "R", "R", "A"],
+    ["A", "M", "O", "N", "T", "H", "O", "F", "S", "U", "N", "D", "A", "Y", "S"],
+    ["R", "E", "L", "A", "T", "E", null, "F", "A", "D", "E", null, "Y", "A", "P"],
+    [null, null, null, "S", "L", "A", "V", null, "S", "E", "T", null, "E", "N", "S"],
+    ["S", "T", "E", null, "E", "V", "E", "R", null, "S", "T", "I", "R", null, null],
+    ["L", "U", "S", "H", null, "E", "N", "O", "S", null, "L", "A", "B", "O", "R"],
+    ["O", "N", "C", "E", "I", "N", "A", "B", "L", "U", "E", "M", "O", "O", "N"],
+    ["B", "E", "A", "R", "D", null, "L", "I", "E", "N", null, "B", "O", "N", "D"],
+    [null, null, "R", "A", "I", "D", null, "N", "E", "I", "L", null, "K", "A", "S"],
+    ["A", "M", "P", null, "O", "A", "F", null, "P", "S", "I", "S", null, null, null],
+    ["M", "O", "M", null, "C", "R", "I", "S", null, "O", "N", "E", "T", "W", "O"],
+    ["E", "V", "E", "R", "Y", "N", "O", "W", "A", "N", "D", "T", "H", "E", "N"],
+    ["N", "I", "N", "A", null, "E", "R", "A", "L", null, "A", "T", "R", "I", "A"],
+    ["D", "E", "T", "S", null, "D", "E", "B", "S", null, "S", "O", "U", "R", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Iberian river",
+        "row": 0,
+        "col": 0,
+        "answer": "TAGUS"
+      },
+      {
+        "number": 6,
+        "clue": "Weapon, in France",
+        "row": 0,
+        "col": 6,
+        "answer": "ARME"
+      },
+      {
+        "number": 10,
+        "clue": "Do ring training",
+        "row": 0,
+        "col": 11,
+        "answer": "SPAR"
+      },
+      {
+        "number": 14,
+        "clue": "Music student's concern",
+        "row": 1,
+        "col": 0,
+        "answer": "SCALE"
+      },
+      {
+        "number": 15,
+        "clue": "Music piece",
+        "row": 1,
+        "col": 6,
+        "answer": "DUET"
+      },
+      {
+        "number": 16,
+        "clue": "Odd, in Scotland",
+        "row": 1,
+        "col": 11,
+        "answer": "ORRA"
+      },
+      {
+        "number": 17,
+        "clue": "Never, probably",
+        "row": 2,
+        "col": 0,
+        "answer": "AMONTHOFSUNDAYS"
+      },
+      {
+        "number": 20,
+        "clue": "Establish a connection",
+        "row": 3,
+        "col": 0,
+        "answer": "RELATE"
+      },
+      {
+        "number": 21,
+        "clue": "Peter out",
+        "row": 3,
+        "col": 7,
+        "answer": "FADE"
+      },
+      {
+        "number": 22,
+        "clue": "Pacific island",
+        "row": 3,
+        "col": 12,
+        "answer": "YAP"
+      },
+      {
+        "number": 23,
+        "clue": "European",
+        "row": 4,
+        "col": 3,
+        "answer": "SLAV"
+      },
+      {
+        "number": 25,
+        "clue": "___ sail (depart)",
+        "row": 4,
+        "col": 8,
+        "answer": "SET"
+      },
+      {
+        "number": 26,
+        "clue": "Print measures",
+        "row": 4,
+        "col": 12,
+        "answer": "ENS"
+      },
+      {
+        "number": 27,
+        "clue": "French divine: Abbr.",
+        "row": 5,
+        "col": 0,
+        "answer": "STE"
+      },
+      {
+        "number": 30,
+        "clue": "By any chance",
+        "row": 5,
+        "col": 4,
+        "answer": "EVER"
+      },
+      {
+        "number": 32,
+        "clue": "Cooking instruction",
+        "row": 5,
+        "col": 9,
+        "answer": "STIR"
+      },
+      {
+        "number": 34,
+        "clue": "Verdant",
+        "row": 6,
+        "col": 0,
+        "answer": "LUSH"
+      },
+      {
+        "number": 36,
+        "clue": "Genesis son",
+        "row": 6,
+        "col": 5,
+        "answer": "ENOS"
+      },
+      {
+        "number": 38,
+        "clue": "Large vote segment",
+        "row": 6,
+        "col": 10,
+        "answer": "LABOR"
+      },
+      {
+        "number": 41,
+        "clue": "Sometimes, probably",
+        "row": 7,
+        "col": 0,
+        "answer": "ONCEINABLUEMOON"
+      },
+      {
+        "number": 44,
+        "clue": "Boy Scout pioneer",
+        "row": 8,
+        "col": 0,
+        "answer": "BEARD"
+      },
+      {
+        "number": 45,
+        "clue": "Hold on property",
+        "row": 8,
+        "col": 6,
+        "answer": "LIEN"
+      },
+      {
+        "number": 46,
+        "clue": "Famed London street",
+        "row": 8,
+        "col": 11,
+        "answer": "BOND"
+      },
+      {
+        "number": 47,
+        "clue": "Police crackdown",
+        "row": 9,
+        "col": 2,
+        "answer": "RAID"
+      },
+      {
+        "number": 49,
+        "clue": "Armstrong",
+        "row": 9,
+        "col": 7,
+        "answer": "NEIL"
+      },
+      {
+        "number": 51,
+        "clue": "Dutch cupboard",
+        "row": 9,
+        "col": 12,
+        "answer": "KAS"
+      },
+      {
+        "number": 52,
+        "clue": "Electrical abbr.",
+        "row": 10,
+        "col": 0,
+        "answer": "AMP"
+      },
+      {
+        "number": 54,
+        "clue": "Simpleton",
+        "row": 10,
+        "col": 4,
+        "answer": "OAF"
+      },
+      {
+        "number": 56,
+        "clue": "Greek letters",
+        "row": 10,
+        "col": 8,
+        "answer": "PSIS"
+      },
+      {
+        "number": 58,
+        "clue": "Family member",
+        "row": 11,
+        "col": 0,
+        "answer": "MOM"
+      },
+      {
+        "number": 59,
+        "clue": "Malay dagger: Var.",
+        "row": 11,
+        "col": 4,
+        "answer": "CRIS"
+      },
+      {
+        "number": 61,
+        "clue": "Shoe-buckling numbers",
+        "row": 11,
+        "col": 9,
+        "answer": "ONETWO"
+      },
+      {
+        "number": 65,
+        "clue": "At times",
+        "row": 12,
+        "col": 0,
+        "answer": "EVERYNOWANDTHEN"
+      },
+      {
+        "number": 68,
+        "clue": "Famous caravel",
+        "row": 13,
+        "col": 0,
+        "answer": "NINA"
+      },
+      {
+        "number": 69,
+        "clue": "Of an epoch",
+        "row": 13,
+        "col": 5,
+        "answer": "ERAL"
+      },
+      {
+        "number": 70,
+        "clue": "Courtyards",
+        "row": 13,
+        "col": 10,
+        "answer": "ATRIA"
+      },
+      {
+        "number": 71,
+        "clue": "Army units: Abbr.",
+        "row": 14,
+        "col": 0,
+        "answer": "DETS"
+      },
+      {
+        "number": 72,
+        "clue": "Socialist Eugene",
+        "row": 14,
+        "col": 5,
+        "answer": "DEBS"
+      },
+      {
+        "number": 73,
+        "clue": "Spoils",
+        "row": 14,
+        "col": 10,
+        "answer": "SOURS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Despot",
+        "row": 0,
+        "col": 0,
+        "answer": "TSAR"
+      },
+      {
+        "number": 2,
+        "clue": "Summit",
+        "row": 0,
+        "col": 1,
+        "answer": "ACME"
+      },
+      {
+        "number": 3,
+        "clue": "Ballad locale for Wilde",
+        "row": 0,
+        "col": 2,
+        "answer": "GAOL"
+      },
+      {
+        "number": 4,
+        "clue": "Arm bones",
+        "row": 0,
+        "col": 3,
+        "answer": "ULNAS"
+      },
+      {
+        "number": 5,
+        "clue": "Pay up",
+        "row": 0,
+        "col": 4,
+        "answer": "SETTLE"
+      },
+      {
+        "number": 6,
+        "clue": "Bustle",
+        "row": 0,
+        "col": 6,
+        "answer": "ADO"
+      },
+      {
+        "number": 7,
+        "clue": "Pleated collar",
+        "row": 0,
+        "col": 7,
+        "answer": "RUFF"
+      },
+      {
+        "number": 8,
+        "clue": "Western sights",
+        "row": 0,
+        "col": 8,
+        "answer": "MESAS"
+      },
+      {
+        "number": 9,
+        "clue": "Chopin pieces",
+        "row": 0,
+        "col": 9,
+        "answer": "ETUDES"
+      },
+      {
+        "number": 10,
+        "clue": "Grassy surface",
+        "row": 0,
+        "col": 11,
+        "answer": "SOD"
+      },
+      {
+        "number": 11,
+        "clue": "Missal",
+        "row": 0,
+        "col": 12,
+        "answer": "PRAYERBOOK"
+      },
+      {
+        "number": 12,
+        "clue": "Indo-Iranian",
+        "row": 0,
+        "col": 13,
+        "answer": "ARYAN"
+      },
+      {
+        "number": 13,
+        "clue": "Irritates",
+        "row": 0,
+        "col": 14,
+        "answer": "RASPS"
+      },
+      {
+        "number": 18,
+        "clue": "Working-girl's protector",
+        "row": 2,
+        "col": 5,
+        "answer": "HEAVEN"
+      },
+      {
+        "number": 19,
+        "clue": "Stinging plant",
+        "row": 2,
+        "col": 10,
+        "answer": "NETTLE"
+      },
+      {
+        "number": 24,
+        "clue": "Mercenary",
+        "row": 4,
+        "col": 6,
+        "answer": "VENAL"
+      },
+      {
+        "number": 27,
+        "clue": "Uncouth one",
+        "row": 5,
+        "col": 0,
+        "answer": "SLOB"
+      },
+      {
+        "number": 28,
+        "clue": "Air",
+        "row": 5,
+        "col": 1,
+        "answer": "TUNE"
+      },
+      {
+        "number": 29,
+        "clue": "Steep slope",
+        "row": 5,
+        "col": 2,
+        "answer": "ESCARPMENT"
+      },
+      {
+        "number": 31,
+        "clue": "Spring greeter",
+        "row": 5,
+        "col": 7,
+        "answer": "ROBIN"
+      },
+      {
+        "number": 33,
+        "clue": "Two-syllable foot",
+        "row": 5,
+        "col": 11,
+        "answer": "IAMB"
+      },
+      {
+        "number": 35,
+        "clue": "Greek goddess",
+        "row": 6,
+        "col": 3,
+        "answer": "HERA"
+      },
+      {
+        "number": 37,
+        "clue": "Macbeth's murder victim",
+        "row": 6,
+        "col": 8,
+        "answer": "SLEEP"
+      },
+      {
+        "number": 39,
+        "clue": "O'Neill's daughter",
+        "row": 6,
+        "col": 13,
+        "answer": "OONA"
+      },
+      {
+        "number": 40,
+        "clue": "Boxing units: Abbr.",
+        "row": 6,
+        "col": 14,
+        "answer": "RNDS"
+      },
+      {
+        "number": 42,
+        "clue": "Foolish act",
+        "row": 7,
+        "col": 4,
+        "answer": "IDIOCY"
+      },
+      {
+        "number": 43,
+        "clue": "Harmony",
+        "row": 7,
+        "col": 9,
+        "answer": "UNISON"
+      },
+      {
+        "number": 48,
+        "clue": "Did mending",
+        "row": 9,
+        "col": 5,
+        "answer": "DARNED"
+      },
+      {
+        "number": 50,
+        "clue": "Lovelace and Blair",
+        "row": 9,
+        "col": 10,
+        "answer": "LINDAS"
+      },
+      {
+        "number": 52,
+        "clue": "Modify",
+        "row": 10,
+        "col": 0,
+        "answer": "AMEND"
+      },
+      {
+        "number": 53,
+        "clue": "Flick",
+        "row": 10,
+        "col": 1,
+        "answer": "MOVIE"
+      },
+      {
+        "number": 55,
+        "clue": "Flower, in Rome",
+        "row": 10,
+        "col": 6,
+        "answer": "FIORE"
+      },
+      {
+        "number": 57,
+        "clue": "Brawl",
+        "row": 10,
+        "col": 11,
+        "answer": "SETTO"
+      },
+      {
+        "number": 60,
+        "clue": "Deck cleaner",
+        "row": 11,
+        "col": 7,
+        "answer": "SWAB"
+      },
+      {
+        "number": 62,
+        "clue": "By way of, for short",
+        "row": 11,
+        "col": 12,
+        "answer": "THRU"
+      },
+      {
+        "number": 63,
+        "clue": "Small dam",
+        "row": 11,
+        "col": 13,
+        "answer": "WEIR"
+      },
+      {
+        "number": 64,
+        "clue": "Miss Munson et al.",
+        "row": 11,
+        "col": 14,
+        "answer": "ONAS"
+      },
+      {
+        "number": 66,
+        "clue": "Headland",
+        "row": 12,
+        "col": 3,
+        "answer": "RAS"
+      },
+      {
+        "number": 67,
+        "clue": "Hirt and Pacino",
+        "row": 12,
+        "col": 8,
+        "answer": "ALS"
+      }
+    ]
+  }
+}

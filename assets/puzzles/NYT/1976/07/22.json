@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-07-22",
+  "metadata": {
+    "date": "1976-07-22",
+    "title": "NY TIMES, THU, JUL 22, 1976",
+    "author": "Francis Huether",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["W", "I", "S", "H", null, "O", "R", "B", "I", "T", null, "S", "O", "W", "N"],
+    ["A", "N", "T", "I", null, "N", "O", "O", "S", "E", null, "I", "L", "I", "A"],
+    ["S", "T", "A", "G", null, "S", "W", "I", "M", "M", "I", "N", "G", "L", "Y"],
+    ["H", "O", "T", "H", "E", "A", "D", "S", null, "P", "L", "E", "A", "D", "S"],
+    [null, null, null, "D", "A", "L", "Y", null, "B", "L", "O", "W", null, null, null],
+    ["A", "D", "V", "I", "S", "E", null, "T", "R", "A", "N", "S", "F", "E", "R"],
+    ["R", "E", "E", "V", "E", null, "P", "I", "E", "T", "A", null, "E", "R", "E"],
+    ["M", "I", "N", "E", null, "A", "L", "G", "A", "E", null, "T", "R", "A", "M"],
+    ["O", "C", "A", null, "S", "W", "O", "R", "D", null, "P", "E", "A", "S", "E"],
+    ["R", "E", "L", "O", "C", "A", "T", "E", null, "A", "R", "M", "L", "E", "T"],
+    [null, null, null, "W", "O", "K", "S", null, "M", "N", "O", "P", null, null, null],
+    ["A", "V", "E", "N", "U", "E", null, "B", "E", "D", "S", "T", "E", "A", "D"],
+    ["G", "O", "V", "E", "R", "N", "M", "E", "N", "T", null, "I", "D", "L", "Y"],
+    ["I", "T", "E", "R", null, "E", "R", "A", "T", "O", null, "N", "E", "O", "N"],
+    ["S", "E", "N", "S", null, "R", "A", "M", "I", "E", null, "G", "L", "E", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Reward for a Trevi coin",
+        "row": 0,
+        "col": 0,
+        "answer": "WISH"
+      },
+      {
+        "number": 5,
+        "clue": "Range of activities",
+        "row": 0,
+        "col": 5,
+        "answer": "ORBIT"
+      },
+      {
+        "number": 10,
+        "clue": "Planted",
+        "row": 0,
+        "col": 11,
+        "answer": "SOWN"
+      },
+      {
+        "number": 14,
+        "clue": "Contra",
+        "row": 1,
+        "col": 0,
+        "answer": "ANTI"
+      },
+      {
+        "number": 15,
+        "clue": "Snare",
+        "row": 1,
+        "col": 5,
+        "answer": "NOOSE"
+      },
+      {
+        "number": 16,
+        "clue": "Pelvic bones",
+        "row": 1,
+        "col": 11,
+        "answer": "ILIA"
+      },
+      {
+        "number": 17,
+        "clue": "Drinker at eve",
+        "row": 2,
+        "col": 0,
+        "answer": "STAG"
+      },
+      {
+        "number": 18,
+        "clue": "How Mark Spitz gets along",
+        "row": 2,
+        "col": 5,
+        "answer": "SWIMMINGLY"
+      },
+      {
+        "number": 20,
+        "clue": "People with short fuses",
+        "row": 3,
+        "col": 0,
+        "answer": "HOTHEADS"
+      },
+      {
+        "number": 22,
+        "clue": "Makes a court move",
+        "row": 3,
+        "col": 9,
+        "answer": "PLEADS"
+      },
+      {
+        "number": 23,
+        "clue": "U.S. playwright Augustin",
+        "row": 4,
+        "col": 3,
+        "answer": "DALY"
+      },
+      {
+        "number": 24,
+        "clue": "Kind of hard",
+        "row": 4,
+        "col": 8,
+        "answer": "BLOW"
+      },
+      {
+        "number": 25,
+        "clue": "Counsel",
+        "row": 5,
+        "col": 0,
+        "answer": "ADVISE"
+      },
+      {
+        "number": 28,
+        "clue": "Certain bus ticket",
+        "row": 5,
+        "col": 7,
+        "answer": "TRANSFER"
+      },
+      {
+        "number": 32,
+        "clue": "Shore bird",
+        "row": 6,
+        "col": 0,
+        "answer": "REEVE"
+      },
+      {
+        "number": 33,
+        "clue": "Feature of 1964\u201365 fair",
+        "row": 6,
+        "col": 6,
+        "answer": "PIETA"
+      },
+      {
+        "number": 34,
+        "clue": "Before",
+        "row": 6,
+        "col": 12,
+        "answer": "ERE"
+      },
+      {
+        "number": 35,
+        "clue": "Abundant source",
+        "row": 7,
+        "col": 0,
+        "answer": "MINE"
+      },
+      {
+        "number": 36,
+        "clue": "Water plants",
+        "row": 7,
+        "col": 5,
+        "answer": "ALGAE"
+      },
+      {
+        "number": 37,
+        "clue": "Mine vehicle",
+        "row": 7,
+        "col": 11,
+        "answer": "TRAM"
+      },
+      {
+        "number": 38,
+        "clue": "Wood sorrel",
+        "row": 8,
+        "col": 0,
+        "answer": "OCA"
+      },
+      {
+        "number": 39,
+        "clue": "Threat for Damocles",
+        "row": 8,
+        "col": 4,
+        "answer": "SWORD"
+      },
+      {
+        "number": 40,
+        "clue": "Kind of porridge",
+        "row": 8,
+        "col": 10,
+        "answer": "PEASE"
+      },
+      {
+        "number": 41,
+        "clue": "Find a new home",
+        "row": 9,
+        "col": 0,
+        "answer": "RELOCATE"
+      },
+      {
+        "number": 43,
+        "clue": "Small sea extension",
+        "row": 9,
+        "col": 9,
+        "answer": "ARMLET"
+      },
+      {
+        "number": 44,
+        "clue": "Chinese cooking units",
+        "row": 10,
+        "col": 3,
+        "answer": "WOKS"
+      },
+      {
+        "number": 45,
+        "clue": "After L",
+        "row": 10,
+        "col": 8,
+        "answer": "MNOP"
+      },
+      {
+        "number": 46,
+        "clue": "Means of approach",
+        "row": 11,
+        "col": 0,
+        "answer": "AVENUE"
+      },
+      {
+        "number": 49,
+        "clue": "Mattress support",
+        "row": 11,
+        "col": 7,
+        "answer": "BEDSTEAD"
+      },
+      {
+        "number": 53,
+        "clue": "Preoccupation of Washington",
+        "row": 12,
+        "col": 0,
+        "answer": "GOVERNMENT"
+      },
+      {
+        "number": 55,
+        "clue": "In a casual way",
+        "row": 12,
+        "col": 11,
+        "answer": "IDLY"
+      },
+      {
+        "number": 56,
+        "clue": "Caesar's street",
+        "row": 13,
+        "col": 0,
+        "answer": "ITER"
+      },
+      {
+        "number": 57,
+        "clue": "Lyric Muse",
+        "row": 13,
+        "col": 5,
+        "answer": "ERATO"
+      },
+      {
+        "number": 58,
+        "clue": "Light",
+        "row": 13,
+        "col": 11,
+        "answer": "NEON"
+      },
+      {
+        "number": 59,
+        "clue": "French cathedral town",
+        "row": 14,
+        "col": 0,
+        "answer": "SENS"
+      },
+      {
+        "number": 60,
+        "clue": "Fiber shrub",
+        "row": 14,
+        "col": 5,
+        "answer": "RAMIE"
+      },
+      {
+        "number": 61,
+        "clue": "Part song",
+        "row": 14,
+        "col": 11,
+        "answer": "GLEE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Laundry",
+        "row": 0,
+        "col": 0,
+        "answer": "WASH"
+      },
+      {
+        "number": 2,
+        "clue": "From outside",
+        "row": 0,
+        "col": 1,
+        "answer": "INTO"
+      },
+      {
+        "number": 3,
+        "clue": "Law: Abbr.",
+        "row": 0,
+        "col": 2,
+        "answer": "STAT"
+      },
+      {
+        "number": 4,
+        "clue": "Acapulco spectacle",
+        "row": 0,
+        "col": 3,
+        "answer": "HIGHDIVE"
+      },
+      {
+        "number": 5,
+        "clue": "Reduced",
+        "row": 0,
+        "col": 5,
+        "answer": "ONSALE"
+      },
+      {
+        "number": 6,
+        "clue": "Unruly",
+        "row": 0,
+        "col": 6,
+        "answer": "ROWDY"
+      },
+      {
+        "number": 7,
+        "clue": "French woodland",
+        "row": 0,
+        "col": 7,
+        "answer": "BOIS"
+      },
+      {
+        "number": 8,
+        "clue": "Ideology",
+        "row": 0,
+        "col": 8,
+        "answer": "ISM"
+      },
+      {
+        "number": 9,
+        "clue": "Metal pattern",
+        "row": 0,
+        "col": 9,
+        "answer": "TEMPLATE"
+      },
+      {
+        "number": 10,
+        "clue": "Tendons",
+        "row": 0,
+        "col": 11,
+        "answer": "SINEWS"
+      },
+      {
+        "number": 11,
+        "clue": "Korbut",
+        "row": 0,
+        "col": 12,
+        "answer": "OLGA"
+      },
+      {
+        "number": 12,
+        "clue": "Unruly",
+        "row": 0,
+        "col": 13,
+        "answer": "WILD"
+      },
+      {
+        "number": 13,
+        "clue": "Certain votes",
+        "row": 0,
+        "col": 14,
+        "answer": "NAYS"
+      },
+      {
+        "number": 19,
+        "clue": "Actress Massey",
+        "row": 2,
+        "col": 10,
+        "answer": "ILONA"
+      },
+      {
+        "number": 21,
+        "clue": "Relieve",
+        "row": 3,
+        "col": 4,
+        "answer": "EASE"
+      },
+      {
+        "number": 24,
+        "clue": "Livelihood",
+        "row": 4,
+        "col": 8,
+        "answer": "BREAD"
+      },
+      {
+        "number": 25,
+        "clue": "Wear for Longfellow's skeleton",
+        "row": 5,
+        "col": 0,
+        "answer": "ARMOR"
+      },
+      {
+        "number": 26,
+        "clue": "Thaw",
+        "row": 5,
+        "col": 1,
+        "answer": "DEICE"
+      },
+      {
+        "number": 27,
+        "clue": "Corrupt",
+        "row": 5,
+        "col": 2,
+        "answer": "VENAL"
+      },
+      {
+        "number": 28,
+        "clue": "French zoo animal",
+        "row": 5,
+        "col": 7,
+        "answer": "TIGRE"
+      },
+      {
+        "number": 29,
+        "clue": "Wild",
+        "row": 5,
+        "col": 12,
+        "answer": "FERAL"
+      },
+      {
+        "number": 30,
+        "clue": "Clear off",
+        "row": 5,
+        "col": 13,
+        "answer": "ERASE"
+      },
+      {
+        "number": 31,
+        "clue": "Joined anew",
+        "row": 5,
+        "col": 14,
+        "answer": "REMET"
+      },
+      {
+        "number": 33,
+        "clue": "Garden areas",
+        "row": 6,
+        "col": 6,
+        "answer": "PLOTS"
+      },
+      {
+        "number": 36,
+        "clue": "Alarm clock, e.g.",
+        "row": 7,
+        "col": 5,
+        "answer": "AWAKENER"
+      },
+      {
+        "number": 37,
+        "clue": "Enticing",
+        "row": 7,
+        "col": 11,
+        "answer": "TEMPTING"
+      },
+      {
+        "number": 39,
+        "clue": "Search thoroughly",
+        "row": 8,
+        "col": 4,
+        "answer": "SCOUR"
+      },
+      {
+        "number": 40,
+        "clue": "Some stars",
+        "row": 8,
+        "col": 10,
+        "answer": "PROS"
+      },
+      {
+        "number": 42,
+        "clue": "Haves",
+        "row": 9,
+        "col": 3,
+        "answer": "OWNERS"
+      },
+      {
+        "number": 43,
+        "clue": "Heel ___",
+        "row": 9,
+        "col": 9,
+        "answer": "ANDTOE"
+      },
+      {
+        "number": 45,
+        "clue": "Mind: Prefix",
+        "row": 10,
+        "col": 8,
+        "answer": "MENTI"
+      },
+      {
+        "number": 46,
+        "clue": "Spartan king",
+        "row": 11,
+        "col": 0,
+        "answer": "AGIS"
+      },
+      {
+        "number": 47,
+        "clue": "Use a certain machine",
+        "row": 11,
+        "col": 1,
+        "answer": "VOTE"
+      },
+      {
+        "number": 48,
+        "clue": "Tied",
+        "row": 11,
+        "col": 2,
+        "answer": "EVEN"
+      },
+      {
+        "number": 49,
+        "clue": "Off the ___ (erring)",
+        "row": 11,
+        "col": 7,
+        "answer": "BEAM"
+      },
+      {
+        "number": 50,
+        "clue": "Noble, in Germany",
+        "row": 11,
+        "col": 12,
+        "answer": "EDEL"
+      },
+      {
+        "number": 51,
+        "clue": "Lily",
+        "row": 11,
+        "col": 13,
+        "answer": "ALOE"
+      },
+      {
+        "number": 52,
+        "clue": "Force unit",
+        "row": 11,
+        "col": 14,
+        "answer": "DYNE"
+      },
+      {
+        "number": 54,
+        "clue": "Buchman's org.",
+        "row": 12,
+        "col": 6,
+        "answer": "MRA"
+      }
+    ]
+  }
+}

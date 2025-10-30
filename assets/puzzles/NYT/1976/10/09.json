@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-10-09",
+  "metadata": {
+    "date": "1976-10-09",
+    "title": "NY TIMES, SAT, OCT 09, 1976",
+    "author": "Herb L. Risteen",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Saturday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["H", "O", "W", "E", null, "C", "A", "R", "A", "T", null, null, "P", "O", "E"],
+    ["A", "R", "I", "L", null, "A", "L", "I", "C", "E", null, "A", "R", "A", "L"],
+    ["T", "A", "L", "K", "O", "N", "E", "S", "H", "E", "A", "D", "O", "F", "F"],
+    ["E", "L", "L", null, "I", "N", "R", "E", null, null, "L", "A", "C", "S", null],
+    [null, null, "I", "S", "L", "E", "T", null, "S", "T", "A", "R", "R", null, null],
+    ["S", "T", "A", "T", "E", "D", null, "F", "L", "A", "T", null, "A", "A", "R"],
+    ["A", "I", "M", "E", "R", null, "B", "L", "A", "K", "E", null, "S", "K", "I"],
+    ["V", "A", "M", "P", null, "F", "R", "A", "M", "E", null, "A", "T", "E", "N"],
+    ["O", "R", "C", null, "S", "L", "A", "P", "S", null, "B", "L", "I", "N", "K"],
+    ["Y", "A", "K", null, "H", "E", "W", "S", null, "S", "E", "I", "N", "E", "S"],
+    [null, null, "I", "D", "E", "A", "L", null, "S", "T", "R", "I", "A", null, null],
+    [null, "S", "N", "O", "B", null, null, "A", "M", "O", "Y", null, "T", "A", "D"],
+    ["M", "I", "L", "L", "A", "R", "D", "F", "I", "L", "L", "M", "O", "R", "E"],
+    ["A", "L", "E", "E", null, "O", "V", "A", "T", "E", null, "E", "R", "I", "E"],
+    ["T", "O", "Y", null, null, "W", "I", "R", "E", "S", null, "T", "S", "A", "R"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Sewing-machine inventor",
+        "row": 0,
+        "col": 0,
+        "answer": "HOWE"
+      },
+      {
+        "number": 5,
+        "clue": "Weight unit",
+        "row": 0,
+        "col": 5,
+        "answer": "CARAT"
+      },
+      {
+        "number": 10,
+        "clue": "Miss Lee's creator",
+        "row": 0,
+        "col": 12,
+        "answer": "POE"
+      },
+      {
+        "number": 13,
+        "clue": "Seed casing",
+        "row": 1,
+        "col": 0,
+        "answer": "ARIL"
+      },
+      {
+        "number": 14,
+        "clue": "Blue girl",
+        "row": 1,
+        "col": 5,
+        "answer": "ALICE"
+      },
+      {
+        "number": 15,
+        "clue": "Soviet sea",
+        "row": 1,
+        "col": 11,
+        "answer": "ARAL"
+      },
+      {
+        "number": 16,
+        "clue": "Be verbose",
+        "row": 2,
+        "col": 0,
+        "answer": "TALKONESHEADOFF"
+      },
+      {
+        "number": 19,
+        "clue": "Building part",
+        "row": 3,
+        "col": 0,
+        "answer": "ELL"
+      },
+      {
+        "number": 20,
+        "clue": "Concerning",
+        "row": 3,
+        "col": 4,
+        "answer": "INRE"
+      },
+      {
+        "number": 21,
+        "clue": "Varnish bases",
+        "row": 3,
+        "col": 10,
+        "answer": "LACS"
+      },
+      {
+        "number": 22,
+        "clue": "Sea spot",
+        "row": 4,
+        "col": 2,
+        "answer": "ISLET"
+      },
+      {
+        "number": 24,
+        "clue": "Bart or Brenda",
+        "row": 4,
+        "col": 8,
+        "answer": "STARR"
+      },
+      {
+        "number": 26,
+        "clue": "Announced",
+        "row": 5,
+        "col": 0,
+        "answer": "STATED"
+      },
+      {
+        "number": 28,
+        "clue": "\"Tortilla ___\"",
+        "row": 5,
+        "col": 7,
+        "answer": "FLAT"
+      },
+      {
+        "number": 29,
+        "clue": "Swiss river",
+        "row": 5,
+        "col": 12,
+        "answer": "AAR"
+      },
+      {
+        "number": 32,
+        "clue": "Marksman",
+        "row": 6,
+        "col": 0,
+        "answer": "AIMER"
+      },
+      {
+        "number": 33,
+        "clue": "English poet",
+        "row": 6,
+        "col": 6,
+        "answer": "BLAKE"
+      },
+      {
+        "number": 34,
+        "clue": "Engage in a sport",
+        "row": 6,
+        "col": 12,
+        "answer": "SKI"
+      },
+      {
+        "number": 35,
+        "clue": "Flirt",
+        "row": 7,
+        "col": 0,
+        "answer": "VAMP"
+      },
+      {
+        "number": 36,
+        "clue": "Shape",
+        "row": 7,
+        "col": 5,
+        "answer": "FRAME"
+      },
+      {
+        "number": 37,
+        "clue": "Solar disk",
+        "row": 7,
+        "col": 11,
+        "answer": "ATEN"
+      },
+      {
+        "number": 38,
+        "clue": "Grampus",
+        "row": 8,
+        "col": 0,
+        "answer": "ORC"
+      },
+      {
+        "number": 39,
+        "clue": "Chastises",
+        "row": 8,
+        "col": 4,
+        "answer": "SLAPS"
+      },
+      {
+        "number": 40,
+        "clue": "On the ___ (out of order)",
+        "row": 8,
+        "col": 10,
+        "answer": "BLINK"
+      },
+      {
+        "number": 41,
+        "clue": "Asian animal",
+        "row": 9,
+        "col": 0,
+        "answer": "YAK"
+      },
+      {
+        "number": 42,
+        "clue": "Cuts",
+        "row": 9,
+        "col": 4,
+        "answer": "HEWS"
+      },
+      {
+        "number": 43,
+        "clue": "Fishing gear",
+        "row": 9,
+        "col": 9,
+        "answer": "SEINES"
+      },
+      {
+        "number": 44,
+        "clue": "Perfect",
+        "row": 10,
+        "col": 2,
+        "answer": "IDEAL"
+      },
+      {
+        "number": 46,
+        "clue": "Furrow",
+        "row": 10,
+        "col": 8,
+        "answer": "STRIA"
+      },
+      {
+        "number": 47,
+        "clue": "Haughty one",
+        "row": 11,
+        "col": 1,
+        "answer": "SNOB"
+      },
+      {
+        "number": 48,
+        "clue": "Chinese island",
+        "row": 11,
+        "col": 7,
+        "answer": "AMOY"
+      },
+      {
+        "number": 49,
+        "clue": "Young person",
+        "row": 11,
+        "col": 12,
+        "answer": "TAD"
+      },
+      {
+        "number": 52,
+        "clue": "Taylor successor",
+        "row": 12,
+        "col": 0,
+        "answer": "MILLARDFILLMORE"
+      },
+      {
+        "number": 56,
+        "clue": "Nautical term",
+        "row": 13,
+        "col": 0,
+        "answer": "ALEE"
+      },
+      {
+        "number": 57,
+        "clue": "Egg-shaped",
+        "row": 13,
+        "col": 5,
+        "answer": "OVATE"
+      },
+      {
+        "number": 58,
+        "clue": "Great Lakes port",
+        "row": 13,
+        "col": 11,
+        "answer": "ERIE"
+      },
+      {
+        "number": 59,
+        "clue": "Trifle",
+        "row": 14,
+        "col": 0,
+        "answer": "TOY"
+      },
+      {
+        "number": 60,
+        "clue": "Messages",
+        "row": 14,
+        "col": 5,
+        "answer": "WIRES"
+      },
+      {
+        "number": 61,
+        "clue": "Monarch",
+        "row": 14,
+        "col": 11,
+        "answer": "TSAR"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Abhor",
+        "row": 0,
+        "col": 0,
+        "answer": "HATE"
+      },
+      {
+        "number": 2,
+        "clue": "Exam",
+        "row": 0,
+        "col": 1,
+        "answer": "ORAL"
+      },
+      {
+        "number": 3,
+        "clue": "Cleveland successor",
+        "row": 0,
+        "col": 2,
+        "answer": "WILLIAMMCKINLEY"
+      },
+      {
+        "number": 4,
+        "clue": "Game animal",
+        "row": 0,
+        "col": 3,
+        "answer": "ELK"
+      },
+      {
+        "number": 5,
+        "clue": "___ goods",
+        "row": 0,
+        "col": 5,
+        "answer": "CANNED"
+      },
+      {
+        "number": 6,
+        "clue": "Vigilant",
+        "row": 0,
+        "col": 6,
+        "answer": "ALERT"
+      },
+      {
+        "number": 7,
+        "clue": "Singer Stevens",
+        "row": 0,
+        "col": 7,
+        "answer": "RISE"
+      },
+      {
+        "number": 8,
+        "clue": "Oh, in Frankfurt",
+        "row": 0,
+        "col": 8,
+        "answer": "ACH"
+      },
+      {
+        "number": 9,
+        "clue": "Driving area",
+        "row": 0,
+        "col": 9,
+        "answer": "TEE"
+      },
+      {
+        "number": 10,
+        "clue": "Devotees of tomorrow",
+        "row": 0,
+        "col": 12,
+        "answer": "PROCRASTINATORS"
+      },
+      {
+        "number": 11,
+        "clue": "Blockheads",
+        "row": 0,
+        "col": 13,
+        "answer": "OAFS"
+      },
+      {
+        "number": 12,
+        "clue": "Sprite",
+        "row": 0,
+        "col": 14,
+        "answer": "ELF"
+      },
+      {
+        "number": 15,
+        "clue": "Jewish month",
+        "row": 1,
+        "col": 11,
+        "answer": "ADAR"
+      },
+      {
+        "number": 17,
+        "clue": "Engine tender",
+        "row": 2,
+        "col": 4,
+        "answer": "OILER"
+      },
+      {
+        "number": 18,
+        "clue": "Winglike",
+        "row": 2,
+        "col": 10,
+        "answer": "ALATE"
+      },
+      {
+        "number": 23,
+        "clue": "Procedure",
+        "row": 4,
+        "col": 3,
+        "answer": "STEP"
+      },
+      {
+        "number": 24,
+        "clue": "Bridge bids",
+        "row": 4,
+        "col": 8,
+        "answer": "SLAMS"
+      },
+      {
+        "number": 25,
+        "clue": "Capture",
+        "row": 4,
+        "col": 9,
+        "answer": "TAKE"
+      },
+      {
+        "number": 26,
+        "clue": "G. &amp; S. place",
+        "row": 5,
+        "col": 0,
+        "answer": "SAVOY"
+      },
+      {
+        "number": 27,
+        "clue": "Headdress",
+        "row": 5,
+        "col": 1,
+        "answer": "TIARA"
+      },
+      {
+        "number": 28,
+        "clue": "Tabs",
+        "row": 5,
+        "col": 7,
+        "answer": "FLAPS"
+      },
+      {
+        "number": 30,
+        "clue": "One-seeded fruit: Var.",
+        "row": 5,
+        "col": 13,
+        "answer": "AKENE"
+      },
+      {
+        "number": 31,
+        "clue": "Sport arenas",
+        "row": 5,
+        "col": 14,
+        "answer": "RINKS"
+      },
+      {
+        "number": 33,
+        "clue": "Fracas",
+        "row": 6,
+        "col": 6,
+        "answer": "BRAWL"
+      },
+      {
+        "number": 36,
+        "clue": "Champion jumper",
+        "row": 7,
+        "col": 5,
+        "answer": "FLEA"
+      },
+      {
+        "number": 37,
+        "clue": "Et ___",
+        "row": 7,
+        "col": 11,
+        "answer": "ALII"
+      },
+      {
+        "number": 39,
+        "clue": "William Inge's dog",
+        "row": 8,
+        "col": 4,
+        "answer": "SHEBA"
+      },
+      {
+        "number": 40,
+        "clue": "Gemstone",
+        "row": 8,
+        "col": 10,
+        "answer": "BERYL"
+      },
+      {
+        "number": 43,
+        "clue": "Scarves",
+        "row": 9,
+        "col": 9,
+        "answer": "STOLES"
+      },
+      {
+        "number": 45,
+        "clue": "Kansas Senator",
+        "row": 10,
+        "col": 3,
+        "answer": "DOLE"
+      },
+      {
+        "number": 46,
+        "clue": "Hit hard",
+        "row": 10,
+        "col": 8,
+        "answer": "SMITE"
+      },
+      {
+        "number": 47,
+        "clue": "Farm structure",
+        "row": 11,
+        "col": 1,
+        "answer": "SILO"
+      },
+      {
+        "number": 48,
+        "clue": "At a distance",
+        "row": 11,
+        "col": 7,
+        "answer": "AFAR"
+      },
+      {
+        "number": 50,
+        "clue": "Diva's forte",
+        "row": 11,
+        "col": 13,
+        "answer": "ARIA"
+      },
+      {
+        "number": 51,
+        "clue": "Norman Mailer's park",
+        "row": 11,
+        "col": 14,
+        "answer": "DEER"
+      },
+      {
+        "number": 52,
+        "clue": "Place ___",
+        "row": 12,
+        "col": 0,
+        "answer": "MAT"
+      },
+      {
+        "number": 53,
+        "clue": "Squabble",
+        "row": 12,
+        "col": 5,
+        "answer": "ROW"
+      },
+      {
+        "number": 54,
+        "clue": "Roman 506",
+        "row": 12,
+        "col": 6,
+        "answer": "DVI"
+      },
+      {
+        "number": 55,
+        "clue": "Encountered",
+        "row": 12,
+        "col": 11,
+        "answer": "MET"
+      }
+    ]
+  }
+}

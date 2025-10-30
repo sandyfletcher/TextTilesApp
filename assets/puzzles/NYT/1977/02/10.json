@@ -1,0 +1,529 @@
+{
+  "id": "nyt-1977-02-10",
+  "metadata": {
+    "date": "1977-02-10",
+    "title": "NY TIMES, THU, FEB 10, 1977",
+    "author": "Manny Miller",
+    "editor": "Will Weng",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Thursday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["P", "O", "T", "L", "U", "C", "K", null, "N", "O", "M", "A", "N", "I", "S"],
+    ["A", "P", "R", "I", "L", "I", "N", null, "O", "R", "O", "G", "E", "N", "Y"],
+    ["C", "A", "U", "D", "A", "T", "E", null, "T", "R", "O", "T", "T", "E", "R"],
+    ["I", "L", "A", null, "N", "E", "E", "D", "S", "I", "S", null, "T", "R", "I"],
+    ["F", "I", "N", "E", null, "S", "L", "I", "T", "S", null, "A", "L", "T", "A"],
+    ["I", "N", "T", "R", "A", null, "S", "S", "E", null, "S", "T", "E", "I", "N"],
+    ["C", "E", "S", "U", "R", "A", null, "M", "A", "N", "A", "S", "S", "A", "S"],
+    [null, null, null, "P", "R", "E", "V", "A", "L", "E", "N", "T", null, null, null],
+    ["P", "A", "R", "T", "I", "S", "A", "N", null, "A", "D", "A", "P", "T", "S"],
+    ["E", "R", "I", "E", "S", null, "U", "T", "E", null, "S", "K", "O", "A", "L"],
+    ["R", "I", "N", "D", null, "E", "L", "L", "A", "S", null, "E", "S", "P", "Y"],
+    ["U", "S", "S", null, "A", "L", "T", "E", "R", "E", "D", null, "T", "E", "N"],
+    ["S", "T", "E", "E", "P", "L", "E", null, "L", "E", "I", "S", "U", "R", "E"],
+    ["E", "A", "R", "L", "I", "E", "R", null, "A", "T", "T", "I", "R", "E", "S"],
+    ["D", "E", "S", "I", "G", "N", "S", null, "P", "O", "S", "T", "E", "R", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Hazardous dinner prospect",
+        "row": 0,
+        "col": 0,
+        "answer": "POTLUCK"
+      },
+      {
+        "number": 8,
+        "clue": "\"___ an island\"",
+        "row": 0,
+        "col": 8,
+        "answer": "NOMANIS"
+      },
+      {
+        "number": 15,
+        "clue": "\"___ Paris\"",
+        "row": 1,
+        "col": 0,
+        "answer": "APRILIN"
+      },
+      {
+        "number": 16,
+        "clue": "Mountain-making process",
+        "row": 1,
+        "col": 8,
+        "answer": "OROGENY"
+      },
+      {
+        "number": 17,
+        "clue": "Having a tail",
+        "row": 2,
+        "col": 0,
+        "answer": "CAUDATE"
+      },
+      {
+        "number": 18,
+        "clue": "Harness-race horse",
+        "row": 2,
+        "col": 8,
+        "answer": "TROTTER"
+      },
+      {
+        "number": 19,
+        "clue": "Dockworkers' org.",
+        "row": 3,
+        "col": 0,
+        "answer": "ILA"
+      },
+      {
+        "number": 20,
+        "clue": "\"What this country ___ a good . . . \"",
+        "row": 3,
+        "col": 4,
+        "answer": "NEEDSIS"
+      },
+      {
+        "number": 22,
+        "clue": "Numerical prefix",
+        "row": 3,
+        "col": 12,
+        "answer": "TRI"
+      },
+      {
+        "number": 23,
+        "clue": "Dandy's companion",
+        "row": 4,
+        "col": 0,
+        "answer": "FINE"
+      },
+      {
+        "number": 25,
+        "clue": "Narrow cuts",
+        "row": 4,
+        "col": 5,
+        "answer": "SLITS"
+      },
+      {
+        "number": 26,
+        "clue": "Can. province",
+        "row": 4,
+        "col": 11,
+        "answer": "ALTA"
+      },
+      {
+        "number": 27,
+        "clue": "Within: Prefix",
+        "row": 5,
+        "col": 0,
+        "answer": "INTRA"
+      },
+      {
+        "number": 29,
+        "clue": "Compass reading",
+        "row": 5,
+        "col": 6,
+        "answer": "SSE"
+      },
+      {
+        "number": 30,
+        "clue": "Beer holder",
+        "row": 5,
+        "col": 10,
+        "answer": "STEIN"
+      },
+      {
+        "number": 31,
+        "clue": "Break in verse",
+        "row": 6,
+        "col": 0,
+        "answer": "CESURA"
+      },
+      {
+        "number": 33,
+        "clue": "Civil War battlefield",
+        "row": 6,
+        "col": 7,
+        "answer": "MANASSAS"
+      },
+      {
+        "number": 35,
+        "clue": "Widespread",
+        "row": 7,
+        "col": 3,
+        "answer": "PREVALENT"
+      },
+      {
+        "number": 37,
+        "clue": "Kind of politics",
+        "row": 8,
+        "col": 0,
+        "answer": "PARTISAN"
+      },
+      {
+        "number": 40,
+        "clue": "Makes suitable",
+        "row": 8,
+        "col": 9,
+        "answer": "ADAPTS"
+      },
+      {
+        "number": 44,
+        "clue": "Eastern Indians",
+        "row": 9,
+        "col": 0,
+        "answer": "ERIES"
+      },
+      {
+        "number": 45,
+        "clue": "Western Indian",
+        "row": 9,
+        "col": 6,
+        "answer": "UTE"
+      },
+      {
+        "number": 47,
+        "clue": "\"To your good health\"",
+        "row": 9,
+        "col": 10,
+        "answer": "SKOAL"
+      },
+      {
+        "number": 48,
+        "clue": "Thick skin",
+        "row": 10,
+        "col": 0,
+        "answer": "RIND"
+      },
+      {
+        "number": 49,
+        "clue": "Fitzgerald and Grasso",
+        "row": 10,
+        "col": 5,
+        "answer": "ELLAS"
+      },
+      {
+        "number": 51,
+        "clue": "Catch sight of",
+        "row": 10,
+        "col": 11,
+        "answer": "ESPY"
+      },
+      {
+        "number": 52,
+        "clue": "Naval-ship letters",
+        "row": 11,
+        "col": 0,
+        "answer": "USS"
+      },
+      {
+        "number": 53,
+        "clue": "Modified",
+        "row": 11,
+        "col": 4,
+        "answer": "ALTERED"
+      },
+      {
+        "number": 55,
+        "clue": "Big ___ of Midwest",
+        "row": 11,
+        "col": 12,
+        "answer": "TEN"
+      },
+      {
+        "number": 56,
+        "clue": "Roof structure",
+        "row": 12,
+        "col": 0,
+        "answer": "STEEPLE"
+      },
+      {
+        "number": 58,
+        "clue": "Spare time",
+        "row": 12,
+        "col": 8,
+        "answer": "LEISURE"
+      },
+      {
+        "number": 60,
+        "clue": "Before",
+        "row": 13,
+        "col": 0,
+        "answer": "EARLIER"
+      },
+      {
+        "number": 61,
+        "clue": "Dresses",
+        "row": 13,
+        "col": 8,
+        "answer": "ATTIRES"
+      },
+      {
+        "number": 62,
+        "clue": "Sketches",
+        "row": 14,
+        "col": 0,
+        "answer": "DESIGNS"
+      },
+      {
+        "number": 63,
+        "clue": "News sources in China",
+        "row": 14,
+        "col": 8,
+        "answer": "POSTERS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Peaceful",
+        "row": 0,
+        "col": 0,
+        "answer": "PACIFIC"
+      },
+      {
+        "number": 2,
+        "clue": "Iridescent",
+        "row": 0,
+        "col": 1,
+        "answer": "OPALINE"
+      },
+      {
+        "number": 3,
+        "clue": "Hooky players",
+        "row": 0,
+        "col": 2,
+        "answer": "TRUANTS"
+      },
+      {
+        "number": 4,
+        "clue": "Movable cover",
+        "row": 0,
+        "col": 3,
+        "answer": "LID"
+      },
+      {
+        "number": 5,
+        "clue": "___ Bator",
+        "row": 0,
+        "col": 4,
+        "answer": "ULAN"
+      },
+      {
+        "number": 6,
+        "clue": "Summons",
+        "row": 0,
+        "col": 5,
+        "answer": "CITES"
+      },
+      {
+        "number": 7,
+        "clue": "Takes a certain position",
+        "row": 0,
+        "col": 6,
+        "answer": "KNEELS"
+      },
+      {
+        "number": 8,
+        "clue": "\"Thou shalt ___\"",
+        "row": 0,
+        "col": 8,
+        "answer": "NOTSTEAL"
+      },
+      {
+        "number": 9,
+        "clue": "Scented iris",
+        "row": 0,
+        "col": 9,
+        "answer": "ORRIS"
+      },
+      {
+        "number": 10,
+        "clue": "Elsie's sounds",
+        "row": 0,
+        "col": 10,
+        "answer": "MOOS"
+      },
+      {
+        "number": 11,
+        "clue": "F.B.I. worker",
+        "row": 0,
+        "col": 11,
+        "answer": "AGT"
+      },
+      {
+        "number": 12,
+        "clue": "Vexes",
+        "row": 0,
+        "col": 12,
+        "answer": "NETTLES"
+      },
+      {
+        "number": 13,
+        "clue": "Inactivity",
+        "row": 0,
+        "col": 13,
+        "answer": "INERTIA"
+      },
+      {
+        "number": 14,
+        "clue": "Assad and others",
+        "row": 0,
+        "col": 14,
+        "answer": "SYRIANS"
+      },
+      {
+        "number": 21,
+        "clue": "Strip down",
+        "row": 3,
+        "col": 7,
+        "answer": "DISMANTLE"
+      },
+      {
+        "number": 24,
+        "clue": "Became active, as Mauna Loa",
+        "row": 4,
+        "col": 3,
+        "answer": "ERUPTED"
+      },
+      {
+        "number": 26,
+        "clue": "In jeopardy",
+        "row": 4,
+        "col": 11,
+        "answer": "ATSTAKE"
+      },
+      {
+        "number": 28,
+        "clue": "Julie or Phil, to a limey",
+        "row": 5,
+        "col": 4,
+        "answer": "ARRIS"
+      },
+      {
+        "number": 30,
+        "clue": "Beach and desert stretches",
+        "row": 5,
+        "col": 10,
+        "answer": "SANDS"
+      },
+      {
+        "number": 32,
+        "clue": "Roman bronze",
+        "row": 6,
+        "col": 5,
+        "answer": "AES"
+      },
+      {
+        "number": 34,
+        "clue": "Teachers' org.",
+        "row": 6,
+        "col": 9,
+        "answer": "NEA"
+      },
+      {
+        "number": 36,
+        "clue": "Athletes with poles",
+        "row": 7,
+        "col": 6,
+        "answer": "VAULTERS"
+      },
+      {
+        "number": 37,
+        "clue": "Read",
+        "row": 8,
+        "col": 0,
+        "answer": "PERUSED"
+      },
+      {
+        "number": 38,
+        "clue": "Grain bristles",
+        "row": 8,
+        "col": 1,
+        "answer": "ARISTAE"
+      },
+      {
+        "number": 39,
+        "clue": "Ones finishing shampoos",
+        "row": 8,
+        "col": 2,
+        "answer": "RINSERS"
+      },
+      {
+        "number": 41,
+        "clue": "Carriage",
+        "row": 8,
+        "col": 12,
+        "answer": "POSTURE"
+      },
+      {
+        "number": 42,
+        "clue": "Candle bearer",
+        "row": 8,
+        "col": 13,
+        "answer": "TAPERER"
+      },
+      {
+        "number": 43,
+        "clue": "Cunning quality",
+        "row": 8,
+        "col": 14,
+        "answer": "SLYNESS"
+      },
+      {
+        "number": 46,
+        "clue": "Winter-cap sidepiece",
+        "row": 9,
+        "col": 8,
+        "answer": "EARLAP"
+      },
+      {
+        "number": 49,
+        "clue": "Actress Drew",
+        "row": 10,
+        "col": 5,
+        "answer": "ELLEN"
+      },
+      {
+        "number": 50,
+        "clue": "Take care of",
+        "row": 10,
+        "col": 9,
+        "answer": "SEETO"
+      },
+      {
+        "number": 53,
+        "clue": "___ in a poke",
+        "row": 11,
+        "col": 4,
+        "answer": "APIG"
+      },
+      {
+        "number": 54,
+        "clue": "French sayings",
+        "row": 11,
+        "col": 10,
+        "answer": "DITS"
+      },
+      {
+        "number": 57,
+        "clue": "Whitney",
+        "row": 12,
+        "col": 3,
+        "answer": "ELI"
+      },
+      {
+        "number": 59,
+        "clue": "Convene",
+        "row": 12,
+        "col": 11,
+        "answer": "SIT"
+      }
+    ]
+  }
+}

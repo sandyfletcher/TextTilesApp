@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1977-04-25",
+  "metadata": {
+    "date": "1977-04-25",
+    "title": "NY TIMES, MON, APR 25, 1977",
+    "author": "Samuel H. Barkan",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["A", "C", "T", "S", null, "H", "O", "W", "L", null, "I", "S", "L", "E", "T"],
+    ["F", "L", "U", "E", null, "O", "C", "H", "O", null, "S", "H", "A", "P", "E"],
+    ["R", "I", "N", "T", "I", "N", "T", "I", "N", null, "O", "R", "D", "E", "R"],
+    ["O", "N", "E", null, "N", "E", "A", "T", null, "A", "B", "I", "D", "E", "R"],
+    [null, "T", "R", "A", "N", "S", "V", "E", "R", "S", "A", "L", null, null, null],
+    [null, null, null, "M", "E", "T", "E", null, "A", "I", "R", "L", "I", "N", "E"],
+    ["L", "A", "S", "E", "R", null, null, "B", "I", "D", "S", null, "R", "O", "D"],
+    ["O", "P", "E", "N", null, "P", "R", "U", "D", "E", null, "M", "O", "O", "D"],
+    ["S", "E", "A", null, "M", "A", "I", "D", null, null, "H", "A", "N", "K", "Y"],
+    ["E", "X", "T", "R", "A", "C", "T", null, "S", "W", "A", "T", null, null, null],
+    [null, null, null, "O", "S", "T", "E", "O", "P", "A", "T", "H", "I", "C", null],
+    ["A", "L", "L", "O", "T", "S", null, "R", "O", "T", "E", null, "G", "A", "I"],
+    ["S", "A", "U", "T", "E", null, "J", "O", "K", "E", "S", "T", "E", "R", "S"],
+    ["I", "N", "T", "E", "R", null, "O", "N", "E", "R", null, "O", "T", "O", "E"],
+    ["S", "E", "E", "R", "S", null, "B", "O", "S", "S", null, "M", "A", "L", "E"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "\"Hamlet\" has five",
+        "row": 0,
+        "col": 0,
+        "answer": "ACTS"
+      },
+      {
+        "number": 5,
+        "clue": "Wolf sound",
+        "row": 0,
+        "col": 5,
+        "answer": "HOWL"
+      },
+      {
+        "number": 9,
+        "clue": "Relative of an atoll",
+        "row": 0,
+        "col": 10,
+        "answer": "ISLET"
+      },
+      {
+        "number": 14,
+        "clue": "Chimney part",
+        "row": 1,
+        "col": 0,
+        "answer": "FLUE"
+      },
+      {
+        "number": 15,
+        "clue": "Eight, in Madrid",
+        "row": 1,
+        "col": 5,
+        "answer": "OCHO"
+      },
+      {
+        "number": 16,
+        "clue": "Form",
+        "row": 1,
+        "col": 10,
+        "answer": "SHAPE"
+      },
+      {
+        "number": 17,
+        "clue": "Movie dog",
+        "row": 2,
+        "col": 0,
+        "answer": "RINTINTIN"
+      },
+      {
+        "number": 19,
+        "clue": "Judge's demand",
+        "row": 2,
+        "col": 10,
+        "answer": "ORDER"
+      },
+      {
+        "number": 20,
+        "clue": "Three from four",
+        "row": 3,
+        "col": 0,
+        "answer": "ONE"
+      },
+      {
+        "number": 21,
+        "clue": "Not messy or mussy",
+        "row": 3,
+        "col": 4,
+        "answer": "NEAT"
+      },
+      {
+        "number": 22,
+        "clue": "Resident (in Tarrytown?)",
+        "row": 3,
+        "col": 9,
+        "answer": "ABIDER"
+      },
+      {
+        "number": 23,
+        "clue": "Line crossing two others",
+        "row": 4,
+        "col": 1,
+        "answer": "TRANSVERSAL"
+      },
+      {
+        "number": 26,
+        "clue": "Give out",
+        "row": 5,
+        "col": 3,
+        "answer": "METE"
+      },
+      {
+        "number": 27,
+        "clue": "Kennedy tenant",
+        "row": 5,
+        "col": 8,
+        "answer": "AIRLINE"
+      },
+      {
+        "number": 31,
+        "clue": "Device using light rays",
+        "row": 6,
+        "col": 0,
+        "answer": "LASER"
+      },
+      {
+        "number": 34,
+        "clue": "Bridge-table calls",
+        "row": 6,
+        "col": 7,
+        "answer": "BIDS"
+      },
+      {
+        "number": 35,
+        "clue": "16\u00bd feet",
+        "row": 6,
+        "col": 12,
+        "answer": "ROD"
+      },
+      {
+        "number": 36,
+        "clue": "Unlocked",
+        "row": 7,
+        "col": 0,
+        "answer": "OPEN"
+      },
+      {
+        "number": 37,
+        "clue": "Nice Nellie",
+        "row": 7,
+        "col": 5,
+        "answer": "PRUDE"
+      },
+      {
+        "number": 39,
+        "clue": "Indicative or imperative",
+        "row": 7,
+        "col": 11,
+        "answer": "MOOD"
+      },
+      {
+        "number": 40,
+        "clue": "Bering, for one",
+        "row": 8,
+        "col": 0,
+        "answer": "SEA"
+      },
+      {
+        "number": 41,
+        "clue": "Bit part",
+        "row": 8,
+        "col": 4,
+        "answer": "MAID"
+      },
+      {
+        "number": 42,
+        "clue": "___-panky",
+        "row": 8,
+        "col": 10,
+        "answer": "HANKY"
+      },
+      {
+        "number": 43,
+        "clue": "Quotation",
+        "row": 9,
+        "col": 0,
+        "answer": "EXTRACT"
+      },
+      {
+        "number": 45,
+        "clue": "Bat a gnat",
+        "row": 9,
+        "col": 8,
+        "answer": "SWAT"
+      },
+      {
+        "number": 47,
+        "clue": "Of certain manipulators",
+        "row": 10,
+        "col": 3,
+        "answer": "OSTEOPATHIC"
+      },
+      {
+        "number": 51,
+        "clue": "Apportions",
+        "row": 11,
+        "col": 0,
+        "answer": "ALLOTS"
+      },
+      {
+        "number": 54,
+        "clue": "Old-school method",
+        "row": 11,
+        "col": 7,
+        "answer": "ROTE"
+      },
+      {
+        "number": 55,
+        "clue": "Merry, in Metz",
+        "row": 11,
+        "col": 12,
+        "answer": "GAI"
+      },
+      {
+        "number": 57,
+        "clue": "Pan-fried",
+        "row": 12,
+        "col": 0,
+        "answer": "SAUTE"
+      },
+      {
+        "number": 58,
+        "clue": "Gagmen",
+        "row": 12,
+        "col": 6,
+        "answer": "JOKESTERS"
+      },
+      {
+        "number": 60,
+        "clue": "Between: Prefix",
+        "row": 13,
+        "col": 0,
+        "answer": "INTER"
+      },
+      {
+        "number": 61,
+        "clue": "Humdinger",
+        "row": 13,
+        "col": 6,
+        "answer": "ONER"
+      },
+      {
+        "number": 62,
+        "clue": "Pawnee's friend",
+        "row": 13,
+        "col": 11,
+        "answer": "OTOE"
+      },
+      {
+        "number": 63,
+        "clue": "Forecasters",
+        "row": 14,
+        "col": 0,
+        "answer": "SEERS"
+      },
+      {
+        "number": 64,
+        "clue": "The \"old man\"",
+        "row": 14,
+        "col": 6,
+        "answer": "BOSS"
+      },
+      {
+        "number": 65,
+        "clue": "Cob or drake",
+        "row": 14,
+        "col": 11,
+        "answer": "MALE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Type of hairdo",
+        "row": 0,
+        "col": 0,
+        "answer": "AFRO"
+      },
+      {
+        "number": 2,
+        "clue": "Actor Eastwood",
+        "row": 0,
+        "col": 1,
+        "answer": "CLINT"
+      },
+      {
+        "number": 3,
+        "clue": "Spinet specialist",
+        "row": 0,
+        "col": 2,
+        "answer": "TUNER"
+      },
+      {
+        "number": 4,
+        "clue": "Clique",
+        "row": 0,
+        "col": 3,
+        "answer": "SET"
+      },
+      {
+        "number": 5,
+        "clue": "Truthful",
+        "row": 0,
+        "col": 5,
+        "answer": "HONEST"
+      },
+      {
+        "number": 6,
+        "clue": "Musical interval",
+        "row": 0,
+        "col": 6,
+        "answer": "OCTAVE"
+      },
+      {
+        "number": 7,
+        "clue": "\"Whizzer\" of the Supreme Court",
+        "row": 0,
+        "col": 7,
+        "answer": "WHITE"
+      },
+      {
+        "number": 8,
+        "clue": "Actor Chaney",
+        "row": 0,
+        "col": 8,
+        "answer": "LON"
+      },
+      {
+        "number": 9,
+        "clue": "Weather-map lines",
+        "row": 0,
+        "col": 10,
+        "answer": "ISOBARS"
+      },
+      {
+        "number": 10,
+        "clue": "High-pitched",
+        "row": 0,
+        "col": 11,
+        "answer": "SHRILL"
+      },
+      {
+        "number": 11,
+        "clue": "Actor Alan: 1913\u201364",
+        "row": 0,
+        "col": 12,
+        "answer": "LADD"
+      },
+      {
+        "number": 12,
+        "clue": "Fencing sword",
+        "row": 0,
+        "col": 13,
+        "answer": "EPEE"
+      },
+      {
+        "number": 13,
+        "clue": "Alas. in 1958",
+        "row": 0,
+        "col": 14,
+        "answer": "TERR"
+      },
+      {
+        "number": 18,
+        "clue": "Kind of circle",
+        "row": 2,
+        "col": 4,
+        "answer": "INNER"
+      },
+      {
+        "number": 22,
+        "clue": "Open secret onstage",
+        "row": 3,
+        "col": 9,
+        "answer": "ASIDE"
+      },
+      {
+        "number": 24,
+        "clue": "Sobeit",
+        "row": 4,
+        "col": 3,
+        "answer": "AMEN"
+      },
+      {
+        "number": 25,
+        "clue": "Commando action",
+        "row": 4,
+        "col": 8,
+        "answer": "RAID"
+      },
+      {
+        "number": 28,
+        "clue": "Bridal-shower gift",
+        "row": 5,
+        "col": 12,
+        "answer": "IRON"
+      },
+      {
+        "number": 29,
+        "clue": "Cranny's counterpart",
+        "row": 5,
+        "col": 13,
+        "answer": "NOOK"
+      },
+      {
+        "number": 30,
+        "clue": "Whirlpool",
+        "row": 5,
+        "col": 14,
+        "answer": "EDDY"
+      },
+      {
+        "number": 31,
+        "clue": "Be bested or worsted",
+        "row": 6,
+        "col": 0,
+        "answer": "LOSE"
+      },
+      {
+        "number": 32,
+        "clue": "Top",
+        "row": 6,
+        "col": 1,
+        "answer": "APEX"
+      },
+      {
+        "number": 33,
+        "clue": "Stock-exchange membership",
+        "row": 6,
+        "col": 2,
+        "answer": "SEAT"
+      },
+      {
+        "number": 34,
+        "clue": "Rose-to-be",
+        "row": 6,
+        "col": 7,
+        "answer": "BUD"
+      },
+      {
+        "number": 37,
+        "clue": "Treaties",
+        "row": 7,
+        "col": 5,
+        "answer": "PACTS"
+      },
+      {
+        "number": 38,
+        "clue": "Baptism is one",
+        "row": 7,
+        "col": 6,
+        "answer": "RITE"
+      },
+      {
+        "number": 39,
+        "clue": "School subj.",
+        "row": 7,
+        "col": 11,
+        "answer": "MATH"
+      },
+      {
+        "number": 41,
+        "clue": "Golf tournament at Augusta",
+        "row": 8,
+        "col": 4,
+        "answer": "MASTERS"
+      },
+      {
+        "number": 42,
+        "clue": "Dislikes intensely",
+        "row": 8,
+        "col": 10,
+        "answer": "HATES"
+      },
+      {
+        "number": 44,
+        "clue": "Member of a cheering squad",
+        "row": 9,
+        "col": 3,
+        "answer": "ROOTER"
+      },
+      {
+        "number": 45,
+        "clue": "Radii of wheels",
+        "row": 9,
+        "col": 8,
+        "answer": "SPOKES"
+      },
+      {
+        "number": 46,
+        "clue": "Dilutes",
+        "row": 9,
+        "col": 9,
+        "answer": "WATERS"
+      },
+      {
+        "number": 48,
+        "clue": "Site of U. of Maine",
+        "row": 10,
+        "col": 7,
+        "answer": "ORONO"
+      },
+      {
+        "number": 49,
+        "clue": "\"___ Kick Out of You\"",
+        "row": 10,
+        "col": 12,
+        "answer": "IGETA"
+      },
+      {
+        "number": 50,
+        "clue": "Song of praise",
+        "row": 10,
+        "col": 13,
+        "answer": "CAROL"
+      },
+      {
+        "number": 51,
+        "clue": "In present condition",
+        "row": 11,
+        "col": 0,
+        "answer": "ASIS"
+      },
+      {
+        "number": 52,
+        "clue": "Where many a strike occurs",
+        "row": 11,
+        "col": 1,
+        "answer": "LANE"
+      },
+      {
+        "number": 53,
+        "clue": "Minstrel's companion",
+        "row": 11,
+        "col": 2,
+        "answer": "LUTE"
+      },
+      {
+        "number": 56,
+        "clue": "Fortune-teller's words",
+        "row": 11,
+        "col": 14,
+        "answer": "ISEE"
+      },
+      {
+        "number": 58,
+        "clue": "Task",
+        "row": 12,
+        "col": 6,
+        "answer": "JOB"
+      },
+      {
+        "number": 59,
+        "clue": "Swift or Seaver",
+        "row": 12,
+        "col": 11,
+        "answer": "TOM"
+      }
+    ]
+  }
+}

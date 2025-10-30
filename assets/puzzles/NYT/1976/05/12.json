@@ -1,0 +1,599 @@
+{
+  "id": "nyt-1976-05-12",
+  "metadata": {
+    "date": "1976-05-12",
+    "title": "NY TIMES, WED, MAY 12, 1976",
+    "author": "Sophie Fierman",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["C", "O", "T", "E", "S", null, "M", "A", "P", null, "T", "R", "I", "B", "E"],
+    ["O", "B", "O", "L", "E", null, "E", "L", "A", null, "H", "A", "V", "E", "N"],
+    ["L", "E", "X", "I", "N", "G", "T", "O", "N", null, "E", "R", "A", "T", "O"],
+    ["A", "S", "I", "A", null, "A", "R", "E", null, "A", "R", "E", "N", "A", "S"],
+    ["S", "E", "N", "S", "A", "T", "E", null, "O", "V", "E", "R", null, null, null],
+    [null, null, null, null, "R", "E", "S", "U", "M", "E", "S", null, "R", "O", "B"],
+    ["G", "E", "N", "E", "T", null, null, "S", "A", "R", "A", "T", "O", "G", "A"],
+    ["O", "B", "O", "E", null, "S", "T", "I", "R", "S", null, "O", "A", "R", "S"],
+    ["Y", "O", "R", "K", "T", "O", "W", "N", null, null, "L", "Y", "R", "E", "S"],
+    ["A", "N", "A", null, "W", "R", "I", "G", "G", "L", "E", null, null, null, null],
+    [null, null, null, "F", "I", "R", "N", null, "R", "I", "D", "D", "L", "E", "S"],
+    ["S", "M", "A", "R", "T", "Y", null, "L", "I", "E", null, "R", "I", "P", "E"],
+    ["P", "I", "L", "O", "T", null, "M", "I", "N", "U", "T", "E", "M", "E", "N"],
+    ["A", "M", "A", "Z", "E", null, "A", "N", "D", null, "N", "A", "M", "E", "D"],
+    ["T", "I", "R", "E", "D", null, "Y", "E", "S", null, "T", "R", "A", "S", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Pigeons' pads",
+        "row": 0,
+        "col": 0,
+        "answer": "COTES"
+      },
+      {
+        "number": 6,
+        "clue": "Geography-class need",
+        "row": 0,
+        "col": 6,
+        "answer": "MAP"
+      },
+      {
+        "number": 9,
+        "clue": "Clan",
+        "row": 0,
+        "col": 10,
+        "answer": "TRIBE"
+      },
+      {
+        "number": 14,
+        "clue": "Old French coin",
+        "row": 1,
+        "col": 0,
+        "answer": "OBOLE"
+      },
+      {
+        "number": 15,
+        "clue": "High note",
+        "row": 1,
+        "col": 6,
+        "answer": "ELA"
+      },
+      {
+        "number": 16,
+        "clue": "Connecticut's is New",
+        "row": 1,
+        "col": 10,
+        "answer": "HAVEN"
+      },
+      {
+        "number": 17,
+        "clue": "First battle of Revolution",
+        "row": 2,
+        "col": 0,
+        "answer": "LEXINGTON"
+      },
+      {
+        "number": 19,
+        "clue": "Muse",
+        "row": 2,
+        "col": 10,
+        "answer": "ERATO"
+      },
+      {
+        "number": 20,
+        "clue": "Continent",
+        "row": 3,
+        "col": 0,
+        "answer": "ASIA"
+      },
+      {
+        "number": 21,
+        "clue": "Metric measure",
+        "row": 3,
+        "col": 5,
+        "answer": "ARE"
+      },
+      {
+        "number": 22,
+        "clue": "Madison Sq. Garden et al.",
+        "row": 3,
+        "col": 9,
+        "answer": "ARENAS"
+      },
+      {
+        "number": 23,
+        "clue": "Materialistic",
+        "row": 4,
+        "col": 0,
+        "answer": "SENSATE"
+      },
+      {
+        "number": 25,
+        "clue": "Superior",
+        "row": 4,
+        "col": 8,
+        "answer": "OVER"
+      },
+      {
+        "number": 26,
+        "clue": "Job-applicants' offerings",
+        "row": 5,
+        "col": 4,
+        "answer": "RESUMES"
+      },
+      {
+        "number": 28,
+        "clue": "___ Roy",
+        "row": 5,
+        "col": 12,
+        "answer": "ROB"
+      },
+      {
+        "number": 31,
+        "clue": "Civet's relative",
+        "row": 6,
+        "col": 0,
+        "answer": "GENET"
+      },
+      {
+        "number": 35,
+        "clue": "Decisive battle of Revolution",
+        "row": 6,
+        "col": 7,
+        "answer": "SARATOGA"
+      },
+      {
+        "number": 37,
+        "clue": "Orchestra unit",
+        "row": 7,
+        "col": 0,
+        "answer": "OBOE"
+      },
+      {
+        "number": 38,
+        "clue": "Moves",
+        "row": 7,
+        "col": 5,
+        "answer": "STIRS"
+      },
+      {
+        "number": 40,
+        "clue": "Rowboat adjuncts",
+        "row": 7,
+        "col": 11,
+        "answer": "OARS"
+      },
+      {
+        "number": 41,
+        "clue": "Last battle of Revolution",
+        "row": 8,
+        "col": 0,
+        "answer": "YORKTOWN"
+      },
+      {
+        "number": 43,
+        "clue": "Minstrels' instruments",
+        "row": 8,
+        "col": 10,
+        "answer": "LYRES"
+      },
+      {
+        "number": 44,
+        "clue": "Collection of quotes",
+        "row": 9,
+        "col": 0,
+        "answer": "ANA"
+      },
+      {
+        "number": 45,
+        "clue": "Squirm",
+        "row": 9,
+        "col": 4,
+        "answer": "WRIGGLE"
+      },
+      {
+        "number": 48,
+        "clue": "Granular snow",
+        "row": 10,
+        "col": 3,
+        "answer": "FIRN"
+      },
+      {
+        "number": 49,
+        "clue": "Sphinxlike offerings",
+        "row": 10,
+        "col": 8,
+        "answer": "RIDDLES"
+      },
+      {
+        "number": 54,
+        "clue": "Kind of pants",
+        "row": 11,
+        "col": 0,
+        "answer": "SMARTY"
+      },
+      {
+        "number": 57,
+        "clue": "U.N. secretary",
+        "row": 11,
+        "col": 7,
+        "answer": "LIE"
+      },
+      {
+        "number": 58,
+        "clue": "Ready",
+        "row": 11,
+        "col": 11,
+        "answer": "RIPE"
+      },
+      {
+        "number": 59,
+        "clue": "Sample TV film",
+        "row": 12,
+        "col": 0,
+        "answer": "PILOT"
+      },
+      {
+        "number": 60,
+        "clue": "Gung-ho group of Revolution",
+        "row": 12,
+        "col": 6,
+        "answer": "MINUTEMEN"
+      },
+      {
+        "number": 62,
+        "clue": "Astound",
+        "row": 13,
+        "col": 0,
+        "answer": "AMAZE"
+      },
+      {
+        "number": 63,
+        "clue": "In addition",
+        "row": 13,
+        "col": 6,
+        "answer": "AND"
+      },
+      {
+        "number": 64,
+        "clue": "Designated",
+        "row": 13,
+        "col": 10,
+        "answer": "NAMED"
+      },
+      {
+        "number": 65,
+        "clue": "Weary",
+        "row": 14,
+        "col": 0,
+        "answer": "TIRED"
+      },
+      {
+        "number": 66,
+        "clue": "Affirmation",
+        "row": 14,
+        "col": 6,
+        "answer": "YES"
+      },
+      {
+        "number": 67,
+        "clue": "Volcanic rock",
+        "row": 14,
+        "col": 10,
+        "answer": "TRASS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Soft drinks",
+        "row": 0,
+        "col": 0,
+        "answer": "COLAS"
+      },
+      {
+        "number": 2,
+        "clue": "Overweight",
+        "row": 0,
+        "col": 1,
+        "answer": "OBESE"
+      },
+      {
+        "number": 3,
+        "clue": "Poison",
+        "row": 0,
+        "col": 2,
+        "answer": "TOXIN"
+      },
+      {
+        "number": 4,
+        "clue": "Mr. Howe",
+        "row": 0,
+        "col": 3,
+        "answer": "ELIAS"
+      },
+      {
+        "number": 5,
+        "clue": "Japanese money",
+        "row": 0,
+        "col": 4,
+        "answer": "SEN"
+      },
+      {
+        "number": 6,
+        "clue": "Rhythms in music",
+        "row": 0,
+        "col": 6,
+        "answer": "METRES"
+      },
+      {
+        "number": 7,
+        "clue": "Medicinal plant",
+        "row": 0,
+        "col": 7,
+        "answer": "ALOE"
+      },
+      {
+        "number": 8,
+        "clue": "Opposite of a rave",
+        "row": 0,
+        "col": 8,
+        "answer": "PAN"
+      },
+      {
+        "number": 9,
+        "clue": "Spanish saint",
+        "row": 0,
+        "col": 10,
+        "answer": "THERESA"
+      },
+      {
+        "number": 10,
+        "clue": "More choice",
+        "row": 0,
+        "col": 11,
+        "answer": "RARER"
+      },
+      {
+        "number": 11,
+        "clue": "The Terrible or the Great",
+        "row": 0,
+        "col": 12,
+        "answer": "IVAN"
+      },
+      {
+        "number": 12,
+        "clue": "Greek letter",
+        "row": 0,
+        "col": 13,
+        "answer": "BETA"
+      },
+      {
+        "number": 13,
+        "clue": "Genesis name",
+        "row": 0,
+        "col": 14,
+        "answer": "ENOS"
+      },
+      {
+        "number": 18,
+        "clue": "Proceeds of a performance",
+        "row": 2,
+        "col": 5,
+        "answer": "GATE"
+      },
+      {
+        "number": 22,
+        "clue": "Declares",
+        "row": 3,
+        "col": 9,
+        "answer": "AVERS"
+      },
+      {
+        "number": 24,
+        "clue": "Carney",
+        "row": 4,
+        "col": 4,
+        "answer": "ART"
+      },
+      {
+        "number": 25,
+        "clue": "Jerusalem's Mosque of ___",
+        "row": 4,
+        "col": 8,
+        "answer": "OMAR"
+      },
+      {
+        "number": 27,
+        "clue": "Taking advantage of",
+        "row": 5,
+        "col": 7,
+        "answer": "USING"
+      },
+      {
+        "number": 28,
+        "clue": "Lion's warning",
+        "row": 5,
+        "col": 12,
+        "answer": "ROAR"
+      },
+      {
+        "number": 29,
+        "clue": "Monster",
+        "row": 5,
+        "col": 13,
+        "answer": "OGRE"
+      },
+      {
+        "number": 30,
+        "clue": "Singing voice",
+        "row": 5,
+        "col": 14,
+        "answer": "BASS"
+      },
+      {
+        "number": 31,
+        "clue": "Spanish painter",
+        "row": 6,
+        "col": 0,
+        "answer": "GOYA"
+      },
+      {
+        "number": 32,
+        "clue": "Very dark",
+        "row": 6,
+        "col": 1,
+        "answer": "EBON"
+      },
+      {
+        "number": 33,
+        "clue": "Ibsen heroine",
+        "row": 6,
+        "col": 2,
+        "answer": "NORA"
+      },
+      {
+        "number": 34,
+        "clue": "Comic-strip yell",
+        "row": 6,
+        "col": 3,
+        "answer": "EEK"
+      },
+      {
+        "number": 36,
+        "clue": "Plaything",
+        "row": 6,
+        "col": 11,
+        "answer": "TOY"
+      },
+      {
+        "number": 38,
+        "clue": "Word with \"wrong number\"",
+        "row": 7,
+        "col": 5,
+        "answer": "SORRY"
+      },
+      {
+        "number": 39,
+        "clue": "Remus or Dromio",
+        "row": 7,
+        "col": 6,
+        "answer": "TWIN"
+      },
+      {
+        "number": 42,
+        "clue": "Taunted",
+        "row": 8,
+        "col": 4,
+        "answer": "TWITTED"
+      },
+      {
+        "number": 43,
+        "clue": "Went first",
+        "row": 8,
+        "col": 10,
+        "answer": "LED"
+      },
+      {
+        "number": 46,
+        "clue": "Drip and regular, e.g.",
+        "row": 9,
+        "col": 8,
+        "answer": "GRINDS"
+      },
+      {
+        "number": 47,
+        "clue": "In ___ of (instead)",
+        "row": 9,
+        "col": 9,
+        "answer": "LIEU"
+      },
+      {
+        "number": 48,
+        "clue": "Halted suddenly",
+        "row": 10,
+        "col": 3,
+        "answer": "FROZE"
+      },
+      {
+        "number": 50,
+        "clue": "Gloomy",
+        "row": 10,
+        "col": 11,
+        "answer": "DREAR"
+      },
+      {
+        "number": 51,
+        "clue": "Old Greek music note",
+        "row": 10,
+        "col": 12,
+        "answer": "LIMMA"
+      },
+      {
+        "number": 52,
+        "clue": "Swords",
+        "row": 10,
+        "col": 13,
+        "answer": "EPEES"
+      },
+      {
+        "number": 53,
+        "clue": "Transmits",
+        "row": 10,
+        "col": 14,
+        "answer": "SENDS"
+      },
+      {
+        "number": 54,
+        "clue": "Quarrel",
+        "row": 11,
+        "col": 0,
+        "answer": "SPAT"
+      },
+      {
+        "number": 55,
+        "clue": "Miss Benzell",
+        "row": 11,
+        "col": 1,
+        "answer": "MIMI"
+      },
+      {
+        "number": 56,
+        "clue": "Winglike",
+        "row": 11,
+        "col": 2,
+        "answer": "ALAR"
+      },
+      {
+        "number": 57,
+        "clue": "Maginot, for one",
+        "row": 11,
+        "col": 7,
+        "answer": "LINE"
+      },
+      {
+        "number": 60,
+        "clue": "Kind of pole or apple",
+        "row": 12,
+        "col": 6,
+        "answer": "MAY"
+      },
+      {
+        "number": 61,
+        "clue": "Explosive",
+        "row": 12,
+        "col": 10,
+        "answer": "TNT"
+      }
+    ]
+  }
+}

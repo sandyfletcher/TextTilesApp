@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-04-13",
+  "metadata": {
+    "date": "1976-04-13",
+    "title": "NY TIMES, TUE, APR 13, 1976",
+    "author": "Tap Osborn",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "M", "A", "J", null, "J", "O", "J", "O", null, "J", "E", "R", "E", "Z"],
+    ["P", "E", "R", "U", null, "E", "L", "O", "N", null, "E", "X", "I", "L", "E"],
+    ["A", "R", "A", "B", null, "J", "A", "K", "E", null, "Z", "I", "M", "B", "S"],
+    ["S", "E", "M", "I", "L", "U", "N", "E", null, "J", "E", "T", "S", "E", "T"],
+    [null, null, null, "L", "A", "N", "D", null, "T", "U", "B", "E", null, null, null],
+    ["M", "O", "J", "A", "V", "E", null, "J", "A", "N", "E", "D", "O", "E", "S"],
+    ["A", "Z", "I", "N", "E", null, "J", "U", "M", "E", "L", null, "R", "A", "I"],
+    ["J", "O", "L", "T", null, "J", "A", "N", "I", "S", null, "J", "A", "R", "L"],
+    ["O", "N", "T", null, "J", "E", "R", "K", "S", null, "J", "A", "L", "N", "A"],
+    ["R", "E", "S", "T", "A", "T", "E", "S", null, "J", "A", "M", "E", "S", "S"],
+    [null, null, null, "A", "B", "E", "D", null, "T", "O", "M", "B", null, null, null],
+    ["J", "U", "J", "U", "B", "E", null, "J", "A", "W", "B", "O", "N", "E", "D"],
+    ["E", "N", "A", "T", "E", null, "J", "I", "L", "L", null, "R", "A", "C", "E"],
+    ["L", "I", "V", "E", "R", null, "O", "B", "O", "E", null, "E", "T", "O", "N"],
+    ["L", "O", "A", "N", "S", null, "B", "E", "N", "D", null, "E", "O", "N", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Highest N.C.O.",
+        "row": 0,
+        "col": 0,
+        "answer": "SMAJ"
+      },
+      {
+        "number": 5,
+        "clue": "Ex-outfielder White",
+        "row": 0,
+        "col": 5,
+        "answer": "JOJO"
+      },
+      {
+        "number": 9,
+        "clue": "Spanish wine city",
+        "row": 0,
+        "col": 10,
+        "answer": "JEREZ"
+      },
+      {
+        "number": 14,
+        "clue": "Lima's locale",
+        "row": 1,
+        "col": 0,
+        "answer": "PERU"
+      },
+      {
+        "number": 15,
+        "clue": "N.C. college",
+        "row": 1,
+        "col": 5,
+        "answer": "ELON"
+      },
+      {
+        "number": 16,
+        "clue": "Banishment",
+        "row": 1,
+        "col": 10,
+        "answer": "EXILE"
+      },
+      {
+        "number": 17,
+        "clue": "Faisal, for one",
+        "row": 2,
+        "col": 0,
+        "answer": "ARAB"
+      },
+      {
+        "number": 18,
+        "clue": "Okay!",
+        "row": 2,
+        "col": 5,
+        "answer": "JAKE"
+      },
+      {
+        "number": 19,
+        "clue": "Abyssinian flies",
+        "row": 2,
+        "col": 10,
+        "answer": "ZIMBS"
+      },
+      {
+        "number": 20,
+        "clue": "Crescent-shaped object",
+        "row": 3,
+        "col": 0,
+        "answer": "SEMILUNE"
+      },
+      {
+        "number": 22,
+        "clue": "Group on the move",
+        "row": 3,
+        "col": 9,
+        "answer": "JETSET"
+      },
+      {
+        "number": 23,
+        "clue": "Reach shore",
+        "row": 4,
+        "col": 3,
+        "answer": "LAND"
+      },
+      {
+        "number": 24,
+        "clue": "Test or boob",
+        "row": 4,
+        "col": 8,
+        "answer": "TUBE"
+      },
+      {
+        "number": 25,
+        "clue": "Calif. desert",
+        "row": 5,
+        "col": 0,
+        "answer": "MOJAVE"
+      },
+      {
+        "number": 28,
+        "clue": "Unknown women",
+        "row": 5,
+        "col": 7,
+        "answer": "JANEDOES"
+      },
+      {
+        "number": 32,
+        "clue": "Nitrogen compound",
+        "row": 6,
+        "col": 0,
+        "answer": "AZINE"
+      },
+      {
+        "number": 33,
+        "clue": "___ Mansion, N.Y.C. landmark",
+        "row": 6,
+        "col": 6,
+        "answer": "JUMEL"
+      },
+      {
+        "number": 34,
+        "clue": "Siamese measure",
+        "row": 6,
+        "col": 12,
+        "answer": "RAI"
+      },
+      {
+        "number": 35,
+        "clue": "Shake roughly",
+        "row": 7,
+        "col": 0,
+        "answer": "JOLT"
+      },
+      {
+        "number": 36,
+        "clue": "Actress Elsie",
+        "row": 7,
+        "col": 5,
+        "answer": "JANIS"
+      },
+      {
+        "number": 37,
+        "clue": "Scandinavian noble",
+        "row": 7,
+        "col": 11,
+        "answer": "JARL"
+      },
+      {
+        "number": 38,
+        "clue": "Can. province",
+        "row": 8,
+        "col": 0,
+        "answer": "ONT"
+      },
+      {
+        "number": 39,
+        "clue": "Uneven pulls",
+        "row": 8,
+        "col": 4,
+        "answer": "JERKS"
+      },
+      {
+        "number": 40,
+        "clue": "De la Roche novel",
+        "row": 8,
+        "col": 10,
+        "answer": "JALNA"
+      },
+      {
+        "number": 41,
+        "clue": "Says again",
+        "row": 9,
+        "col": 0,
+        "answer": "RESTATES"
+      },
+      {
+        "number": 43,
+        "clue": "London's Court of St. ___",
+        "row": 9,
+        "col": 9,
+        "answer": "JAMESS"
+      },
+      {
+        "number": 44,
+        "clue": "Resting",
+        "row": 10,
+        "col": 3,
+        "answer": "ABED"
+      },
+      {
+        "number": 45,
+        "clue": "Grant's ___",
+        "row": 10,
+        "col": 8,
+        "answer": "TOMB"
+      },
+      {
+        "number": 46,
+        "clue": "Fruit lozenge",
+        "row": 11,
+        "col": 0,
+        "answer": "JUJUBE"
+      },
+      {
+        "number": 49,
+        "clue": "Tried to influence with talk",
+        "row": 11,
+        "col": 7,
+        "answer": "JAWBONED"
+      },
+      {
+        "number": 53,
+        "clue": "Growing out",
+        "row": 12,
+        "col": 0,
+        "answer": "ENATE"
+      },
+      {
+        "number": 54,
+        "clue": "Well-known hill climber",
+        "row": 12,
+        "col": 6,
+        "answer": "JILL"
+      },
+      {
+        "number": 55,
+        "clue": "Rev an engine",
+        "row": 12,
+        "col": 11,
+        "answer": "RACE"
+      },
+      {
+        "number": 56,
+        "clue": "___ and bacon",
+        "row": 13,
+        "col": 0,
+        "answer": "LIVER"
+      },
+      {
+        "number": 57,
+        "clue": "Woodwind",
+        "row": 13,
+        "col": 6,
+        "answer": "OBOE"
+      },
+      {
+        "number": 58,
+        "clue": "Coat or collar",
+        "row": 13,
+        "col": 11,
+        "answer": "ETON"
+      },
+      {
+        "number": 59,
+        "clue": "Bank deals",
+        "row": 14,
+        "col": 0,
+        "answer": "LOANS"
+      },
+      {
+        "number": 60,
+        "clue": "Give in a bit",
+        "row": 14,
+        "col": 6,
+        "answer": "BEND"
+      },
+      {
+        "number": 61,
+        "clue": "Time periods",
+        "row": 14,
+        "col": 11,
+        "answer": "EONS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Health resorts",
+        "row": 0,
+        "col": 0,
+        "answer": "SPAS"
+      },
+      {
+        "number": 2,
+        "clue": "Bare",
+        "row": 0,
+        "col": 1,
+        "answer": "MERE"
+      },
+      {
+        "number": 3,
+        "clue": "\"My name is ___\"",
+        "row": 0,
+        "col": 2,
+        "answer": "ARAM"
+      },
+      {
+        "number": 4,
+        "clue": "Exultant",
+        "row": 0,
+        "col": 3,
+        "answer": "JUBILANT"
+      },
+      {
+        "number": 5,
+        "clue": "Insipid",
+        "row": 0,
+        "col": 5,
+        "answer": "JEJUNE"
+      },
+      {
+        "number": 6,
+        "clue": "Charlie Chan portrayer",
+        "row": 0,
+        "col": 6,
+        "answer": "OLAND"
+      },
+      {
+        "number": 7,
+        "clue": "One-liner",
+        "row": 0,
+        "col": 7,
+        "answer": "JOKE"
+      },
+      {
+        "number": 8,
+        "clue": "United",
+        "row": 0,
+        "col": 8,
+        "answer": "ONE"
+      },
+      {
+        "number": 9,
+        "clue": "Shameless woman",
+        "row": 0,
+        "col": 10,
+        "answer": "JEZEBEL"
+      },
+      {
+        "number": 10,
+        "clue": "Went out",
+        "row": 0,
+        "col": 11,
+        "answer": "EXITED"
+      },
+      {
+        "number": 11,
+        "clue": "Parts of glasses",
+        "row": 0,
+        "col": 12,
+        "answer": "RIMS"
+      },
+      {
+        "number": 12,
+        "clue": "River to the North Sea",
+        "row": 0,
+        "col": 13,
+        "answer": "ELBE"
+      },
+      {
+        "number": 13,
+        "clue": "Liveliness",
+        "row": 0,
+        "col": 14,
+        "answer": "ZEST"
+      },
+      {
+        "number": 21,
+        "clue": "Wash",
+        "row": 3,
+        "col": 4,
+        "answer": "LAVE"
+      },
+      {
+        "number": 22,
+        "clue": "Haver and Havoc",
+        "row": 3,
+        "col": 9,
+        "answer": "JUNES"
+      },
+      {
+        "number": 24,
+        "clue": "Cloth strainer",
+        "row": 4,
+        "col": 8,
+        "answer": "TAMIS"
+      },
+      {
+        "number": 25,
+        "clue": "Key or league",
+        "row": 5,
+        "col": 0,
+        "answer": "MAJOR"
+      },
+      {
+        "number": 26,
+        "clue": "Clear air",
+        "row": 5,
+        "col": 1,
+        "answer": "OZONE"
+      },
+      {
+        "number": 27,
+        "clue": "Throws over",
+        "row": 5,
+        "col": 2,
+        "answer": "JILTS"
+      },
+      {
+        "number": 28,
+        "clue": "Yangtze sights",
+        "row": 5,
+        "col": 7,
+        "answer": "JUNKS"
+      },
+      {
+        "number": 29,
+        "clue": "Papal cape",
+        "row": 5,
+        "col": 12,
+        "answer": "ORALE"
+      },
+      {
+        "number": 30,
+        "clue": "Merits",
+        "row": 5,
+        "col": 13,
+        "answer": "EARNS"
+      },
+      {
+        "number": 31,
+        "clue": "Mr. Marner",
+        "row": 5,
+        "col": 14,
+        "answer": "SILAS"
+      },
+      {
+        "number": 33,
+        "clue": "Man's name",
+        "row": 6,
+        "col": 6,
+        "answer": "JARED"
+      },
+      {
+        "number": 36,
+        "clue": "Pier, in France",
+        "row": 7,
+        "col": 5,
+        "answer": "JETEE"
+      },
+      {
+        "number": 37,
+        "clue": "Scout gathering",
+        "row": 7,
+        "col": 11,
+        "answer": "JAMBOREE"
+      },
+      {
+        "number": 39,
+        "clue": "Talks inanely",
+        "row": 8,
+        "col": 4,
+        "answer": "JABBERS"
+      },
+      {
+        "number": 40,
+        "clue": "Part of a doorframe",
+        "row": 8,
+        "col": 10,
+        "answer": "JAMB"
+      },
+      {
+        "number": 42,
+        "clue": "Make tight",
+        "row": 9,
+        "col": 3,
+        "answer": "TAUTEN"
+      },
+      {
+        "number": 43,
+        "clue": "Dewlapped",
+        "row": 9,
+        "col": 9,
+        "answer": "JOWLED"
+      },
+      {
+        "number": 45,
+        "clue": "Claw",
+        "row": 10,
+        "col": 8,
+        "answer": "TALON"
+      },
+      {
+        "number": 46,
+        "clue": "Crystallize",
+        "row": 11,
+        "col": 0,
+        "answer": "JELL"
+      },
+      {
+        "number": 47,
+        "clue": "Mussel genus",
+        "row": 11,
+        "col": 1,
+        "answer": "UNIO"
+      },
+      {
+        "number": 48,
+        "clue": "Coffee, to some",
+        "row": 11,
+        "col": 2,
+        "answer": "JAVA"
+      },
+      {
+        "number": 49,
+        "clue": "Agree",
+        "row": 11,
+        "col": 7,
+        "answer": "JIBE"
+      },
+      {
+        "number": 50,
+        "clue": "Western alliance",
+        "row": 11,
+        "col": 12,
+        "answer": "NATO"
+      },
+      {
+        "number": 51,
+        "clue": "Keynes's field: Abbr.",
+        "row": 11,
+        "col": 13,
+        "answer": "ECON"
+      },
+      {
+        "number": 52,
+        "clue": "Studies",
+        "row": 11,
+        "col": 14,
+        "answer": "DENS"
+      },
+      {
+        "number": 54,
+        "clue": "Swindle",
+        "row": 12,
+        "col": 6,
+        "answer": "JOB"
+      }
+    ]
+  }
+}

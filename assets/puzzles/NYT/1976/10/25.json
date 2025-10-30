@@ -1,0 +1,557 @@
+{
+  "id": "nyt-1976-10-25",
+  "metadata": {
+    "date": "1976-10-25",
+    "title": "NY TIMES, MON, OCT 25, 1976",
+    "author": "Bert Beaman",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["P", "O", "P", "E", null, "A", "N", "D", "O", "R", null, "A", "L", "D", "A"],
+    ["O", "R", "E", "L", null, "R", "A", "I", "S", "E", "D", "C", "A", "I", "N"],
+    ["I", "N", "R", "E", "C", "I", "P", "R", "O", "C", "A", "T", "I", "O", "N"],
+    ["S", "A", "C", "C", "O", null, "S", "E", "N", "O", "R", null, "N", "R", "A"],
+    [null, "M", "E", "T", "U", "P", null, "C", "E", "N", "T", "S", null, null, null],
+    ["D", "E", "N", null, "P", "I", "T", "T", null, null, "S", "U", "G", "A", "R"],
+    ["I", "N", "T", "O", null, "T", "R", "O", "T", "S", null, "N", "O", "L", "O"],
+    ["E", "T", "A", "L", null, "C", "A", "N", "A", "L", null, "D", "E", "L", "A"],
+    ["G", "A", "G", "A", null, "H", "Y", "E", "N", "A", null, "A", "S", "P", "S"],
+    ["O", "L", "E", "N", "T", null, null, "S", "A", "N", "S", null, "T", "U", "T"],
+    [null, null, null, "D", "R", "A", "M", "S", null, "G", "O", "F", "O", "R", null],
+    ["A", "L", "A", null, "A", "R", "E", "T", "E", null, "L", "O", "O", "P", "S"],
+    ["L", "E", "T", "O", "N", "E", "S", "E", "L", "F", "I", "N", "F", "O", "R"],
+    ["L", "A", "N", "D", "S", "C", "A", "P", "E", "S", null, "D", "A", "S", "T"],
+    ["S", "H", "O", "E", null, "A", "S", "S", "E", "T", null, "A", "R", "E", "A"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "English poet",
+        "row": 0,
+        "col": 0,
+        "answer": "POPE"
+      },
+      {
+        "number": 5,
+        "clue": "Words of choice",
+        "row": 0,
+        "col": 5,
+        "answer": "ANDOR"
+      },
+      {
+        "number": 10,
+        "clue": "Alan or Robert",
+        "row": 0,
+        "col": 11,
+        "answer": "ALDA"
+      },
+      {
+        "number": 14,
+        "clue": "City of Russia",
+        "row": 1,
+        "col": 0,
+        "answer": "OREL"
+      },
+      {
+        "number": 15,
+        "clue": "Carried on",
+        "row": 1,
+        "col": 5,
+        "answer": "RAISEDCAIN"
+      },
+      {
+        "number": 17,
+        "clue": "Evening the score",
+        "row": 2,
+        "col": 0,
+        "answer": "INRECIPROCATION"
+      },
+      {
+        "number": 19,
+        "clue": "Vanzetti's partner",
+        "row": 3,
+        "col": 0,
+        "answer": "SACCO"
+      },
+      {
+        "number": 20,
+        "clue": "Mister, in Madrid",
+        "row": 3,
+        "col": 6,
+        "answer": "SENOR"
+      },
+      {
+        "number": 21,
+        "clue": "Initials of the 1930's",
+        "row": 3,
+        "col": 12,
+        "answer": "NRA"
+      },
+      {
+        "number": 22,
+        "clue": "___ with (encountered)",
+        "row": 4,
+        "col": 1,
+        "answer": "METUP"
+      },
+      {
+        "number": 24,
+        "clue": "Coins",
+        "row": 4,
+        "col": 7,
+        "answer": "CENTS"
+      },
+      {
+        "number": 26,
+        "clue": "Room",
+        "row": 5,
+        "col": 0,
+        "answer": "DEN"
+      },
+      {
+        "number": 27,
+        "clue": "English prime minister",
+        "row": 5,
+        "col": 4,
+        "answer": "PITT"
+      },
+      {
+        "number": 29,
+        "clue": "Endearing word",
+        "row": 5,
+        "col": 10,
+        "answer": "SUGAR"
+      },
+      {
+        "number": 33,
+        "clue": "Preposition",
+        "row": 6,
+        "col": 0,
+        "answer": "INTO"
+      },
+      {
+        "number": 35,
+        "clue": "Jogs",
+        "row": 6,
+        "col": 5,
+        "answer": "TROTS"
+      },
+      {
+        "number": 38,
+        "clue": "___ contendere",
+        "row": 6,
+        "col": 11,
+        "answer": "NOLO"
+      },
+      {
+        "number": 39,
+        "clue": "Common Latin abbr.",
+        "row": 7,
+        "col": 0,
+        "answer": "ETAL"
+      },
+      {
+        "number": 40,
+        "clue": "Erie, for one",
+        "row": 7,
+        "col": 5,
+        "answer": "CANAL"
+      },
+      {
+        "number": 41,
+        "clue": "Rue ___ Paix",
+        "row": 7,
+        "col": 11,
+        "answer": "DELA"
+      },
+      {
+        "number": 42,
+        "clue": "Crazy",
+        "row": 8,
+        "col": 0,
+        "answer": "GAGA"
+      },
+      {
+        "number": 43,
+        "clue": "Zoo denizen",
+        "row": 8,
+        "col": 5,
+        "answer": "HYENA"
+      },
+      {
+        "number": 44,
+        "clue": "Reptiles",
+        "row": 8,
+        "col": 11,
+        "answer": "ASPS"
+      },
+      {
+        "number": 45,
+        "clue": "Fragrant",
+        "row": 9,
+        "col": 0,
+        "answer": "OLENT"
+      },
+      {
+        "number": 47,
+        "clue": "___ souci",
+        "row": 9,
+        "col": 7,
+        "answer": "SANS"
+      },
+      {
+        "number": 49,
+        "clue": "Exclamation",
+        "row": 9,
+        "col": 12,
+        "answer": "TUT"
+      },
+      {
+        "number": 50,
+        "clue": "Small quantities",
+        "row": 10,
+        "col": 3,
+        "answer": "DRAMS"
+      },
+      {
+        "number": 53,
+        "clue": "Be enthusiastic about",
+        "row": 10,
+        "col": 9,
+        "answer": "GOFOR"
+      },
+      {
+        "number": 55,
+        "clue": "___ king",
+        "row": 11,
+        "col": 0,
+        "answer": "ALA"
+      },
+      {
+        "number": 58,
+        "clue": "Mountain spur",
+        "row": 11,
+        "col": 4,
+        "answer": "ARETE"
+      },
+      {
+        "number": 60,
+        "clue": "Plane maneuvers",
+        "row": 11,
+        "col": 10,
+        "answer": "LOOPS"
+      },
+      {
+        "number": 62,
+        "clue": "Get in a jam",
+        "row": 12,
+        "col": 0,
+        "answer": "LETONESELFINFOR"
+      },
+      {
+        "number": 65,
+        "clue": "Certain paintings",
+        "row": 13,
+        "col": 0,
+        "answer": "LANDSCAPES"
+      },
+      {
+        "number": 66,
+        "clue": "Dare, hillbilly style",
+        "row": 13,
+        "col": 11,
+        "answer": "DAST"
+      },
+      {
+        "number": 67,
+        "clue": "Kind of tree",
+        "row": 14,
+        "col": 0,
+        "answer": "SHOE"
+      },
+      {
+        "number": 68,
+        "clue": "Beauty, for one",
+        "row": 14,
+        "col": 5,
+        "answer": "ASSET"
+      },
+      {
+        "number": 69,
+        "clue": "Kind of code",
+        "row": 14,
+        "col": 11,
+        "answer": "AREA"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Polynesian staples",
+        "row": 0,
+        "col": 0,
+        "answer": "POIS"
+      },
+      {
+        "number": 2,
+        "clue": "Like lawn shrubs",
+        "row": 0,
+        "col": 1,
+        "answer": "ORNAMENTAL"
+      },
+      {
+        "number": 3,
+        "clue": "Share",
+        "row": 0,
+        "col": 2,
+        "answer": "PERCENTAGE"
+      },
+      {
+        "number": 4,
+        "clue": "Choose",
+        "row": 0,
+        "col": 3,
+        "answer": "ELECT"
+      },
+      {
+        "number": 5,
+        "clue": "\"Exodus\" hero",
+        "row": 0,
+        "col": 5,
+        "answer": "ARI"
+      },
+      {
+        "number": 6,
+        "clue": "Piles",
+        "row": 0,
+        "col": 6,
+        "answer": "NAPS"
+      },
+      {
+        "number": 7,
+        "clue": "Set a course",
+        "row": 0,
+        "col": 7,
+        "answer": "DIRECTONESSTEPS"
+      },
+      {
+        "number": 8,
+        "clue": "Chemical compound",
+        "row": 0,
+        "col": 8,
+        "answer": "OSONE"
+      },
+      {
+        "number": 9,
+        "clue": "Front-line duty, for short",
+        "row": 0,
+        "col": 9,
+        "answer": "RECON"
+      },
+      {
+        "number": 10,
+        "clue": "Stamp ___",
+        "row": 0,
+        "col": 11,
+        "answer": "ACT"
+      },
+      {
+        "number": 11,
+        "clue": "Reclined",
+        "row": 0,
+        "col": 12,
+        "answer": "LAIN"
+      },
+      {
+        "number": 12,
+        "clue": "Fashion name",
+        "row": 0,
+        "col": 13,
+        "answer": "DIOR"
+      },
+      {
+        "number": 13,
+        "clue": "Literary heroine",
+        "row": 0,
+        "col": 14,
+        "answer": "ANNA"
+      },
+      {
+        "number": 16,
+        "clue": "Pub game",
+        "row": 1,
+        "col": 10,
+        "answer": "DARTS"
+      },
+      {
+        "number": 18,
+        "clue": "___ d'etat",
+        "row": 2,
+        "col": 4,
+        "answer": "COUP"
+      },
+      {
+        "number": 23,
+        "clue": "Slider, for one",
+        "row": 4,
+        "col": 5,
+        "answer": "PITCH"
+      },
+      {
+        "number": 25,
+        "clue": "Strait between Java and Sumatra",
+        "row": 4,
+        "col": 11,
+        "answer": "SUNDA"
+      },
+      {
+        "number": 26,
+        "clue": "San ___",
+        "row": 5,
+        "col": 0,
+        "answer": "DIEGO"
+      },
+      {
+        "number": 28,
+        "clue": "Cafeteria equipment",
+        "row": 5,
+        "col": 6,
+        "answer": "TRAY"
+      },
+      {
+        "number": 30,
+        "clue": "Overreaches",
+        "row": 5,
+        "col": 12,
+        "answer": "GOESTOOFAR"
+      },
+      {
+        "number": 31,
+        "clue": "Generally useful",
+        "row": 5,
+        "col": 13,
+        "answer": "ALLPURPOSE"
+      },
+      {
+        "number": 32,
+        "clue": "Cookout",
+        "row": 5,
+        "col": 14,
+        "answer": "ROAST"
+      },
+      {
+        "number": 34,
+        "clue": "Charlie Chan portrayer",
+        "row": 6,
+        "col": 3,
+        "answer": "OLAND"
+      },
+      {
+        "number": 36,
+        "clue": "Kenya river",
+        "row": 6,
+        "col": 8,
+        "answer": "TANA"
+      },
+      {
+        "number": 37,
+        "clue": "Argot",
+        "row": 6,
+        "col": 9,
+        "answer": "SLANG"
+      },
+      {
+        "number": 46,
+        "clue": "Across: Prefix",
+        "row": 9,
+        "col": 4,
+        "answer": "TRANS"
+      },
+      {
+        "number": 48,
+        "clue": "Opera highlights",
+        "row": 9,
+        "col": 10,
+        "answer": "SOLI"
+      },
+      {
+        "number": 51,
+        "clue": "Tropical palm",
+        "row": 10,
+        "col": 5,
+        "answer": "ARECA"
+      },
+      {
+        "number": 52,
+        "clue": "Hills of the Southwest",
+        "row": 10,
+        "col": 6,
+        "answer": "MESAS"
+      },
+      {
+        "number": 54,
+        "clue": "Henry or Jane",
+        "row": 10,
+        "col": 11,
+        "answer": "FONDA"
+      },
+      {
+        "number": 55,
+        "clue": "\"___ well\"",
+        "row": 11,
+        "col": 0,
+        "answer": "ALLS"
+      },
+      {
+        "number": 56,
+        "clue": "Jacob's wife",
+        "row": 11,
+        "col": 1,
+        "answer": "LEAH"
+      },
+      {
+        "number": 57,
+        "clue": "___ time",
+        "row": 11,
+        "col": 2,
+        "answer": "ATNO"
+      },
+      {
+        "number": 59,
+        "clue": "Robt. ___",
+        "row": 11,
+        "col": 8,
+        "answer": "ELEE"
+      },
+      {
+        "number": 61,
+        "clue": "Miss, in Mexico: Abbr.",
+        "row": 11,
+        "col": 14,
+        "answer": "SRTA"
+      },
+      {
+        "number": 63,
+        "clue": "\"___ to Billie Joe\"",
+        "row": 12,
+        "col": 3,
+        "answer": "ODE"
+      },
+      {
+        "number": 64,
+        "clue": "Rapid: Abbr.",
+        "row": 12,
+        "col": 9,
+        "answer": "FST"
+      }
+    ]
+  }
+}

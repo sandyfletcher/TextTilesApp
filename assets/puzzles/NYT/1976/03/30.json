@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-03-30",
+  "metadata": {
+    "date": "1976-03-30",
+    "title": "NY TIMES, TUE, MAR 30, 1976",
+    "author": "Dennis Listort",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "T", "A", "R", "E", null, "P", "A", "T", "A", null, null, "S", "A", "P"],
+    ["E", "R", "R", "O", "R", null, "L", "I", "A", "R", null, "C", "A", "R", "O"],
+    ["J", "A", "C", "K", "O", "F", "A", "L", "L", "T", "R", "A", "D", "E", "S"],
+    ["M", "P", "H", null, "D", "E", "N", "S", "E", null, "I", "R", "A", "T", "E"],
+    [null, null, "E", "V", "E", "N", "T", null, null, "T", "A", "T", "T", "E", "R"],
+    ["B", "I", "N", "A", "S", null, null, "S", "H", "A", "L", "E", null, null, null],
+    ["A", "V", "E", "S", null, null, "D", "E", "A", "L", "T", null, "N", "O", "A"],
+    ["J", "A", "M", "E", "S", "T", "O", "W", "N", "C", "O", "L", "O", "N", "Y"],
+    ["A", "N", "Y", null, "P", "A", "W", "E", "D", null, null, "O", "T", "E", "A"],
+    [null, null, null, "B", "L", "I", "N", "D", null, null, "P", "O", "E", "S", "Y"],
+    ["L", "A", "U", "R", "E", "N", null, null, "T", "R", "A", "M", "P", null, null],
+    ["I", "S", "S", "U", "E", null, "S", "T", "E", "A", "L", null, "A", "C", "E"],
+    ["J", "O", "H", "N", "N", "Y", "O", "N", "T", "H", "E", "S", "P", "O", "T"],
+    ["A", "N", "E", "T", null, "E", "N", "T", "O", null, "S", "T", "E", "I", "N"],
+    ["S", "E", "R", null, null, "A", "S", "S", "N", null, "T", "E", "R", "R", "A"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Prolonged look",
+        "row": 0,
+        "col": 0,
+        "answer": "STARE"
+      },
+      {
+        "number": 6,
+        "clue": "___-cake",
+        "row": 0,
+        "col": 6,
+        "answer": "PATA"
+      },
+      {
+        "number": 10,
+        "clue": "Weaken",
+        "row": 0,
+        "col": 12,
+        "answer": "SAP"
+      },
+      {
+        "number": 13,
+        "clue": "Box-score entry",
+        "row": 1,
+        "col": 0,
+        "answer": "ERROR"
+      },
+      {
+        "number": 14,
+        "clue": "Tale teller",
+        "row": 1,
+        "col": 6,
+        "answer": "LIAR"
+      },
+      {
+        "number": 15,
+        "clue": "Dear, in Italy",
+        "row": 1,
+        "col": 11,
+        "answer": "CARO"
+      },
+      {
+        "number": 16,
+        "clue": "Specialist's opposite",
+        "row": 2,
+        "col": 0,
+        "answer": "JACKOFALLTRADES"
+      },
+      {
+        "number": 19,
+        "clue": "Traffic-ticket entry: Abbr.",
+        "row": 3,
+        "col": 0,
+        "answer": "MPH"
+      },
+      {
+        "number": 20,
+        "clue": "Obtuse",
+        "row": 3,
+        "col": 4,
+        "answer": "DENSE"
+      },
+      {
+        "number": 21,
+        "clue": "Incensed",
+        "row": 3,
+        "col": 10,
+        "answer": "IRATE"
+      },
+      {
+        "number": 22,
+        "clue": "Blessed or main",
+        "row": 4,
+        "col": 2,
+        "answer": "EVENT"
+      },
+      {
+        "number": 24,
+        "clue": "Shred",
+        "row": 4,
+        "col": 9,
+        "answer": "TATTER"
+      },
+      {
+        "number": 25,
+        "clue": "Hindu guitars",
+        "row": 5,
+        "col": 0,
+        "answer": "BINAS"
+      },
+      {
+        "number": 27,
+        "clue": "Oil yielder",
+        "row": 5,
+        "col": 7,
+        "answer": "SHALE"
+      },
+      {
+        "number": 29,
+        "clue": "Relatives of rds.",
+        "row": 6,
+        "col": 0,
+        "answer": "AVES"
+      },
+      {
+        "number": 30,
+        "clue": "Administered",
+        "row": 6,
+        "col": 6,
+        "answer": "DEALT"
+      },
+      {
+        "number": 31,
+        "clue": "Profane, in Hawaii",
+        "row": 6,
+        "col": 12,
+        "answer": "NOA"
+      },
+      {
+        "number": 34,
+        "clue": "Early American settlement",
+        "row": 7,
+        "col": 0,
+        "answer": "JAMESTOWNCOLONY"
+      },
+      {
+        "number": 38,
+        "clue": "Random quantity",
+        "row": 8,
+        "col": 0,
+        "answer": "ANY"
+      },
+      {
+        "number": 39,
+        "clue": "Handled rudely",
+        "row": 8,
+        "col": 4,
+        "answer": "PAWED"
+      },
+      {
+        "number": 40,
+        "clue": "Great Barrier Island",
+        "row": 8,
+        "col": 11,
+        "answer": "OTEA"
+      },
+      {
+        "number": 41,
+        "clue": "Like a mousy trio",
+        "row": 9,
+        "col": 3,
+        "answer": "BLIND"
+      },
+      {
+        "number": 42,
+        "clue": "Forte of Keats or Shelley",
+        "row": 9,
+        "col": 10,
+        "answer": "POESY"
+      },
+      {
+        "number": 43,
+        "clue": "Bacall",
+        "row": 10,
+        "col": 0,
+        "answer": "LAUREN"
+      },
+      {
+        "number": 46,
+        "clue": "\"The Lady Is a ___\"",
+        "row": 10,
+        "col": 8,
+        "answer": "TRAMP"
+      },
+      {
+        "number": 48,
+        "clue": "Magazine edition",
+        "row": 11,
+        "col": 0,
+        "answer": "ISSUE"
+      },
+      {
+        "number": 49,
+        "clue": "Real bargain",
+        "row": 11,
+        "col": 6,
+        "answer": "STEAL"
+      },
+      {
+        "number": 51,
+        "clue": "Quick-trick card",
+        "row": 11,
+        "col": 12,
+        "answer": "ACE"
+      },
+      {
+        "number": 54,
+        "clue": "Friend in need",
+        "row": 12,
+        "col": 0,
+        "answer": "JOHNNYONTHESPOT"
+      },
+      {
+        "number": 57,
+        "clue": "Dill herb",
+        "row": 13,
+        "col": 0,
+        "answer": "ANET"
+      },
+      {
+        "number": 58,
+        "clue": "Within: Prefix",
+        "row": 13,
+        "col": 5,
+        "answer": "ENTO"
+      },
+      {
+        "number": 59,
+        "clue": "Mug for Gertrude",
+        "row": 13,
+        "col": 10,
+        "answer": "STEIN"
+      },
+      {
+        "number": 60,
+        "clue": "Pulpit talk: Abbr.",
+        "row": 14,
+        "col": 0,
+        "answer": "SER"
+      },
+      {
+        "number": 61,
+        "clue": "Relative of an org.",
+        "row": 14,
+        "col": 5,
+        "answer": "ASSN"
+      },
+      {
+        "number": 62,
+        "clue": "___ cotta",
+        "row": 14,
+        "col": 10,
+        "answer": "TERRA"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Polish assembly",
+        "row": 0,
+        "col": 0,
+        "answer": "SEJM"
+      },
+      {
+        "number": 2,
+        "clue": "Kind of door or shooter",
+        "row": 0,
+        "col": 1,
+        "answer": "TRAP"
+      },
+      {
+        "number": 3,
+        "clue": "No. 1 on a hate list",
+        "row": 0,
+        "col": 2,
+        "answer": "ARCHENEMY"
+      },
+      {
+        "number": 4,
+        "clue": "Korean soldier",
+        "row": 0,
+        "col": 3,
+        "answer": "ROK"
+      },
+      {
+        "number": 5,
+        "clue": "Eats away",
+        "row": 0,
+        "col": 4,
+        "answer": "ERODES"
+      },
+      {
+        "number": 6,
+        "clue": "Clue designed to mislead",
+        "row": 0,
+        "col": 6,
+        "answer": "PLANT"
+      },
+      {
+        "number": 7,
+        "clue": "Hurts",
+        "row": 0,
+        "col": 7,
+        "answer": "AILS"
+      },
+      {
+        "number": 8,
+        "clue": "___ of woe",
+        "row": 0,
+        "col": 8,
+        "answer": "TALE"
+      },
+      {
+        "number": 9,
+        "clue": "Pop or modern",
+        "row": 0,
+        "col": 9,
+        "answer": "ART"
+      },
+      {
+        "number": 10,
+        "clue": "Anwar",
+        "row": 0,
+        "col": 12,
+        "answer": "SADAT"
+      },
+      {
+        "number": 11,
+        "clue": "Mountain ridge",
+        "row": 0,
+        "col": 13,
+        "answer": "ARETE"
+      },
+      {
+        "number": 12,
+        "clue": "Tough question",
+        "row": 0,
+        "col": 14,
+        "answer": "POSER"
+      },
+      {
+        "number": 15,
+        "clue": "___ blanche",
+        "row": 1,
+        "col": 11,
+        "answer": "CARTE"
+      },
+      {
+        "number": 17,
+        "clue": "Submerged land",
+        "row": 2,
+        "col": 5,
+        "answer": "FEN"
+      },
+      {
+        "number": 18,
+        "clue": "Theater district",
+        "row": 2,
+        "col": 10,
+        "answer": "RIALTO"
+      },
+      {
+        "number": 23,
+        "clue": "Container",
+        "row": 4,
+        "col": 3,
+        "answer": "VASE"
+      },
+      {
+        "number": 24,
+        "clue": "Powder",
+        "row": 4,
+        "col": 9,
+        "answer": "TALC"
+      },
+      {
+        "number": 25,
+        "clue": "___ California",
+        "row": 5,
+        "col": 0,
+        "answer": "BAJA"
+      },
+      {
+        "number": 26,
+        "clue": "Russian czar",
+        "row": 5,
+        "col": 1,
+        "answer": "IVAN"
+      },
+      {
+        "number": 27,
+        "clue": "Did mending",
+        "row": 5,
+        "col": 7,
+        "answer": "SEWED"
+      },
+      {
+        "number": 28,
+        "clue": "Glad or helping",
+        "row": 5,
+        "col": 8,
+        "answer": "HAND"
+      },
+      {
+        "number": 30,
+        "clue": "Eider's pride",
+        "row": 6,
+        "col": 6,
+        "answer": "DOWN"
+      },
+      {
+        "number": 31,
+        "clue": "Stationery item",
+        "row": 6,
+        "col": 12,
+        "answer": "NOTEPAPER"
+      },
+      {
+        "number": 32,
+        "clue": "Numbers",
+        "row": 6,
+        "col": 13,
+        "answer": "ONES"
+      },
+      {
+        "number": 33,
+        "clue": "Nautical assent",
+        "row": 6,
+        "col": 14,
+        "answer": "AYAY"
+      },
+      {
+        "number": 35,
+        "clue": "Ill humor",
+        "row": 7,
+        "col": 4,
+        "answer": "SPLEEN"
+      },
+      {
+        "number": 36,
+        "clue": "Mirror foil",
+        "row": 7,
+        "col": 5,
+        "answer": "TAIN"
+      },
+      {
+        "number": 37,
+        "clue": "Impend",
+        "row": 7,
+        "col": 11,
+        "answer": "LOOM"
+      },
+      {
+        "number": 41,
+        "clue": "Impact",
+        "row": 9,
+        "col": 3,
+        "answer": "BRUNT"
+      },
+      {
+        "number": 42,
+        "clue": "Most wan",
+        "row": 9,
+        "col": 10,
+        "answer": "PALEST"
+      },
+      {
+        "number": 43,
+        "clue": "Prickly fishes",
+        "row": 10,
+        "col": 0,
+        "answer": "LIJAS"
+      },
+      {
+        "number": 44,
+        "clue": "In harmony",
+        "row": 10,
+        "col": 1,
+        "answer": "ASONE"
+      },
+      {
+        "number": 45,
+        "clue": "Poe's fallen house",
+        "row": 10,
+        "col": 2,
+        "answer": "USHER"
+      },
+      {
+        "number": 46,
+        "clue": "Western range",
+        "row": 10,
+        "col": 8,
+        "answer": "TETON"
+      },
+      {
+        "number": 47,
+        "clue": "Cheer",
+        "row": 10,
+        "col": 9,
+        "answer": "RAH"
+      },
+      {
+        "number": 49,
+        "clue": "Part of S.A.R.",
+        "row": 11,
+        "col": 6,
+        "answer": "SONS"
+      },
+      {
+        "number": 50,
+        "clue": "Explosives",
+        "row": 11,
+        "col": 7,
+        "answer": "TNTS"
+      },
+      {
+        "number": 52,
+        "clue": "Cordage fiber",
+        "row": 11,
+        "col": 13,
+        "answer": "COIR"
+      },
+      {
+        "number": 53,
+        "clue": "Sicilian sight",
+        "row": 11,
+        "col": 14,
+        "answer": "ETNA"
+      },
+      {
+        "number": 55,
+        "clue": "Certain vote",
+        "row": 12,
+        "col": 5,
+        "answer": "YEA"
+      },
+      {
+        "number": 56,
+        "clue": "Sault ___ Marie",
+        "row": 12,
+        "col": 11,
+        "answer": "STE"
+      }
+    ]
+  }
+}

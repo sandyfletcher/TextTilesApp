@@ -1,0 +1,627 @@
+{
+  "id": "nyt-1977-01-12",
+  "metadata": {
+    "date": "1977-01-12",
+    "title": "NY TIMES, WED, JAN 12, 1977",
+    "author": "Eli Wesoff",
+    "editor": "Will Weng",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["S", "H", "R", "U", "G", null, "M", "E", "A", "L", null, "G", "A", "S", "P"],
+    ["T", "I", "A", "R", "A", null, "E", "L", "S", "E", null, "O", "G", "E", "E"],
+    ["A", "P", "R", "I", "L", null, "T", "A", "K", "E", "A", "W", "A", "L", "K"],
+    ["T", "S", "E", null, "L", "O", "O", "N", null, null, "B", "E", "R", "L", "E"],
+    [null, null, null, "Z", "E", "R", "O", null, "S", "T", "A", "R", null, null, null],
+    ["R", "E", "P", "O", "R", "T", null, "S", "U", "I", "T", null, "A", "B", "C"],
+    ["I", "R", "O", "N", "Y", null, "V", "E", "R", "N", "E", null, "D", "E", "R"],
+    ["V", "A", "S", "E", null, "C", "A", "R", "L", "S", null, "S", "A", "G", "A"],
+    ["E", "S", "S", null, "P", "I", "G", "G", "Y", null, "L", "O", "G", "A", "N"],
+    ["T", "E", "E", null, "A", "G", "U", "E", null, "D", "E", "L", "E", "T", "E"],
+    [null, null, null, "E", "R", "S", "E", null, "P", "A", "T", "E", null, null, null],
+    ["D", "I", "E", "T", "S", null, null, "G", "I", "R", "D", null, "W", "H", "O"],
+    ["I", "N", "T", "H", "E", "P", "I", "N", "K", null, "O", "C", "E", "A", "N"],
+    ["S", "T", "A", "Y", null, "A", "L", "A", "E", null, "W", "A", "L", "L", "A"],
+    ["C", "O", "L", "L", null, "S", "E", "W", "S", null, "N", "Y", "L", "O", "N"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Gesture of indifference",
+        "row": 0,
+        "col": 0,
+        "answer": "SHRUG"
+      },
+      {
+        "number": 6,
+        "clue": "Oat or square",
+        "row": 0,
+        "col": 6,
+        "answer": "MEAL"
+      },
+      {
+        "number": 10,
+        "clue": "Convulsive sound",
+        "row": 0,
+        "col": 11,
+        "answer": "GASP"
+      },
+      {
+        "number": 14,
+        "clue": "Headpiece",
+        "row": 1,
+        "col": 0,
+        "answer": "TIARA"
+      },
+      {
+        "number": 15,
+        "clue": "\"What ___ is new?\"",
+        "row": 1,
+        "col": 6,
+        "answer": "ELSE"
+      },
+      {
+        "number": 16,
+        "clue": "Molding",
+        "row": 1,
+        "col": 11,
+        "answer": "OGEE"
+      },
+      {
+        "number": 17,
+        "clue": "Kind of fool",
+        "row": 2,
+        "col": 0,
+        "answer": "APRIL"
+      },
+      {
+        "number": 18,
+        "clue": "Count oneself out",
+        "row": 2,
+        "col": 6,
+        "answer": "TAKEAWALK"
+      },
+      {
+        "number": 20,
+        "clue": "Part of Mao's name",
+        "row": 3,
+        "col": 0,
+        "answer": "TSE"
+      },
+      {
+        "number": 21,
+        "clue": "Stupid one",
+        "row": 3,
+        "col": 4,
+        "answer": "LOON"
+      },
+      {
+        "number": 23,
+        "clue": "Miltie",
+        "row": 3,
+        "col": 10,
+        "answer": "BERLE"
+      },
+      {
+        "number": 24,
+        "clue": "Ceiling ___",
+        "row": 4,
+        "col": 3,
+        "answer": "ZERO"
+      },
+      {
+        "number": 25,
+        "clue": "Astronomer's concern",
+        "row": 4,
+        "col": 8,
+        "answer": "STAR"
+      },
+      {
+        "number": 27,
+        "clue": "Loud noise",
+        "row": 5,
+        "col": 0,
+        "answer": "REPORT"
+      },
+      {
+        "number": 30,
+        "clue": "Diamonds, e.g.",
+        "row": 5,
+        "col": 7,
+        "answer": "SUIT"
+      },
+      {
+        "number": 31,
+        "clue": "Starting letters",
+        "row": 5,
+        "col": 12,
+        "answer": "ABC"
+      },
+      {
+        "number": 34,
+        "clue": "Sardonic writing",
+        "row": 6,
+        "col": 0,
+        "answer": "IRONY"
+      },
+      {
+        "number": 35,
+        "clue": "Science-fiction pioneer",
+        "row": 6,
+        "col": 6,
+        "answer": "VERNE"
+      },
+      {
+        "number": 36,
+        "clue": "___ Alte",
+        "row": 6,
+        "col": 12,
+        "answer": "DER"
+      },
+      {
+        "number": 37,
+        "clue": "Tabletop item",
+        "row": 7,
+        "col": 0,
+        "answer": "VASE"
+      },
+      {
+        "number": 38,
+        "clue": "Reiner and Carmer",
+        "row": 7,
+        "col": 5,
+        "answer": "CARLS"
+      },
+      {
+        "number": 39,
+        "clue": "Forsyte story",
+        "row": 7,
+        "col": 11,
+        "answer": "SAGA"
+      },
+      {
+        "number": 40,
+        "clue": "Letter",
+        "row": 8,
+        "col": 0,
+        "answer": "ESS"
+      },
+      {
+        "number": 41,
+        "clue": "Kind of bank",
+        "row": 8,
+        "col": 4,
+        "answer": "PIGGY"
+      },
+      {
+        "number": 42,
+        "clue": "Producer Joshua",
+        "row": 8,
+        "col": 10,
+        "answer": "LOGAN"
+      },
+      {
+        "number": 43,
+        "clue": "___ off",
+        "row": 9,
+        "col": 0,
+        "answer": "TEE"
+      },
+      {
+        "number": 44,
+        "clue": "Recurrent chill",
+        "row": 9,
+        "col": 4,
+        "answer": "AGUE"
+      },
+      {
+        "number": 45,
+        "clue": "Cancel",
+        "row": 9,
+        "col": 9,
+        "answer": "DELETE"
+      },
+      {
+        "number": 46,
+        "clue": "Gaelic",
+        "row": 10,
+        "col": 3,
+        "answer": "ERSE"
+      },
+      {
+        "number": 47,
+        "clue": "Cracker spread",
+        "row": 10,
+        "col": 8,
+        "answer": "PATE"
+      },
+      {
+        "number": 48,
+        "clue": "Things often gone on",
+        "row": 11,
+        "col": 0,
+        "answer": "DIETS"
+      },
+      {
+        "number": 51,
+        "clue": "Encircle",
+        "row": 11,
+        "col": 7,
+        "answer": "GIRD"
+      },
+      {
+        "number": 52,
+        "clue": "Owl's question",
+        "row": 11,
+        "col": 12,
+        "answer": "WHO"
+      },
+      {
+        "number": 55,
+        "clue": "Only a bit in debt, perhaps",
+        "row": 12,
+        "col": 0,
+        "answer": "INTHEPINK"
+      },
+      {
+        "number": 58,
+        "clue": "Arctic, for one",
+        "row": 12,
+        "col": 10,
+        "answer": "OCEAN"
+      },
+      {
+        "number": 60,
+        "clue": "___ of execution",
+        "row": 13,
+        "col": 0,
+        "answer": "STAY"
+      },
+      {
+        "number": 61,
+        "clue": "Wings",
+        "row": 13,
+        "col": 5,
+        "answer": "ALAE"
+      },
+      {
+        "number": 62,
+        "clue": "Half a Wash. city",
+        "row": 13,
+        "col": 10,
+        "answer": "WALLA"
+      },
+      {
+        "number": 63,
+        "clue": "Part of a univ.",
+        "row": 14,
+        "col": 0,
+        "answer": "COLL"
+      },
+      {
+        "number": 64,
+        "clue": "___ up (cinches)",
+        "row": 14,
+        "col": 5,
+        "answer": "SEWS"
+      },
+      {
+        "number": 65,
+        "clue": "Synthetic",
+        "row": 14,
+        "col": 10,
+        "answer": "NYLON"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Suffix for photo or rheo",
+        "row": 0,
+        "col": 0,
+        "answer": "STAT"
+      },
+      {
+        "number": 2,
+        "clue": "Parts of cheers",
+        "row": 0,
+        "col": 1,
+        "answer": "HIPS"
+      },
+      {
+        "number": 3,
+        "clue": "Word for Jonson",
+        "row": 0,
+        "col": 2,
+        "answer": "RARE"
+      },
+      {
+        "number": 4,
+        "clue": "Swiss canton",
+        "row": 0,
+        "col": 3,
+        "answer": "URI"
+      },
+      {
+        "number": 5,
+        "clue": "Peanut or art",
+        "row": 0,
+        "col": 4,
+        "answer": "GALLERY"
+      },
+      {
+        "number": 6,
+        "clue": "Words of inclusion",
+        "row": 0,
+        "col": 6,
+        "answer": "METOO"
+      },
+      {
+        "number": 7,
+        "clue": "Panache",
+        "row": 0,
+        "col": 7,
+        "answer": "ELAN"
+      },
+      {
+        "number": 8,
+        "clue": "Inquire",
+        "row": 0,
+        "col": 8,
+        "answer": "ASK"
+      },
+      {
+        "number": 9,
+        "clue": "Grant or Remick",
+        "row": 0,
+        "col": 9,
+        "answer": "LEE"
+      },
+      {
+        "number": 10,
+        "clue": "Dance's Champion",
+        "row": 0,
+        "col": 11,
+        "answer": "GOWER"
+      },
+      {
+        "number": 11,
+        "clue": "Seaweed product",
+        "row": 0,
+        "col": 12,
+        "answer": "AGAR"
+      },
+      {
+        "number": 12,
+        "clue": "Convince",
+        "row": 0,
+        "col": 13,
+        "answer": "SELL"
+      },
+      {
+        "number": 13,
+        "clue": "Dog, for short",
+        "row": 0,
+        "col": 14,
+        "answer": "PEKE"
+      },
+      {
+        "number": 19,
+        "clue": "Lessen",
+        "row": 2,
+        "col": 10,
+        "answer": "ABATE"
+      },
+      {
+        "number": 22,
+        "clue": "Scrap",
+        "row": 3,
+        "col": 5,
+        "answer": "ORT"
+      },
+      {
+        "number": 24,
+        "clue": "Torrid, for one",
+        "row": 4,
+        "col": 3,
+        "answer": "ZONE"
+      },
+      {
+        "number": 25,
+        "clue": "Uncivil",
+        "row": 4,
+        "col": 8,
+        "answer": "SURLY"
+      },
+      {
+        "number": 26,
+        "clue": "Coats with solder",
+        "row": 4,
+        "col": 9,
+        "answer": "TINS"
+      },
+      {
+        "number": 27,
+        "clue": "Fastener",
+        "row": 5,
+        "col": 0,
+        "answer": "RIVET"
+      },
+      {
+        "number": 28,
+        "clue": "Rub out",
+        "row": 5,
+        "col": 1,
+        "answer": "ERASE"
+      },
+      {
+        "number": 29,
+        "clue": "Good guys in a Western",
+        "row": 5,
+        "col": 2,
+        "answer": "POSSE"
+      },
+      {
+        "number": 30,
+        "clue": "Suit material",
+        "row": 5,
+        "col": 7,
+        "answer": "SERGE"
+      },
+      {
+        "number": 31,
+        "clue": "Proverb",
+        "row": 5,
+        "col": 12,
+        "answer": "ADAGE"
+      },
+      {
+        "number": 32,
+        "clue": "Biblical verb",
+        "row": 5,
+        "col": 13,
+        "answer": "BEGAT"
+      },
+      {
+        "number": 33,
+        "clue": "Stephen or whooping",
+        "row": 5,
+        "col": 14,
+        "answer": "CRANE"
+      },
+      {
+        "number": 35,
+        "clue": "Vera of radio days",
+        "row": 6,
+        "col": 6,
+        "answer": "VAGUE"
+      },
+      {
+        "number": 38,
+        "clue": "Smokes, for short",
+        "row": 7,
+        "col": 5,
+        "answer": "CIGS"
+      },
+      {
+        "number": 39,
+        "clue": "Fish",
+        "row": 7,
+        "col": 11,
+        "answer": "SOLE"
+      },
+      {
+        "number": 41,
+        "clue": "Break down a sentence",
+        "row": 8,
+        "col": 4,
+        "answer": "PARSE"
+      },
+      {
+        "number": 42,
+        "clue": "Disappoint",
+        "row": 8,
+        "col": 10,
+        "answer": "LETDOWN"
+      },
+      {
+        "number": 45,
+        "clue": "Women's org.",
+        "row": 9,
+        "col": 9,
+        "answer": "DAR"
+      },
+      {
+        "number": 46,
+        "clue": "Gasoline additive",
+        "row": 10,
+        "col": 3,
+        "answer": "ETHYL"
+      },
+      {
+        "number": 47,
+        "clue": "Zebulon and family",
+        "row": 10,
+        "col": 8,
+        "answer": "PIKES"
+      },
+      {
+        "number": 48,
+        "clue": "Record",
+        "row": 11,
+        "col": 0,
+        "answer": "DISC"
+      },
+      {
+        "number": 49,
+        "clue": "Preposition",
+        "row": 11,
+        "col": 1,
+        "answer": "INTO"
+      },
+      {
+        "number": 50,
+        "clue": "Common Latin abbr.",
+        "row": 11,
+        "col": 2,
+        "answer": "ETAL"
+      },
+      {
+        "number": 51,
+        "clue": "Chew",
+        "row": 11,
+        "col": 7,
+        "answer": "GNAW"
+      },
+      {
+        "number": 52,
+        "clue": "Oil or wishing",
+        "row": 11,
+        "col": 12,
+        "answer": "WELL"
+      },
+      {
+        "number": 53,
+        "clue": "Nimbus",
+        "row": 11,
+        "col": 13,
+        "answer": "HALO"
+      },
+      {
+        "number": 54,
+        "clue": "Son of Judah",
+        "row": 11,
+        "col": 14,
+        "answer": "ONAN"
+      },
+      {
+        "number": 56,
+        "clue": "Dance step",
+        "row": 12,
+        "col": 5,
+        "answer": "PAS"
+      },
+      {
+        "number": 57,
+        "clue": "___ de France",
+        "row": 12,
+        "col": 6,
+        "answer": "ILE"
+      },
+      {
+        "number": 59,
+        "clue": "Small island",
+        "row": 12,
+        "col": 11,
+        "answer": "CAY"
+      }
+    ]
+  }
+}

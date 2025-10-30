@@ -1,0 +1,529 @@
+{
+  "id": "nyt-1977-08-09",
+  "metadata": {
+    "date": "1977-08-09",
+    "title": "NY TIMES, TUE, AUG 09, 1977",
+    "author": "Jim Page",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Tuesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["U", "M", "B", "E", "R", null, null, null, "S", "I", "F", "T", null, null, null],
+    ["N", "E", "R", "V", "E", "S", null, "A", "T", "L", "A", "R", "G", "E", null],
+    ["S", "T", "E", "E", "L", "E", null, "T", "H", "E", "C", "O", "O", "L", null],
+    ["E", "T", "A", "L", null, "D", "A", "R", "E", "D", "E", "V", "I", "L", "S"],
+    ["E", "L", "K", null, null, "A", "R", "I", "L", null, "D", "E", "N", "I", "S"],
+    ["N", "E", "N", "E", null, "N", "A", "P", "E", "S", null, null, "G", "O", "T"],
+    [null, null, "E", "L", "F", null, null, null, "N", "A", "B", null, "L", "T", "S"],
+    [null, null, "C", "L", "E", "A", "R", null, "A", "D", "L", "A", "I", null, null],
+    ["A", "W", "K", null, "E", "V", "E", null, null, null, "T", "S", "K", null, null],
+    ["M", "I", "S", null, null, "A", "B", "O", "M", "A", null, "P", "E", "R", "K"],
+    ["A", "S", "P", "O", "T", null, "E", "A", "S", "T", null, null, "S", "E", "A"],
+    ["T", "H", "E", "C", "R", "A", "C", "K", "U", "P", null, "S", "I", "S", "I"],
+    [null, "T", "E", "R", "E", "N", "C", "E", null, "A", "L", "E", "X", "I", "S"],
+    [null, "O", "D", "E", "S", "S", "A", "N", null, "R", "A", "T", "T", "L", "E"],
+    [null, null, null, "A", "S", "E", "S", null, null, null, "M", "A", "Y", "E", "R"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Burnt ___ (artist's pigment)",
+        "row": 0,
+        "col": 0,
+        "answer": "UMBER"
+      },
+      {
+        "number": 6,
+        "clue": "Separate carefully",
+        "row": 0,
+        "col": 8,
+        "answer": "SIFT"
+      },
+      {
+        "number": 10,
+        "clue": "___ of steel",
+        "row": 1,
+        "col": 0,
+        "answer": "NERVES"
+      },
+      {
+        "number": 12,
+        "clue": "Like some ambassadors",
+        "row": 1,
+        "col": 7,
+        "answer": "ATLARGE"
+      },
+      {
+        "number": 15,
+        "clue": "Addison's colleague",
+        "row": 2,
+        "col": 0,
+        "answer": "STEELE"
+      },
+      {
+        "number": 16,
+        "clue": "\"Along ___ sequester'd vale of life\": Gray",
+        "row": 2,
+        "col": 7,
+        "answer": "THECOOL"
+      },
+      {
+        "number": 17,
+        "clue": "Relative of etc.",
+        "row": 3,
+        "col": 0,
+        "answer": "ETAL"
+      },
+      {
+        "number": 18,
+        "clue": "Reckless ones",
+        "row": 3,
+        "col": 5,
+        "answer": "DAREDEVILS"
+      },
+      {
+        "number": 21,
+        "clue": "Wapiti",
+        "row": 4,
+        "col": 0,
+        "answer": "ELK"
+      },
+      {
+        "number": 22,
+        "clue": "Seed covering",
+        "row": 4,
+        "col": 5,
+        "answer": "ARIL"
+      },
+      {
+        "number": 23,
+        "clue": "Patron saint of France",
+        "row": 4,
+        "col": 10,
+        "answer": "DENIS"
+      },
+      {
+        "number": 24,
+        "clue": "State bird of Hawaii",
+        "row": 5,
+        "col": 0,
+        "answer": "NENE"
+      },
+      {
+        "number": 26,
+        "clue": "Neck areas",
+        "row": 5,
+        "col": 5,
+        "answer": "NAPES"
+      },
+      {
+        "number": 28,
+        "clue": "Obtained",
+        "row": 5,
+        "col": 12,
+        "answer": "GOT"
+      },
+      {
+        "number": 29,
+        "clue": "Sprite",
+        "row": 6,
+        "col": 2,
+        "answer": "ELF"
+      },
+      {
+        "number": 31,
+        "clue": "Catch suddenly",
+        "row": 6,
+        "col": 8,
+        "answer": "NAB"
+      },
+      {
+        "number": 33,
+        "clue": "Mil. officers",
+        "row": 6,
+        "col": 12,
+        "answer": "LTS"
+      },
+      {
+        "number": 34,
+        "clue": "Not hazy or misty",
+        "row": 7,
+        "col": 2,
+        "answer": "CLEAR"
+      },
+      {
+        "number": 37,
+        "clue": "He lost to Dwight",
+        "row": 7,
+        "col": 8,
+        "answer": "ADLAI"
+      },
+      {
+        "number": 39,
+        "clue": "Parrot's word, in comics",
+        "row": 8,
+        "col": 0,
+        "answer": "AWK"
+      },
+      {
+        "number": 41,
+        "clue": "She raised Cain",
+        "row": 8,
+        "col": 4,
+        "answer": "EVE"
+      },
+      {
+        "number": 42,
+        "clue": "Sound of disapproval",
+        "row": 8,
+        "col": 10,
+        "answer": "TSK"
+      },
+      {
+        "number": 43,
+        "clue": "Prefix with chance or hap",
+        "row": 9,
+        "col": 0,
+        "answer": "MIS"
+      },
+      {
+        "number": 44,
+        "clue": "Snake of S.A.",
+        "row": 9,
+        "col": 5,
+        "answer": "ABOMA"
+      },
+      {
+        "number": 48,
+        "clue": "Brew coffee",
+        "row": 9,
+        "col": 11,
+        "answer": "PERK"
+      },
+      {
+        "number": 51,
+        "clue": "In ___ (faced with a predicament)",
+        "row": 10,
+        "col": 0,
+        "answer": "ASPOT"
+      },
+      {
+        "number": 54,
+        "clue": "Bridge position",
+        "row": 10,
+        "col": 6,
+        "answer": "EAST"
+      },
+      {
+        "number": 55,
+        "clue": "Red or Black",
+        "row": 10,
+        "col": 12,
+        "answer": "SEA"
+      },
+      {
+        "number": 56,
+        "clue": "Fitzgerald book: 1945",
+        "row": 11,
+        "col": 0,
+        "answer": "THECRACKUP"
+      },
+      {
+        "number": 58,
+        "clue": "Se\u00f1or's iterated approval",
+        "row": 11,
+        "col": 11,
+        "answer": "SISI"
+      },
+      {
+        "number": 59,
+        "clue": "Cardinal Cooke",
+        "row": 12,
+        "col": 1,
+        "answer": "TERENCE"
+      },
+      {
+        "number": 60,
+        "clue": "Actress Smith",
+        "row": 12,
+        "col": 9,
+        "answer": "ALEXIS"
+      },
+      {
+        "number": 62,
+        "clue": "Black Sea native",
+        "row": 13,
+        "col": 1,
+        "answer": "ODESSAN"
+      },
+      {
+        "number": 63,
+        "clue": "Upset",
+        "row": 13,
+        "col": 9,
+        "answer": "RATTLE"
+      },
+      {
+        "number": 64,
+        "clue": "\"___ Death\": Grieg",
+        "row": 14,
+        "col": 3,
+        "answer": "ASES"
+      },
+      {
+        "number": 65,
+        "clue": "He wrote \"The Bankers\"",
+        "row": 14,
+        "col": 10,
+        "answer": "MAYER"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Hidden",
+        "row": 0,
+        "col": 0,
+        "answer": "UNSEEN"
+      },
+      {
+        "number": 2,
+        "clue": "Inner strength",
+        "row": 0,
+        "col": 1,
+        "answer": "METTLE"
+      },
+      {
+        "number": 3,
+        "clue": "90 m.p.h., e.g.",
+        "row": 0,
+        "col": 2,
+        "answer": "BREAKNECKSPEED"
+      },
+      {
+        "number": 4,
+        "clue": "Knievel",
+        "row": 0,
+        "col": 3,
+        "answer": "EVEL"
+      },
+      {
+        "number": 5,
+        "clue": "Faith: Abbr.",
+        "row": 0,
+        "col": 4,
+        "answer": "REL"
+      },
+      {
+        "number": 6,
+        "clue": "Exile spot: 1815\u201321",
+        "row": 0,
+        "col": 8,
+        "answer": "STHELENA"
+      },
+      {
+        "number": 7,
+        "clue": "\"___ 3 Lives\"",
+        "row": 0,
+        "col": 9,
+        "answer": "ILED"
+      },
+      {
+        "number": 8,
+        "clue": "Confronted",
+        "row": 0,
+        "col": 10,
+        "answer": "FACED"
+      },
+      {
+        "number": 9,
+        "clue": "Treasure ___",
+        "row": 0,
+        "col": 11,
+        "answer": "TROVE"
+      },
+      {
+        "number": 11,
+        "clue": "Kind of chair or car",
+        "row": 1,
+        "col": 5,
+        "answer": "SEDAN"
+      },
+      {
+        "number": 12,
+        "clue": "Anchor position",
+        "row": 1,
+        "col": 7,
+        "answer": "ATRIP"
+      },
+      {
+        "number": 13,
+        "clue": "Stepping on it",
+        "row": 1,
+        "col": 12,
+        "answer": "GOINGLIKESIXTY"
+      },
+      {
+        "number": 14,
+        "clue": "TV star Cass ___: 1941\u201374",
+        "row": 1,
+        "col": 13,
+        "answer": "ELLIOT"
+      },
+      {
+        "number": 19,
+        "clue": "Parseghian",
+        "row": 3,
+        "col": 6,
+        "answer": "ARA"
+      },
+      {
+        "number": 20,
+        "clue": "Concordes",
+        "row": 3,
+        "col": 14,
+        "answer": "SSTS"
+      },
+      {
+        "number": 25,
+        "clue": "Building addition",
+        "row": 5,
+        "col": 3,
+        "answer": "ELL"
+      },
+      {
+        "number": 27,
+        "clue": "Dejected",
+        "row": 5,
+        "col": 9,
+        "answer": "SAD"
+      },
+      {
+        "number": 30,
+        "clue": "Tuition",
+        "row": 6,
+        "col": 4,
+        "answer": "FEE"
+      },
+      {
+        "number": 32,
+        "clue": "Diner order, for short",
+        "row": 6,
+        "col": 10,
+        "answer": "BLT"
+      },
+      {
+        "number": 35,
+        "clue": "Actress in Mickey's past",
+        "row": 7,
+        "col": 5,
+        "answer": "AVA"
+      },
+      {
+        "number": 36,
+        "clue": "Author West et al.",
+        "row": 7,
+        "col": 6,
+        "answer": "REBECCAS"
+      },
+      {
+        "number": 38,
+        "clue": "Cleopatra's means of exit",
+        "row": 7,
+        "col": 11,
+        "answer": "ASP"
+      },
+      {
+        "number": 39,
+        "clue": "One of a Latin trio",
+        "row": 8,
+        "col": 0,
+        "answer": "AMAT"
+      },
+      {
+        "number": 40,
+        "clue": "\"A world I did not ___ enter\": Hardy",
+        "row": 8,
+        "col": 1,
+        "answer": "WISHTO"
+      },
+      {
+        "number": 45,
+        "clue": "Like a certain bucket",
+        "row": 9,
+        "col": 7,
+        "answer": "OAKEN"
+      },
+      {
+        "number": 46,
+        "clue": "Spartans from East Lansing",
+        "row": 9,
+        "col": 8,
+        "answer": "MSU"
+      },
+      {
+        "number": 47,
+        "clue": "Wall Street term",
+        "row": 9,
+        "col": 9,
+        "answer": "ATPAR"
+      },
+      {
+        "number": 49,
+        "clue": "Carom",
+        "row": 9,
+        "col": 13,
+        "answer": "RESILE"
+      },
+      {
+        "number": 50,
+        "clue": "Autocrat",
+        "row": 9,
+        "col": 14,
+        "answer": "KAISER"
+      },
+      {
+        "number": 52,
+        "clue": "Sheath of a leafstalk",
+        "row": 10,
+        "col": 3,
+        "answer": "OCREA"
+      },
+      {
+        "number": 53,
+        "clue": "Lock of hair",
+        "row": 10,
+        "col": 4,
+        "answer": "TRESS"
+      },
+      {
+        "number": 57,
+        "clue": "Faulkner character",
+        "row": 11,
+        "col": 5,
+        "answer": "ANSE"
+      },
+      {
+        "number": 58,
+        "clue": "___ trap (prepare to snare)",
+        "row": 11,
+        "col": 11,
+        "answer": "SETA"
+      },
+      {
+        "number": 61,
+        "clue": "Hood's exit",
+        "row": 12,
+        "col": 10,
+        "answer": "LAM"
+      }
+    ]
+  }
+}

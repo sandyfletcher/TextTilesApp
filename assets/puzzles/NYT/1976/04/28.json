@@ -1,0 +1,571 @@
+{
+  "id": "nyt-1976-04-28",
+  "metadata": {
+    "date": "1976-04-28",
+    "title": "NY TIMES, WED, APR 28, 1976",
+    "author": "Reginald L. Johnson",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["B", "U", "L", "L", null, "D", "E", "S", "C", null, null, null, "D", "O", "E"],
+    ["I", "N", "E", "E", null, "E", "P", "S", "O", "M", null, "S", "O", "R", "A"],
+    ["N", "I", "N", "A", null, "T", "H", "E", "B", "A", "P", "T", "I", "S", "T"],
+    ["D", "E", "A", "D", "S", "E", "A", null, "B", "L", "A", "I", "N", "E", null],
+    [null, null, null, "E", "A", "R", null, null, "L", "A", "U", "F", null, null, null],
+    ["B", "A", "R", "R", "Y", "M", "O", "R", "E", null, "S", "L", "A", "K", "E"],
+    ["A", "D", "E", "S", null, "I", "R", "E", null, "R", "E", "E", "L", "E", "D"],
+    ["L", "A", "B", null, null, "N", "Y", "A", "S", "A", null, null, "D", "E", "I"],
+    ["S", "M", "U", "D", "G", "E", null, "T", "O", "I", null, "B", "E", "N", "T"],
+    ["A", "S", "T", "O", "R", null, "P", "A", "U", "L", "J", "O", "N", "E", "S"],
+    [null, null, null, "C", "A", "D", "A", null, null, "L", "O", "T", null, null, null],
+    [null, "R", "A", "I", "D", "E", "R", null, "E", "I", "G", "H", "T", "H", "S"],
+    ["B", "A", "R", "L", "E", "Y", "C", "O", "R", "N", null, "E", "R", "A", "T"],
+    ["A", "T", "E", "E", null, "S", "E", "N", "S", "E", null, "R", "E", "V", "E"],
+    ["T", "E", "A", null, null, null, "L", "E", "E", "S", null, "S", "E", "E", "P"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "John",
+        "row": 0,
+        "col": 0,
+        "answer": "BULL"
+      },
+      {
+        "number": 5,
+        "clue": "Offspring: Abbr",
+        "row": 0,
+        "col": 5,
+        "answer": "DESC"
+      },
+      {
+        "number": 9,
+        "clue": "John",
+        "row": 0,
+        "col": 12,
+        "answer": "DOE"
+      },
+      {
+        "number": 12,
+        "clue": "Arrow poison",
+        "row": 1,
+        "col": 0,
+        "answer": "INEE"
+      },
+      {
+        "number": 13,
+        "clue": "English Derby site",
+        "row": 1,
+        "col": 5,
+        "answer": "EPSOM"
+      },
+      {
+        "number": 15,
+        "clue": "Marsh bird",
+        "row": 1,
+        "col": 11,
+        "answer": "SORA"
+      },
+      {
+        "number": 16,
+        "clue": "Miss Foch",
+        "row": 2,
+        "col": 0,
+        "answer": "NINA"
+      },
+      {
+        "number": 17,
+        "clue": "John",
+        "row": 2,
+        "col": 5,
+        "answer": "THEBAPTIST"
+      },
+      {
+        "number": 19,
+        "clue": "Jordan River outlet",
+        "row": 3,
+        "col": 0,
+        "answer": "DEADSEA"
+      },
+      {
+        "number": 21,
+        "clue": "Plumed Knight",
+        "row": 3,
+        "col": 8,
+        "answer": "BLAINE"
+      },
+      {
+        "number": 22,
+        "clue": "Thing to lend",
+        "row": 4,
+        "col": 3,
+        "answer": "EAR"
+      },
+      {
+        "number": 23,
+        "clue": "Course, in Germany",
+        "row": 4,
+        "col": 8,
+        "answer": "LAUF"
+      },
+      {
+        "number": 24,
+        "clue": "John",
+        "row": 5,
+        "col": 0,
+        "answer": "BARRYMORE"
+      },
+      {
+        "number": 29,
+        "clue": "Quench",
+        "row": 5,
+        "col": 10,
+        "answer": "SLAKE"
+      },
+      {
+        "number": 33,
+        "clue": "Cool drinks",
+        "row": 6,
+        "col": 0,
+        "answer": "ADES"
+      },
+      {
+        "number": 34,
+        "clue": "Pique",
+        "row": 6,
+        "col": 5,
+        "answer": "IRE"
+      },
+      {
+        "number": 35,
+        "clue": "Staggered",
+        "row": 6,
+        "col": 9,
+        "answer": "REELED"
+      },
+      {
+        "number": 36,
+        "clue": "Test place",
+        "row": 7,
+        "col": 0,
+        "answer": "LAB"
+      },
+      {
+        "number": 37,
+        "clue": "Lake of Africa",
+        "row": 7,
+        "col": 5,
+        "answer": "NYASA"
+      },
+      {
+        "number": 39,
+        "clue": "___ gratia",
+        "row": 7,
+        "col": 12,
+        "answer": "DEI"
+      },
+      {
+        "number": 40,
+        "clue": "Dirty mark",
+        "row": 8,
+        "col": 0,
+        "answer": "SMUDGE"
+      },
+      {
+        "number": 43,
+        "clue": "Thou, in Paris",
+        "row": 8,
+        "col": 7,
+        "answer": "TOI"
+      },
+      {
+        "number": 44,
+        "clue": "Leaning",
+        "row": 8,
+        "col": 11,
+        "answer": "BENT"
+      },
+      {
+        "number": 45,
+        "clue": "John Jacob",
+        "row": 9,
+        "col": 0,
+        "answer": "ASTOR"
+      },
+      {
+        "number": 46,
+        "clue": "John",
+        "row": 9,
+        "col": 6,
+        "answer": "PAULJONES"
+      },
+      {
+        "number": 48,
+        "clue": "Each, in Spain",
+        "row": 10,
+        "col": 3,
+        "answer": "CADA"
+      },
+      {
+        "number": 50,
+        "clue": "Odd or vacant",
+        "row": 10,
+        "col": 9,
+        "answer": "LOT"
+      },
+      {
+        "number": 51,
+        "clue": "Nader worker",
+        "row": 11,
+        "col": 1,
+        "answer": "RAIDER"
+      },
+      {
+        "number": 53,
+        "clue": "Furlong fractions",
+        "row": 11,
+        "col": 8,
+        "answer": "EIGHTHS"
+      },
+      {
+        "number": 57,
+        "clue": "John",
+        "row": 12,
+        "col": 0,
+        "answer": "BARLEYCORN"
+      },
+      {
+        "number": 59,
+        "clue": "He was: Lat.",
+        "row": 12,
+        "col": 11,
+        "answer": "ERAT"
+      },
+      {
+        "number": 60,
+        "clue": "To ___",
+        "row": 13,
+        "col": 0,
+        "answer": "ATEE"
+      },
+      {
+        "number": 61,
+        "clue": "Sight or taste, e.g.",
+        "row": 13,
+        "col": 5,
+        "answer": "SENSE"
+      },
+      {
+        "number": 62,
+        "clue": "Dream, in France",
+        "row": 13,
+        "col": 11,
+        "answer": "REVE"
+      },
+      {
+        "number": 63,
+        "clue": "Repast",
+        "row": 14,
+        "col": 0,
+        "answer": "TEA"
+      },
+      {
+        "number": 64,
+        "clue": "Robert and Pinky",
+        "row": 14,
+        "col": 6,
+        "answer": "LEES"
+      },
+      {
+        "number": 65,
+        "clue": "Ooze",
+        "row": 14,
+        "col": 11,
+        "answer": "SEEP"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "In a ___ (in trouble)",
+        "row": 0,
+        "col": 0,
+        "answer": "BIND"
+      },
+      {
+        "number": 2,
+        "clue": "Unicorn fish",
+        "row": 0,
+        "col": 1,
+        "answer": "UNIE"
+      },
+      {
+        "number": 3,
+        "clue": "Miss Horne",
+        "row": 0,
+        "col": 2,
+        "answer": "LENA"
+      },
+      {
+        "number": 4,
+        "clue": "Bellwethers",
+        "row": 0,
+        "col": 3,
+        "answer": "LEADERS"
+      },
+      {
+        "number": 5,
+        "clue": "Settle",
+        "row": 0,
+        "col": 5,
+        "answer": "DETERMINE"
+      },
+      {
+        "number": 6,
+        "clue": "Hebrew measure",
+        "row": 0,
+        "col": 6,
+        "answer": "EPHA"
+      },
+      {
+        "number": 7,
+        "clue": "Compass reading",
+        "row": 0,
+        "col": 7,
+        "answer": "SSE"
+      },
+      {
+        "number": 8,
+        "clue": "Paving stone",
+        "row": 0,
+        "col": 8,
+        "answer": "COBBLE"
+      },
+      {
+        "number": 9,
+        "clue": "Slay",
+        "row": 0,
+        "col": 12,
+        "answer": "DOIN"
+      },
+      {
+        "number": 10,
+        "clue": "Cockney's equine",
+        "row": 0,
+        "col": 13,
+        "answer": "ORSE"
+      },
+      {
+        "number": 11,
+        "clue": "Consume",
+        "row": 0,
+        "col": 14,
+        "answer": "EAT"
+      },
+      {
+        "number": 14,
+        "clue": "Part of a bird's bill",
+        "row": 1,
+        "col": 9,
+        "answer": "MALA"
+      },
+      {
+        "number": 15,
+        "clue": "Stop, as a yawn",
+        "row": 1,
+        "col": 11,
+        "answer": "STIFLE"
+      },
+      {
+        "number": 18,
+        "clue": "Halt briefly",
+        "row": 2,
+        "col": 10,
+        "answer": "PAUSE"
+      },
+      {
+        "number": 20,
+        "clue": "\"___ when\"",
+        "row": 3,
+        "col": 4,
+        "answer": "SAY"
+      },
+      {
+        "number": 24,
+        "clue": "Light wood",
+        "row": 5,
+        "col": 0,
+        "answer": "BALSA"
+      },
+      {
+        "number": 25,
+        "clue": "John",
+        "row": 5,
+        "col": 1,
+        "answer": "ADAMS"
+      },
+      {
+        "number": 26,
+        "clue": "Contradict",
+        "row": 5,
+        "col": 2,
+        "answer": "REBUT"
+      },
+      {
+        "number": 27,
+        "clue": "Containing: Suffix",
+        "row": 5,
+        "col": 6,
+        "answer": "ORY"
+      },
+      {
+        "number": 28,
+        "clue": "Gaucho's lasso",
+        "row": 5,
+        "col": 7,
+        "answer": "REATA"
+      },
+      {
+        "number": 30,
+        "clue": "John",
+        "row": 5,
+        "col": 12,
+        "answer": "ALDEN"
+      },
+      {
+        "number": 31,
+        "clue": "N.H. city",
+        "row": 5,
+        "col": 13,
+        "answer": "KEENE"
+      },
+      {
+        "number": 32,
+        "clue": "Polishes, as copy",
+        "row": 5,
+        "col": 14,
+        "answer": "EDITS"
+      },
+      {
+        "number": 35,
+        "clue": "B. &amp; O., Santa Fe, etc.",
+        "row": 6,
+        "col": 9,
+        "answer": "RAILLINES"
+      },
+      {
+        "number": 38,
+        "clue": "Not worth a ___",
+        "row": 7,
+        "col": 8,
+        "answer": "SOU"
+      },
+      {
+        "number": 41,
+        "clue": "Tractible",
+        "row": 8,
+        "col": 3,
+        "answer": "DOCILE"
+      },
+      {
+        "number": 42,
+        "clue": "Make the ___",
+        "row": 8,
+        "col": 4,
+        "answer": "GRADE"
+      },
+      {
+        "number": 44,
+        "clue": "Annoys",
+        "row": 8,
+        "col": 11,
+        "answer": "BOTHERS"
+      },
+      {
+        "number": 46,
+        "clue": "Part's partner",
+        "row": 9,
+        "col": 6,
+        "answer": "PARCEL"
+      },
+      {
+        "number": 47,
+        "clue": "Do mild exercise",
+        "row": 9,
+        "col": 10,
+        "answer": "JOG"
+      },
+      {
+        "number": 49,
+        "clue": "African rulers",
+        "row": 10,
+        "col": 5,
+        "answer": "DEYS"
+      },
+      {
+        "number": 51,
+        "clue": "Value",
+        "row": 11,
+        "col": 1,
+        "answer": "RATE"
+      },
+      {
+        "number": 52,
+        "clue": "Vicinity",
+        "row": 11,
+        "col": 2,
+        "answer": "AREA"
+      },
+      {
+        "number": 53,
+        "clue": "Gaelic",
+        "row": 11,
+        "col": 8,
+        "answer": "ERSE"
+      },
+      {
+        "number": 54,
+        "clue": "Hat or shoe",
+        "row": 11,
+        "col": 12,
+        "answer": "TREE"
+      },
+      {
+        "number": 55,
+        "clue": "Own",
+        "row": 11,
+        "col": 13,
+        "answer": "HAVE"
+      },
+      {
+        "number": 56,
+        "clue": "Goose or one",
+        "row": 11,
+        "col": 14,
+        "answer": "STEP"
+      },
+      {
+        "number": 57,
+        "clue": "___ the breeze",
+        "row": 12,
+        "col": 0,
+        "answer": "BAT"
+      },
+      {
+        "number": 58,
+        "clue": "Pronoun",
+        "row": 12,
+        "col": 7,
+        "answer": "ONE"
+      }
+    ]
+  }
+}

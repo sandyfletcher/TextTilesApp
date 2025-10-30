@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1976-10-04",
+  "metadata": {
+    "date": "1976-10-04",
+    "title": "NY TIMES, MON, OCT 04, 1976",
+    "author": "Chet Currier",
+    "editor": "Will Weng",
+    "copyright": "1976, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Monday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["G", "A", "M", null, null, null, "F", "E", "W", null, null, null, "Y", "A", "P"],
+    ["A", "G", "A", "S", null, "S", "I", "T", "U", "P", null, "S", "U", "R", "E"],
+    ["R", "A", "G", "E", null, "I", "N", "T", "R", "O", null, "A", "M", "I", "D"],
+    ["B", "R", "I", "G", "H", "T", "N", "E", "S", "S", null, "R", "A", "Z", "E"],
+    [null, null, null, "O", "A", "T", null, null, "T", "E", "S", "T", null, null, null],
+    ["L", "A", "P", null, "L", "I", "N", "A", null, "S", "L", "O", "W", "E", "R"],
+    ["A", "V", "A", "S", null, "N", "A", "S", "T", null, "A", "R", "I", "D", "E"],
+    ["D", "A", "Y", "L", "I", "G", "H", "T", "S", "A", "V", "I", "N", "G", "S"],
+    ["L", "I", "T", "U", "P", null, "A", "R", "A", "B", null, "S", "E", "A", "T"],
+    ["E", "L", "O", "I", "S", "E", null, "O", "R", "A", "L", null, "S", "R", "S"],
+    [null, null, null, "C", "E", "N", "T", null, null, "S", "E", "W", null, null, null],
+    ["T", "A", "X", "I", null, "D", "A", "R", "K", "H", "O", "R", "S", "E", "S"],
+    ["E", "A", "R", "N", null, "E", "C", "O", "L", "E", null, "I", "N", "T", "O"],
+    ["C", "R", "A", "G", null, "D", "O", "M", "E", "D", null, "T", "A", "C", "T"],
+    ["H", "E", "Y", null, null, null, "S", "A", "M", null, null, null, "P", "H", "S"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Actress Rita",
+        "row": 0,
+        "col": 0,
+        "answer": "GAM"
+      },
+      {
+        "number": 4,
+        "clue": "Partner of far between",
+        "row": 0,
+        "col": 6,
+        "answer": "FEW"
+      },
+      {
+        "number": 7,
+        "clue": "Bark",
+        "row": 0,
+        "col": 12,
+        "answer": "YAP"
+      },
+      {
+        "number": 10,
+        "clue": "Turkish titles",
+        "row": 1,
+        "col": 0,
+        "answer": "AGAS"
+      },
+      {
+        "number": 12,
+        "clue": "Certain exercise",
+        "row": 1,
+        "col": 5,
+        "answer": "SITUP"
+      },
+      {
+        "number": 14,
+        "clue": "Word with fire or thing",
+        "row": 1,
+        "col": 11,
+        "answer": "SURE"
+      },
+      {
+        "number": 15,
+        "clue": "State of ire",
+        "row": 2,
+        "col": 0,
+        "answer": "RAGE"
+      },
+      {
+        "number": 16,
+        "clue": "Beginning, for short",
+        "row": 2,
+        "col": 5,
+        "answer": "INTRO"
+      },
+      {
+        "number": 17,
+        "clue": "During",
+        "row": 2,
+        "col": 11,
+        "answer": "AMID"
+      },
+      {
+        "number": 18,
+        "clue": "Noon at the Loch",
+        "row": 3,
+        "col": 0,
+        "answer": "BRIGHTNESS"
+      },
+      {
+        "number": 20,
+        "clue": "Demolish",
+        "row": 3,
+        "col": 11,
+        "answer": "RAZE"
+      },
+      {
+        "number": 21,
+        "clue": "Cereal grain",
+        "row": 4,
+        "col": 3,
+        "answer": "OAT"
+      },
+      {
+        "number": 22,
+        "clue": "Kind of tube",
+        "row": 4,
+        "col": 8,
+        "answer": "TEST"
+      },
+      {
+        "number": 24,
+        "clue": "Sometime body part",
+        "row": 5,
+        "col": 0,
+        "answer": "LAP"
+      },
+      {
+        "number": 27,
+        "clue": "Director Wertmuller",
+        "row": 5,
+        "col": 4,
+        "answer": "LINA"
+      },
+      {
+        "number": 30,
+        "clue": "More deliberate",
+        "row": 5,
+        "col": 9,
+        "answer": "SLOWER"
+      },
+      {
+        "number": 34,
+        "clue": "Gardner et al.",
+        "row": 6,
+        "col": 0,
+        "answer": "AVAS"
+      },
+      {
+        "number": 36,
+        "clue": "U.S. cartoonist",
+        "row": 6,
+        "col": 5,
+        "answer": "NAST"
+      },
+      {
+        "number": 38,
+        "clue": "Take for ___",
+        "row": 6,
+        "col": 10,
+        "answer": "ARIDE"
+      },
+      {
+        "number": 39,
+        "clue": "Noon at the bank",
+        "row": 7,
+        "col": 0,
+        "answer": "DAYLIGHTSAVINGS"
+      },
+      {
+        "number": 42,
+        "clue": "Illuminated",
+        "row": 8,
+        "col": 0,
+        "answer": "LITUP"
+      },
+      {
+        "number": 43,
+        "clue": "Dhow occupant",
+        "row": 8,
+        "col": 6,
+        "answer": "ARAB"
+      },
+      {
+        "number": 44,
+        "clue": "Hot or county",
+        "row": 8,
+        "col": 11,
+        "answer": "SEAT"
+      },
+      {
+        "number": 45,
+        "clue": "Kay Thompson's girl",
+        "row": 9,
+        "col": 0,
+        "answer": "ELOISE"
+      },
+      {
+        "number": 47,
+        "clue": "Kind of exam",
+        "row": 9,
+        "col": 7,
+        "answer": "ORAL"
+      },
+      {
+        "number": 49,
+        "clue": "Certain prom-goers: Abbr.",
+        "row": 9,
+        "col": 12,
+        "answer": "SRS"
+      },
+      {
+        "number": 50,
+        "clue": "Change unit",
+        "row": 10,
+        "col": 3,
+        "answer": "CENT"
+      },
+      {
+        "number": 52,
+        "clue": "___ up (clinch)",
+        "row": 10,
+        "col": 9,
+        "answer": "SEW"
+      },
+      {
+        "number": 54,
+        "clue": "After-theater cry",
+        "row": 11,
+        "col": 0,
+        "answer": "TAXI"
+      },
+      {
+        "number": 57,
+        "clue": "Midnight in the stable",
+        "row": 11,
+        "col": 5,
+        "answer": "DARKHORSES"
+      },
+      {
+        "number": 63,
+        "clue": "Qualify for a W2",
+        "row": 12,
+        "col": 0,
+        "answer": "EARN"
+      },
+      {
+        "number": 64,
+        "clue": "Pierre's school",
+        "row": 12,
+        "col": 5,
+        "answer": "ECOLE"
+      },
+      {
+        "number": 65,
+        "clue": "\"___ the jaws of death . . . \"",
+        "row": 12,
+        "col": 11,
+        "answer": "INTO"
+      },
+      {
+        "number": 66,
+        "clue": "Rugged rock",
+        "row": 13,
+        "col": 0,
+        "answer": "CRAG"
+      },
+      {
+        "number": 67,
+        "clue": "Like St. Paul's",
+        "row": 13,
+        "col": 5,
+        "answer": "DOMED"
+      },
+      {
+        "number": 68,
+        "clue": "Social art",
+        "row": 13,
+        "col": 11,
+        "answer": "TACT"
+      },
+      {
+        "number": 69,
+        "clue": "Shouting word",
+        "row": 14,
+        "col": 0,
+        "answer": "HEY"
+      },
+      {
+        "number": 70,
+        "clue": "Ervin",
+        "row": 14,
+        "col": 6,
+        "answer": "SAM"
+      },
+      {
+        "number": 71,
+        "clue": "Light units: Abbr.",
+        "row": 14,
+        "col": 12,
+        "answer": "PHS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Raiment",
+        "row": 0,
+        "col": 0,
+        "answer": "GARB"
+      },
+      {
+        "number": 2,
+        "clue": "Gelling agent",
+        "row": 0,
+        "col": 1,
+        "answer": "AGAR"
+      },
+      {
+        "number": 3,
+        "clue": "Cr\u00e8che figures",
+        "row": 0,
+        "col": 2,
+        "answer": "MAGI"
+      },
+      {
+        "number": 4,
+        "clue": "One from Helsinki",
+        "row": 0,
+        "col": 6,
+        "answer": "FINN"
+      },
+      {
+        "number": 5,
+        "clue": "Diminutive suffix",
+        "row": 0,
+        "col": 7,
+        "answer": "ETTE"
+      },
+      {
+        "number": 6,
+        "clue": "Knack or wiener",
+        "row": 0,
+        "col": 8,
+        "answer": "WURST"
+      },
+      {
+        "number": 7,
+        "clue": "Indian of West",
+        "row": 0,
+        "col": 12,
+        "answer": "YUMA"
+      },
+      {
+        "number": 8,
+        "clue": "Neighbor of Nev.",
+        "row": 0,
+        "col": 13,
+        "answer": "ARIZ"
+      },
+      {
+        "number": 9,
+        "clue": "Suffix for centi",
+        "row": 0,
+        "col": 14,
+        "answer": "PEDE"
+      },
+      {
+        "number": 11,
+        "clue": "Western lily",
+        "row": 1,
+        "col": 3,
+        "answer": "SEGO"
+      },
+      {
+        "number": 12,
+        "clue": "Kind of duck",
+        "row": 1,
+        "col": 5,
+        "answer": "SITTING"
+      },
+      {
+        "number": 13,
+        "clue": "Affectations",
+        "row": 1,
+        "col": 9,
+        "answer": "POSES"
+      },
+      {
+        "number": 14,
+        "clue": "Early Faulkner novel",
+        "row": 1,
+        "col": 11,
+        "answer": "SARTORIS"
+      },
+      {
+        "number": 19,
+        "clue": "Prince ___",
+        "row": 3,
+        "col": 4,
+        "answer": "HAL"
+      },
+      {
+        "number": 23,
+        "clue": "Bulgar, for one",
+        "row": 4,
+        "col": 10,
+        "answer": "SLAV"
+      },
+      {
+        "number": 24,
+        "clue": "Dipper",
+        "row": 5,
+        "col": 0,
+        "answer": "LADLE"
+      },
+      {
+        "number": 25,
+        "clue": "Effective use",
+        "row": 5,
+        "col": 1,
+        "answer": "AVAIL"
+      },
+      {
+        "number": 26,
+        "clue": "\"___ the order of . . . \"",
+        "row": 5,
+        "col": 2,
+        "answer": "PAYTO"
+      },
+      {
+        "number": 28,
+        "clue": "Okinawa city",
+        "row": 5,
+        "col": 6,
+        "answer": "NAHA"
+      },
+      {
+        "number": 29,
+        "clue": "Word with naut or physics",
+        "row": 5,
+        "col": 7,
+        "answer": "ASTRO"
+      },
+      {
+        "number": 31,
+        "clue": "Hock and port",
+        "row": 5,
+        "col": 12,
+        "answer": "WINES"
+      },
+      {
+        "number": 32,
+        "clue": "Verse-writer Guest",
+        "row": 5,
+        "col": 13,
+        "answer": "EDGAR"
+      },
+      {
+        "number": 33,
+        "clue": "Takes a break",
+        "row": 5,
+        "col": 14,
+        "answer": "RESTS"
+      },
+      {
+        "number": 35,
+        "clue": "Flowing through a floodgate",
+        "row": 6,
+        "col": 3,
+        "answer": "SLUICING"
+      },
+      {
+        "number": 37,
+        "clue": "Nicholas, e.g.",
+        "row": 6,
+        "col": 8,
+        "answer": "TSAR"
+      },
+      {
+        "number": 40,
+        "clue": "___ dixit",
+        "row": 7,
+        "col": 4,
+        "answer": "IPSE"
+      },
+      {
+        "number": 41,
+        "clue": "Embarrassed",
+        "row": 7,
+        "col": 9,
+        "answer": "ABASHED"
+      },
+      {
+        "number": 46,
+        "clue": "Closed",
+        "row": 9,
+        "col": 5,
+        "answer": "ENDED"
+      },
+      {
+        "number": 48,
+        "clue": "Zodiac sign",
+        "row": 9,
+        "col": 10,
+        "answer": "LEO"
+      },
+      {
+        "number": 51,
+        "clue": "Fast-food items",
+        "row": 10,
+        "col": 6,
+        "answer": "TACOS"
+      },
+      {
+        "number": 53,
+        "clue": "Court order",
+        "row": 10,
+        "col": 11,
+        "answer": "WRIT"
+      },
+      {
+        "number": 54,
+        "clue": "Georgia ___",
+        "row": 11,
+        "col": 0,
+        "answer": "TECH"
+      },
+      {
+        "number": 55,
+        "clue": "Swiss river",
+        "row": 11,
+        "col": 1,
+        "answer": "AARE"
+      },
+      {
+        "number": 56,
+        "clue": "Physician's aid",
+        "row": 11,
+        "col": 2,
+        "answer": "XRAY"
+      },
+      {
+        "number": 58,
+        "clue": "Caesar's city",
+        "row": 11,
+        "col": 7,
+        "answer": "ROMA"
+      },
+      {
+        "number": 59,
+        "clue": "Baseball umpire Bill",
+        "row": 11,
+        "col": 8,
+        "answer": "KLEM"
+      },
+      {
+        "number": 60,
+        "clue": "Quick noise",
+        "row": 11,
+        "col": 12,
+        "answer": "SNAP"
+      },
+      {
+        "number": 61,
+        "clue": "Do art work",
+        "row": 11,
+        "col": 13,
+        "answer": "ETCH"
+      },
+      {
+        "number": 62,
+        "clue": "Heavy imbibers",
+        "row": 11,
+        "col": 14,
+        "answer": "SOTS"
+      }
+    ]
+  }
+}

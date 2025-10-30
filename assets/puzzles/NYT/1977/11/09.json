@@ -1,0 +1,585 @@
+{
+  "id": "nyt-1977-11-09",
+  "metadata": {
+    "date": "1977-11-09",
+    "title": "NY TIMES, WED, NOV 09, 1977",
+    "author": "Ann Jenkins",
+    "editor": "Eugene T. Maleska",
+    "copyright": "1977, The New York Times",
+    "publisher": "The New York Times",
+    "dow": "Wednesday"
+  },
+  "size": {
+    "cols": 15,
+    "rows": 15
+  },
+  "grid": [
+    ["R", "A", "S", "P", null, "A", "B", "E", "D", null, null, "M", "I", "S", "T"],
+    ["A", "R", "E", "A", null, "S", "O", "R", "E", null, "S", "A", "N", "T", "A"],
+    ["H", "A", "R", "T", "S", "H", "O", "R", "N", null, "T", "O", "T", "E", "M"],
+    ["S", "M", "A", "R", "T", "E", "N", null, "I", "D", "O", null, "H", "I", "E"],
+    [null, null, null, "I", "O", "N", null, "H", "E", "A", "R", "T", "E", "N", "S"],
+    [null, "C", "H", "O", "W", null, "C", "O", "R", "N", "I", "S", "H", null, null],
+    ["D", "U", "E", "T", null, "A", "I", "T", null, "D", "E", "P", "E", "N", "D"],
+    ["A", "B", "A", null, "D", "R", "A", "F", "T", "E", "D", null, "A", "A", "A"],
+    ["B", "A", "R", "R", "I", "E", null, "O", "A", "R", null, "D", "R", "O", "P"],
+    [null, null, "T", "R", "E", "N", "T", "O", "N", null, "H", "I", "T", "S", null],
+    ["M", "O", "S", "S", "H", "A", "R", "T", null, "B", "U", "S", null, null, null],
+    ["U", "N", "E", null, "A", "S", "E", null, "F", "A", "S", "T", "E", "S", "T"],
+    ["S", "T", "A", "R", "R", null, "B", "R", "E", "T", "H", "A", "R", "T", "E"],
+    ["E", "A", "S", "E", "D", null, "L", "I", "N", "T", null, "F", "L", "E", "E"],
+    ["S", "P", "E", "D", null, null, "E", "A", "S", "Y", null, "F", "E", "N", "D"]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "clue": "Scrape roughly",
+        "row": 0,
+        "col": 0,
+        "answer": "RASP"
+      },
+      {
+        "number": 5,
+        "clue": "Retired",
+        "row": 0,
+        "col": 5,
+        "answer": "ABED"
+      },
+      {
+        "number": 9,
+        "clue": "Fog's fellow traveler",
+        "row": 0,
+        "col": 11,
+        "answer": "MIST"
+      },
+      {
+        "number": 13,
+        "clue": "Defined limits",
+        "row": 1,
+        "col": 0,
+        "answer": "AREA"
+      },
+      {
+        "number": 14,
+        "clue": "Touchy",
+        "row": 1,
+        "col": 5,
+        "answer": "SORE"
+      },
+      {
+        "number": 15,
+        "clue": "Famed sleigher",
+        "row": 1,
+        "col": 10,
+        "answer": "SANTA"
+      },
+      {
+        "number": 16,
+        "clue": "Deer's antler",
+        "row": 2,
+        "col": 0,
+        "answer": "HARTSHORN"
+      },
+      {
+        "number": 18,
+        "clue": "Clan's symbol",
+        "row": 2,
+        "col": 10,
+        "answer": "TOTEM"
+      },
+      {
+        "number": 19,
+        "clue": "Improve in appearance, with \"up\"",
+        "row": 3,
+        "col": 0,
+        "answer": "SMARTEN"
+      },
+      {
+        "number": 20,
+        "clue": "Bachelor's last words",
+        "row": 3,
+        "col": 8,
+        "answer": "IDO"
+      },
+      {
+        "number": 22,
+        "clue": "Scurry",
+        "row": 3,
+        "col": 12,
+        "answer": "HIE"
+      },
+      {
+        "number": 23,
+        "clue": "Physicist's monad",
+        "row": 4,
+        "col": 3,
+        "answer": "ION"
+      },
+      {
+        "number": 24,
+        "clue": "Cheers up",
+        "row": 4,
+        "col": 7,
+        "answer": "HEARTENS"
+      },
+      {
+        "number": 26,
+        "clue": "G.I. fare",
+        "row": 5,
+        "col": 1,
+        "answer": "CHOW"
+      },
+      {
+        "number": 28,
+        "clue": "Names for some hens",
+        "row": 5,
+        "col": 6,
+        "answer": "CORNISH"
+      },
+      {
+        "number": 29,
+        "clue": "Number by Davis and McCoo",
+        "row": 6,
+        "col": 0,
+        "answer": "DUET"
+      },
+      {
+        "number": 30,
+        "clue": "Any one of the Thousand Islands",
+        "row": 6,
+        "col": 5,
+        "answer": "AIT"
+      },
+      {
+        "number": 31,
+        "clue": "Bank (on)",
+        "row": 6,
+        "col": 9,
+        "answer": "DEPEND"
+      },
+      {
+        "number": 34,
+        "clue": "Atty.'s governing body",
+        "row": 7,
+        "col": 0,
+        "answer": "ABA"
+      },
+      {
+        "number": 35,
+        "clue": "Sketched roughly",
+        "row": 7,
+        "col": 4,
+        "answer": "DRAFTED"
+      },
+      {
+        "number": 37,
+        "clue": "Shoe width",
+        "row": 7,
+        "col": 12,
+        "answer": "AAA"
+      },
+      {
+        "number": 38,
+        "clue": "Creator of Captain Hook",
+        "row": 8,
+        "col": 0,
+        "answer": "BARRIE"
+      },
+      {
+        "number": 40,
+        "clue": "Row",
+        "row": 8,
+        "col": 7,
+        "answer": "OAR"
+      },
+      {
+        "number": 41,
+        "clue": "Medicinal measure",
+        "row": 8,
+        "col": 11,
+        "answer": "DROP"
+      },
+      {
+        "number": 42,
+        "clue": "Where Hessians got a surprise: 1776",
+        "row": 9,
+        "col": 2,
+        "answer": "TRENTON"
+      },
+      {
+        "number": 44,
+        "clue": "Box-score item",
+        "row": 9,
+        "col": 10,
+        "answer": "HITS"
+      },
+      {
+        "number": 45,
+        "clue": "\"Act One\" author",
+        "row": 10,
+        "col": 0,
+        "answer": "MOSSHART"
+      },
+      {
+        "number": 47,
+        "clue": "Double-decker, e.g.",
+        "row": 10,
+        "col": 9,
+        "answer": "BUS"
+      },
+      {
+        "number": 48,
+        "clue": "French article",
+        "row": 11,
+        "col": 0,
+        "answer": "UNE"
+      },
+      {
+        "number": 49,
+        "clue": "Ibsen character",
+        "row": 11,
+        "col": 4,
+        "answer": "ASE"
+      },
+      {
+        "number": 50,
+        "clue": "Most loyal",
+        "row": 11,
+        "col": 8,
+        "answer": "FASTEST"
+      },
+      {
+        "number": 54,
+        "clue": "Ringo or Bart",
+        "row": 12,
+        "col": 0,
+        "answer": "STARR"
+      },
+      {
+        "number": 56,
+        "clue": "\"Devil's Ford\" author",
+        "row": 12,
+        "col": 6,
+        "answer": "BRETHARTE"
+      },
+      {
+        "number": 58,
+        "clue": "Paved the way",
+        "row": 13,
+        "col": 0,
+        "answer": "EASED"
+      },
+      {
+        "number": 59,
+        "clue": "Fluffy ravelings",
+        "row": 13,
+        "col": 6,
+        "answer": "LINT"
+      },
+      {
+        "number": 60,
+        "clue": "Scamper away",
+        "row": 13,
+        "col": 11,
+        "answer": "FLEE"
+      },
+      {
+        "number": 61,
+        "clue": "Hightailed it",
+        "row": 14,
+        "col": 0,
+        "answer": "SPED"
+      },
+      {
+        "number": 62,
+        "clue": "Like child's play",
+        "row": 14,
+        "col": 6,
+        "answer": "EASY"
+      },
+      {
+        "number": 63,
+        "clue": "Parry",
+        "row": 14,
+        "col": 11,
+        "answer": "FEND"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "clue": "Cheers for eleven",
+        "row": 0,
+        "col": 0,
+        "answer": "RAHS"
+      },
+      {
+        "number": 2,
+        "clue": "Khachaturian",
+        "row": 0,
+        "col": 1,
+        "answer": "ARAM"
+      },
+      {
+        "number": 3,
+        "clue": "Some shots in the arm",
+        "row": 0,
+        "col": 2,
+        "answer": "SERA"
+      },
+      {
+        "number": 4,
+        "clue": "True-blue native",
+        "row": 0,
+        "col": 3,
+        "answer": "PATRIOT"
+      },
+      {
+        "number": 5,
+        "clue": "Pale as a ghost",
+        "row": 0,
+        "col": 5,
+        "answer": "ASHEN"
+      },
+      {
+        "number": 6,
+        "clue": "Favor",
+        "row": 0,
+        "col": 6,
+        "answer": "BOON"
+      },
+      {
+        "number": 7,
+        "clue": "Slip a cog",
+        "row": 0,
+        "col": 7,
+        "answer": "ERR"
+      },
+      {
+        "number": 8,
+        "clue": "Thread weight",
+        "row": 0,
+        "col": 8,
+        "answer": "DENIER"
+      },
+      {
+        "number": 9,
+        "clue": "Late Chinese leader",
+        "row": 0,
+        "col": 11,
+        "answer": "MAO"
+      },
+      {
+        "number": 10,
+        "clue": "\"Deep ___ of Texas\"",
+        "row": 0,
+        "col": 12,
+        "answer": "INTHEHEART"
+      },
+      {
+        "number": 11,
+        "clue": "Toby's relative",
+        "row": 0,
+        "col": 13,
+        "answer": "STEIN"
+      },
+      {
+        "number": 12,
+        "clue": "Gentles",
+        "row": 0,
+        "col": 14,
+        "answer": "TAMES"
+      },
+      {
+        "number": 15,
+        "clue": "Cited often in historic lore",
+        "row": 1,
+        "col": 10,
+        "answer": "STORIED"
+      },
+      {
+        "number": 17,
+        "clue": "Pack away",
+        "row": 2,
+        "col": 4,
+        "answer": "STOW"
+      },
+      {
+        "number": 21,
+        "clue": "Temper",
+        "row": 3,
+        "col": 9,
+        "answer": "DANDER"
+      },
+      {
+        "number": 24,
+        "clue": "Warm hazing",
+        "row": 4,
+        "col": 7,
+        "answer": "HOTFOOT"
+      },
+      {
+        "number": 25,
+        "clue": "Recipe abbr.",
+        "row": 4,
+        "col": 11,
+        "answer": "TSP"
+      },
+      {
+        "number": 26,
+        "clue": "Tobacco-exporting country",
+        "row": 5,
+        "col": 1,
+        "answer": "CUBA"
+      },
+      {
+        "number": 27,
+        "clue": "Peace of mind",
+        "row": 5,
+        "col": 2,
+        "answer": "HEARTSEASE"
+      },
+      {
+        "number": 28,
+        "clue": "Present-day O.S.S.",
+        "row": 5,
+        "col": 6,
+        "answer": "CIA"
+      },
+      {
+        "number": 29,
+        "clue": "Small flounder",
+        "row": 6,
+        "col": 0,
+        "answer": "DAB"
+      },
+      {
+        "number": 30,
+        "clue": "Theaters-in-the-round",
+        "row": 6,
+        "col": 5,
+        "answer": "ARENAS"
+      },
+      {
+        "number": 32,
+        "clue": "Greek temple",
+        "row": 6,
+        "col": 13,
+        "answer": "NAOS"
+      },
+      {
+        "number": 33,
+        "clue": "Drop bait gently",
+        "row": 6,
+        "col": 14,
+        "answer": "DAP"
+      },
+      {
+        "number": 35,
+        "clue": "One who resists the new order",
+        "row": 7,
+        "col": 4,
+        "answer": "DIEHARD"
+      },
+      {
+        "number": 36,
+        "clue": "Healthy glow",
+        "row": 7,
+        "col": 8,
+        "answer": "TAN"
+      },
+      {
+        "number": 39,
+        "clue": "N.Y. Central et al.",
+        "row": 8,
+        "col": 3,
+        "answer": "RRS"
+      },
+      {
+        "number": 41,
+        "clue": "Opposite of spear",
+        "row": 8,
+        "col": 11,
+        "answer": "DISTAFF"
+      },
+      {
+        "number": 43,
+        "clue": "Soprano",
+        "row": 9,
+        "col": 6,
+        "answer": "TREBLE"
+      },
+      {
+        "number": 44,
+        "clue": "Lull",
+        "row": 9,
+        "col": 10,
+        "answer": "HUSH"
+      },
+      {
+        "number": 45,
+        "clue": "Nine on Parnassus",
+        "row": 10,
+        "col": 0,
+        "answer": "MUSES"
+      },
+      {
+        "number": 46,
+        "clue": "Like some beer",
+        "row": 10,
+        "col": 1,
+        "answer": "ONTAP"
+      },
+      {
+        "number": 47,
+        "clue": "Quite daft",
+        "row": 10,
+        "col": 9,
+        "answer": "BATTY"
+      },
+      {
+        "number": 50,
+        "clue": "Swamps",
+        "row": 11,
+        "col": 8,
+        "answer": "FENS"
+      },
+      {
+        "number": 51,
+        "clue": "Man of mysteries",
+        "row": 11,
+        "col": 12,
+        "answer": "ERLE"
+      },
+      {
+        "number": 52,
+        "clue": "Gun for a Tommy",
+        "row": 11,
+        "col": 13,
+        "answer": "STEN"
+      },
+      {
+        "number": 53,
+        "clue": "\"___ Off,\" book by Dave Hill",
+        "row": 11,
+        "col": 14,
+        "answer": "TEED"
+      },
+      {
+        "number": 55,
+        "clue": "Flushed",
+        "row": 12,
+        "col": 3,
+        "answer": "RED"
+      },
+      {
+        "number": 57,
+        "clue": "Mouth of a Spanish river",
+        "row": 12,
+        "col": 7,
+        "answer": "RIA"
+      }
+    ]
+  }
+}
