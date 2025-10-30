@@ -12,7 +12,7 @@
     "lint": "expo lint",
     "manifest": "node ./scripts/generate-manifest.mjs",
     "predeploy": "npx expo export && node scripts/create-nojekyll.js",
-    "deploy": "gh-pages -d dist -t true"
+    "deploy": "gh-pages -d dist -t"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
