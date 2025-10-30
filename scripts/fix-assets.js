@@ -1,44 +1,54 @@
+// This script copies hashed asset files to their expected paths in node_modules
+// because Expo Metro exports assets with hash-only filenames, but the JS bundle
+// references them by their original paths. When new assets fail to load on the
+// deployed site, add their hash mappings to the knownAssets object below.
+
 const fs = require('fs');
 const path = require('path');
-
-// This script creates symlinks/copies for assets that are referenced by original paths
-// but are actually exported with hash names
 
 const distPath = path.join(__dirname, '..', 'dist');
 const assetsPath = path.join(distPath, 'assets');
 
-// Create the node_modules directory structure that the app expects
-const targetDirs = [
-  'node_modules/@react-navigation/elements/lib/module/assets',
-  'node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts'
-];
+console.log('Fixing asset paths...');
 
-targetDirs.forEach(dir => {
-  const fullPath = path.join(assetsPath, dir);
-  fs.mkdirSync(fullPath, { recursive: true });
-  console.log(`Created directory: ${dir}`);
+// Read all files in assets folder
+const files = fs.readdirSync(assetsPath).filter(f => {
+  const fullPath = path.join(assetsPath, f);
+  return fs.statSync(fullPath).isFile();
 });
 
-// Now we need to find the hashed files and copy them to the expected locations
-// Look for back-icon in the assets folder
-const files = fs.readdirSync(assetsPath);
+console.log(`Found ${files.length} asset files`);
 
-// Copy back-icon
-const backIcon = files.find(f => f.startsWith('back-icon') || f.includes('35ba0eaec5a4f5ed12ca16fabeae451d'));
-if (backIcon) {
-  const src = path.join(assetsPath, backIcon);
-  const dest = path.join(assetsPath, 'node_modules/@react-navigation/elements/lib/module/assets', backIcon);
-  fs.copyFileSync(src, dest);
-  console.log(`Copied ${backIcon}`);
-}
+// Known hashes from your error messages
+const knownAssets = {
+  '35ba0eaec5a4f5ed12ca16fabeae451d': {
+    type: 'icon',
+    path: 'node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png'
+  },
+  'ca4b48e04dc1ce10bfbddb262c8b835f': {
+    type: 'font',
+    path: 'node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Feather.ca4b48e04dc1ce10bfbddb262c8b835f.ttf'
+  }
+};
 
-// Copy Feather font
-const featherFont = files.find(f => f.includes('Feather') || f.includes('ca4b48e04dc1ce10bfbddb262c8b835f'));
-if (featherFont) {
-  const src = path.join(assetsPath, featherFont);
-  const dest = path.join(assetsPath, 'node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts', featherFont);
-  fs.copyFileSync(src, dest);
-  console.log(`Copied ${featherFont}`);
-}
+// Copy files based on known hashes
+files.forEach(file => {
+  if (knownAssets[file]) {
+    const asset = knownAssets[file];
+    const targetPath = path.join(assetsPath, asset.path);
+    const targetDir = path.dirname(targetPath);
+    
+    fs.mkdirSync(targetDir, { recursive: true });
+    
+    const src = path.join(assetsPath, file);
+    fs.copyFileSync(src, targetPath);
+    console.log(`Copied ${asset.type}: ${file} -> ${asset.path}`);
+  }
+});
+
+// Create a .gitignore inside dist that allows everything
+const gitignorePath = path.join(distPath, '.gitignore');
+fs.writeFileSync(gitignorePath, '# Allow all files in dist folder\n!*\n');
+console.log('Created permissive .gitignore in dist folder');
 
 console.log('Asset fix complete!');
