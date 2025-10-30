@@ -3,5 +3,5 @@ const path = require('path');
 
 // Go up one directory from scripts folder to project root
 const nojekyllPath = path.join(__dirname, '..', 'dist', '.nojekyll');
-fs.writeFileSync(nojekyllPath, '');
+fs.writeFileSync(nojekyllPath, '# Disable Jekyll processing for GitHub Pages\n');
 console.log('.nojekyll file created successfully');
