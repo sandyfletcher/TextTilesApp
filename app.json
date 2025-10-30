@@ -48,7 +48,9 @@
       "reactCompiler": true
     },
     "extra": {
-      "router": {},
+      "router": {
+        "origin": "https://sandyfletcher.ca/TextTilesApp"
+      },
       "eas": {
         "projectId": "926f1b01-6927-431c-9f56-0c907891c1a0"
       }
