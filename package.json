@@ -1,6 +1,7 @@
 {
   "name": "texttilesapp",
   "main": "expo-router/entry",
+  "homepage": "https://sandyfletcher.github.io/TextTilesApp",
   "version": "0.0.4",
   "scripts": {
     "start": "expo start",

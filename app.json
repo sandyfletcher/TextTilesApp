@@ -25,7 +25,8 @@
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png",
-      "homepage": "https://sandyfletcher.github.io/TextTilesApp"
+      "bundler": "metro",
+      "baseUrl": "/TextTilesApp"
     },
     "plugins": [
       "expo-router",
