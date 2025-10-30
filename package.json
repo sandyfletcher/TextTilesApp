@@ -11,9 +11,11 @@
     "web": "expo start --web",
     "lint": "expo lint",
     "manifest": "node ./scripts/generate-manifest.mjs",
+    "clean": "node scripts/clean-dist.js",
     "predeploy": "npx expo export && node scripts/create-cname.js",
-    "deploy": "gh-pages -d dist -t"
-  },
+    "deploy": "gh-pages -d dist -t",
+    "publish": "npm run clean && npm run predeploy && npm run deploy"
+    },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
     "@react-navigation/bottom-tabs": "^7.4.0",
