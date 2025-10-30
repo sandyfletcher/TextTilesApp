@@ -1,7 +1,7 @@
 {
   "name": "texttilesapp",
   "main": "expo-router/entry",
-  "homepage": "https://sandyfletcher.github.io/TextTilesApp",
+  "homepage": "https://texttiles.sandyfletcher.ca",
   "version": "0.0.4",
   "scripts": {
     "start": "expo start",
@@ -11,7 +11,7 @@
     "web": "expo start --web",
     "lint": "expo lint",
     "manifest": "node ./scripts/generate-manifest.mjs",
-    "predeploy": "npx expo export && node scripts/create-nojekyll.js",
+    "predeploy": "npx expo export && node scripts/create-cname.js",
     "deploy": "gh-pages -d dist -t"
   },
   "dependencies": {

@@ -25,8 +25,7 @@
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png",
-      "bundler": "metro",
-      "baseUrl": "/TextTilesApp/"
+      "bundler": "metro"
     },
     "plugins": [
       "expo-router",
@@ -48,9 +47,7 @@
       "reactCompiler": true
     },
     "extra": {
-      "router": {
-        "origin": "https://sandyfletcher.ca/TextTilesApp"
-      },
+      "router": {},
       "eas": {
         "projectId": "926f1b01-6927-431c-9f56-0c907891c1a0"
       }
