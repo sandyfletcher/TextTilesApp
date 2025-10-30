@@ -1,20 +1,21 @@
 // constants/Colors.tsx
 // (this will become .ts in production)
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+// A nice, soft blue for the primary theme color
+const primaryColor = '#89cff0'; // Baby Blue
 
 export const Colors = {
-  text: '#111827',
-  textSecondary: '#6B7280',
-  background: '#f9fafb',
-  surface: '#ffffff',
-  border: '#e5e7eb',
-  primary: tintColorLight,
-  error: '#ef4444',
-  
-  // Puzzle-specific colors
-  activeCell: '#a5f3fc', // Light cyan
-  activeWord: '#e0f2fe', // Lighter sky blue
-  lockedCell: '#f3f4f6', // Gray 100
+  // --- Standard UI ---
+  text: '#374151', // Cool Gray 700
+  textSecondary: '#6b7280', // Cool Gray 500
+  background: '#f0f9ff', // Sky Blue 50 (very light)
+  surface: '#ffffff', // White
+  border: '#dbeafe', // Blue 200
+  primary: primaryColor,
+  error: '#fb7185', // Rose 400
+
+  // --- Puzzle-specific ---
+  activeCell: '#bae6fd', // Sky Blue 300
+  activeWord: '#e0f2fe', // Sky Blue 100
+  lockedCell: '#f8fafc', // Slate 50
 };
