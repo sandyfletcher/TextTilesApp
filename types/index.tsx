@@ -1,8 +1,7 @@
 // types/index.tsx
 // (this will become .ts in production)
 
-// TODO: uncomment 'PuzzleState' type once we create usePuzzleState hook
-// import { usePuzzleState } from "../hooks/usePuzzleState";
+import { usePuzzleState } from "../hooks/usePuzzleState";
 
 // Describes a single clue (either across or down).
 export interface Clue {
@@ -94,4 +93,4 @@ export interface FlatListItem {
  * Represents the return type of our core game logic hook.
  * This makes it easy to pass all game state and handlers as a single prop.
  */
-// export type PuzzleState = ReturnType<typeof usePuzzleState>;
+export type PuzzleState = ReturnType<typeof usePuzzleState>;

@@ -1,24 +1,75 @@
 // app/puzzle/[id].tsx
 
 import { useLocalSearchParams } from 'expo-router';
-import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import React, { useEffect, useCallback } from 'react';
+import { ActivityIndicator, Alert, Platform, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
+import { usePuzzleState } from '../../hooks/usePuzzleState';
+import { usePuzzleData } from '../../hooks/usePuzzleData';
+import PuzzleWebLayout from '../../components/Puzzle/layouts/PuzzleWebLayout';
+import PuzzleLandscapeLayout from '../../components/Puzzle/layouts/PuzzleLandscapeLayout';
+import PuzzlePortraitLayout from '../../components/Puzzle/layouts/PuzzlePortraitLayout';
+import { Colors } from '../../constants/Colors';
 
 export default function PuzzleScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
+  const { width, height } = useWindowDimensions();
+  const { puzzle, isLoading, error } = usePuzzleData(id);
+  const gameState = usePuzzleState(puzzle);
+  
+  // Destructure functions needed by effects to stabilize dependencies
+  const { handleKeyPress, checkPuzzle } = gameState; 
 
-  return (
-    <View style={styles.container}>
-      <Text>This is the Puzzle Screen.</Text>
-      <Text>Loading puzzle with ID: {id}</Text>
-    </View>
-  );
+  // useCallback memoizes the function so it doesn't get recreated on every render
+  const handleCheckPuzzle = useCallback(() => {
+    const isCorrect = checkPuzzle();
+    // Use a small timeout to allow the UI to update before showing the alert
+    setTimeout(() => {
+      if (isCorrect) {
+        Alert.alert("Congratulations!", "You have successfully completed the puzzle!");
+      } else {
+        Alert.alert("Not Quite...", "Correct answers have been locked in. Keep going!");
+      }
+    }, 100);
+  }, [checkPuzzle]);
+
+  // Effect for handling hardware keyboard input on web
+  useEffect(() => {
+    if (Platform.OS !== 'web') return;
+    const onKeyDown = (e: KeyboardEvent) => {
+      e.preventDefault();
+      handleKeyPress(e.key);
+    };
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
+  }, [handleKeyPress]);
+
+  // --- Conditional Rendering for Loading/Error States ---
+  if (isLoading) {
+    return <View style={styles.centered}><ActivityIndicator size="large" /></View>;
+  }
+  if (error) {
+    return <View style={styles.centered}><Text style={styles.errorText}>{error}</Text></View>;
+  }
+  if (!puzzle || gameState.userGrid.length === 0) {
+    return <View style={styles.centered}><ActivityIndicator size="large" /></View>;
+  }
+
+  // --- Responsive Layout Logic ---
+  const isWeb = Platform.OS === 'web';
+  const isPortrait = height > width;
+
+  if (isWeb && width > 950) {
+    return <PuzzleWebLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} />;
+  } 
+  
+  if (!isPortrait) {
+    return <PuzzleLandscapeLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} />;
+  }
+  
+  return <PuzzlePortraitLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} />;
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
+  centered: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: Colors.background },
+  errorText: { color: Colors.error },
 });
