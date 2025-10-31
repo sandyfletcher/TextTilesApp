@@ -8,6 +8,7 @@ import { Puzzle } from '../../../types';
 import { PuzzleState } from '../../../hooks/usePuzzleState';
 import ClueLists from '../ClueLists';
 import GameHeader from '../GameHeader';
+import OnScreenKeyboard from '../OnScreenKeyboard';
 import PuzzleGrid from '../PuzzleGrid';
 import { Colors } from '../../../constants/Colors';
 
@@ -18,7 +19,7 @@ interface PuzzleLayoutProps {
 }
 
 export default function PuzzleWebLayout({ puzzle, gameState, onCheckPuzzle }: PuzzleLayoutProps) {
-  const { userGrid, lockedGrid, checkGrid, activeCell, activeClue, handleCellPress, handleClueSelect } = gameState;
+  const { userGrid, lockedGrid, checkGrid, activeCell, activeClue, handleCellPress, handleClueSelect, handleKeyPress } = gameState;
 
   return (
     <SafeAreaView style={styles.container} edges={['bottom', 'left', 'right']}>
@@ -28,15 +29,20 @@ export default function PuzzleWebLayout({ puzzle, gameState, onCheckPuzzle }: Pu
           <ClueLists puzzle={puzzle} activeClue={activeClue} onClueSelect={handleClueSelect} layout="column" direction="across" />
         </View>
         <View style={styles.centerPanel}>
-          <PuzzleGrid
-            puzzle={puzzle}
-            userGrid={userGrid}
-            lockedGrid={lockedGrid}
-            checkGrid={checkGrid}
-            activeCell={activeCell}
-            activeClue={activeClue}
-            onCellPress={handleCellPress}
-          />
+          <View style={styles.gridWrapper}>
+            <PuzzleGrid
+              puzzle={puzzle}
+              userGrid={userGrid}
+              lockedGrid={lockedGrid}
+              checkGrid={checkGrid}
+              activeCell={activeCell}
+              activeClue={activeClue}
+              onCellPress={handleCellPress}
+            />
+          </View>
+          <View style={styles.keyboardWrapper}>
+            <OnScreenKeyboard onKeyPress={handleKeyPress} />
+          </View>
         </View>
         <View style={styles.cluePanel}>
           <ClueLists puzzle={puzzle} activeClue={activeClue} onClueSelect={handleClueSelect} layout="column" direction="down" />
@@ -51,8 +57,16 @@ const styles = StyleSheet.create({
   content: { flex: 1, flexDirection: 'row' },
   cluePanel: { width: 280, borderRightWidth: 1, borderLeftWidth: 1, borderColor: Colors.border },
   centerPanel: { 
-    flex: 1, 
-    padding: 20, // Add padding to give the grid space
-    justifyContent: 'center', // Center the grid vertically
+    flex: 1,
+    justifyContent: 'space-between',
+  },
+  gridWrapper: {
+    flex: 1,
+    padding: 20,
+    justifyContent: 'center',
+  },
+  keyboardWrapper: {
+    paddingHorizontal: 40,
+    paddingBottom: 10,
   },
 });

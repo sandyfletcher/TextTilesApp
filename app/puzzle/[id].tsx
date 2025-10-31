@@ -17,20 +17,25 @@ export default function PuzzleScreen() {
   const gameState = usePuzzleState(puzzle);
   
   // Destructure functions needed by effects to stabilize dependencies
-  const { handleKeyPress, checkPuzzle } = gameState; 
+  const { handleKeyPress, checkPuzzle, isChecking } = gameState;
 
   // useCallback memoizes the function so it doesn't get recreated on every render
   const handleCheckPuzzle = useCallback(() => {
+    if (isChecking) return; // Prevent multiple checks during cooldown
+    
     const isCorrect = checkPuzzle();
-    // Use a small timeout to allow the UI to update before showing the alert
-    setTimeout(() => {
-      if (isCorrect) {
-        Alert.alert("Congratulations!", "You have successfully completed the puzzle!");
-      } else {
-        Alert.alert("Not Quite...", "Correct answers have been locked in. Keep going!");
-      }
-    }, 100);
-  }, [checkPuzzle]);
+    
+    // Use requestAnimationFrame to wait for UI to update, then show alert
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        if (isCorrect) {
+          Alert.alert("Congratulations!", "You have successfully completed the puzzle!");
+        } else {
+          Alert.alert("Keep Going!", "Correct answers are shown in bold. Incorrect answers are faded.");
+        }
+      });
+    });
+  }, [checkPuzzle, isChecking]);
 
   // Effect for handling hardware keyboard input on web
   useEffect(() => {

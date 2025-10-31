@@ -2,20 +2,19 @@
   "name": "texttilesapp",
   "main": "expo-router/entry",
   "homepage": "https://texttiles.sandyfletcher.ca",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "scripts": {
     "start": "expo start",
-    "reset-project": "node ./scripts/reset-project.js",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
+    "clean": "node scripts/clean-dist.js",
     "manifest": "node ./scripts/generate-manifest.mjs",
     "map": "node scripts/generate-puzzle-map.mjs",
     "prebuild": "npm run manifest && npm run map",
-    "clean": "node scripts/clean-dist.js",
     "predeploy": "npm run prebuild && npx expo export && node scripts/create-cname.js && node scripts/fix-assets.js",
-    "deploy": "gh-pages -d dist -t",
+    "deploy": "gh-pages -d dist -t --no-history",
     "publish": "npm run clean && npm run predeploy && npm run deploy"
     },
   "dependencies": {

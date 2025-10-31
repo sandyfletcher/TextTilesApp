@@ -10,7 +10,7 @@ interface PuzzleGridProps {
   puzzle: Puzzle;
   userGrid: string[][];
   lockedGrid: boolean[][];
-  checkGrid: (boolean | null)[][]; // <-- ADD THIS PROP
+  checkGrid: (boolean | null)[][];
   activeCell: { row: number; col: number };
   activeClue: ActiveClue | null;
   onCellPress: (row: number, col: number) => void;
@@ -18,8 +18,18 @@ interface PuzzleGridProps {
 
 export default function PuzzleGrid({ puzzle, userGrid, lockedGrid, checkGrid, activeCell, activeClue, onCellPress }: PuzzleGridProps) {
   const [containerWidth, setContainerWidth] = useState(0);
+  const [containerHeight, setContainerHeight] = useState(0);
+  
+  const numRows = puzzle.size.rows;
   const numColumns = puzzle.size.cols;
-  const cellSize = containerWidth > 0 ? (containerWidth - 2) / numColumns : 0; 
+  
+  // Calculate cell size based on BOTH width and height constraints
+  // Use whichever dimension is more restrictive
+  const cellSizeFromWidth = containerWidth > 0 ? (containerWidth - 2) / numColumns : 0;
+  const cellSizeFromHeight = containerHeight > 0 ? (containerHeight - 2) / numRows : 0;
+  
+  // Use the smaller of the two to ensure the grid fits in both dimensions
+  const cellSize = Math.min(cellSizeFromWidth, cellSizeFromHeight);
 
   const isCellInActiveClue = (row: number, col: number): boolean => {
     if (!activeClue) return false;
@@ -35,9 +45,10 @@ export default function PuzzleGrid({ puzzle, userGrid, lockedGrid, checkGrid, ac
       style={styles.container}
       onLayout={(event: LayoutChangeEvent) => {
         setContainerWidth(event.nativeEvent.layout.width);
+        setContainerHeight(event.nativeEvent.layout.height);
       }}
     >
-      {containerWidth > 0 && (
+      {cellSize > 0 && (
         <View style={styles.grid}>
           {puzzle.grid.map((row, rowIndex) => (
             <View key={`row-${rowIndex}`} style={styles.row}>

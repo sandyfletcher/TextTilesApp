@@ -20,6 +20,13 @@ export default function ClueLists({ puzzle, activeClue, onClueSelect, layout = '
   const acrossClueLayouts = useRef(new Map<number, number>());
   const downClueLayouts = useRef(new Map<number, number>());
   
+  // Clear the layout maps when the puzzle changes to prevent memory leaks
+  useEffect(() => {
+    acrossClueLayouts.current.clear();
+    downClueLayouts.current.clear();
+  }, [puzzle.id]);
+  
+  // Auto-scroll to active clue
   useEffect(() => {
     if (!activeClue) return;
     
@@ -28,9 +35,10 @@ export default function ClueLists({ puzzle, activeClue, onClueSelect, layout = '
     const y = clueLayouts.current.get(activeClue.number);
     
     if (y !== undefined && scrollViewRef.current) {
-        setTimeout(() => {
-            scrollViewRef.current?.scrollTo({ y: y - 40, animated: true }); // scroll to slightly above the item
-        }, 100);
+      // Small delay to ensure layout is complete
+      setTimeout(() => {
+        scrollViewRef.current?.scrollTo({ y: Math.max(0, y - 40), animated: true });
+      }, 100);
     }
   }, [activeClue]);
 

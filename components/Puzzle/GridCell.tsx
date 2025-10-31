@@ -46,7 +46,9 @@ export default React.memo(function GridCell({
   const letterStyle = [
     styles.letter,
     { fontSize: cellSize * 0.55 },
-    isLocked && styles.lockedLetter,
+    // Correct answers (locked) are bold
+    (isLocked || checkResult === true) && styles.correctLetter,
+    // Incorrect answers are transparent
     checkResult === false && styles.incorrectLetter,
   ];
 
@@ -85,10 +87,10 @@ const styles = StyleSheet.create({
     color: Colors.text,
     fontWeight: '400',
   },
-  lockedLetter: {
+  correctLetter: {
     fontWeight: 'bold',
   },
   incorrectLetter: {
-    color: Colors.error,
+    opacity: 0.35, // Make incorrect letters transparent
   },
 });

@@ -16,6 +16,7 @@ export function usePuzzleState(puzzle: Puzzle | null) {
   const [checkGrid, setCheckGrid] = useState<(boolean | null)[][]>([]);
   const [activeCell, setActiveCell] = useState({ row: 0, col: 0 });
   const [direction, setDirection] = useState<'across' | 'down'>('across');
+  const [isChecking, setIsChecking] = useState(false); // Cooldown state
 
   // --- Initialization Effect ---
   // Resets the state whenever a new puzzle is loaded
@@ -86,36 +87,45 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     }
   }, [activeCell, direction, puzzle]);
 
-  const moveToPrevCell = useCallback(() => {
-    if (!puzzle) return;
-    let { row, col } = activeCell;
 
-    do {
-      if (direction === 'across') col--;
-      else row--;
-    } while (row >= 0 && col >= 0 && puzzle.grid[row][col] === null);
-
-    if (row >= 0 && col >= 0) {
-      setActiveCell({ row, col });
-    }
-  }, [activeCell, direction, puzzle]);
 
   const handleKeyPress = useCallback((key: string) => {
     if (!puzzle || lockedGrid[activeCell.row][activeCell.col]) {
       return;
     }
 
+    // Clear check marks when user types (gives them a fresh start)
+    setCheckGrid(grid => {
+      const currentCheck = grid[activeCell.row]?.[activeCell.col];
+      if (currentCheck !== null) {
+        const newGrid = createGrid<(boolean | null)>(puzzle.size.rows, puzzle.size.cols, null);
+        return newGrid;
+      }
+      return grid;
+    });
+
     if (key === 'Backspace') {
       setUserGrid(grid => {
         const newGrid = grid.map(r => [...r]);
-        // Clear current cell only if it has a letter, otherwise move back first
+        // Clear current cell if it has content
         if (newGrid[activeCell.row][activeCell.col] !== '') {
           newGrid[activeCell.row][activeCell.col] = '';
-          return newGrid;
         } else {
-          moveToPrevCell();
-          return newGrid; // State update in moveToPrevCell will trigger re-render
+          // Move back and clear that cell
+          const prevCell = { ...activeCell };
+          let { row, col } = prevCell;
+          
+          do {
+            if (direction === 'across') col--;
+            else row--;
+          } while (row >= 0 && col >= 0 && puzzle.grid[row][col] === null);
+
+          if (row >= 0 && col >= 0) {
+            newGrid[row][col] = '';
+            setActiveCell({ row, col });
+          }
         }
+        return newGrid;
       });
     } else if (/^[a-z]$/i.test(key) && key.length === 1) {
       setUserGrid(grid => {
@@ -125,11 +135,16 @@ export function usePuzzleState(puzzle: Puzzle | null) {
       });
       moveToNextCell();
     }
-  }, [activeCell, lockedGrid, puzzle, moveToNextCell, moveToPrevCell]);
+  }, [activeCell, lockedGrid, puzzle, moveToNextCell, direction]);
 
   const checkPuzzle = useCallback(() => {
-    if (!puzzle) return false;
-    let isCorrect = true;
+    if (!puzzle || isChecking) return false;
+    
+    // Set cooldown
+    setIsChecking(true);
+    setTimeout(() => setIsChecking(false), 2000); // 2 second cooldown
+
+    let allCorrect = true;
     const newLockedGrid = lockedGrid.map(r => [...r]);
     const newCheckGrid = createGrid<(boolean | null)>(puzzle.size.rows, puzzle.size.cols, null);
 
@@ -137,19 +152,26 @@ export function usePuzzleState(puzzle: Puzzle | null) {
       for (let c = 0; c < puzzle.size.cols; c++) {
         if (puzzle.grid[r][c] === null) continue; // Skip black squares
 
-        if (userGrid[r][c] === puzzle.grid[r][c]) {
-          newLockedGrid[r][c] = true;
-          newCheckGrid[r][c] = true;
-        } else {
-          newCheckGrid[r][c] = false; // Mark incorrect answers
-          isCorrect = false;
+        const userAnswer = userGrid[r][c];
+        const correctAnswer = puzzle.grid[r][c];
+
+        if (userAnswer) {
+          if (userAnswer === correctAnswer) {
+            newLockedGrid[r][c] = true; // Lock correct answers
+            newCheckGrid[r][c] = true;
+          } else {
+            newCheckGrid[r][c] = false; // Mark incorrect (will show as transparent)
+            allCorrect = false;
+          }
         }
       }
     }
+
     setLockedGrid(newLockedGrid);
     setCheckGrid(newCheckGrid);
-    return isCorrect;
-  }, [puzzle, userGrid, lockedGrid]);
+    
+    return allCorrect;
+  }, [puzzle, userGrid, lockedGrid, isChecking]);
 
   return {
     userGrid,
@@ -159,6 +181,7 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     direction,
     setDirection,
     activeClue,
+    isChecking,
     handleCellPress,
     handleClueSelect,
     handleKeyPress,

@@ -30,10 +30,24 @@ export function usePuzzleData(id: string | undefined) {
         
         // The dynamic import() returns a module with a 'default' export
         const puzzleModule = await puzzleLoader();
+        
+        // Validate that the puzzle has the expected structure
+        if (!puzzleModule.default || !puzzleModule.default.grid || !puzzleModule.default.clues) {
+          throw new Error('Invalid puzzle data structure.');
+        }
+        
         setPuzzle(puzzleModule.default);
 
-      } catch (e: any) {
-        setError(e.message || 'Failed to load puzzle data.');
+      } catch (error) {
+        // More specific error handling
+        if (error instanceof Error) {
+          setError(error.message);
+        } else if (typeof error === 'string') {
+          setError(error);
+        } else {
+          setError('An unexpected error occurred while loading the puzzle.');
+        }
+        console.error('Error loading puzzle:', error);
       } finally {
         setIsLoading(false);
       }

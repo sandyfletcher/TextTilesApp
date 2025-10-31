@@ -9,13 +9,22 @@ interface IconButtonProps {
   onPress: () => void;
   size?: number;
   color?: string;
+  accessibilityLabel?: string;
 }
 
-export default function IconButton({ iconName, onPress, size = 24, color = '#333' }: IconButtonProps) {
+export default function IconButton({ 
+  iconName, 
+  onPress, 
+  size = 24, 
+  color = '#333',
+  accessibilityLabel 
+}: IconButtonProps) {
   return (
     <Pressable
       onPress={onPress}
       style={({ pressed }) => [styles.button, pressed && styles.pressed]}
+      accessibilityRole="button"
+      accessibilityLabel={accessibilityLabel || iconName}
     >
       <Feather name={iconName} size={size} color={color} />
     </Pressable>

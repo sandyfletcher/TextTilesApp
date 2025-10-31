@@ -23,11 +23,26 @@ export default function GameHeader({ title, onCheckPuzzle }: GameHeaderProps) {
 
   return (
     <View style={containerStyle}>
-      <IconButton iconName="arrow-left" onPress={() => router.back()} color={Colors.text} />
+      <IconButton 
+        iconName="arrow-left" 
+        onPress={() => router.back()} 
+        color={Colors.text}
+        accessibilityLabel="Go back"
+      />
       <Text style={styles.title} numberOfLines={1}>{title}</Text>
       <View style={styles.rightIcons}>
-        <IconButton iconName="check-square" onPress={onCheckPuzzle} color={Colors.text} />
-        <IconButton iconName="settings" onPress={() => router.push('/settings')} color={Colors.text} />
+        <IconButton 
+          iconName="check-square" 
+          onPress={onCheckPuzzle} 
+          color={Colors.text}
+          accessibilityLabel="Check puzzle answers"
+        />
+        <IconButton 
+          iconName="settings" 
+          onPress={() => router.push('/settings')} 
+          color={Colors.text}
+          accessibilityLabel="Open settings"
+        />
       </View>
     </View>
   );
