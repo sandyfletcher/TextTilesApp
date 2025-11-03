@@ -3,7 +3,7 @@
 import { useLocalSearchParams } from 'expo-router';
 import React, { useEffect, useCallback } from 'react';
 import { ActivityIndicator, Alert, Platform, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
-import { usePuzzleState, resetPuzzle } from '../../hooks/usePuzzleState';
+import { usePuzzleState } from '../../hooks/usePuzzleState';
 import { usePuzzleData } from '../../hooks/usePuzzleData';
 import PuzzleWebLayout from '../../components/Puzzle/layouts/PuzzleWebLayout';
 import PuzzleLandscapeLayout from '../../components/Puzzle/layouts/PuzzleLandscapeLayout';

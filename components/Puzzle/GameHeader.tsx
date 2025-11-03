@@ -36,8 +36,12 @@ export default function GameHeader({ title, puzzleId, onCheckPuzzle, onReset }: 
               } else {
                 router.back();
               }
-            } catch (error) {
-              Alert.alert("Error", "Failed to reset puzzle progress");
+            } catch (error: any) { // type 'error' as 'any' or 'unknown' for safety
+              console.error("Failed to reset puzzle progress:", error); // log full error
+              Alert.alert(
+                "Error", 
+                `Failed to reset puzzle progress. ${error.message || ''}`
+              );
             }
           },
         },

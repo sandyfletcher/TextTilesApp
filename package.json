@@ -9,12 +9,12 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "clean": "node scripts/clean-dist.js",
+    "clean": "node scripts/clean-dist.mjs",
     "manifest": "node ./scripts/generate-manifest.mjs",
     "map": "node scripts/generate-puzzle-map.mjs",
     "prebuild": "npm run manifest && npm run map",
-    "predeploy": "npm run prebuild && npx expo export && node scripts/create-cname.js && node scripts/fix-assets.js",
-    "deploy": "node scripts/deploy-chunked.js",
+    "predeploy": "npm run prebuild && npx expo export && node scripts/create-cname.mjs && node scripts/fix-assets.mjs",
+    "deploy": "node scripts/deploy-chunked.mjs",
     "publish": "npm run clean && npm run deploy"
   },
   "dependencies": {
