@@ -2,7 +2,7 @@
   "name": "texttilesapp",
   "main": "expo-router/entry",
   "homepage": "https://texttiles.sandyfletcher.ca",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -14,8 +14,8 @@
     "map": "node scripts/generate-puzzle-map.mjs",
     "prebuild": "npm run manifest && npm run map",
     "predeploy": "npm run prebuild && npx expo export && node scripts/create-cname.js && node scripts/fix-assets.js",
-    "deploy": "gh-pages -d dist -t --no-history",
-    "publish": "npm run clean && npm run predeploy && npm run deploy"
+    "deploy": "node scripts/deploy-chunked.js",
+    "publish": "npm run clean && npm run deploy"
     },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",

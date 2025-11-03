@@ -15,14 +15,9 @@ export default function PuzzleScreen() {
   const { width, height } = useWindowDimensions();
   const { puzzle, isLoading, error } = usePuzzleData(id);
   const gameState = usePuzzleState(puzzle);
-  
-  // Destructure functions needed by effects to stabilize dependencies
-  const { handleKeyPress, checkPuzzle, isChecking } = gameState;
-
-  // useCallback memoizes the function so it doesn't get recreated on every render
-  const handleCheckPuzzle = useCallback(() => {
-    if (isChecking) return; // Prevent multiple checks during cooldown
-    
+  const { handleKeyPress, checkPuzzle, isChecking } = gameState;   // destructure functions needed by effects to stabilize dependencies
+  const handleCheckPuzzle = useCallback(() => { // useCallback memoizes the function so it doesn't get recreated on every render
+    if (isChecking) return; // prevent multiple checks during cooldown
     const isCorrect = checkPuzzle();
     
     // Use requestAnimationFrame to wait for UI to update, then show alert
@@ -75,6 +70,13 @@ export default function PuzzleScreen() {
 }
 
 const styles = StyleSheet.create({
-  centered: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: Colors.background },
-  errorText: { color: Colors.error },
+  centered: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: Colors.background
+  },
+  errorText: {
+    color: Colors.error
+  },
 });

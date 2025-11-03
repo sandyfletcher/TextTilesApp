@@ -10,13 +10,13 @@ export default function MenuScreen() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Welcome to TextTiles!</Text>
-      
-      {/* For now, just a simple link to get to the collections */}
+      {/* TODO: more than just a simple link to get to collections */}
       <Link href="/collections" asChild>
         <Pressable style={styles.button}>
           <Text style={styles.buttonText}>Browse Puzzle Collections</Text>
         </Pressable>
       </Link>
+      <Text><br />Version 0.0.7</Text>
     </View>
   );
 }

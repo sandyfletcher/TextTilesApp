@@ -21,7 +21,7 @@ export default function RootLayout() {
             },
           }}
         >
-          <Stack.Screen name="index" options={{ title: 'TextTiles' }} />
+          <Stack.Screen name="index" options={{ headerShown: false }} />
           <Stack.Screen name="collections/index" options={{ title: 'Puzzle Collections' }} />
           <Stack.Screen name="puzzle/[id]" options={{ headerShown: false }} />
           <Stack.Screen name="settings" options={{ title: 'Settings' }} />

@@ -2,8 +2,8 @@
   "expo": {
     "name": "TextTilesApp",
     "slug": "TextTilesApp",
-    "version": "0.0.6",
-    "orientation": "portrait",
+    "version": "0.0.7",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "texttilesapp",
     "userInterfaceStyle": "automatic",
