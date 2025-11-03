@@ -16,18 +16,16 @@ interface PuzzleLayoutProps {
   puzzle: Puzzle;
   gameState: PuzzleState;
   onCheckPuzzle: () => void;
+  onReset?: () => void;
 }
 
-export default function PuzzlePortraitLayout({ puzzle, gameState, onCheckPuzzle }: PuzzleLayoutProps) {
+export default function PuzzlePortraitLayout({ puzzle, gameState, onCheckPuzzle, onReset }: PuzzleLayoutProps) {
   const { userGrid, lockedGrid, checkGrid, activeCell, activeClue, handleCellPress, handleClueSelect, handleKeyPress } = gameState;
   
   return (
     <SafeAreaView style={styles.container} edges={['bottom', 'left', 'right']}>
-      <Stack.Screen options={{ headerShown: true, header: () => <GameHeader title={puzzle.metadata.title} onCheckPuzzle={onCheckPuzzle} /> }} />
+      <Stack.Screen options={{ headerShown: true, header: () => <GameHeader title={puzzle.metadata.title} puzzleId={puzzle.id} onCheckPuzzle={onCheckPuzzle} onReset={onReset} /> }} />
       <View style={styles.topSection}>
-        <View style={styles.cluesContainer}>
-          <ClueLists puzzle={puzzle} activeClue={activeClue} onClueSelect={handleClueSelect} />
-        </View>
         <View style={styles.gridContainer}>
           <PuzzleGrid
             puzzle={puzzle}
@@ -39,6 +37,9 @@ export default function PuzzlePortraitLayout({ puzzle, gameState, onCheckPuzzle 
             onCellPress={handleCellPress}
           />
         </View>
+        <View style={styles.cluesContainer}>
+          <ClueLists puzzle={puzzle} activeClue={activeClue} onClueSelect={handleClueSelect} />
+        </View>
       </View>
       <OnScreenKeyboard onKeyPress={handleKeyPress} />
     </SafeAreaView>
@@ -48,12 +49,10 @@ export default function PuzzlePortraitLayout({ puzzle, gameState, onCheckPuzzle 
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: Colors.background },
   topSection: { flex: 1 },
-  gridContainer: { 
-    flex: 2,
-    borderTopWidth: 1, 
-    borderColor: Colors.border,
-  }, 
+  gridContainer: { flex: 1.2 }, // Give grid slightly more space
   cluesContainer: { 
     flex: 1,
+    borderTopWidth: 1, 
+    borderColor: Colors.border,
   },
 });

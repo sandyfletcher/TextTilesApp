@@ -23,7 +23,7 @@ export default function MenuScreen() {
         </Pressable>
       </Link>
       
-      <Text style={styles.versionText}>Version 0.0.7</Text>
+      <Text style={styles.versionText}>Version 0.0.9</Text>
     </SafeAreaView>
   );
 }

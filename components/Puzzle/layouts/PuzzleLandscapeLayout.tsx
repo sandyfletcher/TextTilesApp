@@ -16,14 +16,15 @@ interface PuzzleLayoutProps {
   puzzle: Puzzle;
   gameState: PuzzleState;
   onCheckPuzzle: () => void;
+  onReset?: () => void;
 }
 
-export default function PuzzleLandscapeLayout({ puzzle, gameState, onCheckPuzzle }: PuzzleLayoutProps) {
+export default function PuzzleLandscapeLayout({ puzzle, gameState, onCheckPuzzle, onReset }: PuzzleLayoutProps) {
   const { userGrid, lockedGrid, checkGrid, activeCell, activeClue, handleCellPress, handleClueSelect, handleKeyPress } = gameState;
 
   return (
     <SafeAreaView style={styles.container} edges={['bottom', 'left', 'right']}>
-      <Stack.Screen options={{ headerShown: true, header: () => <GameHeader title={puzzle.metadata.title} onCheckPuzzle={onCheckPuzzle} /> }} />
+      <Stack.Screen options={{ headerShown: true, header: () => <GameHeader title={puzzle.metadata.title} puzzleId={puzzle.id} onCheckPuzzle={onCheckPuzzle} onReset={onReset} /> }} />
       <View style={styles.content}>
         <View style={styles.gridContainer}>
           <PuzzleGrid

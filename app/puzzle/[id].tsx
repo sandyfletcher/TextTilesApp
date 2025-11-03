@@ -3,7 +3,7 @@
 import { useLocalSearchParams } from 'expo-router';
 import React, { useEffect, useCallback } from 'react';
 import { ActivityIndicator, Alert, Platform, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
-import { usePuzzleState } from '../../hooks/usePuzzleState';
+import { usePuzzleState, resetPuzzle } from '../../hooks/usePuzzleState';
 import { usePuzzleData } from '../../hooks/usePuzzleData';
 import PuzzleWebLayout from '../../components/Puzzle/layouts/PuzzleWebLayout';
 import PuzzleLandscapeLayout from '../../components/Puzzle/layouts/PuzzleLandscapeLayout';
@@ -15,9 +15,14 @@ export default function PuzzleScreen() {
   const { width, height } = useWindowDimensions();
   const { puzzle, isLoading, error } = usePuzzleData(id);
   const gameState = usePuzzleState(puzzle);
-  const { handleKeyPress, checkPuzzle, isChecking } = gameState;   // destructure functions needed by effects to stabilize dependencies
-  const handleCheckPuzzle = useCallback(() => { // useCallback memoizes the function so it doesn't get recreated on every render
-    if (isChecking) return; // prevent multiple checks during cooldown
+  
+  // Destructure functions needed by effects to stabilize dependencies
+  const { handleKeyPress, checkPuzzle, isChecking } = gameState; 
+
+  // useCallback memoizes the function so it doesn't get recreated on every render
+  const handleCheckPuzzle = useCallback(() => {
+    if (isChecking) return; // Prevent multiple checks during cooldown
+    
     const isCorrect = checkPuzzle();
     
     // Use requestAnimationFrame to wait for UI to update, then show alert
@@ -59,24 +64,17 @@ export default function PuzzleScreen() {
   const isPortrait = height > width;
 
   if (isWeb && width > 950) {
-    return <PuzzleWebLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} />;
+    return <PuzzleWebLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} onReset={gameState.resetPuzzle} />;
   } 
   
   if (!isPortrait) {
-    return <PuzzleLandscapeLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} />;
+    return <PuzzleLandscapeLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} onReset={gameState.resetPuzzle} />;
   }
   
-  return <PuzzlePortraitLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} />;
+  return <PuzzlePortraitLayout puzzle={puzzle} gameState={gameState} onCheckPuzzle={handleCheckPuzzle} onReset={gameState.resetPuzzle} />;
 }
 
 const styles = StyleSheet.create({
-  centered: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: Colors.background
-  },
-  errorText: {
-    color: Colors.error
-  },
+  centered: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: Colors.background },
+  errorText: { color: Colors.error },
 });

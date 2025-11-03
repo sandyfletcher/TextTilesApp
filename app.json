@@ -2,7 +2,7 @@
   "expo": {
     "name": "TextTilesApp",
     "slug": "TextTilesApp",
-    "version": "0.0.7",
+    "version": "0.0.9",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "texttilesapp",

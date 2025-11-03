@@ -2,7 +2,7 @@
   "name": "texttilesapp",
   "main": "expo-router/entry",
   "homepage": "https://texttiles.sandyfletcher.ca",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -16,9 +16,10 @@
     "predeploy": "npm run prebuild && npx expo export && node scripts/create-cname.js && node scripts/fix-assets.js",
     "deploy": "node scripts/deploy-chunked.js",
     "publish": "npm run clean && npm run deploy"
-    },
+  },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
+    "@react-native-async-storage/async-storage": "^2.2.0",
     "@react-navigation/bottom-tabs": "^7.4.0",
     "@react-navigation/elements": "^2.6.3",
     "@react-navigation/native": "^7.1.8",

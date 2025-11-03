@@ -1,8 +1,14 @@
 // hooks/usePuzzleState.tsx
 
 import { useState, useEffect, useMemo, useCallback } from 'react';
-import { Puzzle, Clue } from '../types';
+import { Puzzle, Clue, PuzzleProgress } from '../types';
 import { getClueForCell, ActiveClue } from '../utils/puzzleUtils';
+import { 
+  savePuzzleProgress, 
+  loadPuzzleProgress, 
+  calculateCompletion, 
+  isPuzzleComplete 
+} from '../services/PuzzleStorageService';
 
 // A helper to create an empty 2D array of a given size
 const createGrid = <T,>(rows: number, cols: number, fill: T): T[][] => {
@@ -16,16 +22,32 @@ export function usePuzzleState(puzzle: Puzzle | null) {
   const [checkGrid, setCheckGrid] = useState<(boolean | null)[][]>([]);
   const [activeCell, setActiveCell] = useState({ row: 0, col: 0 });
   const [direction, setDirection] = useState<'across' | 'down'>('across');
-  const [isChecking, setIsChecking] = useState(false); // Cooldown state
+  const [isChecking, setIsChecking] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(false); // Track if progress has been loaded
+  const [resetTrigger, setResetTrigger] = useState(0); // Used to force re-initialization
 
   // --- Initialization Effect ---
-  // Resets the state whenever a new puzzle is loaded
+  // Loads saved progress or initializes a new puzzle
   useEffect(() => {
-    if (puzzle) {
+    if (!puzzle) return;
+
+    const initializePuzzle = async () => {
       const { rows, cols } = puzzle.size;
-      setUserGrid(createGrid(rows, cols, ''));
-      setLockedGrid(createGrid(rows, cols, false));
-      setCheckGrid(createGrid(rows, cols, null));
+      
+      // Try to load saved progress
+      const savedProgress = await loadPuzzleProgress(puzzle.id);
+      
+      if (savedProgress) {
+        // Restore saved state
+        setUserGrid(savedProgress.userGrid);
+        setLockedGrid(savedProgress.lockedGrid);
+        setCheckGrid(savedProgress.checkGrid);
+      } else {
+        // Initialize new puzzle
+        setUserGrid(createGrid(rows, cols, ''));
+        setLockedGrid(createGrid(rows, cols, false));
+        setCheckGrid(createGrid(rows, cols, null));
+      }
 
       // Find the first playable cell
       let firstCell = { row: 0, col: 0 };
@@ -34,15 +56,46 @@ export function usePuzzleState(puzzle: Puzzle | null) {
           if (puzzle.grid[r][c] !== null) {
             firstCell = { row: r, col: c };
             setActiveCell(firstCell);
-            return;
+            break;
           }
         }
+        if (firstCell.row !== 0 || firstCell.col !== 0) break;
       }
-    }
-  }, [puzzle]);
+
+      setIsLoaded(true);
+    };
+
+    setIsLoaded(false);
+    initializePuzzle();
+  }, [puzzle, resetTrigger]);
+
+  // --- Auto-save Effect ---
+  // Saves progress whenever userGrid, lockedGrid, or checkGrid changes
+  useEffect(() => {
+    if (!puzzle || !isLoaded) return;
+
+    const saveProgress = async () => {
+      const percentComplete = calculateCompletion(userGrid, puzzle.grid);
+      const isCompleted = isPuzzleComplete(lockedGrid, puzzle.grid);
+
+      const progress: PuzzleProgress = {
+        userGrid,
+        lockedGrid,
+        checkGrid,
+        lastPlayed: new Date().toISOString(),
+        percentComplete,
+        isCompleted,
+      };
+
+      await savePuzzleProgress(puzzle.id, progress);
+    };
+
+    // Debounce saves to avoid excessive writes
+    const timeoutId = setTimeout(saveProgress, 500);
+    return () => clearTimeout(timeoutId);
+  }, [userGrid, lockedGrid, checkGrid, puzzle, isLoaded]);
 
   // --- Derived State ---
-  // useMemo ensures this only recalculates when its dependencies change
   const activeClue = useMemo<ActiveClue | null>(() => {
     if (!puzzle) return null;
     return getClueForCell(puzzle, direction, activeCell.row, activeCell.col);
@@ -57,11 +110,9 @@ export function usePuzzleState(puzzle: Puzzle | null) {
 
   const handleCellPress = useCallback((row: number, col: number) => {
     if (activeCell.row === row && activeCell.col === col) {
-      // Toggle direction if the same cell is pressed
       setDirection(prev => (prev === 'across' ? 'down' : 'across'));
     } else {
       setActiveCell({ row, col });
-      // Smart direction selection
       if (puzzle) {
         const across = getClueForCell(puzzle, 'across', row, col);
         const down = getClueForCell(puzzle, 'down', row, col);
@@ -87,14 +138,12 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     }
   }, [activeCell, direction, puzzle]);
 
-
-
   const handleKeyPress = useCallback((key: string) => {
     if (!puzzle || lockedGrid[activeCell.row][activeCell.col]) {
       return;
     }
 
-    // Clear check marks when user types (gives them a fresh start)
+    // Clear check marks when user types
     setCheckGrid(grid => {
       const currentCheck = grid[activeCell.row]?.[activeCell.col];
       if (currentCheck !== null) {
@@ -107,11 +156,9 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     if (key === 'Backspace') {
       setUserGrid(grid => {
         const newGrid = grid.map(r => [...r]);
-        // Clear current cell if it has content
         if (newGrid[activeCell.row][activeCell.col] !== '') {
           newGrid[activeCell.row][activeCell.col] = '';
         } else {
-          // Move back and clear that cell
           const prevCell = { ...activeCell };
           let { row, col } = prevCell;
           
@@ -140,9 +187,8 @@ export function usePuzzleState(puzzle: Puzzle | null) {
   const checkPuzzle = useCallback(() => {
     if (!puzzle || isChecking) return false;
     
-    // Set cooldown
     setIsChecking(true);
-    setTimeout(() => setIsChecking(false), 2000); // 2 second cooldown
+    setTimeout(() => setIsChecking(false), 2000);
 
     let allCorrect = true;
     const newLockedGrid = lockedGrid.map(r => [...r]);
@@ -150,17 +196,17 @@ export function usePuzzleState(puzzle: Puzzle | null) {
 
     for (let r = 0; r < puzzle.size.rows; r++) {
       for (let c = 0; c < puzzle.size.cols; c++) {
-        if (puzzle.grid[r][c] === null) continue; // Skip black squares
+        if (puzzle.grid[r][c] === null) continue;
 
         const userAnswer = userGrid[r][c];
         const correctAnswer = puzzle.grid[r][c];
 
         if (userAnswer) {
           if (userAnswer === correctAnswer) {
-            newLockedGrid[r][c] = true; // Lock correct answers
+            newLockedGrid[r][c] = true;
             newCheckGrid[r][c] = true;
           } else {
-            newCheckGrid[r][c] = false; // Mark incorrect (will show as transparent)
+            newCheckGrid[r][c] = false;
             allCorrect = false;
           }
         }
@@ -172,6 +218,10 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     
     return allCorrect;
   }, [puzzle, userGrid, lockedGrid, isChecking]);
+
+  const resetPuzzle = useCallback(() => {
+    setResetTrigger(prev => prev + 1);
+  }, []);
 
   return {
     userGrid,
@@ -186,6 +236,7 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     handleClueSelect,
     handleKeyPress,
     checkPuzzle,
+    resetPuzzle,
   };
 }
 
