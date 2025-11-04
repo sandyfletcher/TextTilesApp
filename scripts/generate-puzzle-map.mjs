@@ -25,13 +25,10 @@ async function generatePuzzleMap() {
     mapContent += `};\n`;
 
     await fs.writeFile(OUTPUT_PATH, mapContent);
-    console.log(`✅ Success! Puzzle map generated with ${manifest.length} entries.`);
-    console.log(`   Saved to: ${OUTPUT_PATH}`);
-
+    console.log(`✅ Puzzle map generated with ${manifest.length} entries, saved to: ${OUTPUT_PATH}`);
   } catch (error) {
     console.error('❌ Error generating puzzle map:', error);
     process.exit(1);
   }
 }
-
 generatePuzzleMap();

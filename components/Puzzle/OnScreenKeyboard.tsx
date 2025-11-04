@@ -29,7 +29,6 @@ export default function OnScreenKeyboard({ onKeyPress }: OnScreenKeyboardProps) 
     keyboard: {
       padding: 3,
       backgroundColor: colors.border,
-      paddingBottom: 20,
     },
     row: {
       flexDirection: 'row',
