@@ -1,21 +1,31 @@
 // constants/Colors.tsx
-// (this will become .ts in production)
 
-// A nice, soft blue for the primary theme color
 const primaryColor = '#89cff0'; // Baby Blue
 
-export const Colors = {
-  // --- Standard UI ---
-  text: '#374151', // Cool Gray 700
-  textSecondary: '#6b7280', // Cool Gray 500
-  background: '#f0f9ff', // Sky Blue 50 (very light)
-  surface: '#ffffff', // White
-  border: '#dbeafe', // Blue 200
+// Palette for Light Mode (your original V3 colors)
+export const lightColors = {
+  text: '#374151',
+  textSecondary: '#6b7280',
+  background: '#f0f9ff',
+  surface: '#ffffff',
+  border: '#dbeafe',
   primary: primaryColor,
-  error: '#fb7185', // Rose 400
+  error: '#fb7185',
+  activeCell: '#bae6fd',
+  activeWord: '#e0f2fe',
+  lockedCell: '#f8fafc',
+};
 
-  // --- Puzzle-specific ---
-  activeCell: '#bae6fd', // Sky Blue 300
-  activeWord: '#e0f2fe', // Sky Blue 100
-  lockedCell: '#f8fafc', // Slate 50
+// Palette for Dark Mode
+export const darkColors = {
+  text: '#e5e7eb',
+  textSecondary: '#9ca3af',
+  background: '#1f2937',
+  surface: '#374151',
+  border: '#4b5563',
+  primary: primaryColor,
+  error: '#fca5a5',
+  activeCell: '#38bdf8',
+  activeWord: '#0c4a6e',
+  lockedCell: '#4b5563',
 };

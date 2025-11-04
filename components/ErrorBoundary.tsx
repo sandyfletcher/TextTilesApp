@@ -1,12 +1,18 @@
 // components/ErrorBoundary.tsx
 
-import React, { Component, ErrorInfo, ReactNode } from 'react';
+import React from 'react';
 import { View, Text, StyleSheet, Pressable } from 'react-native';
-import { Colors } from '../constants/Colors';
+import { lightColors } from '../constants/Colors'; // Import static colors for fallback
+
+// Note: Because this is a Class Component, it cannot use hooks like `useTheme`.
+// We have two options:
+// 1. Convert it to a Functional Component (more complex for Error Boundaries).
+// 2. Use a static theme for the error screen itself, which is a safe fallback.
+// We are choosing option 2 for simplicity and robustness. The rest of the app will still be themed.
 
 interface Props {
-  children: ReactNode;
-  fallback?: ReactNode;
+  children: React.ReactNode;
+  fallback?: React.ReactNode;
 }
 
 interface State {
@@ -14,7 +20,7 @@ interface State {
   error: Error | null;
 }
 
-export class ErrorBoundary extends Component<Props, State> {
+export class ErrorBoundary extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
     this.state = {
@@ -24,19 +30,14 @@ export class ErrorBoundary extends Component<Props, State> {
   }
 
   static getDerivedStateFromError(error: Error): State {
-    // Update state so the next render will show the fallback UI
     return {
       hasError: true,
       error,
     };
   }
 
-  componentDidCatch(error: Error, errorInfo: ErrorInfo) {
-    // Log the error to an error reporting service in production
+  componentDidCatch(error: Error, errorInfo: React.ErrorInfo) {
     console.error('ErrorBoundary caught an error:', error, errorInfo);
-    
-    // In production, you would send this to a service like Sentry:
-    // Sentry.captureException(error, { extra: errorInfo });
   }
 
   handleReset = () => {
@@ -48,7 +49,6 @@ export class ErrorBoundary extends Component<Props, State> {
 
   render() {
     if (this.state.hasError) {
-      // You can render any custom fallback UI
       if (this.props.fallback) {
         return this.props.fallback;
       }
@@ -76,22 +76,22 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     padding: 20,
-    backgroundColor: Colors.background,
+    backgroundColor: lightColors.background, // light theme as safe default
   },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: Colors.text,
+    color: lightColors.text,
     marginBottom: 12,
   },
   message: {
     fontSize: 16,
-    color: Colors.textSecondary,
+    color: lightColors.textSecondary,
     textAlign: 'center',
     marginBottom: 24,
   },
   button: {
-    backgroundColor: Colors.primary,
+    backgroundColor: lightColors.primary,
     paddingHorizontal: 24,
     paddingVertical: 12,
     borderRadius: 8,

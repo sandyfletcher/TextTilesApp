@@ -5,8 +5,8 @@ import { View, Text, StyleSheet, Alert } from 'react-native';
 import { useRouter } from 'expo-router';
 import IconButton from './IconButton';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { Colors } from '../../constants/Colors';
 import { deletePuzzleProgress } from '../../services/PuzzleStorageService';
+import { useTheme } from '../../context/ThemeContext';
 
 interface GameHeaderProps {
   title: string;
@@ -17,6 +17,7 @@ interface GameHeaderProps {
 
 export default function GameHeader({ title, puzzleId, onCheckPuzzle, onReset }: GameHeaderProps) {
   const router = useRouter();
+  const { colors } = useTheme();
   const insets = useSafeAreaInsets();
 
   const handleReset = () => {
@@ -36,12 +37,9 @@ export default function GameHeader({ title, puzzleId, onCheckPuzzle, onReset }: 
               } else {
                 router.back();
               }
-            } catch (error: any) { // type 'error' as 'any' or 'unknown' for safety
-              console.error("Failed to reset puzzle progress:", error); // log full error
-              Alert.alert(
-                "Error", 
-                `Failed to reset puzzle progress. ${error.message || ''}`
-              );
+            } catch (error: any) {
+              console.error("Failed to reset puzzle progress:", error);
+              Alert.alert("Error", `Failed to reset puzzle progress. ${error.message || ''}`);
             }
           },
         },
@@ -49,6 +47,30 @@ export default function GameHeader({ title, puzzleId, onCheckPuzzle, onReset }: 
     );
   };
 
+  const styles = StyleSheet.create({
+    container: {
+      paddingBottom: 10,
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'space-between',
+      paddingHorizontal: 10,
+      backgroundColor: colors.surface,
+      borderBottomWidth: 1,
+      borderBottomColor: colors.border,
+    },
+    title: {
+      fontSize: 18,
+      fontWeight: 'bold',
+      flex: 1,
+      textAlign: 'center',
+      marginHorizontal: 10,
+      color: colors.text,
+    },
+    rightIcons: {
+      flexDirection: 'row',
+    },
+  });
+  
   const containerStyle = [
     styles.container,
     { paddingTop: insets.top > 0 ? insets.top : 10 },
@@ -56,57 +78,13 @@ export default function GameHeader({ title, puzzleId, onCheckPuzzle, onReset }: 
 
   return (
     <View style={containerStyle}>
-      <IconButton 
-        iconName="arrow-left" 
-        onPress={() => router.back()} 
-        color={Colors.text}
-        accessibilityLabel="Go back"
-      />
+      <IconButton iconName="arrow-left" onPress={() => router.back()} accessibilityLabel="Go back" />
       <Text style={styles.title} numberOfLines={1}>{title}</Text>
       <View style={styles.rightIcons}>
-        <IconButton 
-          iconName="rotate-ccw" 
-          onPress={handleReset} 
-          color={Colors.text}
-          accessibilityLabel="Reset puzzle"
-        />
-        <IconButton 
-          iconName="check-square" 
-          onPress={onCheckPuzzle} 
-          color={Colors.text}
-          accessibilityLabel="Check puzzle answers"
-        />
-        <IconButton 
-          iconName="settings" 
-          onPress={() => router.push('/settings')} 
-          color={Colors.text}
-          accessibilityLabel="Open settings"
-        />
+        <IconButton iconName="rotate-ccw" onPress={handleReset} accessibilityLabel="Reset puzzle" />
+        <IconButton iconName="check-square" onPress={onCheckPuzzle} accessibilityLabel="Check puzzle answers" />
+        <IconButton iconName="settings" onPress={() => router.push('/settings')} accessibilityLabel="Open settings" />
       </View>
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    paddingBottom: 10,
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    paddingHorizontal: 10,
-    backgroundColor: Colors.surface,
-    borderBottomWidth: 1,
-    borderBottomColor: Colors.border,
-  },
-  title: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    flex: 1,
-    textAlign: 'center',
-    marginHorizontal: 10,
-    color: Colors.text,
-  },
-  rightIcons: {
-    flexDirection: 'row',
-  },
-});

@@ -3,6 +3,7 @@
 import React from 'react';
 import { Pressable, StyleSheet } from 'react-native';
 import { Feather } from '@expo/vector-icons';
+import { useTheme } from '../../context/ThemeContext';
 
 interface IconButtonProps {
   iconName: keyof typeof Feather.glyphMap;
@@ -16,9 +17,11 @@ export default function IconButton({
   iconName, 
   onPress, 
   size = 24, 
-  color = '#333',
+  color,
   accessibilityLabel 
 }: IconButtonProps) {
+  const { colors } = useTheme();
+
   return (
     <Pressable
       onPress={onPress}
@@ -26,7 +29,7 @@ export default function IconButton({
       accessibilityRole="button"
       accessibilityLabel={accessibilityLabel || iconName}
     >
-      <Feather name={iconName} size={size} color={color} />
+      <Feather name={iconName} size={size} color={color || colors.text} />
     </Pressable>
   );
 }

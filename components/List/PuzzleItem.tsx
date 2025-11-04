@@ -5,8 +5,8 @@ import { View, Text, Pressable, StyleSheet } from 'react-native';
 import { useRouter } from 'expo-router';
 import { FlatListItem, PuzzleManifestEntry } from '../../types';
 import { usePuzzleProgress } from '../../hooks/usePuzzleProgress';
-import { Colors } from '../../constants/Colors';
 import { spacing } from '../../constants/Layout';
+import { useTheme } from '../../context/ThemeContext';
 
 interface PuzzleItemProps {
   item: FlatListItem;
@@ -15,6 +15,7 @@ interface PuzzleItemProps {
 
 export default function PuzzleItem({ item, puzzleData }: PuzzleItemProps) {
   const router = useRouter();
+  const { colors } = useTheme();
   const { progress, isLoading } = usePuzzleProgress(puzzleData.id);
 
   const handlePress = () => {
@@ -35,6 +36,58 @@ export default function PuzzleItem({ item, puzzleData }: PuzzleItemProps) {
     
     return null;
   };
+
+  const styles = StyleSheet.create({
+    container: {
+      backgroundColor: colors.surface,
+      marginVertical: 2,
+      marginHorizontal: spacing.sm,
+      borderRadius: 8,
+      borderWidth: 1,
+      borderColor: colors.border,
+    },
+    pressed: {
+      backgroundColor: colors.activeWord,
+    },
+    content: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'space-between',
+      padding: spacing.md,
+    },
+    mainInfo: {
+      flex: 1,
+      marginRight: spacing.sm,
+    },
+    title: {
+      fontSize: 16,
+      fontWeight: '600',
+      color: colors.text,
+      marginBottom: 4,
+    },
+    subtitle: {
+      fontSize: 13,
+      color: colors.textSecondary,
+    },
+    progressContainer: {
+      minWidth: 80,
+      alignItems: 'flex-end',
+    },
+    progressText: {
+      fontSize: 14,
+      fontWeight: '600',
+      color: colors.primary,
+    },
+    completedBadge: {
+      fontSize: 13,
+      fontWeight: '600',
+      color: '#10b981', // Green
+      backgroundColor: '#d1fae5', // Light green
+      paddingHorizontal: 8,
+      paddingVertical: 4,
+      borderRadius: 4,
+    },
+  });
 
   return (
     <Pressable
@@ -61,55 +114,3 @@ export default function PuzzleItem({ item, puzzleData }: PuzzleItemProps) {
     </Pressable>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    backgroundColor: Colors.surface,
-    marginVertical: 2,
-    marginHorizontal: spacing.sm,
-    borderRadius: 8,
-    borderWidth: 1,
-    borderColor: Colors.border,
-  },
-  pressed: {
-    backgroundColor: Colors.activeWord,
-  },
-  content: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-    padding: spacing.md,
-  },
-  mainInfo: {
-    flex: 1,
-    marginRight: spacing.sm,
-  },
-  title: {
-    fontSize: 16,
-    fontWeight: '600',
-    color: Colors.text,
-    marginBottom: 4,
-  },
-  subtitle: {
-    fontSize: 13,
-    color: Colors.textSecondary,
-  },
-  progressContainer: {
-    minWidth: 80,
-    alignItems: 'flex-end',
-  },
-  progressText: {
-    fontSize: 14,
-    fontWeight: '600',
-    color: Colors.primary,
-  },
-  completedBadge: {
-    fontSize: 13,
-    fontWeight: '600',
-    color: '#10b981', // Green
-    backgroundColor: '#d1fae5', // Light green
-    paddingHorizontal: 8,
-    paddingVertical: 4,
-    borderRadius: 4,
-  },
-});

@@ -4,7 +4,7 @@ import React, { useRef, useEffect } from 'react';
 import { View, Text, StyleSheet, Pressable, ScrollView, LayoutChangeEvent } from 'react-native';
 import { Puzzle, Clue } from '../../types';
 import { ActiveClue } from '../../utils/puzzleUtils';
-import { Colors } from '../../constants/Colors';
+import { useTheme } from '../../context/ThemeContext';
 
 interface ClueListsProps {
   puzzle: Puzzle;
@@ -15,18 +15,17 @@ interface ClueListsProps {
 }
 
 export default function ClueLists({ puzzle, activeClue, onClueSelect, layout = 'row', direction = 'all' }: ClueListsProps) {
+  const { colors } = useTheme();
   const acrossScrollViewRef = useRef<ScrollView>(null);
   const downScrollViewRef = useRef<ScrollView>(null);
   const acrossClueLayouts = useRef(new Map<number, number>());
   const downClueLayouts = useRef(new Map<number, number>());
   
-  // Clear the layout maps when the puzzle changes to prevent memory leaks
   useEffect(() => {
     acrossClueLayouts.current.clear();
     downClueLayouts.current.clear();
   }, [puzzle.id]);
   
-  // Auto-scroll to active clue
   useEffect(() => {
     if (!activeClue) return;
     
@@ -35,12 +34,55 @@ export default function ClueLists({ puzzle, activeClue, onClueSelect, layout = '
     const y = clueLayouts.current.get(activeClue.number);
     
     if (y !== undefined && scrollViewRef.current) {
-      // Small delay to ensure layout is complete
       setTimeout(() => {
         scrollViewRef.current?.scrollTo({ y: Math.max(0, y - 40), animated: true });
       }, 100);
     }
   }, [activeClue]);
+
+  const styles = StyleSheet.create({
+    container: {
+      flex: 1,
+      backgroundColor: colors.surface,
+      padding: 5,
+    },
+    clueListColumn: {
+      flex: 1,
+      paddingHorizontal: 5,
+    },
+    columnHeader: {
+      fontSize: 14,
+      fontWeight: 'bold',
+      textAlign: 'center',
+      paddingVertical: 8,
+      color: colors.text,
+    },
+    separator: {
+      width: 1,
+      backgroundColor: colors.border,
+    },
+    clueItem: {
+      flexDirection: 'row',
+      paddingVertical: 4,
+      paddingHorizontal: 4,
+      borderRadius: 4,
+    },
+    activeClueItem: {
+      backgroundColor: colors.activeWord,
+    },
+    clueNumber: {
+      fontWeight: 'bold',
+      color: colors.textSecondary,
+    },
+    clueText: {
+      fontSize: 13,
+      flexShrink: 1,
+      color: colors.textSecondary,
+    },
+    activeClueText: {
+      color: colors.text,
+    }
+  });
 
   const renderClueItem = (clue: Clue, dir: 'across' | 'down') => {
     const isActive = activeClue?.number === clue.number && activeClue?.direction === dir;
@@ -90,47 +132,3 @@ export default function ClueLists({ puzzle, activeClue, onClueSelect, layout = '
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-    container: {
-      flex: 1,
-      backgroundColor: Colors.surface,
-      padding: 5,
-    },
-    clueListColumn: {
-      flex: 1,
-      paddingHorizontal: 5,
-    },
-    columnHeader: {
-      fontSize: 14,
-      fontWeight: 'bold',
-      textAlign: 'center',
-      paddingVertical: 8,
-      color: Colors.text,
-    },
-    separator: {
-      width: 1,
-      backgroundColor: Colors.border,
-    },
-    clueItem: {
-      flexDirection: 'row',
-      paddingVertical: 4,
-      paddingHorizontal: 4,
-      borderRadius: 4,
-    },
-    activeClueItem: {
-      backgroundColor: Colors.activeWord,
-    },
-    clueNumber: {
-      fontWeight: 'bold',
-      color: Colors.textSecondary,
-    },
-    clueText: {
-      fontSize: 13,
-      flexShrink: 1, // Allow text to wrap within the flex container
-      color: Colors.textSecondary,
-    },
-    activeClueText: {
-      color: Colors.text,
-    }
-});

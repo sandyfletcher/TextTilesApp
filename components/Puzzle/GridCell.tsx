@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-import { Colors } from '../../constants/Colors';
+import { useTheme } from '../../context/ThemeContext';
 
 interface GridCellProps {
   clueNumber?: number;
@@ -25,14 +25,41 @@ export default React.memo(function GridCell({
   isWordActive,
   cellSize
 }: GridCellProps) {
-  
+  const { colors } = useTheme();
+
   const getBackgroundColor = () => {
     if (isBlack) return 'black';
-    if (isActive) return Colors.activeCell;
-    if (isWordActive) return Colors.activeWord;
-    if (isLocked) return Colors.lockedCell;
-    return Colors.surface;
+    if (isActive) return colors.activeCell;
+    if (isWordActive) return colors.activeWord;
+    if (isLocked) return colors.lockedCell;
+    return colors.surface;
   };
+  
+  const styles = StyleSheet.create({
+    cell: {
+      justifyContent: 'center',
+      alignItems: 'center',
+      borderWidth: 0.5,
+      borderColor: '#999',
+    },
+    number: {
+      position: 'absolute',
+      top: 1,
+      left: 2,
+      color: colors.textSecondary,
+      fontWeight: 'bold',
+    },
+    letter: {
+      color: colors.text,
+      fontWeight: '400',
+    },
+    correctLetter: {
+      fontWeight: 'bold',
+    },
+    incorrectLetter: {
+      opacity: 0.35,
+    },
+  });
 
   const cellStyle = [
     styles.cell,
@@ -46,9 +73,7 @@ export default React.memo(function GridCell({
   const letterStyle = [
     styles.letter,
     { fontSize: cellSize * 0.55 },
-    // Correct answers (locked) are bold
     (isLocked || checkResult === true) && styles.correctLetter,
-    // Incorrect answers are transparent
     checkResult === false && styles.incorrectLetter,
   ];
 
@@ -60,37 +85,9 @@ export default React.memo(function GridCell({
   return (
     <View style={cellStyle}>
       {!isBlack && clueNumber && <Text style={numberStyle}>{clueNumber}</Text>}
-      
-      {/* We explicitly check the length to get a true/false boolean value, preventing the "falsy" empty string from being rendered directly. */}
       {!isBlack && userLetter.length > 0 && (
         <Text style={letterStyle}>{userLetter.toUpperCase()}</Text>
       )}
     </View>
   );
-});
-
-const styles = StyleSheet.create({
-  cell: {
-    justifyContent: 'center',
-    alignItems: 'center',
-    borderWidth: 0.5,
-    borderColor: '#999',
-  },
-  number: {
-    position: 'absolute',
-    top: 1,
-    left: 2,
-    color: Colors.textSecondary,
-    fontWeight: 'bold',
-  },
-  letter: {
-    color: Colors.text,
-    fontWeight: '400',
-  },
-  correctLetter: {
-    fontWeight: 'bold',
-  },
-  incorrectLetter: {
-    opacity: 0.35, // Make incorrect letters transparent
-  },
 });
