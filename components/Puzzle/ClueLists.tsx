@@ -20,25 +20,26 @@ export default function ClueLists({ puzzle, activeClue, onClueSelect, layout = '
   const downScrollViewRef = useRef<ScrollView>(null);
   const acrossClueLayouts = useRef(new Map<number, number>());
   const downClueLayouts = useRef(new Map<number, number>());
+  // Destructure these values so the Effect depends on primitive values (numbers/strings) instead of the object reference, preventing unnecessary re-runs.
+  const activeNumber = activeClue?.number;
+  const activeDirection = activeClue?.direction;
   
   useEffect(() => {
     acrossClueLayouts.current.clear();
     downClueLayouts.current.clear();
   }, [puzzle.id]);
   
+  // Scroll Logic
   useEffect(() => {
-    if (!activeClue) return;
-    
-    const scrollViewRef = activeClue.direction === 'across' ? acrossScrollViewRef : downScrollViewRef;
-    const clueLayouts = activeClue.direction === 'across' ? acrossClueLayouts : downClueLayouts;
-    const y = clueLayouts.current.get(activeClue.number);
-    
+    if (activeNumber === undefined || !activeDirection) return;
+    // Use the extracted variables, NOT activeClue
+    const scrollViewRef = activeDirection === 'across' ? acrossScrollViewRef : downScrollViewRef;
+    const clueLayouts = activeDirection === 'across' ? acrossClueLayouts : downClueLayouts;
+    const y = clueLayouts.current.get(activeNumber);
     if (y !== undefined && scrollViewRef.current) {
-      setTimeout(() => {
         scrollViewRef.current?.scrollTo({ y: Math.max(0, y - 40), animated: true });
-      }, 100);
     }
-  }, [activeClue]);
+  }, [activeNumber, activeDirection]); // Dependencies are now clean
 
   const styles = StyleSheet.create({
     container: {
@@ -85,7 +86,8 @@ export default function ClueLists({ puzzle, activeClue, onClueSelect, layout = '
   });
 
   const renderClueItem = (clue: Clue, dir: 'across' | 'down') => {
-    const isActive = activeClue?.number === clue.number && activeClue?.direction === dir;
+    // Use extracted variables for comparison here too for consistency, though activeClue object access is fine in render.
+    const isActive = activeNumber === clue.number && activeDirection === dir;
     const clueLayouts = dir === 'across' ? acrossClueLayouts : downClueLayouts;
 
     return (

@@ -1,7 +1,7 @@
 // components/Puzzle/GridCell.tsx
 
 import React from 'react';
-import { Pressable, Text, StyleSheet } from 'react-native';
+import { Pressable, Text, StyleSheet, Platform } from 'react-native';
 import { useTheme } from '../../context/ThemeContext';
 
 interface GridCellProps {
@@ -13,7 +13,6 @@ interface GridCellProps {
   isWordActive: boolean;
   cellSize: number;
   checkResult?: boolean | null;
-  // New mandatory props for optimization
   row: number;
   col: number;
   onPress: (r: number, c: number) => void;
@@ -34,8 +33,7 @@ export default React.memo(function GridCell({
 }: GridCellProps) {
   const { colors } = useTheme();
 
-  // Internal handler to ensure we don't fire events for black cells
-  const handlePress = () => {
+  const handlePress = () => { // Internal handler to ensure we don't fire events for black cells
     if (!isBlack) {
       onPress(row, col);
     }
@@ -54,7 +52,19 @@ export default React.memo(function GridCell({
       justifyContent: 'center',
       alignItems: 'center',
       borderWidth: 0.5,
-      borderColor: '#999',
+      borderColor: colors.border,
+      // Cast to 'any' to bypass strict React Native type checking
+      // "none" is valid CSS for web, but TS thinks it needs to be "solid"|"dashed" etc.
+      ...Platform.select({
+        web: {
+          outlineStyle: 'none',
+        } as any,
+      }),
+    },
+    activeCellBorder: {
+      zIndex: 10, 
+      borderColor: colors.text,
+      borderWidth: 2,
     },
     number: {
       position: 'absolute',
@@ -82,6 +92,8 @@ export default React.memo(function GridCell({
       height: cellSize,
       backgroundColor: getBackgroundColor(),
     },
+    // Apply the active border style LAST so it overrides defaults
+    isActive && styles.activeCellBorder 
   ];
 
   const letterStyle = [

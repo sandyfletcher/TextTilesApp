@@ -15,7 +15,11 @@ const createGrid = <T,>(rows: number, cols: number, fill: T): T[][] => {
   return Array(rows).fill(null).map(() => Array(cols).fill(fill));
 };
 
-export function usePuzzleState(puzzle: Puzzle | null) {
+interface PuzzleSettings {
+  lockCorrectAnswers?: boolean; 
+}
+
+export function usePuzzleState(puzzle: Puzzle | null, settings: PuzzleSettings = { lockCorrectAnswers: true }) {
   // --- Core State ---
   const [userGrid, setUserGrid] = useState<string[][]>([]);
   const [lockedGrid, setLockedGrid] = useState<boolean[][]>([]);
@@ -101,6 +105,81 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     return getClueForCell(puzzle, direction, activeCell.row, activeCell.col);
   }, [puzzle, direction, activeCell]);
 
+  // --- Helper: Cell Logic ---
+  const isCellSkippable = useCallback((row: number, col: number, currentPuzzle: Puzzle) => {
+    if (row < 0 || row >= currentPuzzle.size.rows || col < 0 || col >= currentPuzzle.size.cols) return false;
+    if (currentPuzzle.grid[row][col] === null) return true;
+    if (lockedGrid[row][col]) return true;
+    return false;
+  }, [lockedGrid]);
+
+  // --- Helper: Navigation ---
+
+  const navigateByArrow = useCallback((dRow: number, dCol: number) => {
+    if (!puzzle) return;
+    const currentPuzzle = puzzle; 
+    const { rows, cols } = currentPuzzle.size;
+    
+    let newRow = activeCell.row + dRow;
+    let newCol = activeCell.col + dCol;
+
+    if (newRow < 0 || newRow >= rows || newCol < 0 || newCol >= cols) return;
+
+    // Skip Black AND Locked cells
+    while (
+      newRow >= 0 && newRow < rows && 
+      newCol >= 0 && newCol < cols && 
+      isCellSkippable(newRow, newCol, currentPuzzle)
+    ) {
+        newRow += dRow;
+        newCol += dCol;
+    }
+
+    if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols) {
+      if (currentPuzzle.grid[newRow][newCol] !== null) {
+        setActiveCell({ row: newRow, col: newCol });
+        // REMOVED: Auto-switching direction logic.
+        // Now the cursor just moves, but the orientation (Across/Down) stays sticky.
+      }
+    }
+  }, [activeCell, puzzle, isCellSkippable]);
+
+  const navigateByTab = useCallback((isReverse: boolean) => {
+    if (!puzzle || !activeClue) return;
+    const currentPuzzle = puzzle;
+
+    const currentList = direction === 'across' ? currentPuzzle.clues.across : currentPuzzle.clues.down;
+    const currentIndex = currentList.findIndex(c => c.number === activeClue.number);
+
+    let nextClue: Clue | undefined;
+    let nextDirection = direction;
+
+    if (isReverse) {
+        if (currentIndex > 0) {
+            nextClue = currentList[currentIndex - 1];
+        } else {
+            nextDirection = direction === 'across' ? 'down' : 'across';
+            const newList = nextDirection === 'across' ? currentPuzzle.clues.across : currentPuzzle.clues.down;
+            nextClue = newList[newList.length - 1];
+        }
+    } else {
+        if (currentIndex < currentList.length - 1) {
+            nextClue = currentList[currentIndex + 1];
+        } else {
+            nextDirection = direction === 'across' ? 'down' : 'across';
+            const newList = nextDirection === 'across' ? currentPuzzle.clues.across : currentPuzzle.clues.down;
+            nextClue = newList[0];
+        }
+    }
+
+    if (nextClue) {
+        setDirection(nextDirection);
+        setActiveCell({ row: nextClue.row, col: nextClue.col });
+    }
+
+  }, [puzzle, activeClue, direction]);
+
+
   // --- Event Handlers ---
 
   const handleClueSelect = useCallback((clue: Clue, dir: 'across' | 'down') => {
@@ -125,56 +204,106 @@ export function usePuzzleState(puzzle: Puzzle | null) {
   
   const moveToNextCell = useCallback(() => {
     if (!puzzle) return;
-    let { row, col } = activeCell;
-    const { rows, cols } = puzzle.size;
-
-    do {
-      if (direction === 'across') col++;
-      else row++;
-    } while (row < rows && col < cols && puzzle.grid[row][col] === null);
+    const currentPuzzle = puzzle;
+    const { rows, cols } = currentPuzzle.size;
     
-    if (row < rows && col < cols) {
-        setActiveCell({ row, col });
-    }
-  }, [activeCell, direction, puzzle]);
+    let { row, col } = activeCell;
+    let attempts = 0;
+    const maxAttempts = rows * cols;
 
-  const handleKeyPress = useCallback((key: string) => {
-    if (!puzzle || lockedGrid[activeCell.row][activeCell.col]) {
-      return;
-    }
+    while (attempts < maxAttempts) {
+        if (direction === 'across') {
+            col++;
+            if (col >= cols) {
+                col = 0;
+                row++;
+                if (row >= rows) row = 0;
+            }
+        } else {
+            row++;
+            if (row >= rows) {
+                row = 0;
+                col++;
+                if (col >= cols) col = 0;
+            }
+        }
 
-    // Clear check marks when user types
+        attempts++;
+
+        if (!isCellSkippable(row, col, currentPuzzle)) {
+            setActiveCell({ row, col });
+            break;
+        }
+    }
+  }, [activeCell, direction, puzzle, isCellSkippable]);
+
+  const handleKeyPress = useCallback((key: string, modifiers?: { shift?: boolean }) => {
+    if (!puzzle) return;
+    const currentPuzzle = puzzle;
+
+    const isCurrentLocked = lockedGrid[activeCell.row][activeCell.col];
+
     setCheckGrid(grid => {
       const currentCheck = grid[activeCell.row]?.[activeCell.col];
       if (currentCheck !== null) {
-        const newGrid = createGrid<(boolean | null)>(puzzle.size.rows, puzzle.size.cols, null);
-        return newGrid;
+        return createGrid<(boolean | null)>(currentPuzzle.size.rows, currentPuzzle.size.cols, null);
       }
       return grid;
     });
 
-    if (key === 'Backspace') {
-      setUserGrid(grid => {
-        const newGrid = grid.map(r => [...r]);
-        if (newGrid[activeCell.row][activeCell.col] !== '') {
-          newGrid[activeCell.row][activeCell.col] = '';
-        } else {
-          const prevCell = { ...activeCell };
-          let { row, col } = prevCell;
-          
-          do {
-            if (direction === 'across') col--;
-            else row--;
-          } while (row >= 0 && col >= 0 && puzzle.grid[row][col] === null);
+    switch (key) {
+        case 'ArrowUp': navigateByArrow(-1, 0); return;
+        case 'ArrowDown': navigateByArrow(1, 0); return;
+        case 'ArrowLeft': navigateByArrow(0, -1); return;
+        case 'ArrowRight': navigateByArrow(0, 1); return;
+        case 'Tab': navigateByTab(!!modifiers?.shift); return;
+    }
 
-          if (row >= 0 && col >= 0) {
-            newGrid[row][col] = '';
-            setActiveCell({ row, col });
-          }
+    if (key === 'Backspace') {
+        if (isCurrentLocked) {
+            let { row, col } = activeCell;
+            do {
+                if (direction === 'across') col--;
+                else row--;
+            } while (row >= 0 && col >= 0 && isCellSkippable(row, col, currentPuzzle));
+
+            if (row >= 0 && col >= 0) {
+                setActiveCell({ row, col });
+                setUserGrid(grid => {
+                    const newGrid = grid.map(r => [...r]);
+                    newGrid[row][col] = '';
+                    return newGrid;
+                });
+            }
+            return;
         }
-        return newGrid;
-      });
-    } else if (/^[a-z]$/i.test(key) && key.length === 1) {
+
+        setUserGrid(grid => {
+            const newGrid = grid.map(r => [...r]);
+            if (newGrid[activeCell.row][activeCell.col] !== '') {
+                newGrid[activeCell.row][activeCell.col] = '';
+            } else {
+                let { row, col } = activeCell;
+                do {
+                    if (direction === 'across') col--;
+                    else row--;
+                } while (row >= 0 && col >= 0 && isCellSkippable(row, col, currentPuzzle));
+
+                if (row >= 0 && col >= 0) {
+                    newGrid[row][col] = '';
+                    setActiveCell({ row, col });
+                }
+            }
+            return newGrid;
+        });
+    } 
+    
+    else if (/^[a-z]$/i.test(key) && key.length === 1) {
+      if (isCurrentLocked) {
+         moveToNextCell();
+         return;
+      }
+
       setUserGrid(grid => {
         const newGrid = grid.map(r => [...r]);
         newGrid[activeCell.row][activeCell.col] = key.toUpperCase();
@@ -182,28 +311,31 @@ export function usePuzzleState(puzzle: Puzzle | null) {
       });
       moveToNextCell();
     }
-  }, [activeCell, lockedGrid, puzzle, moveToNextCell, direction]);
+  }, [activeCell, lockedGrid, puzzle, moveToNextCell, direction, navigateByArrow, navigateByTab, isCellSkippable]);
 
   const checkPuzzle = useCallback(() => {
     if (!puzzle || isChecking) return false;
+    const currentPuzzle = puzzle;
     
     setIsChecking(true);
     setTimeout(() => setIsChecking(false), 2000);
 
     let allCorrect = true;
     const newLockedGrid = lockedGrid.map(r => [...r]);
-    const newCheckGrid = createGrid<(boolean | null)>(puzzle.size.rows, puzzle.size.cols, null);
+    const newCheckGrid = createGrid<(boolean | null)>(currentPuzzle.size.rows, currentPuzzle.size.cols, null);
 
-    for (let r = 0; r < puzzle.size.rows; r++) {
-      for (let c = 0; c < puzzle.size.cols; c++) {
-        if (puzzle.grid[r][c] === null) continue;
+    for (let r = 0; r < currentPuzzle.size.rows; r++) {
+      for (let c = 0; c < currentPuzzle.size.cols; c++) {
+        if (currentPuzzle.grid[r][c] === null) continue;
 
         const userAnswer = userGrid[r][c];
-        const correctAnswer = puzzle.grid[r][c];
+        const correctAnswer = currentPuzzle.grid[r][c];
 
         if (userAnswer) {
           if (userAnswer === correctAnswer) {
-            newLockedGrid[r][c] = true;
+            if (settings.lockCorrectAnswers) {
+                newLockedGrid[r][c] = true;
+            }
             newCheckGrid[r][c] = true;
           } else {
             newCheckGrid[r][c] = false;
@@ -217,7 +349,7 @@ export function usePuzzleState(puzzle: Puzzle | null) {
     setCheckGrid(newCheckGrid);
     
     return allCorrect;
-  }, [puzzle, userGrid, lockedGrid, isChecking]);
+  }, [puzzle, userGrid, lockedGrid, isChecking, settings.lockCorrectAnswers]);
 
   const resetPuzzle = useCallback(() => {
     setResetTrigger(prev => prev + 1);
