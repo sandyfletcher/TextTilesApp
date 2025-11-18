@@ -6,6 +6,7 @@ import { Text, StyleSheet, Pressable, Image } from 'react-native';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { spacing } from '../constants/Layout';
 import { useTheme } from '../context/ThemeContext';
+import WebContainer from '../components/Shared/WebContainer';
 
 export default function MenuScreen() {
   const { colors } = useTheme();
@@ -22,7 +23,6 @@ export default function MenuScreen() {
     logo: {
       width: 200,
       height: 200,
-      resizeMode: 'contain',
       marginBottom: spacing.xl,
     },
     title: {
@@ -50,17 +50,23 @@ export default function MenuScreen() {
   });
 
   return (
-    <SafeAreaView style={styles.container}>
-      <Image source={require('../assets/images/landing.png')} style={styles.logo} />
-      <Text style={styles.title}>Crosswords for Grandma!</Text>
-      <Link href="/collections" asChild>
-        <Pressable style={styles.button}>
-          <Text style={styles.buttonText}>Browse Puzzle Collections</Text>
-        </Pressable>
-      </Link>
-      <Text style={[styles.versionText, { bottom: Math.max(insets.bottom, spacing.md) }]}>
-        Version 0.0.10
-      </Text>
-    </SafeAreaView>
+    <WebContainer>
+      <SafeAreaView style={styles.container}>
+        <Image 
+          source={require('../assets/images/landing.png')} 
+          style={styles.logo} 
+          resizeMode="contain" 
+        />
+        <Text style={styles.title}>Crosswords for Grandma!</Text>
+        <Link href="/collections" asChild>
+          <Pressable style={styles.button}>
+            <Text style={styles.buttonText}>Browse Puzzle Collections</Text>
+          </Pressable>
+        </Link>
+        <Text style={[styles.versionText, { bottom: Math.max(insets.bottom, spacing.md) }]}>
+          Version 0.0.12
+        </Text>
+      </SafeAreaView>
+    </WebContainer>
   );
 }

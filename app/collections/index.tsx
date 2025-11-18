@@ -10,6 +10,7 @@ import FolderItem from '../../components/List/FolderItem';
 import PuzzleItem from '../../components/List/PuzzleItem';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useTheme } from '../../context/ThemeContext';
+import WebContainer from '../../components/Shared/WebContainer';
 
 export default function CollectionsScreen() {
   const { colors } = useTheme();
@@ -66,18 +67,20 @@ export default function CollectionsScreen() {
   });
 
   return (
-    <SafeAreaView style={styles.container} edges={['bottom', 'left', 'right']}>
-      <Stack.Screen options={{ title: 'Puzzle Collections' }} />
-      <FlatList
-        data={visibleItems}
-        renderItem={renderItem}
-        keyExtractor={item => item.id}
-        contentContainerStyle={styles.listContent}
-        removeClippedSubviews={true}
-        maxToRenderPerBatch={20}
-        windowSize={10}
-        initialNumToRender={15}
-      />
-    </SafeAreaView>
+    <WebContainer>
+      <SafeAreaView style={styles.container} edges={['bottom', 'left', 'right']}>
+        <Stack.Screen options={{ title: 'Puzzle Collections' }} />
+        <FlatList
+          data={visibleItems}
+          renderItem={renderItem}
+          keyExtractor={item => item.id}
+          contentContainerStyle={styles.listContent}
+          removeClippedSubviews={true}
+          maxToRenderPerBatch={20}
+          windowSize={10}
+          initialNumToRender={15}
+        />
+      </SafeAreaView>
+    </WebContainer>
   );
 }

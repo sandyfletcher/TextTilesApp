@@ -1,7 +1,7 @@
 // components/Puzzle/GridCell.tsx
 
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { Pressable, Text, StyleSheet } from 'react-native';
 import { useTheme } from '../../context/ThemeContext';
 
 interface GridCellProps {
@@ -13,6 +13,10 @@ interface GridCellProps {
   isWordActive: boolean;
   cellSize: number;
   checkResult?: boolean | null;
+  // New mandatory props for optimization
+  row: number;
+  col: number;
+  onPress: (r: number, c: number) => void;
 }
 
 export default React.memo(function GridCell({
@@ -23,9 +27,19 @@ export default React.memo(function GridCell({
   isBlack,
   isActive,
   isWordActive,
-  cellSize
+  cellSize,
+  row,
+  col,
+  onPress
 }: GridCellProps) {
   const { colors } = useTheme();
+
+  // Internal handler to ensure we don't fire events for black cells
+  const handlePress = () => {
+    if (!isBlack) {
+      onPress(row, col);
+    }
+  };
 
   const getBackgroundColor = () => {
     if (isBlack) return 'black';
@@ -83,11 +97,11 @@ export default React.memo(function GridCell({
   ];
 
   return (
-    <View style={cellStyle}>
+    <Pressable onPress={handlePress} style={cellStyle}>
       {!isBlack && clueNumber && <Text style={numberStyle}>{clueNumber}</Text>}
       {!isBlack && userLetter.length > 0 && (
         <Text style={letterStyle}>{userLetter.toUpperCase()}</Text>
       )}
-    </View>
+    </Pressable>
   );
 });

@@ -1,7 +1,7 @@
 // components/Puzzle/PuzzleGrid.tsx
 
 import React, { useState } from 'react';
-import { View, StyleSheet, Pressable, LayoutChangeEvent } from 'react-native';
+import { View, StyleSheet, LayoutChangeEvent } from 'react-native'; // Remove Pressable import
 import GridCell from './GridCell';
 import { Puzzle } from '../../types';
 import { ActiveClue } from '../../utils/puzzleUtils';
@@ -23,12 +23,9 @@ export default function PuzzleGrid({ puzzle, userGrid, lockedGrid, checkGrid, ac
   const numRows = puzzle.size.rows;
   const numColumns = puzzle.size.cols;
   
-  // Calculate cell size based on BOTH width and height constraints
-  // Use whichever dimension is more restrictive
+  // Calculate cell size
   const cellSizeFromWidth = containerWidth > 0 ? (containerWidth - 2) / numColumns : 0;
   const cellSizeFromHeight = containerHeight > 0 ? (containerHeight - 2) / numRows : 0;
-  
-  // Use the smaller of the two to ensure the grid fits in both dimensions
   const cellSize = Math.min(cellSizeFromWidth, cellSizeFromHeight);
 
   const isCellInActiveClue = (row: number, col: number): boolean => {
@@ -55,25 +52,28 @@ export default function PuzzleGrid({ puzzle, userGrid, lockedGrid, checkGrid, ac
               {row.map((cellValue, colIndex) => {
                 const isBlack = cellValue === null;
 
-                if (isBlack) {
-                  return <GridCell key={`cell-${rowIndex}-${colIndex}`} isBlack={true} cellSize={cellSize} userLetter="" isLocked={false} isActive={false} isWordActive={false} />;
-                }
+                // Calculate logic outside the return
+                const clueNumber = !isBlack
+                  ? puzzle.clues.across.find(c => c.row === rowIndex && c.col === colIndex)?.number || 
+                    puzzle.clues.down.find(c => c.row === rowIndex && c.col === colIndex)?.number
+                  : undefined;
 
-                const clueNumber = puzzle.clues.across.find(c => c.row === rowIndex && c.col === colIndex)?.number || puzzle.clues.down.find(c => c.row === rowIndex && c.col === colIndex)?.number;
-                
-              return (
-                  <Pressable key={`cell-${rowIndex}-${colIndex}`} onPress={() => onCellPress(rowIndex, colIndex)}>
-                    <GridCell
-                      clueNumber={clueNumber}
-                      userLetter={userGrid[rowIndex]?.[colIndex] || ''}
-                      isLocked={lockedGrid[rowIndex]?.[colIndex] || false}
-                      checkResult={checkGrid[rowIndex]?.[colIndex] || null}
-                      isBlack={false}
-                      isActive={activeCell.row === rowIndex && activeCell.col === colIndex}
-                      isWordActive={isCellInActiveClue(rowIndex, colIndex)}
-                      cellSize={cellSize}
-                    />
-                  </Pressable>
+                // ONE Single Return path is cleaner, pass props to everything
+                return (
+                  <GridCell
+                    key={`cell-${rowIndex}-${colIndex}`}
+                    row={rowIndex}
+                    col={colIndex}
+                    onPress={onCellPress} // Pass the function directly
+                    isBlack={isBlack}
+                    cellSize={cellSize}
+                    userLetter={isBlack ? '' : (userGrid[rowIndex]?.[colIndex] || '')}
+                    isLocked={isBlack ? false : (lockedGrid[rowIndex]?.[colIndex] || false)}
+                    checkResult={isBlack ? null : (checkGrid[rowIndex]?.[colIndex] || null)}
+                    isActive={activeCell.row === rowIndex && activeCell.col === colIndex}
+                    isWordActive={isCellInActiveClue(rowIndex, colIndex)}
+                    clueNumber={clueNumber}
+                  />
                 );
               })}
             </View>

@@ -4,7 +4,7 @@
     "slug": "TextTilesApp",
     "version": "0.0.9",
     "orientation": "default",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/landing.png",
     "scheme": "texttilesapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -40,7 +40,8 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,

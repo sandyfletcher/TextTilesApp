@@ -3,6 +3,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, Switch } from 'react-native';
 import { useTheme } from '../context/ThemeContext'; // 1. Import the hook
+import WebContainer from '../components/Shared/WebContainer';
 
 export default function SettingsScreen() {
   const { isDark, colors, toggleTheme } = useTheme(); // 2. Get theme state and function
@@ -29,14 +30,16 @@ export default function SettingsScreen() {
   });
 
   return (
-    <View style={styles.container}>
-      <View style={styles.settingRow}>
-        <Text style={styles.settingText}>Dark Mode</Text>
-        <Switch
-          onValueChange={toggleTheme} // 3. Call the function from context
-          value={isDark} // 4. Set the switch state from context
-        />
+    <WebContainer>
+      <View style={styles.container}>
+        <View style={styles.settingRow}>
+          <Text style={styles.settingText}>Dark Mode</Text>
+          <Switch
+            onValueChange={toggleTheme} // 3. Call the function from context
+            value={isDark} // 4. Set the switch state from context
+          />
+        </View>
       </View>
-    </View>
+    </WebContainer>
   );
 }
